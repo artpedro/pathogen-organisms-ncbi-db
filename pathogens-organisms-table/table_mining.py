@@ -22,11 +22,9 @@ soup = BeautifulSoup(html, 'html.parser')
 # Localizando uma tabela no html extraido
 table = soup.find('table', {'class': 'home_table'})
 
-print(str(table))
-
+# Escrevendo a tabela em html para consulta
 with open("pathogens-organisms-table/table.html", "w") as html:
     html.write(str(table))
-
 
 headers = []
 rows = []
@@ -39,7 +37,6 @@ for th in table.find_all('th'):
     index += 1
     if index == 9:
         break
-    print(headers)
 
 # Extrai as linhas da tabela
 for tr in table.find_all('tr')[1:]:
@@ -54,4 +51,5 @@ for tr in table.find_all('tr')[1:]:
 # Cria um dataframe do pandas a partir dos cabeçalhos e linhas extraídas da tabela
 df = pd.DataFrame(rows, columns=headers)
 
+# Escreve a tabela em organisms_table.csv
 df.to_csv('pathogens-organisms-table/organisms_table.csv',sep=',',index=False)
