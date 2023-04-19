@@ -1,36 +1,33 @@
 from bs4 import BeautifulSoup
 import os
 import sys
+url_ncbi_pat = "https://ftp.ncbi.nlm.nih.gov/pathogen/Results/"
+raw_html = "pathogens-names/index.html"
+filtered_html = "pathogens-names/filtered.html"
+species_names = "pathogens-names/species_names.txt"
 
-# Possíveis inputs: ncbi_pat; add; remove; list
+def check_names():
+    os.system(f'cat {species_names}')
 
-operation = sys.argv[1]
-if operation == 'add' or operation == 'remove':
-    species = sys.argv[2]
-
-# Atualizar pelo NCBI_Pathogen 
-if (operation == "ncbi_pat") or not operation:
-    # Link para a tabela dos organismos patogênicos
-    url_ncbi_pat = "https://ftp.ncbi.nlm.nih.gov/pathogen/Results/"
-
+# Acessa e armazena os nomes dos organismos patogênicos presentes no ncbi em uma variável list
+def get_ncbi_pat():
+    # Lista de nomes iniciada
+    names =[]
     # Extraindo o html da página
     os.system(f"wget {url_ncbi_pat} -P pathogens-names")
 
     # Abrindo o html e gerando um .html somente com as tags <a>
-    with open("pathogens-names/index.html","r") as html:
-        soup = BeautifulSoup(html, 'html.parser')
+    with open(raw_html,"r") as raw:
+        soup = BeautifulSoup(raw, 'html.parser')
         tags = soup.find_all('a')
         # Escrevendo um arquivo somente com as tags filtradas
-        with open("pathogens-names/filtered.html", "w") as t:
+        with open(filtered_html, "w") as filtered:
             for a in tags:
-                t.write(str(a))
-    os.system("rm pathogens-names/index.html")
+                filtered.write(str(a))
+    os.remove(raw_html)
 
-    # Lista de nomes iniciada
-    names =[]
-    
     # Filtrando somente os nomes das espécies do .html e alimentando a lista
-    with open("pathogens-names/filtered.html") as html:
+    with open(filtered_html,"r") as html:
         soup = BeautifulSoup(html,'html.parser')
         
         # Encontrando somente os <a> que representam repositórios
@@ -38,49 +35,82 @@ if (operation == "ncbi_pat") or not operation:
             content = tag.get_text()
             if content[-1] == "/":
                 names.append(content[0:-1])
-        
-        # Atualizar lista
-        if os.path.exists("pathogens-names/species_names.txt"):
-            with open("pathogens-names/species_names.txt","r") as rfile:
-                # Nomes já no arquivo
-                names_infile = [line.rstrip("\n") for line in rfile.readlines()]
-                with open("pathogens-names/species_names.txt","w") as file:
-                    new_names = names_infile
-                    for name in names:
-                        if name not in names_infile:
-                            new_names.append(name)
-                            print(f"Adicionando {name} ao species_names.txt")      
-                    for name in new_names:
-                        file.write(name + "\n")
-        else:
-            with open("pathogens-names/species_names.txt","w") as file:
-                for name in names:
-                        file.write(name+"\n")
-    os.system('rm pathogens-names/filtered.html')
+    os.remove(filtered_html)
+    return names
+# Recebe uma lista e adiciona os nomes dessa lista ao arquivo species_names.txt
+def write_ncbi_pat(species):
+    species_names = "pathogens-names/species_names.txt"
+    with open(species_names,'w') as file:
+        file.write('\n'.join(species))
+
+# Verifica o arquivo species_names.txt e atualiza com possíveis novos nomes presentes no ncbi            
+def refresh_ncbi_pat():
+    species_names = "pathogens-names/species_names.txt"
+    with open(species_names,"r") as rfile:
+        # Nomes já no arquivo
+        names_infile = [line.rstrip("\n") for line in rfile.readlines()]
+        new_names = names_infile
+        print('Verificando novos nomes')
+        for name in get_ncbi_pat():
+            if name not in names_infile:
+                new_names.append(name)
+                print(f"Adicionando {name} ao species_names.txt")      
+        write_ncbi_pat(new_names)
 
 # Adicionar nome manualmente a lista
-if operation == "add" and species:
-    with open("pathogens-names/species_names.txt", "r") as names:
-        all = names.readlines()
+def add_name(name):
+    species_names = "pathogens-names/species_names.txt"
+    with open(species_names, "r") as names:
+        all = [line.rstrip("\n") for line in names.readlines()]
         # Checando se o nome já consta na lista
-        if f"{species}\n" in all:
-            print(f"{species} já está na lista")
+        if name in all:
+            print(f"{name} já está na lista")
         else:    
-            all.append(species+"\n")
-            with open("pathogens-names/species_names.txt","w") as new_file:
-                for name in sorted(all):
-                    new_file.write(name)
-                print(species+" adicionada ao species_name.txt")
+            all.append(name)
+            with open(species_names,"w") as new_file:
+                new_file.write("\n".join(sorted(all)))
+                print(name+" adicionada ao species_name.txt")
 
 # Remover nome manualmente da lista
-if operation == "remove" and species:
-    with open("pathogens-names/species_names.txt", "r") as names:
+def remove_name(name):
+    with open(species_names, "r") as names:
         all = [line.rstrip("\n") for line in names.readlines()]
-        if species in all:
-            all.remove(species)
-            with open("pathogens-names/species_names.txt","w") as new_names:
-                for name in all:
-                    new_names.write(name+"\n")
-                print(species+" removida do species_name.txt")
+        if name in all:
+            all.remove(name)
+            with open(species_names,"w") as new_names:
+                new_names.write("\n".join(all))
+                print(name+" removida do species_name.txt")
         else:
-            print(species+" não está na lista")
+            print(name+" não está na lista")
+
+# Possíveis inputs: ncbi_pat; add; remove; list
+if sys.argv[1]:
+    if sys.argv[1] == "ncbi_pat":
+        ncbi_names = get_ncbi_pat()
+        if os.path.exists("pathogens-names/species_names.txt"):
+            refresh_ncbi_pat()
+        else:
+            write_ncbi_pat(ncbi_names)
+
+        # handle ncbi_pat case
+    elif sys.argv[1] == "add":
+        if sys.argv[2]:
+            name = sys.argv[2]
+            add_name(name)
+        else:
+            print("Uso: python3 script.py <check|ncbi_pat|add|remove> <name>")
+    elif sys.argv[1] == "remove":
+        if sys.argv[2]:
+            name = sys.argv[2]
+            remove_name(name)
+        else:
+            print("Uso: python3 script.py <check|ncbi_pat|add|remove> <name>")
+    elif sys.argv[1] == "check":
+        check_names()
+    else:
+        print("Uso: python3 script.py <check|ncbi_pat|add|remove>")
+        sys.exit(1)
+else:
+    print("Uso: python3 script.py <check|ncbi_pat|add|remove>")
+    sys.exit(1)
+
