@@ -14,8 +14,6 @@ import subprocess
 #        ids.append(id)
 #biosample = [i[1] for i in ids]
 #print(biosample)
-esearch = ["esearch", "-db", "assembly" ,"-query" , f"'\"Salmonella Enterica\"[Organism] AND latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter] AND (latest[filter] AND all[filter] NOT anomalous[filter])'"]
-
-esearch_out = subprocess.check_output(esearch,text=True)
-count =  esearch_out.split('</Count>')[0].split('<Count>')[1]
-print(count)
+a = [1,2,3,4]
+b = [5,6,7]
+print(a+b)
