@@ -16,13 +16,17 @@ class Species():
         # salvando a quantidade de resultados da pesquisa
         self.count =  int(self.esearch_output.split('</Count>')[0].split('<Count>')[1])
         
+        print(f'\n\nEspécie {self.name} iniciada\n\n')
+        
         # extraindo informações se já existir um log
         if os.path.exists(f'pathogens-ids/logs/{self.name}_log_ids.txt'):
             with open(f'pathogens-ids/logs/{self.name}_log_ids.txt', 'r') as log:
                 self.ids = [i.split() for i in log.readlines() if len(i.split()) == 2]
                 self.assembly_ids = [i[0] for i in self.ids]
                 self.biosample_ids = [i[1] for i in self.ids]
-        print(f'\n\nEspécie {self.name} iniciada\n\n')
+        else:
+            print('\n\nEsta espécie não possui registros baixados')    
+       
 
     def extract_ids(self):
         # extraindo os ids e colocando em um arquivo temporário
@@ -144,18 +148,17 @@ class Species():
                 self.log_ids()
 
 
-ed = Species('Edwardsiella_tarda')
+ed = Species('Salmonella')
 
-#ed.extract_ids()
+ed.extract_ids()
 print(ed.ids)
 print(ed.assembly_ids)
 print(ed.biosample_ids)
 ed.write_ids_files()
-ed.update_ids()
+#ed.update_ids()
 #ed.check_new_entries()         
 #ed.log_ids()
 #ed.update_ids()
-
 
 
         
