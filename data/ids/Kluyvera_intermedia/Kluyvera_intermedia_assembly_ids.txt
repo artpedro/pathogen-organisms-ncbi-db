@@ -1,0 +1,6 @@
+Kluyvera_intermedia | número de entradas: 5 | date: 2023-05-03 10:44:27.190290
+GCF_029873235.1
+GCF_029202345.1
+GCF_009650415.1
+GCF_009649915.1
+GCF_900635475.1

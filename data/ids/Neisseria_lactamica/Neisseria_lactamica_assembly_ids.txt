@@ -1,0 +1,5 @@
+Neisseria_lactamica | número de entradas: 4 | date: 2023-05-03 10:45:21.210403
+GCF_901482445.1
+GCF_003351565.1
+GCF_002022745.1
+GCF_000196295.1
