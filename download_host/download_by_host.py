@@ -1,5 +1,10 @@
 import os
-import subprocess
+import sys
+id_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../extract_ids'))
+sys.path.append(id_path)
+import ids_mining
+
+
 def get_biosamples_info():
     with open('extract_names/species_names.txt','r') as names:
         all_names = [i.rstrip('\n') for i in names.readlines()]
@@ -13,8 +18,8 @@ def get_biosamples_info():
                 title = os.system(f'efetch -db biosample -id {biosample} -format docsum | xtract -pattern DocumentSummary -element Attribute@attribute_name > download_host/{biosample}_title_temp.txt')
                 with open(f'download_host/{biosample}_title_temp.txt','r') as titles:
                     with open(f'download_host/{biosample}_info_temp.txt','r') as infos:
-                        all_titles = [i.rstrip('\t').rstrip('\n') for i in titles.readlines()]
-                        all_infos = [i.rstrip('\t').rstrip('\n') for i in infos.readlines()]
+                        all_titles = [i.strip("\n") for i in titles.readline().split(sep="\t")]
+                        all_infos = [i.strip("\n") for i in infos.readline().split(sep="\t")]
                         biosample_info = {}
                         for title,info in zip(all_titles,all_infos):
                             biosample_info[title] = info

@@ -1,4 +1,5 @@
 import os
+import sys
 import subprocess
 from datetime import datetime
 class Species():
@@ -8,7 +9,7 @@ class Species():
 
         # salvando o comando do esearch
         # obs: somente assemblies de genoma completo
-        #self.esearch = ["esearch", "-db", "assembly" ,"-query" , f"'\"{self.name}\"[Organism] AND latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter] AND (latest[filter] AND all[filter] NOT anomalous[filter])'"]
+        self.esearch = ["esearch", "-db", "assembly" ,"-query" , f"'\"{self.name}\"[Organism] AND latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter]'"]
 
         # salvando o output do esearch
         #self.esearch_output = subprocess.check_output(self.esearch, text=True)
@@ -96,7 +97,9 @@ class Species():
 
         # salvando o output do esearch
         esearch_out = subprocess.check_output(self.esearch,text=True)
+        print(esearch_out)
         new_count =  esearch_out.split('</Count>')[0].split('<Count>')[1]
+        print(new_count)
         with open(f'extract_ids/logs/{self.name}_log_ids.txt', 'r') as log:
             # extraindo a quantidade de acessos em log
             label = log.readline()
@@ -148,13 +151,15 @@ class Species():
             else:
                 print(f'Nenhum novo registro encontrado para {self.name}')
 
-
-with open('extract_names/species_names.txt','r') as names:
-    all_names = [i.rstrip('\n') for i in names.readlines()]
-    for name in all_names:
-        species = Species(name)
-        #species.extract_ids()
-        #species.write_ids_files()
+args = sys.argv
+if args[1] == "mount":
+    with open('extract_names/species_names.txt','r') as names:
+        all_names = [i.rstrip('\n') for i in names.readlines()]
+        all_species = {}
+        for name in all_names:
+            all_species[name] = Species(name)
+            if all_species[name].check_new_entries():
+                all_species[name].update_ids()
         
     
 #ed.check_new_entries()         
