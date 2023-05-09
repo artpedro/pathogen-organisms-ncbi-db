@@ -11,19 +11,15 @@ class Species():
     def __init__(self,name):
         # salvando o nome da especie
         self.name = name
-
-        # salvando o comando do esearch
-        # obs: somente assemblies de genoma completo
-        self.esearch = ["esearch", "-db", "assembly" ,"-query" , f"'\"{self.name}\"[Organism] AND latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter]'"]
-
-        # salvando o output do esearch
-        #self.esearch_output = subprocess.check_output(self.esearch, text=True)
+        self.db = 
+        # handle do entrez esearch
+        self.handle = Entrez.esearch(db="assembly", term=f"\"{self.name}\"[Orgn] and \"complete genome\"[filter]",idtype="acc",retmax = '100000')
         
-        # salvando a quantidade de resultados da pesquisa
-        #self.count =  int(self.esearch_output.split('</Count>')[0].split('<Count>')[1])
+        # dicionário contendo informações da query acima
+        self.record = Entrez.read(self.handle)
         
         print(f'\n\nEspécie {self.name} iniciada\n\n')
-        
+        ''' 
         # extraindo informações se já existir um log
         if os.path.exists(f'extract_ids/logs/{self.name}_log_ids.txt'):
             with open(f'extract_ids/logs/{self.name}_log_ids.txt', 'r') as log:
@@ -32,12 +28,13 @@ class Species():
                 self.biosample_ids = [i[1] for i in self.ids]
         else:
             print('\n\nEsta espécie não possui registros baixados')    
-       
+       '''
 
     def extract_ids(self):
-        # extraindo os ids e colocando em um arquivo temporário
-        os.system(f"esearch -db assembly -query '\"{self.name}\"[Organism] AND (latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter])' | efetch -format docsum |xtract -pattern DocumentSummary -element AssemblyAccession -element BioSampleAccn > data/{self.name}_temp_ids.txt")
-        self.ids = []
+        # armazenando os uids em uma variável
+        self.uids = self.record['IdList']
+
+
         #lendo o arquivo temporário e extraindo os IDs
         with open(f"data/{self.name}_temp_ids.txt","r") as temp:
             lines = temp.readlines()
@@ -171,6 +168,3 @@ if args[1] == "mount":
 #ed.check_new_entries()         
 #ed.log_ids()
 #ed.update_ids()
-
-
-        
