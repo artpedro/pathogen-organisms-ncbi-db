@@ -2,6 +2,7 @@ from Bio import Entrez
 import os
 import sys
 import subprocess
+from time import sleep
 from datetime import datetime
 
 # email para contato caso dê problema no entrez
@@ -11,14 +12,17 @@ class Species():
     def __init__(self,name):
         # salvando o nome da especie
         self.name = name
-        self.db = 
+        self.db = "assembly"
         # handle do entrez esearch
-        self.handle = Entrez.esearch(db="assembly", term=f"\"{self.name}\"[Orgn] and \"complete genome\"[filter]",idtype="acc",retmax = '100000')
+        search_handle = Entrez.esearch(db="assembly", term=f"(\"Salmonella\"[Organism] OR Salmonella[All Fields]) AND (latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter])",idtype="acc",retmax = '100000')
         
         # dicionário contendo informações da query acima
         self.record = Entrez.read(self.handle)
         
+        search_handle.close()
         print(f'\n\nEspécie {self.name} iniciada\n\n')
+        
+        
         ''' 
         # extraindo informações se já existir um log
         if os.path.exists(f'extract_ids/logs/{self.name}_log_ids.txt'):
@@ -31,10 +35,32 @@ class Species():
        '''
 
     def extract_ids(self):
+        ''' 
+            o método nao recebe argumentos
+
+            .extract_ids() é responsável por receber a lista de UIDs presente no atributo "record"
+            e adquirir o AssemblyAcession e o BioSampleID, para posterior download e classificação
+            do patogênico. extract_ids() não retorna nada, mas armazena os dados em atributos do objeto.
+        '''
+        
         # armazenando os uids em uma variável
         self.uids = self.record['IdList']
 
-
+        self.asm_idlist=[]
+        self.bsm_idlist=[]
+        print("\nExtraindo os ids dos registros de genoma completo encontrados da espécie\nObs: Esse processo pode demorar alguns minutos para não sobrecarregar o Entrez.")
+        
+        #nao preciso usar um for aqui, terminar depois baseado no test.ipynb
+        for record_id in self.uids:
+            handle = Entrez.esummary(db=self.db, id=record_id)
+            record = Entrez.read(handle)
+            summary = record['DocumentSummarySet']['DocumentSummary'][0]
+            self.asm_idlist.append(summary['AssemblyAccession'])
+            self.bsm_idlist.append(summary['BioSampleId'])
+            sleep(0.37)
+        
+        self.count = len(self.asm_idlist)
+        '''
         #lendo o arquivo temporário e extraindo os IDs
         with open(f"data/{self.name}_temp_ids.txt","r") as temp:
             lines = temp.readlines()
@@ -42,18 +68,15 @@ class Species():
                 line = line.rstrip("\n")
                 id = line.split('\t')
                 self.ids.append(id)
+    '''
 
-        # ids de assembly salvos no objeto
-        self.assembly_ids= [i[0] for i in self.ids]
-        # ids de biosample salvos no objeto
-        self.biosample_ids= [i[1] for i in self.ids]
-        self.count = len(self.ids)
-
+    '''
         # removendo o arquivo temporário
         os.remove(f'data/{self.name}_temp_ids.txt')
         print(f'\n\nIDs de {self.name} salvos na memória\n\n')
         self.log_ids()
-
+    '''
+    
     def log_ids(self):
         #aqui eu vou pegar todos os IDs e atualizar o log com possíveis novos 
 
