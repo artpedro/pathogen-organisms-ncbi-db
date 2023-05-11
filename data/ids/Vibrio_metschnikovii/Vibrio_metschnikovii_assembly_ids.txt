@@ -1,4 +1,0 @@
-Vibrio_metschnikovii | número de entradas: 3 | date: 2023-05-03 10:47:49.393301
-GCF_009763925.1
-GCF_009763765.1
-GCF_009665235.1

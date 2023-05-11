@@ -1,4 +1,0 @@
-Pluralibacter_gergoviae | número de entradas: 3 | date: 2023-05-03 10:45:47.565223
-GCF_902387975.1
-GCF_003019925.1
-GCF_000757785.1

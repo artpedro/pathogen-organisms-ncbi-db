@@ -1,6 +1,0 @@
-Enterobacter_cancerogenus | número de entradas: 5 | date: 2023-05-03 10:42:35.762035
-GCF_019880465.1
-GCF_019047785.1
-GCF_904425455.1
-GCF_009648915.1
-GCF_002850575.1

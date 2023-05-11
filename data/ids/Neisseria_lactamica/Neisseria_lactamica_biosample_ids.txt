@@ -1,5 +1,0 @@
-Neisseria_lactamica | número de entradas: 4 | date: 2023-05-03 10:45:21.210524
-SAMEA3867448
-SAMN09704838
-SAMN05437355
-SAMEA3138337

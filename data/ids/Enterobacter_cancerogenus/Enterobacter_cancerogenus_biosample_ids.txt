@@ -1,6 +1,0 @@
-Enterobacter_cancerogenus | número de entradas: 5 | date: 2023-05-03 10:42:35.762156
-SAMN16176831
-SAMN16357570
-SAMEA7311505
-SAMN10574725
-SAMN08107552
