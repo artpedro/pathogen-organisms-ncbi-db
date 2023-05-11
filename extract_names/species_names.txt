@@ -1,7 +1,6 @@
 Acinetobacter
 Aeromonas
 Aeromonas_salmonicida
-Aeromonas_sobria
 Aeromonas_veronii
 Bacillus_cereus_group
 Burkholderia_cepacia_complex
@@ -21,7 +20,6 @@ Enterobacter_asburiae
 Enterobacter_bugandensis
 Enterobacter_cancerogenus
 Enterobacter_chengduensis
-Enterobacter_chuandaensis
 Enterobacter_cloacae
 Enterobacter_hormaechei
 Enterobacter_kobei
@@ -32,13 +30,11 @@ Enterobacter_sichuanensis
 Enterobacter_soli
 Enterococcus_faecalis
 Enterococcus_faecium
-Escherichia_coli_Shigella
 Flavobacterium_psychrophilum
 Klebsiella
 Klebsiella_oxytoca
 Kluyvera_intermedia
 Kosakonia_oryzendophytica
-Kosakonia_oryziphila
 Legionella_pneumophila
 Listeria
 Listeria_innocua
@@ -48,10 +44,8 @@ Mycobacterium_tuberculosis
 Neisseria_gonorrhoeae
 Neisseria_lactamica
 Neisseria_meningitidis
-Neisseria_polysaccharea
 Pasteurella_multocida
 Photobacterium_damselae
-Phytobacter_massiliensis
 Pluralibacter_gergoviae
 Providencia
 Pseudomonas_aeruginosa
