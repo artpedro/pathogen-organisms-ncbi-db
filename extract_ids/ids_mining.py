@@ -1,4 +1,7 @@
-from Bio import Entrez
+# versão anterior ao uid_mining.py
+# mantido para consulta
+
+'''from Bio import Entrez
 import os
 import sys
 import subprocess
@@ -167,7 +170,7 @@ if args[1] == "mount":
             if all_species[name].check_new_entries():
                 all_species[name].update_ids()
         
-    
+    '''
 #ed.check_new_entries()         
 #ed.log_ids()
 #ed.update_ids()

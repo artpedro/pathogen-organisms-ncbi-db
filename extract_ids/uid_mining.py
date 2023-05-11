@@ -4,6 +4,7 @@ import sys
 import subprocess
 from time import sleep
 from datetime import datetime
+import json
 
 # email para contato caso dê problema no entrez
 Entrez.email = "arturpedromartins@gmail.com"
@@ -13,15 +14,12 @@ class Species():
         # salvando o nome da especie
         self.name = name
         self.db = "assembly"
-        # handle do entrez esearch
-        search_handle = Entrez.esearch(db="assembly", term=f"(\"Salmonella\"[Organism] OR Salmonella[All Fields]) AND (latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter])",idtype="acc",retmax = '100000')
-        
-        # dicionário contendo informações da query acima
-        self.record = Entrez.read(self.handle)
-        
-        search_handle.close()
+
         print(f'\n\nEspécie {self.name} iniciada\n\n')
         
+        self.path = f'data/ids/{self.name}'
+        if not os.path.exists(self.path):
+            os.mkdir(self.path)        
         
         ''' 
         # extraindo informações se já existir um log
@@ -42,152 +40,91 @@ class Species():
             e adquirir o AssemblyAcession e o BioSampleID, para posterior download e classificação
             do patogênico. extract_ids() não retorna nada, mas armazena os dados em atributos do objeto.
         '''
-        
+        # handle do entrez esearch
+        handle = Entrez.esearch(db=self.db, term=f"(\"{self.name}\"[Organism] OR {self.name}[All Fields]) AND (latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter])",idtype="acc",retmax = '100000')
+        sleep(0.37)
+        # dicionário contendo informações da query acima
+    
+        self.record = Entrez.read(handle)
+        handle.close()
         # armazenando os uids em uma variável
-        self.uids = self.record['IdList']
+        self.new_uids = self.record['IdList']
 
+        # iniciando lista com os acessos no Assembly e o identificador único no BioSample
         self.asm_idlist=[]
-        self.bsm_idlist=[]
-        print("\nExtraindo os ids dos registros de genoma completo encontrados da espécie\nObs: Esse processo pode demorar alguns minutos para não sobrecarregar o Entrez.")
+        self.bsm_uidlist=[]
+        print("\nExtraindo os ids dos registros de genoma completo encontrados da espécie\n")
         
-        #nao preciso usar um for aqui, terminar depois baseado no test.ipynb
-        for record_id in self.uids:
-            handle = Entrez.esummary(db=self.db, id=record_id)
-            record = Entrez.read(handle)
-            summary = record['DocumentSummarySet']['DocumentSummary'][0]
-            self.asm_idlist.append(summary['AssemblyAccession'])
-            self.bsm_idlist.append(summary['BioSampleId'])
-            sleep(0.37)
-        
-        self.count = len(self.asm_idlist)
-        '''
-        #lendo o arquivo temporário e extraindo os IDs
-        with open(f"data/{self.name}_temp_ids.txt","r") as temp:
-            lines = temp.readlines()
-            for line in lines:
-                line = line.rstrip("\n")
-                id = line.split('\t')
-                self.ids.append(id)
-    '''
-
-    '''
-        # removendo o arquivo temporário
-        os.remove(f'data/{self.name}_temp_ids.txt')
-        print(f'\n\nIDs de {self.name} salvos na memória\n\n')
-        self.log_ids()
-    '''
-    
-    def log_ids(self):
-        #aqui eu vou pegar todos os IDs e atualizar o log com possíveis novos 
-
-        # arquivo em logs com o id assembly e o id biosample
-        with open(f'extract_ids/logs/{self.name}_log_ids.txt','w') as log:
-            log.write(f'{self.name} | número de entradas: {self.count} | date: {datetime.now()}\n')
-            for i in self.ids:
-                log.write(f'{i[0]} {i[1]}\n')
-        print(f'\n\nLOG de {self.name} gerado\n\n')
-    
+        handle = Entrez.esummary(db=self.db, id=self.new_uids)
+        record = Entrez.read(handle)
+        summary = record['DocumentSummarySet']['DocumentSummary']
+        for uid in summary:
+            self.asm_idlist.append(uid['AssemblyAccession'])
+            self.bsm_uidlist.append(uid['BioSampleId'])
+        return True
     def write_ids_files(self):
         # escreve os ids salvos na memória em arquivos dentro de data/ids
+        with open(self.path+f'/{self.name}_uids.json','w') as file:
+            data = {'label':
+                     {'name':f'{self.name}',
+                      'count':f'{len(self.new_uids)}'
+                      ,'date':f'{datetime.now()}'
+                      },
+                      'uids':[i for i in self.new_uids]
+                      }
+            content = json.dumps(data,indent=1)
+            file.write(content)
+        with open(self.path+f'/{self.name}_ids.json','w') as file:
+            # a estrutura do arquivo será em json com uma chave sendo a "etiqueta" do registro
+            # e a outra sendo as entradas, no formato: "AssemblyID":"BioSampleUID"
 
-        # caminho único de cada espécie
-        self.path = f'data/ids/{self.name}'
-        if not os.path.exists(self.path):
-            os.mkdir(self.path)
-        
-        # salvando os dois ids em um arquivo
-        with open(self.path+f'/{self.name}_ids.txt','w') as ids:
-            ids.write(f'{self.name} | número de entradas: {self.count} | date: {datetime.now()}\n')
-            for i in self.ids:    
-                ids.write(f'{i[0]} {i[1]}\n')
+            data = {'label':
+                     {'name':f'{self.name}',
+                      'count':f'{len(self.new_uids)}'
+                      ,'date':f'{datetime.now()}'
+                      },
+                      'entries':{}
+                      }
+            for i,j in zip(self.asm_idlist,self.bsm_uidlist):
+                data['entries'][i]=j        
+            content = json.dumps(data,indent=1)
+            file.write(content)       
 
-        # salvando os ids de assembly
-        with open(self.path+f'/{self.name}_assembly_ids.txt', 'w') as assembly:
-            assembly.write(f'{self.name} | número de entradas: {self.count} | date: {datetime.now()}\n')
-            for i in self.assembly_ids:
-                assembly.write(f'{i}\n')
-
-        # salvando os ids de biosample        
-        with open(self.path+f'/{self.name}_biosample_ids.txt','w') as biosample:
-            biosample.write(f'{self.name} | número de entradas: {self.count} | date: {datetime.now()}\n')
-            for i in self.biosample_ids:
-                biosample.write(f'{i}\n')
         print(f'\n\nIDs de {self.name} salvos em {self.path}\n\n')
-        self.log_ids()      
-    
+
     def check_new_entries(self):
         # verifica se a quantidade de entradas da espécie está desatualizada com o ncbi
         # true = novas entradas que precisam ser extraídas
         # false = sem novas entradas
-
+        # OBS: os ids precisam estar salvos na memória pelo extract_ids()
         # salvando o output do esearch
-        esearch_out = subprocess.check_output(self.esearch,text=True)
-        print(esearch_out)
-        new_count =  esearch_out.split('</Count>')[0].split('<Count>')[1]
-        print(new_count)
-        with open(f'extract_ids/logs/{self.name}_log_ids.txt', 'r') as log:
-            # extraindo a quantidade de acessos em log
-            label = log.readline()
-            log_count = int(label.split(sep='|')[1].lstrip(' número de entradas: '))
-            print(log_count)
-        if new_count > log_count:
-            print(f'\n\n\nNOVAS {int(new_count)-int(log_count)} ENTRADAS DETECTADAS PARA' +f'{self.name}\n\n\n'.upper())
+
+        new_count = len(self.new_uids)
+        print(f'Quantidade de registros encontrados: {new_count}')
+        try:
+            with open(self.path+f'/{self.name}_uids.json', 'r') as log:
+                
+                # extraindo a quantidade de acessos em log
+                data = json.load(log)
+                log_count = int(data['label']['count'])
+                print(f'\nQuantidade de registros armazenados: {log_count}')
+            if int(new_count) > log_count:
+                print(f'\n\n\nNOVAS {int(new_count)-int(log_count)} ENTRADAS DETECTADAS PARA ' +f'{self.name}\n\n\n'.upper())
+                return True
+            print("Nenhuma nova entrada detectada")
+            return False
+        except:
+            print('Nenhum registro presente')
             return True
-        print("Nenhuma nova entrada detectada")
-
-        return False
-    
-    def update_ids(self):
-        with open(f'extract_ids/logs/{self.name}_log_ids.txt','r') as log:
-            # lendo o arquivo log para saber quando foi feita a última verificação
-            label = log.readline()
-            last_date = label.split(sep='|')[2].lstrip(' date: ')
-            last_date = last_date.split()[0].replace('-','/')
-            print("Última vez atualizado: "+last_date)
-
-            # pesquisando pelo esearch por entradas posteriores a data do log
-            new_esearch = ["esearch", "-db", "assembly" ,"-query" , f"((\"{last_date}\"[AsmUpdateDate] : \"3000\"[AsmUpdateDate]) AND \"{self.name}\"[Organism]) AND (latest[filter] AND \"complete genome\"[filter] AND all[filter] NOT anomalous[filter])"]
-            new_esearch_str = " ".join(new_esearch)
-            out_new_esearch =  subprocess.check_output(new_esearch,text=True)
-            print(f'out: {out_new_esearch}')
-            new_count = out_new_esearch.split('</Count>')[0].split('<Count>')[1]
-
-            if int(new_count) != 0:
-                print(f'Novas {new_count} entradas detectadas')
-                os.system(f"{new_esearch_str} | efetch -format docsum |xtract -pattern DocumentSummary -element AssemblyAccession -element BioSampleAccn > data/{self.name}_temp_ids.txt")
-                with open(f'data/{self.name}_temp_ids.txt','r') as temp:
-                    new_ids = temp.readlines()
-                    new_ids = [i.split() for i in new_ids]
-                    new_asm = [i[0] for i in new_ids]
-                    new_bio = [i[1] for i in new_ids]
-                    self.ids = self.ids + new_ids
-                    self.assembly_ids = self.assembly_ids + new_asm
-                    self.biosample_ids = self.biosample_ids + new_bio
-                    with open(f'{self.path}/{self.name}_ids.txt','a') as ids:
-                        for i in new_ids:
-                            ids.write(f'{i[0]} {i[1]}\n')
-                    with open(f'{self.path}/{self.name}_assembly_ids.txt', 'a') as assembly:
-                        for i in new_ids:
-                            assembly.write(f'{i[0]}\n')
-                    with open(self.path+f'/{self.name}_biosample_ids.txt','a') as biosample:
-                        for i in self.biosample_ids:
-                            biosample.write(f'{i[1]}\n')
-                self.log_ids()
-            else:
-                print(f'Nenhum novo registro encontrado para {self.name}')
 
 args = sys.argv
 if args[1] == "mount":
     with open('extract_names/species_names.txt','r') as names:
         all_names = [i.rstrip('\n') for i in names.readlines()]
-        all_species = {}
+
         for name in all_names:
-            all_species[name] = Species(name)
-            
-            if all_species[name].check_new_entries():
-                all_species[name].update_ids()
-        
-    
-#ed.check_new_entries()         
-#ed.log_ids()
-#ed.update_ids()
+            sleep(0.37)
+            obj = Species(name)
+            if obj.extract_ids():
+                if obj.check_new_entries():
+                    obj.write_ids_files()        
