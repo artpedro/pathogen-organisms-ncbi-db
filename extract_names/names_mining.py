@@ -57,6 +57,8 @@ def refresh_ncbi_pat():
                 print(f"Adicionando {name} ao species_names.txt")      
         write_ncbi_pat(new_names)
 
+# pela mudança de extração dos dados, essas funções perdem o sentido
+'''
 # Adicionar nome manualmente a lista
 def add_name(name):
     species_names = "extract_names/species_names.txt"
@@ -82,16 +84,17 @@ def remove_name(name):
                 print(name+" removida do species_name.txt")
         else:
             print(name+" não está na lista")
+'''   
 
-# Possíveis inputs: ncbi_pat; add; remove; list
-if sys.argv[1]:
-    if sys.argv[1] == "ncbi_pat":
-        ncbi_names = get_ncbi_pat()
-        if os.path.exists("extract_names/species_names.txt"):
-            refresh_ncbi_pat()
-        else:
-            write_ncbi_pat(ncbi_names)
+ncbi_names = get_ncbi_pat()
 
+if os.path.exists("extract_names/species_names.txt"):
+    refresh_ncbi_pat()
+else:
+    write_ncbi_pat(ncbi_names)
+
+
+'''
         # handle ncbi_pat case
     elif sys.argv[1] == "add":
         if sys.argv[2]:
@@ -105,12 +108,4 @@ if sys.argv[1]:
             remove_name(name)
         else:
             print("Uso: python3 script.py <check|ncbi_pat|add|remove> <name>")
-    elif sys.argv[1] == "check":
-        check_names()
-    else:
-        print("Uso: python3 script.py <check|ncbi_pat|add|remove>")
-        sys.exit(1)
-else:
-    print("Uso: python3 script.py <check|ncbi_pat|add|remove>")
-    sys.exit(1)
-
+    '''      

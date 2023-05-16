@@ -71,3 +71,10 @@ Vibrio_parahaemolyticus
 Vibrio_vulnificus
 Yersinia_enterocolitica
 Yersinia_ruckeri
+Aeromonas_sobria
+Enterobacter_chuandaensis
+Enterobacter_oligotrophicus
+Escherichia_coli_Shigella
+Kosakonia_oryziphila
+Neisseria_polysaccharea
+Phytobacter_massiliensis
