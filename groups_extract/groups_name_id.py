@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib3
 import json
+import os
 
 url_ncbi_pat = "https://ftp.ncbi.nlm.nih.gov/pathogen/Results/"
 group_names = "data/groups/groups_name_id.json"
@@ -30,9 +31,12 @@ def getPathogenGroups():
 
 def getPathogenId(names):
     '''
-    Recebe a lista de nomes gerada pelo getPathogenGroups() e devolve um dicionário com
+    Recebe a lista de nomes gerada pelo getPathogenGroups() ou refreshGroups() e devolve um dicionário com
     o nome do grupo seguido do ID da sua versão mais atual
     '''
+
+    if names == []:
+        return
     name_id = {}
 
     for name in names:
@@ -45,7 +49,7 @@ def getPathogenId(names):
     
     return name_id
         
-def WriteGroups(name_id):
+def writeGroups(name_id):
     '''
     Recebe o dicionário gerado pelo getPathogenId() e armazena-o em um arquivo .json
     no repositório data/
@@ -55,8 +59,17 @@ def WriteGroups(name_id):
         file.write(groups_json)
    
 def RefreshGroups():
-    # Futura função para somente atualizar o id dos grupos patogênicos para a ultima versão
+    '''
     
+    '''
+    if os.path.exists(group_names):
+        with open(group_names,'r') as log:
+            log_info = json.load(log)
+            return [log_info.keys()]
+    else:
+        print('Sem informações prévias para atualizar\nConsidere usar a função extract')
+        return []
+
     '''species_names = "extract_names/species_names.txt"
     with open(species_names,"r") as rfile:
         # Nomes já no arquivo
@@ -70,5 +83,5 @@ def RefreshGroups():
         write_ncbi_pat(new_names)'''
     pass
 
-ncbi_names = getPathogenGroups()
-WriteGroups(getPathogenId(ncbi_names))
+#ncbi_names = getPathogenGroups()
+writeGroups(getPathogenId(getPathogenGroups()))
