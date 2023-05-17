@@ -1,6 +1,0 @@
-Aeromonas_sobria
-Enterobacter_chuandaensis
-Escherichia_coli_Shigella
-Kosakonia_oryziphila
-Neisseria_polysaccharea
-Phytobacter_massiliensis
