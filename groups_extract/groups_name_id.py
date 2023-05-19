@@ -24,9 +24,7 @@ def getPathogenGroups():
 
     html = getHtml(url_ncbi_pat)
     soup = BeautifulSoup(html, 'html.parser')
-    for tag in soup.find_all('a'):
-        if tag.get_text()[-1] == '/':
-            names.append(tag.get_text().rstrip('/'))
+    names = [tag.get_text().rstrip('/') for tag in soup.find_all('a') if tag.get_text()[-1] == '/']
     return names
 
 def getPathogenId(names):
@@ -35,17 +33,15 @@ def getPathogenId(names):
     o nome do grupo seguido do ID da sua versão mais atual
     '''
 
-    if names == []:
-        return
     name_id = {}
 
     for name in names:
-        url_group = url_ncbi_pat + f'/{name}/latest_kmer/'
+        url_group = url_ncbi_pat + f'/{name}/latest_kmer/Metadata/'
         html = getHtml(url_group)
         soup = BeautifulSoup(html,'html.parser')
 
         contents = [i.get_text() for i in soup.find_all('a') if i.get_text()[-1] != "/"]
-        name_id[name] = contents[1].rstrip('.final.descriptor.xml')
+        name_id[name] = contents[1].rstrip('.metadata.tsv')
     
     return name_id
         
@@ -58,9 +54,9 @@ def writeGroups(name_id):
         groups_json = json.dumps(name_id,indent=1)
         file.write(groups_json)
    
-def RefreshGroups():
+def refreshGroups():
     '''
-    
+    Verifica se existe dados sobre os grupos patogênicos e os encaminha para atualizar
     '''
     if os.path.exists(group_names):
         with open(group_names,'r') as log:
@@ -68,20 +64,14 @@ def RefreshGroups():
             return [log_info.keys()]
     else:
         print('Sem informações prévias para atualizar\nConsidere usar a função extract')
-        return []
+        return False
+    
+def mount():
+    print('Extraindo os nomes dos grupos patogênicos do banco Pathogen do NCBI')
+    groups = getPathogenGroups()
+    print('\nRecuperando o PathogenID mais recente dos grupos de patógenos')
+    data = getPathogenId(groups)
+    print('\nArmazenando informações extraídas na pasta /data/groups')
+    writeGroups(data)
 
-    '''species_names = "extract_names/species_names.txt"
-    with open(species_names,"r") as rfile:
-        # Nomes já no arquivo
-        names_infile = [line.rstrip("\n") for line in rfile.readlines()]
-        new_names = names_infile
-        print('Verificando novos nomes')
-        for name in getPathogenGroups():
-            if name not in names_infile:
-                new_names.append(name)
-                print(f"Adicionando {name} ao species_names.txt")      
-        write_ncbi_pat(new_names)'''
-    pass
-
-#ncbi_names = getPathogenGroups()
-writeGroups(getPathogenId(getPathogenGroups()))
+mount()
