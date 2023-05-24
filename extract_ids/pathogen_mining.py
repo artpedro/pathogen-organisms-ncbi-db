@@ -1,9 +1,8 @@
 import json
 import os
-import requests
 from tqdm import tqdm
-from pathlib import Path
 import urllib
+import pandas as pd
 
 class DownloadProgressBar(tqdm):
     def update_to(self, b=1, bsize=1, tsize=None):
@@ -24,17 +23,18 @@ class Group():
         
         self.info_path = f"data/groups_info/{self.name}"
         self.tsv_path = self.info_path + '/tsv'
-        
+
         # buscando o id do grupo
         with open('data/groups/groups_name_id.json') as log:
             data = json.load(log)
             self.pat_id = data[self.name]
-        
+        self.tsv_file = f'{self.tsv_path}/{self.name}|{self.pat_id}.tsv'
+
         # url para extrair as informações em tsv
         self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
 
         # criar repositório para os dados
-        if not os.path.exists(self.info_path):
+        if not os.path.exists(self.tsv_path):
             os.mkdir(self.info_path)
             os.mkdir(self.tsv_path)
     
@@ -56,12 +56,23 @@ class Group():
             return False
 
     def getPatData(self):
-        self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
-        download_url(self.table_url,f'{self.tsv_path}/{self.name}|{self.pat_id}.tsv')
+        download_url(self.table_url,self.tsv_file)
 
+    def filterTsv(self):
+        fields = ['scientific_name','strain','host','asm_level','asm_acc','biosample_acc']
+        filtered_df = pd.DataFrame(columns=fields)
+        # fix read
+        df = pd.read_csv(self.tsv_file,header=1)
+        print(df)
+
+
+a = Group('Edwardsiella_tarda')
+a.filterTsv()
+
+'''
 with open("data/groups/groups_name_id.json","r") as file:
     names = json.load(file)
     for name in names.keys():
         a = Group(name)
         if a.checkDataUpdate():
-            a.getPatData()          
+            a.getPatData()          '''

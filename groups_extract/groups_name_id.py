@@ -61,11 +61,22 @@ def refreshGroups():
     if os.path.exists(group_names):
         with open(group_names,'r') as log:
             log_info = json.load(log)
-            return [log_info.keys()]
+            return list(log_info.keys())
     else:
         print('Sem informações prévias para atualizar\nConsidere usar a função extract')
         return False
     
+def refresh():
+    names = refreshGroups()
+    new_ids = getPathogenId(names)
+    with open(group_names,'r') as log:
+        log_info = json.load(log)
+        for i in names:
+            if new_ids[i] == log_info[i]:
+                print(i,': ',log_info[i])
+            else:
+                print(i,': ',log_info[i],'--->',new_ids[i])
+    writeGroups(new_ids)
 def mount():
     print('Extraindo os nomes dos grupos patogênicos do banco Pathogen do NCBI')
     groups = getPathogenGroups()
@@ -74,4 +85,4 @@ def mount():
     print('\nArmazenando informações extraídas na pasta /data/groups')
     writeGroups(data)
 
-mount()
+refresh()
