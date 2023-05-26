@@ -53,7 +53,7 @@ def writeGroups(name_id):
     with open(group_names,'w') as file:
         groups_json = json.dumps(name_id,indent=1)
         file.write(groups_json)
-   
+        print('\nRegistros atualizados')
 def refreshGroups():
     '''
     Verifica se existe dados sobre os grupos patogênicos e os encaminha para atualizar
