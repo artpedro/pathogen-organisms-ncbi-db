@@ -41,20 +41,6 @@ def download_url(url, file):
                 sys.stdout.write("\r[%s%s]" % ('=' * done, ' ' * (50-done)) )    
                 sys.stdout.flush()
 
-
-'''
-class DownloadProgressBar(tqdm):
-    def update_to(self, b=1, bsize=1, tsize=None):
-        if tsize is not None:
-            self.total = tsize
-        self.update(b * bsize - self.n)
-
-
-def download_url(url, output_path):
-    with DownloadProgressBar(unit='B', unit_scale=True,
-                             miniters=1, desc=url.split('/')[-1]) as t:
-        urllib.request.urlopen(url, filename=output_path, reporthook=t.update_to)
-'''
 class Group():
     def __init__(self,name):
         # nome do grupo
@@ -134,36 +120,109 @@ class Group():
 
     def readFilteredTsv(self):
         '''
-        Extrai informações do .tsv filtrado
+        Extrai informações do .json gerado pelo getFilteredTsv() filtrado.
+        As informações são redundantes.
         '''
         # informações coletadas
         self.species = []
         self.hosts = []
+        self.strains = []
         self.count = 0
         
+        # testar isso
         if hasattr(self,'filtered_df'):
-            for i,row in self.filtered_df.iterrows():
-                if row['host'] not in self.hosts:
-                    self.hosts.append(row['host'])
-                if row['scientific_name'] not in self.species:
-                    self.species.append(row['scientific_name'])
-            self.count = len(self.filtered_df.index)
+            self.hosts = [row['host'] for i,row in self.filtered_df.iterrows()]
+            self.species = [row['scientific_name'] for i,row in self.filtered_df.iterrows()]
+            self.strains = [row['strain'] for i,row in self.filtered_df.iterrows()]
+            self.count = len(self.species)
             return True
         elif hasattr(self,'filtered_json'):
-            for i in self.filtered_json:
-                if i['host'] not in self.hosts:
-                    self.hosts.append(i['host'])
-                if i['scientific_name'] not in self.species:
-                    self.species.append(i['scientific_name'])
+            self.host = [row['host'] for row in self.filtered_json]
+            self.species = [row['species'] for row in self.filtered_json]
+            self.strains = [row['strain'] for row in self.filtered_json]
+            self.count = len(self.species)
             return True
+        elif self.filtered_json:
+            self.host = [row['host'] for row in self.filtered_json]
+            self.species = [row['species'] for row in self.filtered_json]
+            self.strains = [row['strain'] for row in self.filtered_json]
+            self.count = len(self.species)         
         else:
             print('Sem informações salvas')
             return False
 
-        
-        
+def readGroupsNames():
+    with open("data/groups/groups_name_id.json","r") as data:
+        groups = js.load(data)
+        return groups
+    
+def mountExample(name="Edwardsiella_tarda"):
+    '''
+    Organiza e extrai as informações de somente um grupo patogênico.
+    default = "Edwardsiella_tarda" 
+    '''
+    obj = Group(name)
+    obj.getPatData()
+    obj.getFilteredTsv()
+    print(f'Grupo {name} montado')
+    return obj
+
+def updateExample(name="Edwardsiella_tarda",obj_arg = None):
+    '''
+    Verifica se é necessário atualizar somente o grupo patogênico em "name"
+    e encaminha para atualização.
+    default = "Edwardsiella_tarda"
+    '''
+    obj = Group(name)
+    if obj.checkDataUpdate():
+        obj.getPatData()
+        obj.getFilteredTsv()
+        print("Informações atualizadas")
+    else:
+        print("As informações do registro não precisam ser atualizadas")
 
 
+def mountData():
+    '''
+    Organiza e extrai as informações de todos os grupos patogênicos.
+    '''
+    groups = readGroupsNames()
+    for group in groups:
+        obj = Group(group)
+        obj.getPatData()
+        obj.getFilteredTsv()
+
+def updateData():
+    '''
+    Verifica se o banco precisa ser atualizado se baseando nos registros
+    do groups_name_id.json e realiza as atualizações necessárias
+    '''
+    groups = readGroupsNames()
+    for group in groups:
+        obj = Group(group)
+        if obj.checkDataUpdate():
+            obj.getPatData()
+            obj.getFilteredTsv()
+
+def readData():
+    # terminar essa função
+    groups = readGroupsNames()
+    for group in groups:
+        obj = Group(group)
+        obj.readFilteredTsv()
+        print(
+            f'''Grupo {group}:
+                Hospedeiros()'''
+            )
+        
+mountExample()
+updateExample()
+
+
+
+
+
+'''
 with open("data/groups/groups_name_id.json","r") as file:
     names = js.load(file)
     total_count = 0
@@ -186,4 +245,4 @@ with open("data/groups/groups_name_id.json","r") as file:
 
     print(all_hosts)
     print(len(all_hosts))
-
+'''
