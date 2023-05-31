@@ -1,0 +1,42 @@
+[
+ {
+  "scientific_name":"Edwardsiella tarda",
+  "strain":"FL95-01",
+  "host":"Ictalurus punctatus",
+  "asm_level":"Complete Genome",
+  "asm_acc":"GCA_001011055.2",
+  "biosample_acc":"SAMN03579666"
+ },
+ {
+  "scientific_name":"Edwardsiella tarda",
+  "strain":"KC-Pc-HB1",
+  "host":"Pseudorca crassidens",
+  "asm_level":"Complete Genome",
+  "asm_acc":"GCA_002504285.1",
+  "biosample_acc":"SAMN07695532"
+ },
+ {
+  "scientific_name":"Edwardsiella tarda ATCC 15947 = NBRC 105688",
+  "strain":"ATCC 15947",
+  "host":"Homo sapiens",
+  "asm_level":"Complete Genome",
+  "asm_acc":"GCA_003113495.2",
+  "biosample_acc":"SAMN08942787"
+ },
+ {
+  "scientific_name":"Edwardsiella tarda",
+  "strain":"ET-1",
+  "host":"Paralichthys olivaceus",
+  "asm_level":"Complete Genome",
+  "asm_acc":"GCA_003354245.1",
+  "biosample_acc":"SAMD00131843"
+ },
+ {
+  "scientific_name":"Edwardsiella tarda",
+  "strain":"AL98-87",
+  "host":"Ictalurus punctatus",
+  "asm_level":"Complete Genome",
+  "asm_acc":"GCA_003074875.2",
+  "biosample_acc":"SAMN08939826"
+ }
+]
