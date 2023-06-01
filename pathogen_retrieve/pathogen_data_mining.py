@@ -217,7 +217,7 @@ def readData():
         
 mountExample()
 updateExample()
-
+readData()
 
 
 
