@@ -135,21 +135,30 @@ class Group():
             self.species = [row['scientific_name'] for i,row in self.filtered_df.iterrows()]
             self.strains = [row['strain'] for i,row in self.filtered_df.iterrows()]
             self.count = len(self.species)
-            return True
         elif hasattr(self,'filtered_json'):
-            self.host = [row['host'] for row in self.filtered_json]
-            self.species = [row['species'] for row in self.filtered_json]
+            self.hosts = [row['host'] for row in self.filtered_json]
+            self.species = [row['scientific_name'] for row in self.filtered_json]
             self.strains = [row['strain'] for row in self.filtered_json]
             self.count = len(self.species)
-            return True
         elif self.filtered_json:
-            self.host = [row['host'] for row in self.filtered_json]
-            self.species = [row['species'] for row in self.filtered_json]
+            self.hosts = [row['host'] for row in self.filtered_json]
+            self.species = [row['scientific_name'] for row in self.filtered_json]
             self.strains = [row['strain'] for row in self.filtered_json]
             self.count = len(self.species)         
         else:
             print('Sem informações salvas')
             return False
+        self.hosts_set = set(self.hosts)
+        self.species_set = set(self.species)
+        self.strains_set = set(self.strains)
+        
+        
+    def makeMetadata(self):
+        pass
+        
+class Species():
+    def __init__(self) -> None:
+        pass
 
 def readGroupsNames():
     with open("data/groups/groups_name_id.json","r") as data:
@@ -204,7 +213,7 @@ def updateData():
             obj.getPatData()
             obj.getFilteredTsv()
 
-def readData():
+def readAllData():
     # terminar essa função
     groups = readGroupsNames()
     for group in groups:
@@ -212,12 +221,34 @@ def readData():
         obj.readFilteredTsv()
         print(
             f'''Grupo {group}:
-                Hospedeiros()'''
+Quantidade de registros: {obj.count} registros
+Espécies: {obj.species}
+Hospedeiros: {obj.hosts}
+Strains: {obj.strains}'''
             )
         
-mountExample()
-updateExample()
-readData()
+def readSingleData(group="Edwardsiella_tarda"):
+    obj = Group(group)
+    obj.readFilteredTsv()
+    print(
+        f'''Grupo {group}:
+
+Quantidade de registros: {obj.count} registros
+
+Espécies: {obj.species}
+Tipos: {obj.species_set}
+
+Hospedeiros: {obj.hosts}
+Tipos: {obj.hosts_set}
+
+Strains: {obj.strains}
+Tipos: {obj.strains_set}
+'''
+        )
+        
+
+updateExample("Aeromonas")
+readSingleData("Aeromonas")
 
 
 
