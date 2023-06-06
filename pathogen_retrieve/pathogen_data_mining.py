@@ -6,6 +6,7 @@ import urllib
 import pandas as pd
 import sys
 from tqdm import tqdm
+import time
 
 
 def download(url: str, fname: str):
@@ -148,17 +149,50 @@ class Group():
         else:
             print('Sem informações salvas')
             return False
-        self.hosts_set = set(self.hosts)
-        self.species_set = set(self.species)
-        self.strains_set = set(self.strains)
+        # salvando contagem dos dados
+        self.hosts_dic = {k:self.hosts.count(k) for k in set(self.hosts)}
+        self.species_dic = {k:self.species.count(k) for k in set(self.species)}
+        self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
+        # filtragem inicial - terminar
+        for species in self.species_dic:
+            full = species.split()
+            sp = species.split()[:2]
+            if len(full) > 2:
+                if full[3] == 'subsp.':
+                    subsp = full[4]
+                    if full[5] == 'serovar':
+                        serovar = full[6]
+            
+
+
+        deleted_hosts = []
+        for host in self.hosts_dic:
+            if host == 'Homo sapiens':
+                continue
+            if host == 'Chicken':
+                continue
+            elif ('HOMO' in host.upper().split()) or ('HUMAN' in host.upper().split()):
+                self.hosts_dic['Homo sapiens'] = self.hosts_dic['Homo sapiens'] + self.hosts_dic[host] 
+                deleted_hosts.append(host)
+            elif ('GALLUS' in host.upper().split()) or ('HEN' in host.upper().split()):
+                self.hosts_dic['Chicken'] = self.hosts_dic['Chicken'] + self.hosts_dic[host]
+                deleted_hosts.append(host)
+            
+        for i in deleted_hosts:
+            del self.hosts_dic[i]
         
+    def makeGroupMetadata(self):
+        '''
+        Reune informações do readFilteredTsv() e armazena em um arquivo para posterior representação gráfica
+        '''
+        metadata = {'group':self.name,'count':self.count,'species':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
+
+        with open(self.info_path + f'/{self.name}_metadata','w') as log:
+            content = js.dumps(metadata,indent=1)
+            log.write(content)
         
-    def makeMetadata(self):
-        pass
-        
-class Species():
-    def __init__(self) -> None:
-        pass
+
+
 
 def readGroupsNames():
     with open("data/groups/groups_name_id.json","r") as data:
@@ -198,7 +232,8 @@ def mountData():
     groups = readGroupsNames()
     for group in groups:
         obj = Group(group)
-        obj.getPatData()
+        if obj.checkDataUpdate():    
+            obj.getPatData()
         obj.getFilteredTsv()
 
 def updateData():
@@ -212,6 +247,8 @@ def updateData():
         if obj.checkDataUpdate():
             obj.getPatData()
             obj.getFilteredTsv()
+        else:
+            obj.getFilteredTsv()
 
 def readAllData():
     # terminar essa função
@@ -219,36 +256,59 @@ def readAllData():
     for group in groups:
         obj = Group(group)
         obj.readFilteredTsv()
-        print(
-            f'''Grupo {group}:
-Quantidade de registros: {obj.count} registros
-Espécies: {obj.species}
-Hospedeiros: {obj.hosts}
-Strains: {obj.strains}'''
-            )
+        obj.makeGroupMetadata()
+        print(group,' lido')
+
+        #print(
+#            f'''Grupo {group}:
+#
+#Quantidade de registros: {obj.count} registros
+#
+#Espécies: {obj.species}
+#Tipos: {obj.species_dic}
+#
+#Hospedeiros: {obj.hosts}
+#Tipos: {obj.hosts_dic}
+#
+#Strains: {obj.strains}
+#Tipos: {obj.strains_dic}
+#'''
+#             )
         
 def readSingleData(group="Edwardsiella_tarda"):
     obj = Group(group)
     obj.readFilteredTsv()
+    obj.makeGroupMetadata()
     print(
         f'''Grupo {group}:
 
 Quantidade de registros: {obj.count} registros
 
 Espécies: {obj.species}
-Tipos: {obj.species_set}
+Tipos: {obj.species_dic}
 
 Hospedeiros: {obj.hosts}
-Tipos: {obj.hosts_set}
+Tipos: {obj.hosts_dic}
 
 Strains: {obj.strains}
-Tipos: {obj.strains_set}
+Tipos: {obj.strains_dic}
 '''
         )
+    
+def generalMetadata():
+    groups = readGroupsNames()
+    metadata = {}
+    for group in groups:
+        with open(f'data/groups_info/{group}/{group}_metadata','r') as log:
+            pass
         
-
-updateExample("Aeromonas")
-readSingleData("Aeromonas")
+start = time.time()
+#mountExample('Salmonella')
+readSingleData('Salmonella')
+end = time.time()
+minutos = int((end - start) // 60)
+segundos = (end - start) % 60
+print(f'runtime: {minutos}:{segundos}')
 
 
 
