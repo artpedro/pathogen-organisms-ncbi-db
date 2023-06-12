@@ -155,16 +155,19 @@ class Group():
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
         
         # filtragem inicial - terminar
-        '''
+        filtered_species = {}
         for species in self.species_dic:
             full = species.split()
-            sp = species.split()[:2]
+            sp = full[0] +' '+ full[1]
             if len(full) > 2:
                 if full[3] == 'subsp.':
                     subsp = full[4]
-                    if full[5] == 'serovar':
-                        serovar = full[6]
-        '''    
+                if sp in filtered_species:
+                    filtered_species[sp] += 1
+                else:
+                    filtered_species[sp] = 1
+        self.species_dic = filtered_species
+            
         deleted_hosts = []
         if 'Chicken' not in self.hosts_dic.keys():
             self.hosts_dic['Chicken'] = 0
@@ -308,7 +311,7 @@ def generalMetadata():
             pass        
         
 start = time.time()
-#mountData()
+mountData()
 readAllData()
 end = time.time()
 minutos = int((end - start) // 60)
