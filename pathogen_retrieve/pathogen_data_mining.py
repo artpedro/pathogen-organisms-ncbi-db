@@ -47,17 +47,17 @@ class Group():
         # nome do grupo
         self.name = name
         
-        self.info_path = f"data/groups_info/{self.name}"
-        self.tsv_path = self.info_path + '/tsv'
-        self.filtered_json_path = self.info_path + f'/{self.name}_suitable.json'
+        self.info_path = os.path.normpath(f"data/groups_info/{self.name}")
+        self.tsv_path = os.path.normpath(self.info_path + '/tsv')
+        self.filtered_json_path = os.path.normpath(self.info_path + f'/{self.name}_suitable.json')
 
         # buscando o id do grupo
-        with open('data/groups/groups_name_id.json') as log:
+        with open(os.path.normpath('data/groups/groups_name_id.json')) as log:
             data = js.load(log)
             self.pat_id = data[self.name]
-        self.tsv_file = f'{self.tsv_path}/{self.name}|{self.pat_id}.tsv'
+        self.tsv_file = os.path.normpath(f'{self.tsv_path}/{self.name}_{self.pat_id}.tsv')
         
-        if os.path.exists(self.info_path + f'/{self.name}_suitable.json'):
+        if os.path.exists(os.path.normpath(self.info_path + f'/{self.name}_suitable.json')):
             with open(self.filtered_json_path,'r') as log:
                 self.filtered_json = js.load(log)
                 
@@ -67,8 +67,8 @@ class Group():
 
         # criar repositório para os dados
         if not os.path.exists(self.tsv_path):
-            os.mkdir(self.info_path)
-            os.mkdir(self.tsv_path)
+            os.makedirs(os.path.normpath(self.info_path))
+            os.makedirs(os.path.normpath(self.tsv_path))
     
     def checkDataUpdate(self):
         '''
@@ -80,9 +80,9 @@ class Group():
         if tsv_log == []:
             return True
         tsv_log = tsv_log[0]
-        tsv_version = tsv_log.split('|')[1].rstrip('.tsv')
+        tsv_version = tsv_log.split('_')[1].rstrip('.tsv')
         if tsv_version != self.pat_id:
-            os.remove(self.tsv_path+'/'+tsv_log)
+            os.remove(os.path.normpath(self.tsv_path+'/'+tsv_log))
             return True
         else:
             return False
@@ -153,7 +153,9 @@ class Group():
         self.hosts_dic = {k:self.hosts.count(k) for k in set(self.hosts)}
         self.species_dic = {k:self.species.count(k) for k in set(self.species)}
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
+        
         # filtragem inicial - terminar
+        '''
         for species in self.species_dic:
             full = species.split()
             sp = species.split()[:2]
@@ -162,10 +164,12 @@ class Group():
                     subsp = full[4]
                     if full[5] == 'serovar':
                         serovar = full[6]
-            
-
-
+        '''    
         deleted_hosts = []
+        if 'Chicken' not in self.hosts_dic.keys():
+            self.hosts_dic['Chicken'] = 0
+        if 'Homo sapiens' not in self.hosts_dic.keys():
+            self.hosts_dic['Homo sapiens'] = 0
         for host in self.hosts_dic:
             if host == 'Homo sapiens':
                 continue
@@ -175,7 +179,8 @@ class Group():
                 self.hosts_dic['Homo sapiens'] = self.hosts_dic['Homo sapiens'] + self.hosts_dic[host] 
                 deleted_hosts.append(host)
             elif ('GALLUS' in host.upper().split()) or ('HEN' in host.upper().split()):
-                self.hosts_dic['Chicken'] = self.hosts_dic['Chicken'] + self.hosts_dic[host]
+                if 'Chicken' in self.hosts_dic.keys():
+                    self.hosts_dic['Chicken'] = self.hosts_dic['Chicken'] + self.hosts_dic[host]
                 deleted_hosts.append(host)
             
         for i in deleted_hosts:
@@ -187,19 +192,18 @@ class Group():
         '''
         metadata = {'group':self.name,'count':self.count,'species':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
 
-        with open(self.info_path + f'/{self.name}_metadata','w') as log:
+        with open(os.path.normpath(self.info_path + f'/{self.name}_metadata'),'w') as log:
             content = js.dumps(metadata,indent=1)
             log.write(content)
         
 
 
-
 def readGroupsNames():
-    with open("data/groups/groups_name_id.json","r") as data:
+    with open(os.path.normpath("data/groups/groups_name_id.json"),"r") as data:
         groups = js.load(data)
         return groups
     
-def mountExample(name="Edwardsiella_tarda"):
+def mountExample(name="Edwardsiellaa_tarda"):
     '''
     Organiza e extrai as informações de somente um grupo patogênico.
     default = "Edwardsiella_tarda" 
@@ -210,7 +214,7 @@ def mountExample(name="Edwardsiella_tarda"):
     print(f'Grupo {name} montado')
     return obj
 
-def updateExample(name="Edwardsiella_tarda",obj_arg = None):
+def updateExample(name="Edwardsiella_tarda"):
     '''
     Verifica se é necessário atualizar somente o grupo patogênico em "name"
     e encaminha para atualização.
@@ -258,6 +262,7 @@ def readAllData():
         obj.readFilteredTsv()
         obj.makeGroupMetadata()
         print(group,' lido')
+        
 
         #print(
 #            f'''Grupo {group}:
@@ -294,23 +299,21 @@ Strains: {obj.strains}
 Tipos: {obj.strains_dic}
 '''
         )
-    
+# Terminar função
 def generalMetadata():
     groups = readGroupsNames()
     metadata = {}
     for group in groups:
-        with open(f'data/groups_info/{group}/{group}_metadata','r') as log:
-            pass
+        with open(os.path.normpath(f'data/groups_info/{group}/{group}_metadata'),'r') as log:
+            pass        
         
 start = time.time()
-#mountExample('Salmonella')
-readSingleData('Salmonella')
+#mountData()
+readAllData()
 end = time.time()
 minutos = int((end - start) // 60)
 segundos = (end - start) % 60
 print(f'runtime: {minutos}:{segundos}')
-
-
 
 
 '''
