@@ -25,7 +25,16 @@ def getPathogenGroups():
     html = getHtml(url_ncbi_pat)
     soup = BeautifulSoup(html, 'html.parser')
     names = [tag.get_text().rstrip('/') for tag in soup.find_all('a') if tag.get_text()[-1] == '/']
+    if "BioProject_Hierarchy" in names:
+        names.remove("BioProject_Hierarchy")
     return names
+
+def getSinglePathogenId(name):
+    url_group = url_ncbi_pat + f'/{name}/latest_kmer/Metadata/'
+    html = getHtml(url_group)
+    soup = BeautifulSoup(html,'html.parser')
+    contents = [i.get_text() for i in soup.find_all('a') if i.get_text()[-1] != "/"]
+    return contents[1].rstrip('.metadata.tsv')
 
 def getPathogenId(names):
     '''
@@ -54,6 +63,7 @@ def writeGroups(name_id):
         groups_json = json.dumps(name_id,indent=1)
         file.write(groups_json)
         print('\nRegistros atualizados')
+        
 def refreshGroups():
     '''
     Verifica se existe dados sobre os grupos patogênicos e os encaminha para atualizar
@@ -66,6 +76,8 @@ def refreshGroups():
         print('Sem informações prévias para atualizar\nConsidere usar a função extract')
         return False
     
+# principais
+
 def refresh():
     names = refreshGroups()
     new_ids = getPathogenId(names)
@@ -84,5 +96,3 @@ def mount():
     data = getPathogenId(groups)
     print('\nArmazenando informações extraídas na pasta /data/groups')
     writeGroups(data)
-
-refresh()
