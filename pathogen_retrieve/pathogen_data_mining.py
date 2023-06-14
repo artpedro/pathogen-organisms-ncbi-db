@@ -155,17 +155,8 @@ class Group():
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
         
         # filtragem inicial - terminar
-        filtered_species = {}
-        for species in self.species_dic:
-            full = species.split()
-            sp = full[0] +' '+ full[1]
-            if len(full) > 2:
-                if full[3] == 'subsp.':
-                    subsp = full[4]
-                if sp in filtered_species:
-                    filtered_species[sp] += 1
-                else:
-                    filtered_species[sp] = 1
+        filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}
+                            
         self.species_dic = filtered_species
             
         deleted_hosts = []
