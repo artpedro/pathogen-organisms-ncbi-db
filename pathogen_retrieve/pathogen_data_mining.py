@@ -7,14 +7,16 @@ import pandas as pd
 import sys
 from tqdm import tqdm
 import time
+from groups_name_id import getSinglePathogenId
 
 
 def download(url: str, fname: str):
     resp = requests.get(url, stream=True)
     total = int(resp.headers.get('content-length', 0))
+    descr = fname.split('/')[-1]
     # Can also replace 'file' with a io.BytesIO object
     with open(fname, 'wb') as file, tqdm(
-        desc=fname,
+        desc=descr+'\n',
         total=total,
         unit='iB',
         unit_scale=True,
@@ -90,8 +92,27 @@ class Group():
     def getPatData(self):
         try:
             download(self.table_url,self.tsv_file)
+            self.checkData()        
         except:
             download_url(self.table_url,self.tsv_file)
+            self.checkData()
+
+    def checkData(self):
+        with open(self.tsv_file,'r') as tsv:
+            if tsv.readline()[0] != '#':
+
+                if hasattr(self,"retry_download"):
+                    self.retry_download =+ 1
+                    if self.retry_download > 3:
+                        self.pat_id = getSinglePathogenId(self.name)
+                        self.tsv_file = os.path.normpath(f'{self.tsv_path}/{self.name}_{self.pat_id}.tsv')
+                        self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
+                else:
+                    self.retry_download = 0
+                self.getPatData()
+            else:
+                print("Download bem sucessido")
+
 
     def getFilteredTsv(self):
         '''
@@ -112,6 +133,17 @@ class Group():
             if row[fields[3]] == 'Complete Genome':
                 filtered_df.loc[len(filtered_df)] = row
         self.filtered_df = filtered_df[filtered_df[fields[2]].notnull()]
+
+
+        for i,row in self.filtered_df.iterrows():
+            host = row[fields[2]]
+            if ('HOMO' in host.upper().split()) or ('HUMAN' in host.upper().split()):
+                self.filtered_df.loc[i,'host'] = 'Homo sapiens'
+            elif ('GALLUS' in host.upper().split()) or ('HEN' in host.upper().split()) or ('CHICKEN' in host.upper().split()):
+                self.filtered_df.loc[i,'host'] = 'Chicken'
+            elif ('TAURUS' in host.upper().split()) or ('BOVINAE' in host.upper().split()) or ('BOVINE' in host.upper().split()):
+                self.filtered_df.loc[i,'host'] = 'Bovine'
+            
         
     
         # armazenando o dataframe filtrado em um .json 
@@ -158,12 +190,15 @@ class Group():
         filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}
                             
         self.species_dic = filtered_species
-            
+        
         deleted_hosts = []
         if 'Chicken' not in self.hosts_dic.keys():
             self.hosts_dic['Chicken'] = 0
         if 'Homo sapiens' not in self.hosts_dic.keys():
             self.hosts_dic['Homo sapiens'] = 0
+        if 'Bovine' not in self.hosts_dic.keys():
+            self.hosts_dic['Bovine'] = 0
+        '''
         for host in self.hosts_dic:
             if host == 'Homo sapiens':
                 continue
@@ -176,7 +211,7 @@ class Group():
                 if 'Chicken' in self.hosts_dic.keys():
                     self.hosts_dic['Chicken'] = self.hosts_dic['Chicken'] + self.hosts_dic[host]
                 deleted_hosts.append(host)
-            
+            '''
         for i in deleted_hosts:
             del self.hosts_dic[i]
         
@@ -234,6 +269,7 @@ def mountData():
             obj.getPatData()
         obj.getFilteredTsv()
 
+
 def updateData():
     '''
     Verifica se o banco precisa ser atualizado se baseando nos registros
@@ -253,6 +289,7 @@ def readAllData():
     groups = readGroupsNames()
     for group in groups:
         obj = Group(group)
+        obj.getFilteredTsv()
         obj.readFilteredTsv()
         obj.makeGroupMetadata()
         print(group,' lido')
@@ -276,6 +313,7 @@ def readAllData():
         
 def readSingleData(group="Edwardsiella_tarda"):
     obj = Group(group)
+    obj.getFilteredTsv()
     obj.readFilteredTsv()
     obj.makeGroupMetadata()
     print(
@@ -302,8 +340,7 @@ def generalMetadata():
             pass        
         
 start = time.time()
-mountData()
-readAllData()
+readSingleData('Salmonella')
 end = time.time()
 minutos = int((end - start) // 60)
 segundos = (end - start) % 60
