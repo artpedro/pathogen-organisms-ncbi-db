@@ -75,7 +75,23 @@ def refreshGroups():
     else:
         print('Sem informações prévias para atualizar\nConsidere usar a função extract')
         return False
-    
+
+def refreshSingleGroup(name):
+    '''
+    Verifica se existe dados sobre os grupos patogênicos e atualiza somente um
+    '''
+    if os.path.exists(group_names):
+        with open(group_names,'r') as log:
+            log_info = json.load(log)
+            old = log_info[name]
+            log_info[name] = getSinglePathogenId(name)
+            new = log_info[name]
+            if old != new:
+                with open(group_names,'w') as file:
+                    file.write(json.dumps(log_info,indent=1))
+                    print(name,": ",old," ---> ",new)
+            else:
+                print('Versão mais atual')
 # principais
 
 def refresh():
@@ -96,3 +112,4 @@ def mount():
     data = getPathogenId(groups)
     print('\nArmazenando informações extraídas na pasta /data/groups')
     writeGroups(data)
+    
