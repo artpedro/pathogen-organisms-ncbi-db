@@ -6,7 +6,7 @@ import pandas as pd
 import sys
 from tqdm import tqdm
 import time
-from groups_name_id import getSinglePathogenId
+from groups_name_id import *
 
 
 def download(url: str, fname: str):
@@ -104,19 +104,21 @@ class Group():
     def checkData(self):
         with open(self.tsv_file,'r') as tsv:
             if tsv.readline()[0] != '#':
-
+                print('Erro no download')
                 if hasattr(self,"retry_download"):
-                    self.retry_download =+ 1
-                    if self.retry_download > 3:
+                    print(self.retry_download)
+                    self.retry_download = self.retry_download + 1
+                    if self.retry_download > 2:
                         self.pat_id = getSinglePathogenId(self.name)
+                        refreshSingleGroup(self.name)
                         self.tsv_file = os.path.normpath(f'{self.tsv_path}/{self.name}_{self.pat_id}.tsv')
                         self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
+                    self.getPatData()
                 else:
                     self.retry_download = 0
-                self.getPatData()
+                    self.getPatData()
             else:
                 print("Download bem sucessido")
-
 
     def getUsableTsv(self):
         '''
@@ -198,16 +200,14 @@ class Group():
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
         
         # filtragem inicial - terminar
-        filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}
-                            
+        filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}     
         self.species_fdic = filtered_species
-        
-        
+        self.subsp_dic = {k:[i.split()[3] for i in self.species if len(i.split())>3].count(k) for k in set([i.split()[3] for i in self.species if len(i.split())>3])}
     def makeGroupMetadata(self):
         '''
         Reune informações do readFilteredTsv() e armazena em um arquivo para posterior representação gráfica
         '''
-        metadata = {'group':self.name,'count':self.count,'species':self.species_fdic,'scientific_name':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
+        metadata = {'group':self.name,'count':self.count,'species':self.species_fdic,'subsp.':self.subsp_dic,'scientific_name':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
         
         with open(os.path.normpath(self.info_path + f'/{self.name}_metadata'),'w') as log:
             content = js.dumps(metadata,indent=1)
@@ -314,7 +314,6 @@ end = time.time()
 minutos = int((end - start) // 60)
 segundos = (end - start) % 60
 print(f'read runtime: {minutos}:{segundos}')
-
 # readAllData() = 0:50
 # new readAllData() = 0:05
 
