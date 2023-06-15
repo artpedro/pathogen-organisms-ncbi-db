@@ -2,7 +2,6 @@ import json as js
 import os
 from tqdm import tqdm
 import requests
-import urllib
 import pandas as pd
 import sys
 from tqdm import tqdm
@@ -16,7 +15,7 @@ def download(url: str, fname: str):
     descr = fname.split('/')[-1]
     # Can also replace 'file' with a io.BytesIO object
     with open(fname, 'wb') as file, tqdm(
-        desc=descr+'\n',
+        desc=descr,
         total=total,
         unit='iB',
         unit_scale=True,
@@ -51,7 +50,8 @@ class Group():
         
         self.info_path = os.path.normpath(f"data/groups_info/{self.name}")
         self.tsv_path = os.path.normpath(self.info_path + '/tsv')
-        self.filtered_json_path = os.path.normpath(self.info_path + f'/{self.name}_suitable.json')
+        self.usable_json_path = os.path.normpath(self.info_path + f'/{self.name}_usable.json')
+        self.filtered_json_path = os.path.normpath(self.info_path + f'/{self.name}_filtered.json')
 
         # buscando o id do grupo
         with open(os.path.normpath('data/groups/groups_name_id.json')) as log:
@@ -59,9 +59,13 @@ class Group():
             self.pat_id = data[self.name]
         self.tsv_file = os.path.normpath(f'{self.tsv_path}/{self.name}_{self.pat_id}.tsv')
         
-        if os.path.exists(os.path.normpath(self.info_path + f'/{self.name}_suitable.json')):
+        if os.path.exists(os.path.normpath(self.info_path + f'/{self.name}_filtered.json')):
             with open(self.filtered_json_path,'r') as log:
                 self.filtered_json = js.load(log)
+                self.filtered_df = pd.DataFrame(self.filtered_json)
+            with open(self.usable_json_path,'r') as log:
+                self.usable_json = js.load(log)
+                self.usable_df = pd.DataFrame(self.usable_json)
                 
 
         # url para extrair as informações em tsv
@@ -114,10 +118,12 @@ class Group():
                 print("Download bem sucessido")
 
 
-    def getFilteredTsv(self):
+    def getUsableTsv(self):
         '''
         Lê os arquivos tabulares de cada grupo patogênico e gera um .json com as informações
         importantes dos registros que possuem genoma completo e informação sobre o hospedeiro
+
+        Retorna falso se não houver nenhum
         '''
 
         # campos importantes
@@ -126,61 +132,66 @@ class Group():
         # lendo arquivo .tsv em um dataframe
         df = pd.read_csv(self.tsv_file,sep='\t',usecols=fields)
         
-        filtered_df = pd.DataFrame(columns=fields)
-        
+    
         # filtrando as linhas dispensáveis do dataframe
-        for i,row in df.iterrows():
-            if row[fields[3]] == 'Complete Genome':
-                filtered_df.loc[len(filtered_df)] = row
-        self.filtered_df = filtered_df[filtered_df[fields[2]].notnull()]
+        self.usable_df = df.loc[df['asm_level'] == 'Complete Genome']
+        if self.usable_df.empty:
+            return False
+        self.usable_df = self.usable_df[self.usable_df['host'].notnull()]
+        if self.usable_df.empty:
+            return False
+        self.usable_df = self.usable_df[self.usable_df['asm_acc'].notnull()]
+        if self.usable_df.empty:
+            return False
 
-
-        for i,row in self.filtered_df.iterrows():
-            host = row[fields[2]]
-            if ('HOMO' in host.upper().split()) or ('HUMAN' in host.upper().split()):
-                self.filtered_df.loc[i,'host'] = 'Homo sapiens'
-            elif ('GALLUS' in host.upper().split()) or ('HEN' in host.upper().split()) or ('CHICKEN' in host.upper().split()):
-                self.filtered_df.loc[i,'host'] = 'Chicken'
-            elif ('TAURUS' in host.upper().split()) or ('BOVINAE' in host.upper().split()) or ('BOVINE' in host.upper().split()):
-                self.filtered_df.loc[i,'host'] = 'Bovine'
-            
+        # normalizando a coluna host
+        self.usable_df['host'] = self.usable_df['host'].apply(lambda x:x.upper())
         
+    
+        # armazenando o dataframe com os registros disponíveis antes da filtragem
+
+        with open(self.usable_json_path,'w') as file:
+            self.usable_json = self.usable_df.to_json(orient="records",indent=1)
+            file.write(self.usable_json)
+        return True
+    def filterTsv(self):    
+        human = 'HOMO|HUMAN|HOMO|SAPIENS'
+        chicken = 'GALLUS|CHICKEN'
+        bovine = 'TAURUS|BOVINAE|COW|BOVINE'
+        fish = 'AQUA|FISH|CARP'
+
+        self.filtered_df = self.usable_df
+
+        self.filtered_df.loc[self.filtered_df['host'].str.contains(human),'host'] = 'HOMO SAPIENS'
+        self.filtered_df.loc[self.filtered_df['host'].str.contains(chicken),'host'] = 'CHICKEN'
+        self.filtered_df.loc[self.filtered_df['host'].str.contains(bovine),'host'] = 'BOVINE'
+        self.filtered_df.loc[self.filtered_df['host'].str.contains(fish),'host'] = 'FISH'
     
         # armazenando o dataframe filtrado em um .json 
         with open(self.filtered_json_path, 'w') as file:
-            json_file = self.filtered_df.to_json(orient="records",indent=1)
-            file.write(json_file)
+            self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
+            file.write(self.filtered_json)
 
-    def readFilteredTsv(self):
+    def readFilteredTsv(self,filter=True):
         '''
-        Extrai informações do .json gerado pelo getFilteredTsv() filtrado.
+        Extrai informações do .json gerado pelo getUsableTsv() ou filterTsv() (filter = True).
         As informações são redundantes.
         '''
         # informações coletadas
-        self.species = []
-        self.hosts = []
-        self.strains = []
-        self.count = 0
-        
-        # testar isso
-        if hasattr(self,'filtered_df'):
-            self.hosts = [row['host'] for i,row in self.filtered_df.iterrows()]
-            self.species = [row['scientific_name'] for i,row in self.filtered_df.iterrows()]
-            self.strains = [row['strain'] for i,row in self.filtered_df.iterrows()]
-            self.count = len(self.species)
-        elif hasattr(self,'filtered_json'):
-            self.hosts = [row['host'] for row in self.filtered_json]
-            self.species = [row['scientific_name'] for row in self.filtered_json]
-            self.strains = [row['strain'] for row in self.filtered_json]
-            self.count = len(self.species)
-        elif self.filtered_json:
-            self.hosts = [row['host'] for row in self.filtered_json]
-            self.species = [row['scientific_name'] for row in self.filtered_json]
-            self.strains = [row['strain'] for row in self.filtered_json]
-            self.count = len(self.species)         
+        if filter:
+            if hasattr(self,'filtered_df'):
+                df = self.filtered_df
+        elif hasattr(self,'usable_df'):
+                df = self.usable_df
         else:
-            print('Sem informações salvas')
+            print('Sem registros salvos')
             return False
+                    
+        self.species = df['scientific_name'].tolist()
+        self.hosts = df['host'].tolist()
+        self.strains = df['strain'].tolist()
+        self.count = df.shape[0]
+
         # salvando contagem dos dados
         self.hosts_dic = {k:self.hosts.count(k) for k in set(self.hosts)}
         self.species_dic = {k:self.species.count(k) for k in set(self.species)}
@@ -189,38 +200,15 @@ class Group():
         # filtragem inicial - terminar
         filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}
                             
-        self.species_dic = filtered_species
+        self.species_fdic = filtered_species
         
-        deleted_hosts = []
-        if 'Chicken' not in self.hosts_dic.keys():
-            self.hosts_dic['Chicken'] = 0
-        if 'Homo sapiens' not in self.hosts_dic.keys():
-            self.hosts_dic['Homo sapiens'] = 0
-        if 'Bovine' not in self.hosts_dic.keys():
-            self.hosts_dic['Bovine'] = 0
-        '''
-        for host in self.hosts_dic:
-            if host == 'Homo sapiens':
-                continue
-            if host == 'Chicken':
-                continue
-            elif ('HOMO' in host.upper().split()) or ('HUMAN' in host.upper().split()):
-                self.hosts_dic['Homo sapiens'] = self.hosts_dic['Homo sapiens'] + self.hosts_dic[host] 
-                deleted_hosts.append(host)
-            elif ('GALLUS' in host.upper().split()) or ('HEN' in host.upper().split()):
-                if 'Chicken' in self.hosts_dic.keys():
-                    self.hosts_dic['Chicken'] = self.hosts_dic['Chicken'] + self.hosts_dic[host]
-                deleted_hosts.append(host)
-            '''
-        for i in deleted_hosts:
-            del self.hosts_dic[i]
         
     def makeGroupMetadata(self):
         '''
         Reune informações do readFilteredTsv() e armazena em um arquivo para posterior representação gráfica
         '''
-        metadata = {'group':self.name,'count':self.count,'species':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
-
+        metadata = {'group':self.name,'count':self.count,'species':self.species_fdic,'scientific_name':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
+        
         with open(os.path.normpath(self.info_path + f'/{self.name}_metadata'),'w') as log:
             content = js.dumps(metadata,indent=1)
             log.write(content)
@@ -232,14 +220,14 @@ def readGroupsNames():
         groups = js.load(data)
         return groups
     
-def mountExample(name="Edwardsiellaa_tarda"):
+def mountExample(name="Edwardsiella_tarda"):
     '''
     Organiza e extrai as informações de somente um grupo patogênico.
     default = "Edwardsiella_tarda" 
     '''
     obj = Group(name)
     obj.getPatData()
-    obj.getFilteredTsv()
+    obj.getUsableTsv()
     print(f'Grupo {name} montado')
     return obj
 
@@ -252,7 +240,7 @@ def updateExample(name="Edwardsiella_tarda"):
     obj = Group(name)
     if obj.checkDataUpdate():
         obj.getPatData()
-        obj.getFilteredTsv()
+        obj.getUsableTsv()
         print("Informações atualizadas")
     else:
         print("As informações do registro não precisam ser atualizadas")
@@ -267,7 +255,7 @@ def mountData():
         obj = Group(group)
         if obj.checkDataUpdate():    
             obj.getPatData()
-        obj.getFilteredTsv()
+        obj.getUsableTsv()
 
 
 def updateData():
@@ -280,57 +268,29 @@ def updateData():
         obj = Group(group)
         if obj.checkDataUpdate():
             obj.getPatData()
-            obj.getFilteredTsv()
+            obj.getUsableTsv()
         else:
-            obj.getFilteredTsv()
+            obj.getUsableTsv()
 
 def readAllData():
-    # terminar essa função
     groups = readGroupsNames()
     for group in groups:
         obj = Group(group)
-        obj.getFilteredTsv()
-        obj.readFilteredTsv()
-        obj.makeGroupMetadata()
-        print(group,' lido')
-        
-
-        #print(
-#            f'''Grupo {group}:
-#
-#Quantidade de registros: {obj.count} registros
-#
-#Espécies: {obj.species}
-#Tipos: {obj.species_dic}
-#
-#Hospedeiros: {obj.hosts}
-#Tipos: {obj.hosts_dic}
-#
-#Strains: {obj.strains}
-#Tipos: {obj.strains_dic}
-#'''
-#             )
+        if obj.getUsableTsv():
+            obj.filterTsv()
+            obj.readFilteredTsv()
+            obj.makeGroupMetadata()
+            print(group,' lido')
         
 def readSingleData(group="Edwardsiella_tarda"):
     obj = Group(group)
-    obj.getFilteredTsv()
-    obj.readFilteredTsv()
-    obj.makeGroupMetadata()
-    print(
-        f'''Grupo {group}:
-
-Quantidade de registros: {obj.count} registros
-
-Espécies: {obj.species}
-Tipos: {obj.species_dic}
-
-Hospedeiros: {obj.hosts}
-Tipos: {obj.hosts_dic}
-
-Strains: {obj.strains}
-Tipos: {obj.strains_dic}
-'''
-        )
+    if obj.getUsableTsv():
+        obj.filterTsv()
+        obj.readFilteredTsv()
+        obj.makeGroupMetadata()
+    else:
+        print('Sem registros úteis')
+    
 # Terminar função
 def generalMetadata():
     groups = readGroupsNames()
@@ -338,13 +298,27 @@ def generalMetadata():
     for group in groups:
         with open(os.path.normpath(f'data/groups_info/{group}/{group}_metadata'),'r') as log:
             pass        
-        
+
+
+'''
 start = time.time()
-readSingleData('Salmonella')
+mountData()
 end = time.time()
 minutos = int((end - start) // 60)
 segundos = (end - start) % 60
-print(f'runtime: {minutos}:{segundos}')
+print(f'mount runtime: {minutos}:{segundos}')
+'''
+start = time.time()
+readAllData()
+end = time.time()
+minutos = int((end - start) // 60)
+segundos = (end - start) % 60
+print(f'read runtime: {minutos}:{segundos}')
+
+# readAllData() = 0:50
+# new readAllData() = 0:05
+
+
 
 
 '''
@@ -359,7 +333,7 @@ with open("data/groups/groups_name_id.json","r") as file:
         if a.checkDataUpdate():       
             a.getPatData()
         if not a.readFilteredTsv():
-            a.getFilteredTsv()
+            a.getUsableTsv()
             a.readFilteredTsv()    
         total_count = total_count + a.count
         all_count[a.name] = [a.count, a.species, a.hosts]
