@@ -86,7 +86,7 @@ class Group():
         if tsv_log == []:
             return True
         tsv_log = tsv_log[0]
-        tsv_version = tsv_log.split('_')[1].rstrip('.tsv')
+        tsv_version = tsv_log.split('_')[-1].rstrip('.tsv')
         if tsv_version != self.pat_id:
             os.remove(os.path.normpath(self.tsv_path+'/'+tsv_log))
             return True
@@ -202,7 +202,7 @@ class Group():
         # filtragem inicial - terminar
         filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}     
         self.species_fdic = filtered_species
-        self.subsp_dic = {k:[i.split()[3] for i in self.species if len(i.split())>3].count(k) for k in set([i.split()[3] for i in self.species if len(i.split())>3])}
+        self.subsp_dic = {" ".join(k.split()[:4]):[j for j in [i.split()[3] for i in self.species if ((len(i.split())>3) and (i.split()[2] == "subsp."))]].count(k.split()[3]) for k in [i for i in self.species_dic if ((len(i.split())>3) and (i.split()[2] == "subsp."))]}
     def makeGroupMetadata(self):
         '''
         Reune informações do readFilteredTsv() e armazena em um arquivo para posterior representação gráfica
@@ -294,25 +294,27 @@ def readSingleData(group="Edwardsiella_tarda"):
 # Terminar função
 def generalMetadata():
     groups = readGroupsNames()
-    metadata = {}
+    metadata = {'count':0,'scientific_names':{},'hosts':{}}
     for group in groups:
         with open(os.path.normpath(f'data/groups_info/{group}/{group}_metadata'),'r') as log:
-            pass        
+            data = js.dumps(log)
 
 
-'''
+
+
 start = time.time()
-mountData()
+refresh()
+updateData()
 end = time.time()
 minutos = int((end - start) // 60)
 segundos = (end - start) % 60
 print(f'mount runtime: {minutos}:{segundos}')
-'''
+
 start = time.time()
 readAllData()
 end = time.time()
 minutos = int((end - start) // 60)
-segundos = (end - start) % 60
+segundos = int((end - start) % 60)
 print(f'read runtime: {minutos}:{segundos}')
 # readAllData() = 0:50
 # new readAllData() = 0:05
