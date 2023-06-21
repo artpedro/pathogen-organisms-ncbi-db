@@ -1,0 +1,21 @@
+[
+ {
+  "Kluyvera_intermedia": "PDG000000040.68"
+ },
+ {
+  "asm_acc": "GCA_900635475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA2612496",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Kluyvera intermedia",
+  "strain": "NCTC12125"
+ },
+ {
+  "asm_acc": "GCA_009649915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13135738",
+  "host": "FLOWER",
+  "scientific_name": "Kluyvera intermedia",
+  "strain": "N2-1"
+ }
+]

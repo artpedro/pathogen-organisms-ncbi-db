@@ -1,0 +1,141 @@
+[
+ {
+  "Enterobacter_asburiae": "PDG000000106.21"
+ },
+ {
+  "asm_acc": "GCA_001022095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733641",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "CAV1043"
+ },
+ {
+  "asm_acc": "GCA_001521715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03742638",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "ATCC 35953"
+ },
+ {
+  "asm_acc": "GCA_007035645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00166948",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "1808-013"
+ },
+ {
+  "asm_acc": "GCA_011396735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00197875",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "A2563"
+ },
+ {
+  "asm_acc": "GCA_015168595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16515958",
+  "host": "RICE",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "SD4L"
+ },
+ {
+  "asm_acc": "GCA_017347425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00282211",
+  "host": "FELIS CATUS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "En30"
+ },
+ {
+  "asm_acc": "GCA_019973695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00268104",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "Ent261"
+ },
+ {
+  "asm_acc": "GCA_022570715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26527994",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "5549"
+ },
+ {
+  "asm_acc": "GCA_023023045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21379558",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "161373-yvys"
+ },
+ {
+  "asm_acc": "GCA_023023145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21379553",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "AR2284-yvys"
+ },
+ {
+  "asm_acc": "GCA_023023265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21379552",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "AR0468-yvys"
+ },
+ {
+  "asm_acc": "GCA_023101705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21379551",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "16773-yvys"
+ },
+ {
+  "asm_acc": "GCA_024599655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29928038",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "R_A5.MM"
+ },
+ {
+  "asm_acc": "GCA_024917675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28174002",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "2497"
+ },
+ {
+  "asm_acc": "GCA_027595525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16387623",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "S3_CRE3"
+ },
+ {
+  "asm_acc": "GCA_028622135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32733969",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "2022CK-00757"
+ },
+ {
+  "asm_acc": "GCA_030179805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30974111",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "2017-45-80"
+ }
+]

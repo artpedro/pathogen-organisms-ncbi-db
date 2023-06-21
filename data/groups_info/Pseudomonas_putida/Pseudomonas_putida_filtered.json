@@ -1,0 +1,154 @@
+[
+ {
+  "asm_acc":"GCA_000325725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02604102",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Pseudomonas putida HB3267",
+  "strain":"PC9"
+ },
+ {
+  "asm_acc":"GCA_001636055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03765648",
+  "host":"PISTACIA CHINENSIS BUNGE",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"PC2"
+ },
+ {
+  "asm_acc":"GCA_001886975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05715224",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"PP112420"
+ },
+ {
+  "asm_acc":"GCA_002025705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06130965",
+  "host":"ZEA MAYS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"AA7"
+ },
+ {
+  "asm_acc":"GCA_002736045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07795048",
+  "host":"RIPARIOSIDA HERMAPHRODITA",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"E46"
+ },
+ {
+  "asm_acc":"GCA_002736125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07795037",
+  "host":"RIPARIOSIDA HERMAPHRODITA",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"E41"
+ },
+ {
+  "asm_acc":"GCA_003228315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09229081",
+  "host":"STRAWBERRY",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"JBC17"
+ },
+ {
+  "asm_acc":"GCA_900636645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3711446",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"NCTC13186"
+ },
+ {
+  "asm_acc":"GCA_005080685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11380143",
+  "host":"PYRUS COMMUNIS 'WILLIAMS'",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"1290"
+ },
+ {
+  "asm_acc":"GCA_009883635.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08376583",
+  "host":"MEDICAGO SATIVA",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"W5"
+ },
+ {
+  "asm_acc":"GCA_013305625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13107355",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"NY5709"
+ },
+ {
+  "asm_acc":"GCA_016406145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17103323",
+  "host":"UROCHLOA REPTANS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"BR-PH17"
+ },
+ {
+  "asm_acc":"GCA_024125675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN29335958",
+  "host":"TOMATO PLANT",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"PCL1760"
+ },
+ {
+  "asm_acc":"GCA_025905425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31266696",
+  "host":"NOT COLLECTED",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"SEH01"
+ },
+ {
+  "asm_acc":"GCA_025905485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31269035",
+  "host":"NOT COLLECTED",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"QH1"
+ },
+ {
+  "asm_acc":"GCA_026898135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32091923",
+  "host":"DIOSCOREA SANSIBARENSIS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"GMI12077"
+ },
+ {
+  "asm_acc":"GCA_027595085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28016848",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"NY4811"
+ },
+ {
+  "asm_acc":"GCA_029590515.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN33792085",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"AHSWHJXPP1"
+ },
+ {
+  "asm_acc":"GCA_029953615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN34414213",
+  "host":"SORGHUM",
+  "scientific_name":"Pseudomonas putida",
+  "strain":"AKMP7"
+ }
+]

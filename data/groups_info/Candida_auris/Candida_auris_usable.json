@@ -1,0 +1,333 @@
+[
+ {
+  "Candida_auris": "PDG000000067.123"
+ },
+ {
+  "asm_acc": "GCA_008275145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05379621",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B11245"
+ },
+ {
+  "asm_acc": "GCA_003013715.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05379608",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B11220"
+ },
+ {
+  "asm_acc": "GCA_014217455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12083544",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_014673535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15723399",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "FG_GE1"
+ },
+ {
+  "asm_acc": "GCA_016495645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10139530",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_016495665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13294127",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_016495685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13354598",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_016772135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05379594",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B11205"
+ },
+ {
+  "asm_acc": "GCA_016772175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15834475",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B17721"
+ },
+ {
+  "asm_acc": "GCA_016772195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10141991",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B12631"
+ },
+ {
+  "asm_acc": "GCA_016772215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13294188",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B12037"
+ },
+ {
+  "asm_acc": "GCA_016772235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13294125",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "B13916"
+ },
+ {
+  "asm_acc": "GCA_016809505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11570381",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589312",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589304",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589303",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589311",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589310",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589309",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589302",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589298",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589308",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589305",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589307",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589296",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589306",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589297",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589300",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589301",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589294",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589284",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589293",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589291",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589299",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589295",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589292",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589289",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589287",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589288",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019039775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589285",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_019332045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19589290",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": null
+ }
+]

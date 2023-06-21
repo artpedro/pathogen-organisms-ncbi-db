@@ -1,0 +1,69 @@
+[
+ {
+  "Flavobacterium_psychrophilum": "PDG000000078.10"
+ },
+ {
+  "asm_acc": "GCA_000754365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03290989",
+  "host": "ONCORHYNCHUS MYKISS (RAINBOW TROUT)",
+  "scientific_name": "Flavobacterium psychrophilum FPG101",
+  "strain": "FPG101"
+ },
+ {
+  "asm_acc": "GCA_000754405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03290988",
+  "host": "ONCORHYNCHUS KISUTCH (COHO SALMON)",
+  "scientific_name": "Flavobacterium psychrophilum FPG3",
+  "strain": "FPG3"
+ },
+ {
+  "asm_acc": "GCA_009730675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13381501",
+  "host": "ONCORHYNCHUS MYKISS",
+  "scientific_name": "Flavobacterium psychrophilum",
+  "strain": "CN6"
+ },
+ {
+  "asm_acc": "GCA_013343175.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11356335",
+  "host": "RAINBOW TROUT",
+  "scientific_name": "Flavobacterium psychrophilum",
+  "strain": "FPS-S6"
+ },
+ {
+  "asm_acc": "GCA_013343195.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11356336",
+  "host": "RAINBOW TROUT",
+  "scientific_name": "Flavobacterium psychrophilum",
+  "strain": "160401-1/5N"
+ },
+ {
+  "asm_acc": "GCA_016803475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15518435",
+  "host": "RAINBOW TROUT",
+  "scientific_name": "Flavobacterium psychrophilum",
+  "strain": "FPS-R7"
+ },
+ {
+  "asm_acc": "GCA_019774575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20804763",
+  "host": "THYMALLUS THYMALLUS",
+  "scientific_name": "Flavobacterium psychrophilum",
+  "strain": "CN46"
+ },
+ {
+  "asm_acc": "GCA_019774595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20804762",
+  "host": "ONCORHYNCHUS MYKISS",
+  "scientific_name": "Flavobacterium psychrophilum",
+  "strain": "CN38"
+ }
+]

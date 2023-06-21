@@ -1,0 +1,21 @@
+[
+ {
+  "Enterobacter_cancerogenus": "PDG000000107.4"
+ },
+ {
+  "asm_acc": "GCA_002850575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08107552",
+  "host": "GALLERIA MELLONELLA",
+  "scientific_name": "Enterobacter cancerogenus",
+  "strain": "CR-Eb1"
+ },
+ {
+  "asm_acc": "GCA_019880465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16176831",
+  "host": "HELICOVERPA ARMIGERA",
+  "scientific_name": "Enterobacter cancerogenus",
+  "strain": "HAEC1"
+ }
+]

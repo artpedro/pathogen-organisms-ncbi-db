@@ -1,0 +1,197 @@
+[
+ {
+  "Stenotrophomonas_maltophilia": "PDG000000093.46"
+ },
+ {
+  "asm_acc": "GCA_001274595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03389650",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "ISMMS3"
+ },
+ {
+  "asm_acc": "GCA_001274655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03389647",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "ISMMS2"
+ },
+ {
+  "asm_acc": "GCA_001274675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03389649",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "ISMMS2R"
+ },
+ {
+  "asm_acc": "GCA_002025605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06130959",
+  "host": "ZEA MAYS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "AA1"
+ },
+ {
+  "asm_acc": "GCA_002208885.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173338",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "FDAARGOS_325"
+ },
+ {
+  "asm_acc": "GCA_900186865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4076705",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "NCTC10257"
+ },
+ {
+  "asm_acc": "GCA_002951115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996266",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "FDAARGOS_92"
+ },
+ {
+  "asm_acc": "GCA_900475405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3856672",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "NCTC10258"
+ },
+ {
+  "asm_acc": "GCA_900475685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3956094",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "NCTC10498"
+ },
+ {
+  "asm_acc": "GCA_003812985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163201",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "FDAARGOS_507"
+ },
+ {
+  "asm_acc": "GCA_900636655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3724090",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "NCTC13014"
+ },
+ {
+  "asm_acc": "GCA_900636905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4537264",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "NCTC10259"
+ },
+ {
+  "asm_acc": "GCA_007833655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09665072",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "SM 866"
+ },
+ {
+  "asm_acc": "GCA_008693985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056364",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "FDAARGOS_649"
+ },
+ {
+  "asm_acc": "GCA_009857175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13642261",
+  "host": "LEPTINOTARSA DECEMLINEATA (COLORADO POTATO BEETLE)",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "CPBW01"
+ },
+ {
+  "asm_acc": "GCA_011386925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14206046",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "NCTC10498"
+ },
+ {
+  "asm_acc": "GCA_012971765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12500624",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "CF13"
+ },
+ {
+  "asm_acc": "GCA_020132085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15794714",
+  "host": "CLIVIA",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "JZL8"
+ },
+ {
+  "asm_acc": "GCA_021378335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18275197",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "ZT1"
+ },
+ {
+  "asm_acc": "GCA_023702495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28867336",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "142"
+ },
+ {
+  "asm_acc": "GCA_024734725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30333624",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "SCAID WND1-2022 (370)"
+ },
+ {
+  "asm_acc": "GCA_025642255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30996861",
+  "host": "SEMPERVIVUM TECTORUM",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "SG.Y2"
+ },
+ {
+  "asm_acc": "GCA_026428295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09720998",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "CYZ"
+ },
+ {
+  "asm_acc": "GCA_027594805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN23434718",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "454"
+ }
+]

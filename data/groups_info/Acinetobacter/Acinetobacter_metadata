@@ -1,0 +1,44 @@
+{
+ "group": "Acinetobacter",
+ "count": 517,
+ "species": {
+  "Acinetobacter seifertii": 22,
+  "Acinetobacter baumannii": 465,
+  "Acinetobacter pittii": 21,
+  "Acinetobacter nosocomialis": 9
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Acinetobacter seifertii": 22,
+  "Acinetobacter baumannii Canada BC-5": 1,
+  "Acinetobacter baumannii D1279779": 1,
+  "Acinetobacter baumannii LAC-4": 1,
+  "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841": 1,
+  "Acinetobacter pittii": 21,
+  "Acinetobacter nosocomialis M2": 1,
+  "Acinetobacter baumannii ACICU": 1,
+  "Acinetobacter baumannii": 459,
+  "Acinetobacter baumannii ATCC 17978": 1,
+  "Acinetobacter nosocomialis": 8
+ },
+ "strain": {
+  "ATCC 17978": 2,
+  "04117201": 2,
+  "ATCC 19606": 3,
+  "null": 4
+ },
+ "hosts": {
+  "PARTHENIUM ARGENTATUM GRAY (GUAYULE SHRUBS)": 1,
+  "NOT AVAILABLE": 1,
+  "CANIS LUPUS": 1,
+  "WHITE STORK": 2,
+  "BOVINE": 1,
+  "FISH": 2,
+  "CANIS LUPUS FAMILIARIS": 1,
+  "SORGHUM BICOLOR": 1,
+  "DUCK": 4,
+  "OVIS ARIES": 1,
+  "HOMO SAPIENS": 501,
+  "SUS SCROFA DOMESTICUS": 1
+ }
+}

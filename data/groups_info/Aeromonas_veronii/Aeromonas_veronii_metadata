@@ -1,0 +1,24 @@
+{
+ "group": "Aeromonas_veronii",
+ "count": 36,
+ "species": {
+  "Aeromonas veronii": 36
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Aeromonas veronii": 35,
+  "Aeromonas veronii Hm21": 1
+ },
+ "strain": {},
+ "hosts": {
+  "HIRUDO VERBANA": 1,
+  "TACHYSURUS FULVIDRACO": 1,
+  "ALLIGATOR": 1,
+  "MEGALOBRAMA AMBLYCEPHALA": 1,
+  "FISH": 5,
+  "ODONTOBUTIS OBSCURA": 1,
+  "MICROPTERUS SALMOIDES": 1,
+  "DISCUS": 1,
+  "HOMO SAPIENS": 24
+ }
+}

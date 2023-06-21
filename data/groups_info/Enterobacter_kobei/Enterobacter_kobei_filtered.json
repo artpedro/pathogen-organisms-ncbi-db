@@ -1,0 +1,98 @@
+[
+ {
+  "asm_acc":"GCA_001729765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05581747",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"DSM 13645"
+ },
+ {
+  "asm_acc":"GCA_003665375.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08027255",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"WCHEK045523"
+ },
+ {
+  "asm_acc":"GCA_008365235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12648938",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"EB_P8_L5_01.19"
+ },
+ {
+  "asm_acc":"GCA_008931545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12289356",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"C16"
+ },
+ {
+  "asm_acc":"GCA_014041955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15594913",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"IB2020"
+ },
+ {
+  "asm_acc":"GCA_022559745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23139065",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"6"
+ },
+ {
+  "asm_acc":"GCA_023023125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21379554",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"11778-yvys"
+ },
+ {
+  "asm_acc":"GCA_023023705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21379548",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"12379-yvys"
+ },
+ {
+  "asm_acc":"GCA_023333675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21379547",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"11743-yvys"
+ },
+ {
+  "asm_acc":"GCA_023547315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN22612881",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"Ek72"
+ },
+ {
+  "asm_acc":"GCA_023558885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28416108",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"C210239"
+ },
+ {
+  "asm_acc":"GCA_027595935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16387637",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter kobei",
+  "strain":"S18_CRE18"
+ }
+]

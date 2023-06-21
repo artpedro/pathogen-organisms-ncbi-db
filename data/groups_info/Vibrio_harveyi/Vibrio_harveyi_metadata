@@ -1,0 +1,26 @@
+{
+ "group": "Vibrio_harveyi",
+ "count": 22,
+ "species": {
+  "Vibrio harveyi": 16,
+  "Vibrio campbellii": 6
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Vibrio harveyi": 16,
+  "Vibrio campbellii": 6
+ },
+ "strain": {},
+ "hosts": {
+  "PENAEUS VANNAMEI": 5,
+  "PARALICHTHYS OLIVACEUS": 1,
+  "D. LABRAX": 5,
+  "S. AURATA": 3,
+  "CAGE-CULTURED RED DRUM": 1,
+  "TRACHINOTUS OVATUS": 1,
+  "HIPPOCAMPUS KUDA": 1,
+  "DICENTRARCHUS LABRAX": 3,
+  "ENVIRONMENT": 1,
+  "VIBRIOSIS AFFECTED ASIAN SEABASS (LATES CALCARIFER) FINGERLING": 1
+ }
+}

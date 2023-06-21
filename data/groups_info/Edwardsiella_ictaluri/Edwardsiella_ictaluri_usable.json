@@ -1,0 +1,45 @@
+[
+ {
+  "Edwardsiella_ictaluri": "PDG000000079.10"
+ },
+ {
+  "asm_acc": "GCA_002076875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06637964",
+  "host": "OREOCHROMIS NILOTICUS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "RUSVM-1"
+ },
+ {
+  "asm_acc": "GCA_003054425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08906337",
+  "host": "CATFISH",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "MS-17-156"
+ },
+ {
+  "asm_acc": "GCA_003058405.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08930763",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "S97-773"
+ },
+ {
+  "asm_acc": "GCA_003074995.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08930813",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "S07-698"
+ },
+ {
+  "asm_acc": "GCA_025665375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30966624",
+  "host": "TACHYSURUS FULVIDRACO (YELLOW CATFISH)",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "669"
+ }
+]

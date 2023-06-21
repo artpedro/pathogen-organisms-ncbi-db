@@ -1,0 +1,24 @@
+{
+ "group": "Morganella",
+ "count": 30,
+ "species": {
+  "Morganella morganii": 30
+ },
+ "subsp.": {
+  "Morganella morganii subsp. morganii": 12
+ },
+ "scientific_name": {
+  "Morganella morganii subsp. morganii": 11,
+  "Morganella morganii": 18,
+  "Morganella morganii subsp. morganii KT": 1
+ },
+ "strain": {},
+ "hosts": {
+  "CROCODILE LIZARD": 1,
+  "SWINE": 1,
+  "MISGURNUS ANGUILLICAUDATUS": 1,
+  "TURSIOPS TRUNCATUS": 1,
+  "PTYAS MUCOSA": 1,
+  "HOMO SAPIENS": 25
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "group": "Burkholderia_cepacia_complex",
+ "count": 90,
+ "species": {
+  "Burkholderia dolosa": 1,
+  "Burkholderia lata": 1,
+  "Burkholderia latens": 3,
+  "Burkholderia cepacia": 10,
+  "Burkholderia pyrrocinia": 1,
+  "Burkholderia multivorans": 45,
+  "Burkholderia vietnamiensis": 5,
+  "Burkholderia contaminans": 6,
+  "Burkholderia stabilis": 1,
+  "Burkholderia cenocepacia": 17
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Burkholderia dolosa": 1,
+  "Burkholderia lata": 1,
+  "Burkholderia cepacia ATCC 25416": 1,
+  "Burkholderia latens": 3,
+  "Burkholderia cepacia": 9,
+  "Burkholderia pyrrocinia": 1,
+  "Burkholderia multivorans": 45,
+  "Burkholderia vietnamiensis": 5,
+  "Burkholderia contaminans": 6,
+  "Burkholderia stabilis": 1,
+  "Burkholderia cenocepacia": 17
+ },
+ "strain": {},
+ "hosts": {
+  "POPULUS": 1,
+  "RICE": 1,
+  "PLECTROCNEMIA": 1,
+  "SHEEP": 1,
+  "CORN": 1,
+  "POPLAR": 1,
+  "ENVIRONMENT": 2,
+  "ONION": 1,
+  "HOMO SAPIENS": 80,
+  "ALLIUM CEPA (ONION)": 1
+ }
+}

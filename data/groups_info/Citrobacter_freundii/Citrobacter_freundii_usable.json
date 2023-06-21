@@ -1,0 +1,597 @@
+[
+ {
+  "Citrobacter_freundii": "PDG000000039.611"
+ },
+ {
+  "asm_acc": "GCA_000783995.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02934510",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "FDAARGOS_61"
+ },
+ {
+  "asm_acc": "GCA_001022155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733741",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CAV1321"
+ },
+ {
+  "asm_acc": "GCA_001022275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733754",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CAV1741"
+ },
+ {
+  "asm_acc": "GCA_001558935.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996309",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter amalonaticus",
+  "strain": "FDAARGOS_165"
+ },
+ {
+  "asm_acc": "GCA_001559075.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996265",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter amalonaticus",
+  "strain": "FDAARGOS_122"
+ },
+ {
+  "asm_acc": "GCA_001718055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05570461",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "SL151"
+ },
+ {
+  "asm_acc": "GCA_002208845.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173303",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter braakii",
+  "strain": "FDAARGOS_290"
+ },
+ {
+  "asm_acc": "GCA_002208985.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173300",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "FDAARGOS_287"
+ },
+ {
+  "asm_acc": "GCA_002386385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07312408",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter werkmanii",
+  "strain": "FDAARGOS_364"
+ },
+ {
+  "asm_acc": "GCA_002393245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07312437",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "FDAARGOS_393"
+ },
+ {
+  "asm_acc": "GCA_002786865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07944242",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CRCB-101"
+ },
+ {
+  "asm_acc": "GCA_003665535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729551",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "UMH19"
+ },
+ {
+  "asm_acc": "GCA_003665555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729550",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter werkmanii",
+  "strain": "UMH18"
+ },
+ {
+  "asm_acc": "GCA_003665575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729549",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter pasteurii",
+  "strain": "UMH17"
+ },
+ {
+  "asm_acc": "GCA_003665595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729547",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "UMH15"
+ },
+ {
+  "asm_acc": "GCA_003665615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729546",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "UMH14"
+ },
+ {
+  "asm_acc": "GCA_003665635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729545",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "UMH13"
+ },
+ {
+  "asm_acc": "GCA_003665655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729552",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "HM38"
+ },
+ {
+  "asm_acc": "GCA_003665675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07729548",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "UMH16"
+ },
+ {
+  "asm_acc": "GCA_003812325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163243",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "FDAARGOS_550"
+ },
+ {
+  "asm_acc": "GCA_003812345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163242",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "FDAARGOS_549"
+ },
+ {
+  "asm_acc": "GCA_003812405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163225",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "FDAARGOS_530"
+ },
+ {
+  "asm_acc": "GCA_900638065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA103980411",
+  "host": "ENVIRONMENTAL",
+  "scientific_name": "Citrobacter youngae",
+  "strain": "NCTC13709"
+ },
+ {
+  "asm_acc": "GCA_006965505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11653541",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter amalonaticus",
+  "strain": "133355-SW-C4-Cam"
+ },
+ {
+  "asm_acc": "GCA_008693645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056331",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter werkmanii",
+  "strain": "FDAARGOS_616"
+ },
+ {
+  "asm_acc": "GCA_008693945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056361",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "FDAARGOS_646"
+ },
+ {
+  "asm_acc": "GCA_008931485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12289284",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "C50"
+ },
+ {
+  "asm_acc": "GCA_009857035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13282750",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "L75"
+ },
+ {
+  "asm_acc": "GCA_013085885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13978991",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CitB"
+ },
+ {
+  "asm_acc": "GCA_013371705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13737474",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "ZY198"
+ },
+ {
+  "asm_acc": "GCA_013389635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15394190",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "M92"
+ },
+ {
+  "asm_acc": "GCA_014169975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15086848",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "IDR1900015725-01-02"
+ },
+ {
+  "asm_acc": "GCA_014170055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15086845",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "IDR1800045912-01-00"
+ },
+ {
+  "asm_acc": "GCA_014189285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11506077",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "N18-04128"
+ },
+ {
+  "asm_acc": "GCA_014189355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11506022",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "N18-04078"
+ },
+ {
+  "asm_acc": "GCA_014189375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11506036",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "N18-04085"
+ },
+ {
+  "asm_acc": "GCA_014679775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00244769",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "MPUCK001"
+ },
+ {
+  "asm_acc": "GCA_014725915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11505996",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "N16-03880"
+ },
+ {
+  "asm_acc": "GCA_904859905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3357462",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "MSB1_1H"
+ },
+ {
+  "asm_acc": "GCA_015353115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16667806",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter amalonaticus",
+  "strain": "CA71"
+ },
+ {
+  "asm_acc": "GCA_016939615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16933282",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CF49969"
+ },
+ {
+  "asm_acc": "GCA_017086505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13140889",
+  "host": "GRASS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "zone4"
+ },
+ {
+  "asm_acc": "GCA_018128425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17736025",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter sedlakii",
+  "strain": "3347689II"
+ },
+ {
+  "asm_acc": "GCA_019443705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14371231",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "NJ"
+ },
+ {
+  "asm_acc": "GCA_019645955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20585126",
+  "host": "MUS MUSCULUS C3H/HEN",
+  "scientific_name": "Citrobacter amalonaticus",
+  "strain": "C3H"
+ },
+ {
+  "asm_acc": "GCA_019803045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20153794",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter farmeri",
+  "strain": "CCRI-24236"
+ },
+ {
+  "asm_acc": "GCA_020809005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21601121",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "DY2010"
+ },
+ {
+  "asm_acc": "GCA_905218895.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7853238",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905219065.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7853256",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905232395.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7962729",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905232515.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7962742",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905329885.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8065677",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905338045.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8158485",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905337805.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8158506",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905337845.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8158505",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_021278985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21155799",
+  "host": "RODENT",
+  "scientific_name": "Citrobacter rodentium NBRC 105723 = DSM 16636",
+  "strain": "DSM 16636"
+ },
+ {
+  "asm_acc": "GCA_022646275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15694748",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "3863"
+ },
+ {
+  "asm_acc": "GCA_023658085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28680541",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "59174"
+ },
+ {
+  "asm_acc": "GCA_024662035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30174882",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter youngae",
+  "strain": "CF10"
+ },
+ {
+  "asm_acc": "GCA_025723225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27967465",
+  "host": "MUS MUSCULUS",
+  "scientific_name": "Citrobacter amalonaticus",
+  "strain": "RSHH22"
+ },
+ {
+  "asm_acc": "GCA_026240835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31693425",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CF1807"
+ },
+ {
+  "asm_acc": "GCA_026240875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31693747",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CFA1707"
+ },
+ {
+  "asm_acc": "GCA_026626145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26195905",
+  "host": "PELODISCUS SINENSIS",
+  "scientific_name": "Citrobacter braakii",
+  "strain": "LBA3"
+ },
+ {
+  "asm_acc": "GCA_026526975.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31929640",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CFSAN077772"
+ },
+ {
+  "asm_acc": "GCA_027595105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28016853",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "NY2385"
+ },
+ {
+  "asm_acc": "GCA_029025745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33442942",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter koseri",
+  "strain": "L2395"
+ },
+ {
+  "asm_acc": "GCA_029634665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26319875",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter braakii",
+  "strain": "P1"
+ },
+ {
+  "asm_acc": "GCA_030007575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14640084",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CF12"
+ },
+ {
+  "asm_acc": "GCA_030007795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14640085",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CF13"
+ },
+ {
+  "asm_acc": "GCA_030035205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34580837",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CF5125"
+ },
+ {
+  "asm_acc": "GCA_030064365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31656063",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "Cf-Emp"
+ },
+ {
+  "asm_acc": "GCA_030122495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33434147",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "2075"
+ },
+ {
+  "asm_acc": "GCA_030177735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35332011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "CRNMS1"
+ },
+ {
+  "asm_acc": "GCA_030178515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30974102",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "2017-45-172"
+ }
+]

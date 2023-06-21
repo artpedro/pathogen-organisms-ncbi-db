@@ -1,0 +1,50 @@
+[
+ {
+  "asm_acc":"GCA_000968115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA4532339",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Yersinia enterocolitica (type O:5) str. YE53\/03",
+  "strain":"YE53\/03"
+ },
+ {
+  "asm_acc":"GCA_001305635.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03490473",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Yersinia enterocolitica",
+  "strain":"KNG22703"
+ },
+ {
+  "asm_acc":"GCA_900635745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA2742608",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Yersinia enterocolitica subsp. enterocolitica",
+  "strain":"NCTC13629"
+ },
+ {
+  "asm_acc":"GCA_900637005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3936789",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Yersinia enterocolitica subsp. palearctica",
+  "strain":"NCTC13769"
+ },
+ {
+  "asm_acc":"GCA_004368055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09641678",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Yersinia enterocolitica subsp. palearctica",
+  "strain":"Y1"
+ },
+ {
+  "asm_acc":"GCA_901472495.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA2742606",
+  "host":"NOT AVAILABLE: NOT COLLECTED",
+  "scientific_name":"Yersinia enterocolitica subsp. enterocolitica",
+  "strain":"NCTC12982"
+ }
+]

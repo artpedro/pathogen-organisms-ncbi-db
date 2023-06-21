@@ -1,0 +1,17 @@
+{
+ "group": "Listeria_innocua",
+ "count": 5,
+ "species": {
+  "Listeria innocua": 5
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Listeria innocua": 5
+ },
+ "strain": {},
+ "hosts": {
+  "NOT AVAILABLE": 1,
+  "HOMO SAPIENS": 3,
+  "BOVINE": 1
+ }
+}

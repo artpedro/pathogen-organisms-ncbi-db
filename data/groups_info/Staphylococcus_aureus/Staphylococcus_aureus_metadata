@@ -1,0 +1,70 @@
+{
+ "group": "Staphylococcus_aureus",
+ "count": 1310,
+ "species": {
+  "Staphylococcus aureus": 1300,
+  "Staphylococcus schweitzeri": 1,
+  "Staphylococcus argenteus": 9
+ },
+ "subsp.": {
+  "Staphylococcus aureus subsp. aureus": 12
+ },
+ "scientific_name": {
+  "Staphylococcus aureus subsp. aureus Z172": 1,
+  "Staphylococcus aureus subsp. aureus 11819-97": 1,
+  "Staphylococcus aureus subsp. aureus ST772-MRSA-V": 1,
+  "Staphylococcus aureus subsp. aureus ECT-R 2": 1,
+  "Staphylococcus aureus subsp. aureus M013": 1,
+  "Staphylococcus aureus subsp. aureus T0131": 1,
+  "Staphylococcus aureus subsp. aureus NCTC 8325": 1,
+  "Staphylococcus argenteus": 9,
+  "Staphylococcus schweitzeri": 1,
+  "Staphylococcus aureus subsp. aureus ST398": 1,
+  "Staphylococcus aureus subsp. aureus TCH60": 1,
+  "Staphylococcus aureus subsp. aureus SA268": 1,
+  "Staphylococcus aureus RF122": 1,
+  "Staphylococcus aureus": 1285,
+  "Staphylococcus aureus LAC": 1,
+  "Staphylococcus aureus subsp. aureus str. Newman": 1,
+  "Staphylococcus aureus 08BA02176": 1,
+  "Staphylococcus aureus subsp. aureus Tager 104": 1
+ },
+ "strain": {
+  "199": 2,
+  "null": 49,
+  "CC239-MRSA-III(var.)": 3,
+  "277": 2,
+  "Seattle 1945": 2,
+  "LAC": 2,
+  "S36": 2,
+  "MN8": 2
+ },
+ "hosts": {
+  "CAMELUS DROMEDARIUS": 3,
+  "CATTLE": 4,
+  "SWINE": 5,
+  "CAMEL": 29,
+  "ENVIRONMENT": 1,
+  "NOT AVAILABLE": 15,
+  "NIST MIXED MICROBIAL RM STRAIN": 2,
+  "BOVINE": 21,
+  "HOMO SAPIENS": 1170,
+  "PTEROPUS LIVINGSTONII": 2,
+  "SHEEP": 11,
+  "SUS SCROFA": 4,
+  "MACACA MULATTA": 16,
+  "MUS MUSCULUS": 1,
+  "OVINE": 1,
+  "SUS SCROFA DOMESTICUS": 4,
+  "CHICKEN": 1,
+  "EQUUS CABALLUS": 1,
+  "MELES MELES": 1,
+  "RED-TAILED MONKEY": 1,
+  "CASTOR FIBER (EURASIAN BEAVER)": 2,
+  "CAT": 1,
+  "SCIURUS VULGARIS": 4,
+  "MACACA SYLVANUS": 2,
+  "MACACA ASSAMENSIS": 3,
+  "PIG": 5
+ }
+}

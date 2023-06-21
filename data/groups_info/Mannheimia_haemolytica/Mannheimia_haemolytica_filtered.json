@@ -1,0 +1,810 @@
+[
+ {
+  "asm_acc":"GCA_000349785.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02048830",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica USDA-ARS-USMARC-185",
+  "strain":"USDA-ARS-USMARC-185"
+ },
+ {
+  "asm_acc":"GCA_000349765.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02048829",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica USDA-ARS-USMARC-183",
+  "strain":"USDA-ARS-USMARC-183"
+ },
+ {
+  "asm_acc":"GCA_000439735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02262084",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica USMARC_2286",
+  "strain":"USMARC_2286"
+ },
+ {
+  "asm_acc":"GCA_000422145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02056285",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica D153",
+  "strain":"D153"
+ },
+ {
+  "asm_acc":"GCA_000427275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02056363",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica D171",
+  "strain":"D171"
+ },
+ {
+  "asm_acc":"GCA_000422095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02056364",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica D174",
+  "strain":"D174"
+ },
+ {
+  "asm_acc":"GCA_000819525.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03275447",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica USDA-ARS-USMARC-184",
+  "strain":"USDA-ARS-USMARC-184"
+ },
+ {
+  "asm_acc":"GCA_000963635.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03435925",
+  "host":"CATTLE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"89010807N"
+ },
+ {
+  "asm_acc":"GCA_000963675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03435924",
+  "host":"CATTLE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"89010807N"
+ },
+ {
+  "asm_acc":"GCA_002285575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07537192",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"USDA-ARS-USMARC-191"
+ },
+ {
+  "asm_acc":"GCA_002285595.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07537191",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"USDA-ARS-USMARC-187"
+ },
+ {
+  "asm_acc":"GCA_002285615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07537190",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"USDA-ARS-USMARC-186"
+ },
+ {
+  "asm_acc":"GCA_002285815.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07537193",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"USDA-ARS-USMARC-193"
+ },
+ {
+  "asm_acc":"GCA_900638155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104167175",
+  "host":"SHEEP",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"NCTC10643"
+ },
+ {
+  "asm_acc":"GCA_007963885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717118",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1451"
+ },
+ {
+  "asm_acc":"GCA_007964065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717128",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1450"
+ },
+ {
+  "asm_acc":"GCA_007964225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717133",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1405"
+ },
+ {
+  "asm_acc":"GCA_007964465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717151",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1383"
+ },
+ {
+  "asm_acc":"GCA_007964685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717121",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1373"
+ },
+ {
+  "asm_acc":"GCA_007964805.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717098",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1367"
+ },
+ {
+  "asm_acc":"GCA_007964925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717132",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1342"
+ },
+ {
+  "asm_acc":"GCA_007965105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717083",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1329"
+ },
+ {
+  "asm_acc":"GCA_007965355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717120",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1319"
+ },
+ {
+  "asm_acc":"GCA_007965585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717142",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1318"
+ },
+ {
+  "asm_acc":"GCA_007965745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717129",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1309"
+ },
+ {
+  "asm_acc":"GCA_007965905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717125",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1287"
+ },
+ {
+  "asm_acc":"GCA_007966105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717147",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1282"
+ },
+ {
+  "asm_acc":"GCA_007973265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717112",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39433"
+ },
+ {
+  "asm_acc":"GCA_007973365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717111",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39409"
+ },
+ {
+  "asm_acc":"GCA_007973645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717092",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39394"
+ },
+ {
+  "asm_acc":"GCA_007973825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717091",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39382"
+ },
+ {
+  "asm_acc":"GCA_007974025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717090",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39373"
+ },
+ {
+  "asm_acc":"GCA_007974045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717110",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39309"
+ },
+ {
+  "asm_acc":"GCA_007974065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717089",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"39107"
+ },
+ {
+  "asm_acc":"GCA_007974085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717138",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"38599"
+ },
+ {
+  "asm_acc":"GCA_007974105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717109",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"38202"
+ },
+ {
+  "asm_acc":"GCA_007974125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717108",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"38120"
+ },
+ {
+  "asm_acc":"GCA_007974145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717107",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"38089"
+ },
+ {
+  "asm_acc":"GCA_007974165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717088",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"37778"
+ },
+ {
+  "asm_acc":"GCA_007974375.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717097",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"37121"
+ },
+ {
+  "asm_acc":"GCA_007974525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717087",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"34142"
+ },
+ {
+  "asm_acc":"GCA_007974745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717117",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"33980"
+ },
+ {
+  "asm_acc":"GCA_007974925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717116",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"33702"
+ },
+ {
+  "asm_acc":"GCA_007975085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717102",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"33690"
+ },
+ {
+  "asm_acc":"GCA_007975225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717137",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"33041"
+ },
+ {
+  "asm_acc":"GCA_007975365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717101",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"32852"
+ },
+ {
+  "asm_acc":"GCA_007975575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717115",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"32795"
+ },
+ {
+  "asm_acc":"GCA_007975765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717124",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"32635"
+ },
+ {
+  "asm_acc":"GCA_007976025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717145",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"32619"
+ },
+ {
+  "asm_acc":"GCA_007976245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717141",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"28488"
+ },
+ {
+  "asm_acc":"GCA_007976445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717106",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"28253"
+ },
+ {
+  "asm_acc":"GCA_007976625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717105",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"28240"
+ },
+ {
+  "asm_acc":"GCA_007976765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717114",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"28226"
+ },
+ {
+  "asm_acc":"GCA_007976905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717096",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23579"
+ },
+ {
+  "asm_acc":"GCA_007977085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717095",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23570"
+ },
+ {
+  "asm_acc":"GCA_007977225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717094",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23558"
+ },
+ {
+  "asm_acc":"GCA_007977495.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717093",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23533"
+ },
+ {
+  "asm_acc":"GCA_007977645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717113",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23311"
+ },
+ {
+  "asm_acc":"GCA_007977825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717086",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23278"
+ },
+ {
+  "asm_acc":"GCA_007978045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717100",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"23217"
+ },
+ {
+  "asm_acc":"GCA_007978185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717104",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"22650"
+ },
+ {
+  "asm_acc":"GCA_007978365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717103",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"22604"
+ },
+ {
+  "asm_acc":"GCA_007978505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717150",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"22549"
+ },
+ {
+  "asm_acc":"GCA_007978725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717131",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1609"
+ },
+ {
+  "asm_acc":"GCA_007978905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717134",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1584"
+ },
+ {
+  "asm_acc":"GCA_007979065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717085",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1583"
+ },
+ {
+  "asm_acc":"GCA_007979225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717146",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1582"
+ },
+ {
+  "asm_acc":"GCA_007979365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717135",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1576"
+ },
+ {
+  "asm_acc":"GCA_007979525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717099",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1571"
+ },
+ {
+  "asm_acc":"GCA_007979665.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717084",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1567"
+ },
+ {
+  "asm_acc":"GCA_007979905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717130",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1563"
+ },
+ {
+  "asm_acc":"GCA_007980045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717119",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1561"
+ },
+ {
+  "asm_acc":"GCA_007980145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717140",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1560"
+ },
+ {
+  "asm_acc":"GCA_007980285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717139",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1532"
+ },
+ {
+  "asm_acc":"GCA_007980445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717144",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1514"
+ },
+ {
+  "asm_acc":"GCA_007980645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717123",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1512"
+ },
+ {
+  "asm_acc":"GCA_007980785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717136",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1506"
+ },
+ {
+  "asm_acc":"GCA_007980905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717127",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1503"
+ },
+ {
+  "asm_acc":"GCA_007980965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717149",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1498"
+ },
+ {
+  "asm_acc":"GCA_007980985.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717122",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1476"
+ },
+ {
+  "asm_acc":"GCA_007981005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717148",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1475"
+ },
+ {
+  "asm_acc":"GCA_007981025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717126",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1471"
+ },
+ {
+  "asm_acc":"GCA_007981045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05717143",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"1454"
+ },
+ {
+  "asm_acc":"GCA_022404875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535276",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0768"
+ },
+ {
+  "asm_acc":"GCA_022404895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535275",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0760"
+ },
+ {
+  "asm_acc":"GCA_022404915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535274",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0746"
+ },
+ {
+  "asm_acc":"GCA_022404955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535272",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0729"
+ },
+ {
+  "asm_acc":"GCA_022404975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535271",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0728"
+ },
+ {
+  "asm_acc":"GCA_022404995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535270",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0727"
+ },
+ {
+  "asm_acc":"GCA_022405015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535269",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0722"
+ },
+ {
+  "asm_acc":"GCA_022405035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535268",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0597"
+ },
+ {
+  "asm_acc":"GCA_023516255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102264",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"184"
+ },
+ {
+  "asm_acc":"GCA_023516275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102263",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"183"
+ },
+ {
+  "asm_acc":"GCA_023516295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102262",
+  "host":"OVIS ARIES",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"NCTC 10208"
+ },
+ {
+  "asm_acc":"GCA_023516315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102261",
+  "host":"OVIS ARIES",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"NCTC 10636"
+ },
+ {
+  "asm_acc":"GCA_023516355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102259",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"P1148"
+ },
+ {
+  "asm_acc":"GCA_023516375.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102258",
+  "host":"OVIS ARIES",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"H-5106"
+ },
+ {
+  "asm_acc":"GCA_023516395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28102257",
+  "host":"OVIS ARIES",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"B-31"
+ },
+ {
+  "asm_acc":"GCA_020971705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN22599413",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"IMT47952"
+ },
+ {
+  "asm_acc":"GCA_022404935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15535273",
+  "host":"BOVINE",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"0745"
+ },
+ {
+  "asm_acc":"GCA_029916885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN34340262",
+  "host":"CALF",
+  "scientific_name":"Mannheimia haemolytica",
+  "strain":"190176"
+ }
+]

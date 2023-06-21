@@ -1,0 +1,42 @@
+[
+ {
+  "asm_acc":"GCA_000982825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03371468",
+  "host":"INFANTS",
+  "scientific_name":"Cronobacter sakazakii",
+  "strain":"ATCC 29544"
+ },
+ {
+  "asm_acc":"GCA_003516125.3",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07540307",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Cronobacter sakazakii",
+  "strain":"CS-931"
+ },
+ {
+  "asm_acc":"GCA_013425995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15493123",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Cronobacter sakazakii",
+  "strain":"5563_17"
+ },
+ {
+  "asm_acc":"GCA_022648965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26420280",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Cronobacter sakazakii",
+  "strain":"70402496"
+ },
+ {
+  "asm_acc":"GCA_025200595.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN30466962",
+  "host":"BOVINE",
+  "scientific_name":"Cronobacter sakazakii",
+  "strain":"USDA-ARS-USMARC-54664"
+ }
+]

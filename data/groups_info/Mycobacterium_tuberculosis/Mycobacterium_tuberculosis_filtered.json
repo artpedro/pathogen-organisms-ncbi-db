@@ -1,0 +1,2466 @@
+[
+ {
+  "asm_acc":"GCA_000195835.3",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA20450668",
+  "host":"BOVINE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis AF2122\/97",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_000154585.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03081422",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis KZN 4207",
+  "strain":"KZN 4207"
+ },
+ {
+  "asm_acc":"GCA_000270365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02603011",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis CCDC5180",
+  "strain":"CCDC5180"
+ },
+ {
+  "asm_acc":"GCA_000698475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02803802",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis K",
+  "strain":"K"
+ },
+ {
+  "asm_acc":"GCA_000706665.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02767600",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"KIT87190"
+ },
+ {
+  "asm_acc":"GCA_000738445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02943514",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"ZMC13-264"
+ },
+ {
+  "asm_acc":"GCA_000738475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02943515",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"ZMC13-88"
+ },
+ {
+  "asm_acc":"GCA_000756525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02887314",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"96075"
+ },
+ {
+  "asm_acc":"GCA_000756545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02874015",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"96121"
+ },
+ {
+  "asm_acc":"GCA_000828995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00000334",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis str. Kurono",
+  "strain":"Kurono"
+ },
+ {
+  "asm_acc":"GCA_000934325.3",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03288261",
+  "host":"BOVINE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"SP38"
+ },
+ {
+  "asm_acc":"GCA_000975265.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03481272",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium lepromatosis",
+  "strain":"FJ924"
+ },
+ {
+  "asm_acc":"GCA_001043255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02864173",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis BCG",
+  "strain":"3281"
+ },
+ {
+  "asm_acc":"GCA_001078615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03761171",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"1595"
+ },
+ {
+  "asm_acc":"GCA_001275565.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03921880",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SCAID 187.0"
+ },
+ {
+  "asm_acc":"GCA_001580385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04517448",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172",
+  "strain":"Tokyo 172"
+ },
+ {
+  "asm_acc":"GCA_001597645.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04492771",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SIT745\/EAI1-MYS"
+ },
+ {
+  "asm_acc":"GCA_001702435.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05447655",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SCAID 320.0"
+ },
+ {
+  "asm_acc":"GCA_001708265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05447658",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SCAID 252.0"
+ },
+ {
+  "asm_acc":"GCA_001750865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03301665",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing"
+ },
+ {
+  "asm_acc":"GCA_001855255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04293604",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1458"
+ },
+ {
+  "asm_acc":"GCA_001870145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05933692",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TB282"
+ },
+ {
+  "asm_acc":"GCA_001895765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06010135",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0004241-1"
+ },
+ {
+  "asm_acc":"GCA_001895785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06010493",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"M0018684-2"
+ },
+ {
+  "asm_acc":"GCA_001895805.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06010122",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0004000-1"
+ },
+ {
+  "asm_acc":"GCA_001895825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06010171",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0002801-4"
+ },
+ {
+  "asm_acc":"GCA_001895845.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06010490",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0002353-6"
+ },
+ {
+  "asm_acc":"GCA_001895865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06010343",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"M0002959-6"
+ },
+ {
+  "asm_acc":"GCA_001922485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06141171",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"DK9897"
+ },
+ {
+  "asm_acc":"GCA_001938725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05414673",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis H37Ra",
+  "strain":"H37Ra"
+ },
+ {
+  "asm_acc":"GCA_002072775.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06622696",
+  "host":"ETHNIC KOREANS LIVING IN CHINA",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MTB1"
+ },
+ {
+  "asm_acc":"GCA_002116755.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05833360",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing-like\/35049"
+ },
+ {
+  "asm_acc":"GCA_002116775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05833361",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing-like\/36918"
+ },
+ {
+  "asm_acc":"GCA_002116795.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05833362",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing-like\/38774"
+ },
+ {
+  "asm_acc":"GCA_002116815.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05833364",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing\/391"
+ },
+ {
+  "asm_acc":"GCA_002116835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05833363",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing-like\/50148"
+ },
+ {
+  "asm_acc":"GCA_002116855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05833359",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Beijing-like\/1104"
+ },
+ {
+  "asm_acc":"GCA_002208235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06622697",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MTB2"
+ },
+ {
+  "asm_acc":"GCA_002356015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00065354",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"NCGM946K2"
+ },
+ {
+  "asm_acc":"GCA_002356255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00076259",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"HN-024"
+ },
+ {
+  "asm_acc":"GCA_002357935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00076256",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"HN-205"
+ },
+ {
+  "asm_acc":"GCA_002357955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00076257",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"HN-321"
+ },
+ {
+  "asm_acc":"GCA_002357975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00076258",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"HN-506"
+ },
+ {
+  "asm_acc":"GCA_002446875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664823",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV4519"
+ },
+ {
+  "asm_acc":"GCA_002446895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664824",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV4644"
+ },
+ {
+  "asm_acc":"GCA_002446915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664825",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV5769"
+ },
+ {
+  "asm_acc":"GCA_002446935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664826",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV10399"
+ },
+ {
+  "asm_acc":"GCA_002446955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664827",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV11678"
+ },
+ {
+  "asm_acc":"GCA_002446975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664828",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE486"
+ },
+ {
+  "asm_acc":"GCA_002446995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664829",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE492"
+ },
+ {
+  "asm_acc":"GCA_002447015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664830",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN180"
+ },
+ {
+  "asm_acc":"GCA_002447035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664831",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN2358"
+ },
+ {
+  "asm_acc":"GCA_002447055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664832",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3756"
+ },
+ {
+  "asm_acc":"GCA_002447075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664833",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRDM260"
+ },
+ {
+  "asm_acc":"GCA_002447095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664834",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRDM627"
+ },
+ {
+  "asm_acc":"GCA_002447115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664835",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRDM1098"
+ },
+ {
+  "asm_acc":"GCA_002447135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664836",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA2491"
+ },
+ {
+  "asm_acc":"GCA_002447155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664837",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"ME1473"
+ },
+ {
+  "asm_acc":"GCA_002447175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664838",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM425"
+ },
+ {
+  "asm_acc":"GCA_002447195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664839",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBV5000"
+ },
+ {
+  "asm_acc":"GCA_002447215.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664840",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBV5362"
+ },
+ {
+  "asm_acc":"GCA_002447235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664841",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBV5365"
+ },
+ {
+  "asm_acc":"GCA_002447255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664842",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM036"
+ },
+ {
+  "asm_acc":"GCA_002447275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664843",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM040"
+ },
+ {
+  "asm_acc":"GCA_002447295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664844",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM056"
+ },
+ {
+  "asm_acc":"GCA_002447315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664845",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM060"
+ },
+ {
+  "asm_acc":"GCA_002447335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664846",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM063"
+ },
+ {
+  "asm_acc":"GCA_002447355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664847",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM088"
+ },
+ {
+  "asm_acc":"GCA_002447375.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664848",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SLM100"
+ },
+ {
+  "asm_acc":"GCA_002447395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664849",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV383"
+ },
+ {
+  "asm_acc":"GCA_002447415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664850",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV3611"
+ },
+ {
+  "asm_acc":"GCA_002447435.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664851",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"CSV9577"
+ },
+ {
+  "asm_acc":"GCA_002447455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664852",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE13"
+ },
+ {
+  "asm_acc":"GCA_002447475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664853",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE63"
+ },
+ {
+  "asm_acc":"GCA_002447495.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664854",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE76"
+ },
+ {
+  "asm_acc":"GCA_002447515.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664855",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE79"
+ },
+ {
+  "asm_acc":"GCA_002447535.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664856",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE103"
+ },
+ {
+  "asm_acc":"GCA_002447555.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664857",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE371"
+ },
+ {
+  "asm_acc":"GCA_002447575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664858",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LE410"
+ },
+ {
+  "asm_acc":"GCA_002447595.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664859",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN55"
+ },
+ {
+  "asm_acc":"GCA_002447615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664860",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN317"
+ },
+ {
+  "asm_acc":"GCA_002447635.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664861",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN763"
+ },
+ {
+  "asm_acc":"GCA_002447655.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664862",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN2978"
+ },
+ {
+  "asm_acc":"GCA_002447675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664863",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3584"
+ },
+ {
+  "asm_acc":"GCA_002447695.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664864",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3588"
+ },
+ {
+  "asm_acc":"GCA_002447715.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664865",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3589"
+ },
+ {
+  "asm_acc":"GCA_002447735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664866",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3668"
+ },
+ {
+  "asm_acc":"GCA_002447755.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664867",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3672"
+ },
+ {
+  "asm_acc":"GCA_002447775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664868",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN3695"
+ },
+ {
+  "asm_acc":"GCA_002447795.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664869",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN1100"
+ },
+ {
+  "asm_acc":"GCA_002447815.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664870",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN1856"
+ },
+ {
+  "asm_acc":"GCA_002447835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664871",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"LN2900"
+ },
+ {
+  "asm_acc":"GCA_002447855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664872",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRDM827"
+ },
+ {
+  "asm_acc":"GCA_002447875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664873",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA203"
+ },
+ {
+  "asm_acc":"GCA_002447895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664874",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA701"
+ },
+ {
+  "asm_acc":"GCA_002447915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664875",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA863"
+ },
+ {
+  "asm_acc":"GCA_002447935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664876",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA1565"
+ },
+ {
+  "asm_acc":"GCA_002447955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664877",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA2019"
+ },
+ {
+  "asm_acc":"GCA_002447975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664878",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA2082"
+ },
+ {
+  "asm_acc":"GCA_002447995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664879",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA2260"
+ },
+ {
+  "asm_acc":"GCA_002448015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664880",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MDRMA2441"
+ },
+ {
+  "asm_acc":"GCA_002448035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664881",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM1506"
+ },
+ {
+  "asm_acc":"GCA_002448055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664882",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM2189"
+ },
+ {
+  "asm_acc":"GCA_002448075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664883",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM2444"
+ },
+ {
+  "asm_acc":"GCA_002448095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664884",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM2487"
+ },
+ {
+  "asm_acc":"GCA_002448115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664885",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM2489"
+ },
+ {
+  "asm_acc":"GCA_002448135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664886",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM2699"
+ },
+ {
+  "asm_acc":"GCA_002448155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664887",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBDM2717"
+ },
+ {
+  "asm_acc":"GCA_002448175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664888",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBV4766"
+ },
+ {
+  "asm_acc":"GCA_002448195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664889",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBV4768"
+ },
+ {
+  "asm_acc":"GCA_002448215.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07664890",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBV4952"
+ },
+ {
+  "asm_acc":"GCA_002886145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199254",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199260",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199302",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199305",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199301",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199277",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199266",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199347",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199271",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199268",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199265",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002887065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199267",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002887145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199303",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002887255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199306",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002887335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199348",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002886225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08199276",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002975475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08321034",
+  "host":"BOVINE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"2002\/0476"
+ },
+ {
+  "asm_acc":"GCA_003006115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07414820",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"WC059"
+ },
+ {
+  "asm_acc":"GCA_003006135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07414819",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"WC078"
+ },
+ {
+  "asm_acc":"GCA_003253775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09104579",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium leprae",
+  "strain":"MRHRU-235-G"
+ },
+ {
+  "asm_acc":"GCA_003265005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09453176",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"RUS_B0"
+ },
+ {
+  "asm_acc":"GCA_003287125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06292592",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"H54"
+ },
+ {
+  "asm_acc":"GCA_003287145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06292590",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"H83"
+ },
+ {
+  "asm_acc":"GCA_003287165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06292065",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"H107"
+ },
+ {
+  "asm_acc":"GCA_003287185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06292067",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"H112"
+ },
+ {
+  "asm_acc":"GCA_003293655.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08973501",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TBMENG-03"
+ },
+ {
+  "asm_acc":"GCA_900520315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104027311",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"DKC2"
+ },
+ {
+  "asm_acc":"GCA_007833935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12126281",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"MT-0080"
+ },
+ {
+  "asm_acc":"GCA_008761675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12816907",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"L"
+ },
+ {
+  "asm_acc":"GCA_009664875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13191639",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"AUSMDU00018547"
+ },
+ {
+  "asm_acc":"GCA_902459825.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5803801",
+  "host":"BOVINE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb3601"
+ },
+ {
+  "asm_acc":"GCA_009762675.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10417149",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"TCDC11"
+ },
+ {
+  "asm_acc":"GCA_012923765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13736268",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"RW-TB008"
+ },
+ {
+  "asm_acc":"GCA_013010385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14598146",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4860"
+ },
+ {
+  "asm_acc":"GCA_013267635.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11056472",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"FDAARGOS_757"
+ },
+ {
+  "asm_acc":"GCA_014884625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325246",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0041P6C4"
+ },
+ {
+  "asm_acc":"GCA_014884645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325211",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0072P6C4"
+ },
+ {
+  "asm_acc":"GCA_014884665.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325208",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0066P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325280",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA17020030P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325279",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA17020028P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325278",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA17020024P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325276",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA15230P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325277",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA17020023P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325275",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA15229P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325274",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA15228P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325273",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA14333P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325272",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA14318P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325271",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA14117P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325270",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA13111P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325269",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA13020298P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325268",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA12334P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325267",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA12202P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325266",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA12126P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325265",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA11278P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325264",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA11020092P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325263",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA11020068P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325262",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA11020057P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325261",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA11020038P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325260",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA09167P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325259",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA09020048P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325258",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA08162P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899665.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325257",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA08151P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325256",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA07020250P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325255",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA07010354P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325254",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA06535P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325253",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA02010036P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325252",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SEA00042P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325251",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0096P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899805.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325250",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0087P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325249",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0077P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899845.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325248",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0073P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325247",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0062P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325245",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0024P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325244",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0019P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325243",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0012P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325242",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"4-0010P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325241",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"3-0124P6C4"
+ },
+ {
+  "asm_acc":"GCA_014899985.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325240",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"3-0096P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325239",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"3-0090P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325238",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"3-0059P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325237",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0068P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325236",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0059P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325235",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0052P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325234",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0046P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325233",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0043-unknownP6C4"
+ },
+ {
+  "asm_acc":"GCA_014900175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325232",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0034P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325231",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0031P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900215.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325230",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0029P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325229",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0028P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325228",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0023P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325227",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0022P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325226",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0021P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325225",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"2-0013P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325224",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0168P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325223",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0160P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900375.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325222",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0156P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325221",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0153P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325220",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0149P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900435.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325219",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0137P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325218",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0123P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325217",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0116P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900495.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325216",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0112P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900515.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325215",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0110P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900555.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325214",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0107P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900595.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325213",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0102P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325212",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0084P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900635.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325210",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0071P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900655.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325209",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0069P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325207",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0064P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900695.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325206",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0061P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900715.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325205",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0056P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325204",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0054P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900755.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325203",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0047P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325202",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0045P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900795.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325201",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0044P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900815.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325200",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0039P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325199",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0036P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325198",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0031P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325197",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0030P6C4"
+ },
+ {
+  "asm_acc":"GCA_014900965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325196",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0028P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325195",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0023P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325194",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0021P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325193",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0017P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325192",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0013P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325191",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0009P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325190",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0007P6C4"
+ },
+ {
+  "asm_acc":"GCA_014901155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12325189",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"1-0006P6C4"
+ },
+ {
+  "asm_acc":"GCA_904810345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA7336317",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis variant microti",
+  "strain":"Maus III"
+ },
+ {
+  "asm_acc":"GCA_904810325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA7336314",
+  "host":"MICROTUS AGRESTIS",
+  "scientific_name":"Mycobacterium tuberculosis variant microti OV254",
+  "strain":"OV254"
+ },
+ {
+  "asm_acc":"GCA_904810335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA7336315",
+  "host":"MICROTUS AGRESTIS",
+  "scientific_name":"Mycobacterium tuberculosis variant microti",
+  "strain":"ATCC 35782"
+ },
+ {
+  "asm_acc":"GCA_904810355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA7336318",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis variant microti",
+  "strain":"Maus IV"
+ },
+ {
+  "asm_acc":"GCA_904810365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA7336316",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis variant microti",
+  "strain":"94-2272"
+ },
+ {
+  "asm_acc":"GCA_016917775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17832565",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"11502"
+ },
+ {
+  "asm_acc":"GCA_017164035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18056856",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"120\/26CAO"
+ },
+ {
+  "asm_acc":"GCA_017164055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18056929",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"267\/47W148"
+ },
+ {
+  "asm_acc":"GCA_017901115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18576178",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"H37Rv_CG"
+ },
+ {
+  "asm_acc":"GCA_021559895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15348336",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"060827"
+ },
+ {
+  "asm_acc":"GCA_022023995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18614372",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0003447-5"
+ },
+ {
+  "asm_acc":"GCA_932530315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA13188689",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Lineage 4.1"
+ },
+ {
+  "asm_acc":"GCA_932527465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA13188685",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Lineage 3.1.1"
+ },
+ {
+  "asm_acc":"GCA_932530395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA13188715",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Lineage 1.1.2"
+ },
+ {
+  "asm_acc":"GCA_932527315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA13188688",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Lineage 1.1.2"
+ },
+ {
+  "asm_acc":"GCA_932527325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA13188731",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"Lineage 2.2.7"
+ },
+ {
+  "asm_acc":"GCA_022870125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406479",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0069"
+ },
+ {
+  "asm_acc":"GCA_022870145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406478",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N3913"
+ },
+ {
+  "asm_acc":"GCA_022870165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406477",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1202"
+ },
+ {
+  "asm_acc":"GCA_022870185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406476",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0091"
+ },
+ {
+  "asm_acc":"GCA_022870205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406475",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1201"
+ },
+ {
+  "asm_acc":"GCA_022870225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406474",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1268"
+ },
+ {
+  "asm_acc":"GCA_022870245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406473",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1272"
+ },
+ {
+  "asm_acc":"GCA_022870265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406472",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1176"
+ },
+ {
+  "asm_acc":"GCA_022870285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406471",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1283"
+ },
+ {
+  "asm_acc":"GCA_022870305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406470",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0136"
+ },
+ {
+  "asm_acc":"GCA_022870325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406469",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1216"
+ },
+ {
+  "asm_acc":"GCA_022870345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406468",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0054"
+ },
+ {
+  "asm_acc":"GCA_022870365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406467",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N1274"
+ },
+ {
+  "asm_acc":"GCA_022870385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406466",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0004"
+ },
+ {
+  "asm_acc":"GCA_022870405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406464",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0031"
+ },
+ {
+  "asm_acc":"GCA_022870425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406463",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0072"
+ },
+ {
+  "asm_acc":"GCA_022870445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16406462",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"N0157"
+ },
+ {
+  "asm_acc":"GCA_022871085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27028218",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SGF0232017"
+ },
+ {
+  "asm_acc":"GCA_022871105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27028219",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SGF0422017"
+ },
+ {
+  "asm_acc":"GCA_022871125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27028220",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SGF0472017"
+ },
+ {
+  "asm_acc":"GCA_022871145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27028221",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"SGF0702019"
+ },
+ {
+  "asm_acc":"GCA_026167585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31644110",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"BLR-31d"
+ },
+ {
+  "asm_acc":"GCA_026727575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31746122",
+  "host":"BOVINE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"2018\/0565"
+ },
+ {
+  "asm_acc":"GCA_026727615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31746260",
+  "host":"BOVINE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"2016\/0386"
+ },
+ {
+  "asm_acc":"GCA_027912555.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32350377",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"BLR 9248 2019"
+ },
+ {
+  "asm_acc":"GCA_028583125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865562",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb2487"
+ },
+ {
+  "asm_acc":"GCA_028583145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865564",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb2269"
+ },
+ {
+  "asm_acc":"GCA_028583165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865566",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb0820"
+ },
+ {
+  "asm_acc":"GCA_028583185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865559",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb3114"
+ },
+ {
+  "asm_acc":"GCA_028583205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865563",
+  "host":"DEER",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb3602"
+ },
+ {
+  "asm_acc":"GCA_028583225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865560",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb1855"
+ },
+ {
+  "asm_acc":"GCA_028583245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865558",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb1101"
+ },
+ {
+  "asm_acc":"GCA_028583265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865561",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb2377"
+ },
+ {
+  "asm_acc":"GCA_028583285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865565",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb0531"
+ },
+ {
+  "asm_acc":"GCA_028583305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27865567",
+  "host":"CATTLE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"Mb0486"
+ },
+ {
+  "asm_acc":"GCA_028768425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN33010680",
+  "host":"BISON BISON ATHABASCAE",
+  "scientific_name":"Mycobacterium tuberculosis variant bovis",
+  "strain":"OLF-AH-2022-TB-0122"
+ },
+ {
+  "asm_acc":"GCA_029867045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24038646",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0004240-3"
+ },
+ {
+  "asm_acc":"GCA_029867065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24039411",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0004290-8"
+ },
+ {
+  "asm_acc":"GCA_029867085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24039456",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0003165-3"
+ },
+ {
+  "asm_acc":"GCA_029867105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24039564",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"01-R1430"
+ },
+ {
+  "asm_acc":"GCA_029867125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24039598",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"02-R0894"
+ },
+ {
+  "asm_acc":"GCA_029867145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24039640",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"02-R1708"
+ },
+ {
+  "asm_acc":"GCA_029867165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24040382",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"02-R1896"
+ },
+ {
+  "asm_acc":"GCA_029867185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24040385",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0003270-1"
+ },
+ {
+  "asm_acc":"GCA_029867205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24040410",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"I0003758-5"
+ },
+ {
+  "asm_acc":"GCA_029867225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24040618",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"01-R1134"
+ },
+ {
+  "asm_acc":"GCA_029867245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24042982",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"M0003941-3"
+ },
+ {
+  "asm_acc":"GCA_029867265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24042990",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"02-R1179"
+ },
+ {
+  "asm_acc":"GCA_030053035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32238502",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"BLR 4299 2019"
+ },
+ {
+  "asm_acc":"GCA_030285685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35655918",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"6721"
+ },
+ {
+  "asm_acc":"GCA_030285705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35654954",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"3320"
+ },
+ {
+  "asm_acc":"GCA_030285725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35655917",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"17221"
+ },
+ {
+  "asm_acc":"GCA_030285745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35655919",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"5521"
+ },
+ {
+  "asm_acc":"GCA_030285765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35655980",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Mycobacterium tuberculosis",
+  "strain":"25421"
+ }
+]

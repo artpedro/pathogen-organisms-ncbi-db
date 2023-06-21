@@ -1,0 +1,117 @@
+[
+ {
+  "Edwardsiella_piscicida": "PDG000000080.18"
+ },
+ {
+  "asm_acc": "GCA_001729265.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05240433",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "S11-285"
+ },
+ {
+  "asm_acc": "GCA_003112395.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08938004",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "LADL97-168"
+ },
+ {
+  "asm_acc": "GCA_003113095.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939785",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "S07-348"
+ },
+ {
+  "asm_acc": "GCA_003074715.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939752",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "S07-275"
+ },
+ {
+  "asm_acc": "GCA_003074735.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939456",
+  "host": "TILAPIA",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "MA97-004"
+ },
+ {
+  "asm_acc": "GCA_003074755.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939762",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "S07-346"
+ },
+ {
+  "asm_acc": "GCA_003074775.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939553",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "S07-262"
+ },
+ {
+  "asm_acc": "GCA_003074855.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939787",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "S07-534"
+ },
+ {
+  "asm_acc": "GCA_004153325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10855903",
+  "host": "CATFISH",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "MS-18-199"
+ },
+ {
+  "asm_acc": "GCA_010061665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13812492",
+  "host": "FISH",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "CK41"
+ },
+ {
+  "asm_acc": "GCA_021733105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19803007",
+  "host": "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "KE5"
+ },
+ {
+  "asm_acc": "GCA_021733125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19803008",
+  "host": "SILURUS ASOTUS (CATFISH)",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "CZ12001"
+ },
+ {
+  "asm_acc": "GCA_021733145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19803006",
+  "host": "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "18EpOKYJ"
+ },
+ {
+  "asm_acc": "GCA_030272215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31263796",
+  "host": "PARALICHTHYS OLIVACEUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "Ep21-8"
+ }
+]

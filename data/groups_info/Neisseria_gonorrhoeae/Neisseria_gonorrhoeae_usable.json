@@ -1,0 +1,941 @@
+[
+ {
+  "Neisseria_gonorrhoeae": "PDG000000032.340"
+ },
+ {
+  "asm_acc": "GCA_001661085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04233132",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "32867"
+ },
+ {
+  "asm_acc": "GCA_001661115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05210135",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "34530"
+ },
+ {
+  "asm_acc": "GCA_001661135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05210257",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "34769"
+ },
+ {
+  "asm_acc": "GCA_001956715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02380725",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae NG-k51.05",
+  "strain": "NG-k51.05"
+ },
+ {
+  "asm_acc": "GCA_002073535.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875541",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FDAARGOS_204"
+ },
+ {
+  "asm_acc": "GCA_002073655.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875544",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FDAARGOS_207"
+ },
+ {
+  "asm_acc": "GCA_900186915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4076768",
+  "host": "HUMAN MALE",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NCTC13800"
+ },
+ {
+  "asm_acc": "GCA_900186935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4076765",
+  "host": "HUMAN FEMALE",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NCTC13799"
+ },
+ {
+  "asm_acc": "GCA_900186875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4076741",
+  "host": "HUMAN MALE",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NCTC13798"
+ },
+ {
+  "asm_acc": "GCA_003571445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06251593",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "RIVM0610"
+ },
+ {
+  "asm_acc": "GCA_003571465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06251594",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "RIVM0640"
+ },
+ {
+  "asm_acc": "GCA_003855175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395918",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ84"
+ },
+ {
+  "asm_acc": "GCA_003855195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395916",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ36"
+ },
+ {
+  "asm_acc": "GCA_003855215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395915",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ48"
+ },
+ {
+  "asm_acc": "GCA_003855235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10396000",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ04"
+ },
+ {
+  "asm_acc": "GCA_003855295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395917",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ35"
+ },
+ {
+  "asm_acc": "GCA_003855355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10396003",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ20"
+ },
+ {
+  "asm_acc": "GCA_003855375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395999",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ02"
+ },
+ {
+  "asm_acc": "GCA_003855415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395914",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ82"
+ },
+ {
+  "asm_acc": "GCA_003855435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10395998",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FQ01"
+ },
+ {
+  "asm_acc": "GCA_900637245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4364223",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NCTC13484"
+ },
+ {
+  "asm_acc": "GCA_004001105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00092833",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FC428"
+ },
+ {
+  "asm_acc": "GCA_004001165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00092837",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FC460"
+ },
+ {
+  "asm_acc": "GCA_004001185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00092841",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FC498"
+ },
+ {
+  "asm_acc": "GCA_004332535.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10035124",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TFG-A2"
+ },
+ {
+  "asm_acc": "GCA_004332555.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10031335",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TFG-B2"
+ },
+ {
+  "asm_acc": "GCA_007107165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12252293",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NJ1711654"
+ },
+ {
+  "asm_acc": "GCA_007107365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12252303",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NJ189125"
+ },
+ {
+  "asm_acc": "GCA_009650075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10920452",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "AUSMDU00010541"
+ },
+ {
+  "asm_acc": "GCA_011058635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12676040",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NG290"
+ },
+ {
+  "asm_acc": "GCA_011058655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12676039",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NG251"
+ },
+ {
+  "asm_acc": "GCA_011058675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12676038",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NG196"
+ },
+ {
+  "asm_acc": "GCA_013030095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00220608",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TUM15748"
+ },
+ {
+  "asm_acc": "GCA_013030115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00220609",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TUM15753"
+ },
+ {
+  "asm_acc": "GCA_013030135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00220610",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TUM16691"
+ },
+ {
+  "asm_acc": "GCA_014700555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14433815",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "BJ16148"
+ },
+ {
+  "asm_acc": "GCA_016775785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17393045",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "20181204"
+ },
+ {
+  "asm_acc": "GCA_016802315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14117309",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH240"
+ },
+ {
+  "asm_acc": "GCA_016802335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14116992",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH229"
+ },
+ {
+  "asm_acc": "GCA_016802355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14116991",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH214"
+ },
+ {
+  "asm_acc": "GCA_016802385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14116990",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH207"
+ },
+ {
+  "asm_acc": "GCA_016802405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14116989",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH205"
+ },
+ {
+  "asm_acc": "GCA_016802425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14116988",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH204"
+ },
+ {
+  "asm_acc": "GCA_016802445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14116987",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SRRSH203"
+ },
+ {
+  "asm_acc": "GCA_018798905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13151449",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NG250"
+ },
+ {
+  "asm_acc": "GCA_019211805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998461",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "O2D156"
+ },
+ {
+  "asm_acc": "GCA_019211825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998455",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "1291"
+ },
+ {
+  "asm_acc": "GCA_019211845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998460",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "98D159"
+ },
+ {
+  "asm_acc": "GCA_019211865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998459",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "O1G1370"
+ },
+ {
+  "asm_acc": "GCA_019211885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998458",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "88G285"
+ },
+ {
+  "asm_acc": "GCA_019212025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998457",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SK92679"
+ },
+ {
+  "asm_acc": "GCA_019212165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19998456",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "MS11"
+ },
+ {
+  "asm_acc": "GCA_019380275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14131123",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "CT213"
+ },
+ {
+  "asm_acc": "GCA_020882925.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22599447",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10500"
+ },
+ {
+  "asm_acc": "GCA_020904955.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22599455",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10610"
+ },
+ {
+  "asm_acc": "GCA_020904975.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22599488",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10531"
+ },
+ {
+  "asm_acc": "GCA_020904985.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600315",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10638"
+ },
+ {
+  "asm_acc": "GCA_020904995.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22599711",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10524"
+ },
+ {
+  "asm_acc": "GCA_020905035.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600865",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10562"
+ },
+ {
+  "asm_acc": "GCA_020905095.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600590",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10727"
+ },
+ {
+  "asm_acc": "GCA_020905105.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600608",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10795"
+ },
+ {
+  "asm_acc": "GCA_020906775.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600892",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10791"
+ },
+ {
+  "asm_acc": "GCA_020906765.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600605",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10794"
+ },
+ {
+  "asm_acc": "GCA_020906835.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600584",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10702"
+ },
+ {
+  "asm_acc": "GCA_021193625.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22600672",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10574"
+ },
+ {
+  "asm_acc": "GCA_023205595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13151448",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "NG211"
+ },
+ {
+  "asm_acc": "GCA_023611705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13812696",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "CT602"
+ },
+ {
+  "asm_acc": "GCA_023611765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13812695",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "CT532"
+ },
+ {
+  "asm_acc": "GCA_023611785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13812694",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "CT530"
+ },
+ {
+  "asm_acc": "GCA_023822665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28560617",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "AT159"
+ },
+ {
+  "asm_acc": "GCA_025169495.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28859080",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9399"
+ },
+ {
+  "asm_acc": "GCA_025169515.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28858852",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10272"
+ },
+ {
+  "asm_acc": "GCA_025169475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28834904",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10814"
+ },
+ {
+  "asm_acc": "GCA_025169565.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28869504",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10231"
+ },
+ {
+  "asm_acc": "GCA_025169605.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28869553",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9112"
+ },
+ {
+  "asm_acc": "GCA_025169685.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28869590",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10529"
+ },
+ {
+  "asm_acc": "GCA_025169585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28835168",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9460"
+ },
+ {
+  "asm_acc": "GCA_025169745.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28871631",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9464"
+ },
+ {
+  "asm_acc": "GCA_025169825.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28871636",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9071"
+ },
+ {
+  "asm_acc": "GCA_025169995.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28835821",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10269"
+ },
+ {
+  "asm_acc": "GCA_025170155.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28835880",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10720"
+ },
+ {
+  "asm_acc": "GCA_025170325.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28835919",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10328"
+ },
+ {
+  "asm_acc": "GCA_025170505.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28836998",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10792"
+ },
+ {
+  "asm_acc": "GCA_025170665.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28837864",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10612"
+ },
+ {
+  "asm_acc": "GCA_025170685.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28858863",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10268"
+ },
+ {
+  "asm_acc": "GCA_025170705.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28859049",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10536"
+ },
+ {
+  "asm_acc": "GCA_025170725.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28869552",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10537"
+ },
+ {
+  "asm_acc": "GCA_025170885.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28869554",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10525"
+ },
+ {
+  "asm_acc": "GCA_025171075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28869592",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10771"
+ },
+ {
+  "asm_acc": "GCA_025171215.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28870224",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "ATCC 49226"
+ },
+ {
+  "asm_acc": "GCA_025171255.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28871626",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10704"
+ },
+ {
+  "asm_acc": "GCA_025171275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28871644",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10296"
+ },
+ {
+  "asm_acc": "GCA_025171295.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28871698",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9126"
+ },
+ {
+  "asm_acc": "GCA_025171315.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28871700",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9343"
+ },
+ {
+  "asm_acc": "GCA_025562635.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28859053",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9035"
+ },
+ {
+  "asm_acc": "GCA_025562675.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28859076",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10538"
+ },
+ {
+  "asm_acc": "GCA_025641865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28858607",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10723"
+ },
+ {
+  "asm_acc": "GCA_025642335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014135",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10744"
+ },
+ {
+  "asm_acc": "GCA_025642355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014148",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10819"
+ },
+ {
+  "asm_acc": "GCA_025642375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014963",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10743"
+ },
+ {
+  "asm_acc": "GCA_025642395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014981",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10736"
+ },
+ {
+  "asm_acc": "GCA_025642415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014987",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10708"
+ },
+ {
+  "asm_acc": "GCA_025642435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014989",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10531"
+ },
+ {
+  "asm_acc": "GCA_025642455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31015000",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10562"
+ },
+ {
+  "asm_acc": "GCA_025642475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31014998",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "9431"
+ },
+ {
+  "asm_acc": "GCA_025758415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31203372",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "H035"
+ },
+ {
+  "asm_acc": "GCA_025790185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28830140",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10588"
+ },
+ {
+  "asm_acc": "GCA_025790205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28833726",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "10239"
+ },
+ {
+  "asm_acc": "GCA_025790925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31165854",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "1081168"
+ },
+ {
+  "asm_acc": "GCA_025790945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31165853",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "1123850"
+ },
+ {
+  "asm_acc": "GCA_025790965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31165852",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "1130991"
+ },
+ {
+  "asm_acc": "GCA_025791005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31165850",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "1145734"
+ },
+ {
+  "asm_acc": "GCA_027886375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31428011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "FA1090 N-1-60"
+ },
+ {
+  "asm_acc": "GCA_027920425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31428012",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "MS11 HL-1-22"
+ },
+ {
+  "asm_acc": "GCA_028483175.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32765978",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "SE690."
+ },
+ {
+  "asm_acc": "GCA_029378435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33482240",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2022NG-0076"
+ },
+ {
+  "asm_acc": "GCA_029378455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33482239",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2022NG-0032"
+ }
+]

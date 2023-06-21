@@ -1,0 +1,933 @@
+[
+ {
+  "Staphylococcus_pseudintermedius": "PDG000000042.312"
+ },
+ {
+  "asm_acc": "GCA_000185885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02603958",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius HKU10-03",
+  "strain": "HKU10-03"
+ },
+ {
+  "asm_acc": "GCA_001682335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05181828",
+  "host": "CANINE",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "NA45"
+ },
+ {
+  "asm_acc": "GCA_001682435.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05181827",
+  "host": "CANINE",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "081661"
+ },
+ {
+  "asm_acc": "GCA_001685665.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04886711",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "063228"
+ },
+ {
+  "asm_acc": "GCA_002950775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02947195",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "5912"
+ },
+ {
+  "asm_acc": "GCA_003627735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10142584",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "G3C4"
+ },
+ {
+  "asm_acc": "GCA_900636325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3491697",
+  "host": "DOLPHIN",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "NCTC12225"
+ },
+ {
+  "asm_acc": "GCA_007833515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09378491",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "AH18"
+ },
+ {
+  "asm_acc": "GCA_007833535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09378493",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "VB88"
+ },
+ {
+  "asm_acc": "GCA_007833695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09519064",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "VB16"
+ },
+ {
+  "asm_acc": "GCA_007833715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09378648",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "AI14"
+ },
+ {
+  "asm_acc": "GCA_007833735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09378519",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "AK9"
+ },
+ {
+  "asm_acc": "GCA_007833755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09378520",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "AP20"
+ },
+ {
+  "asm_acc": "GCA_009184785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12999170",
+  "host": "COMPANION DOG",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "KCTC 43134"
+ },
+ {
+  "asm_acc": "GCA_009184805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12999206",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "KCTC 43136"
+ },
+ {
+  "asm_acc": "GCA_014353035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15897749",
+  "host": "DOG",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "cdc 18-1182"
+ },
+ {
+  "asm_acc": "GCA_014490535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15950890",
+  "host": "DOG",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Z0118SP0108"
+ },
+ {
+  "asm_acc": "GCA_016126695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17039297",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "SP_11306-4A"
+ },
+ {
+  "asm_acc": "GCA_016126715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17039295",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "SP_11304-3A"
+ },
+ {
+  "asm_acc": "GCA_016126735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17039294",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "SP_11304-2A"
+ },
+ {
+  "asm_acc": "GCA_016126755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17039296",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "SP_11306-1A"
+ },
+ {
+  "asm_acc": "GCA_016126775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17039293",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "SP_11304-1A"
+ },
+ {
+  "asm_acc": "GCA_016126795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17039292",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "SP_9261-1A"
+ },
+ {
+  "asm_acc": "GCA_016454965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102162",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP138"
+ },
+ {
+  "asm_acc": "GCA_016454985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102161",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP137"
+ },
+ {
+  "asm_acc": "GCA_016455005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102154",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP118"
+ },
+ {
+  "asm_acc": "GCA_016455025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102142",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DSP034"
+ },
+ {
+  "asm_acc": "GCA_016455065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102159",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP135"
+ },
+ {
+  "asm_acc": "GCA_016455085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102137",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DSP026"
+ },
+ {
+  "asm_acc": "GCA_016455105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102158",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP134"
+ },
+ {
+  "asm_acc": "GCA_016455145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102132",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DSP020"
+ },
+ {
+  "asm_acc": "GCA_016455165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102122",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DG072"
+ },
+ {
+  "asm_acc": "GCA_016455205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102118",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DG064"
+ },
+ {
+  "asm_acc": "GCA_016455225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102133",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DSP021"
+ },
+ {
+  "asm_acc": "GCA_016455245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102155",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP125"
+ },
+ {
+  "asm_acc": "GCA_016455265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102140",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DSP030"
+ },
+ {
+  "asm_acc": "GCA_016455285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102138",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "DSP027"
+ },
+ {
+  "asm_acc": "GCA_016598895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102145",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP079"
+ },
+ {
+  "asm_acc": "GCA_016598915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17102146",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP080"
+ },
+ {
+  "asm_acc": "GCA_017795485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14548661",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "6109"
+ },
+ {
+  "asm_acc": "GCA_019996845.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249952",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP227"
+ },
+ {
+  "asm_acc": "GCA_019996945.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249978",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP284"
+ },
+ {
+  "asm_acc": "GCA_019997005.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249960",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP259"
+ },
+ {
+  "asm_acc": "GCA_019997045.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249974",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP280"
+ },
+ {
+  "asm_acc": "GCA_019997065.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249964",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP263"
+ },
+ {
+  "asm_acc": "GCA_019997085.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249966",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP265"
+ },
+ {
+  "asm_acc": "GCA_019997105.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249928",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP147"
+ },
+ {
+  "asm_acc": "GCA_019997125.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249932",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP153"
+ },
+ {
+  "asm_acc": "GCA_019997145.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249931",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP152"
+ },
+ {
+  "asm_acc": "GCA_019997165.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249951",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP226"
+ },
+ {
+  "asm_acc": "GCA_019997185.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249930",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP151"
+ },
+ {
+  "asm_acc": "GCA_019997205.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249959",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP258"
+ },
+ {
+  "asm_acc": "GCA_019997225.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249972",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP278"
+ },
+ {
+  "asm_acc": "GCA_019997245.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249961",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP260"
+ },
+ {
+  "asm_acc": "GCA_019997265.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249933",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP154"
+ },
+ {
+  "asm_acc": "GCA_019997285.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249954",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP238"
+ },
+ {
+  "asm_acc": "GCA_019997325.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249940",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP166"
+ },
+ {
+  "asm_acc": "GCA_019997445.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249942",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP204"
+ },
+ {
+  "asm_acc": "GCA_019997565.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249935",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP156"
+ },
+ {
+  "asm_acc": "GCA_019997625.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249968",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP267"
+ },
+ {
+  "asm_acc": "GCA_019997705.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249965",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP264"
+ },
+ {
+  "asm_acc": "GCA_019997765.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249958",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP255"
+ },
+ {
+  "asm_acc": "GCA_019997785.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249962",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP261"
+ },
+ {
+  "asm_acc": "GCA_019997805.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249955",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP239"
+ },
+ {
+  "asm_acc": "GCA_019997825.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249963",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP262"
+ },
+ {
+  "asm_acc": "GCA_019997845.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249967",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP266"
+ },
+ {
+  "asm_acc": "GCA_019997885.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249957",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP252"
+ },
+ {
+  "asm_acc": "GCA_019997905.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249929",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP149"
+ },
+ {
+  "asm_acc": "GCA_019997925.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249953",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP228"
+ },
+ {
+  "asm_acc": "GCA_019997945.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249971",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP277"
+ },
+ {
+  "asm_acc": "GCA_019997965.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249977",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP283"
+ },
+ {
+  "asm_acc": "GCA_019997985.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249937",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP158"
+ },
+ {
+  "asm_acc": "GCA_019998005.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249941",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP199"
+ },
+ {
+  "asm_acc": "GCA_019998025.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249970",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP276"
+ },
+ {
+  "asm_acc": "GCA_019998045.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249969",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP274"
+ },
+ {
+  "asm_acc": "GCA_019998065.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249936",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP157"
+ },
+ {
+  "asm_acc": "GCA_019998185.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249947",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP214"
+ },
+ {
+  "asm_acc": "GCA_019998285.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249976",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP282"
+ },
+ {
+  "asm_acc": "GCA_019998365.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249956",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP240"
+ },
+ {
+  "asm_acc": "GCA_019998395.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249938",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP159"
+ },
+ {
+  "asm_acc": "GCA_019998525.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249946",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP213"
+ },
+ {
+  "asm_acc": "GCA_019998665.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249939",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP160"
+ },
+ {
+  "asm_acc": "GCA_019998685.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249949",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP224"
+ },
+ {
+  "asm_acc": "GCA_019998705.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249934",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP155"
+ },
+ {
+  "asm_acc": "GCA_019998745.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249948",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP216"
+ },
+ {
+  "asm_acc": "GCA_019998765.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249945",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP212"
+ },
+ {
+  "asm_acc": "GCA_019998785.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249950",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP225"
+ },
+ {
+  "asm_acc": "GCA_019998805.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249944",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP211"
+ },
+ {
+  "asm_acc": "GCA_019998825.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249943",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP210"
+ },
+ {
+  "asm_acc": "GCA_020685605.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568742",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP285"
+ },
+ {
+  "asm_acc": "GCA_020685625.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568738",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP250"
+ },
+ {
+  "asm_acc": "GCA_020685645.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568732",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP242"
+ },
+ {
+  "asm_acc": "GCA_020685685.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568730",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP237"
+ },
+ {
+  "asm_acc": "GCA_020685705.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568736",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP246"
+ },
+ {
+  "asm_acc": "GCA_020685725.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568737",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP249"
+ },
+ {
+  "asm_acc": "GCA_020685745.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568733",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP243"
+ },
+ {
+  "asm_acc": "GCA_020685765.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568740",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP253"
+ },
+ {
+  "asm_acc": "GCA_020685785.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568735",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP245"
+ },
+ {
+  "asm_acc": "GCA_020685805.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568734",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP244"
+ },
+ {
+  "asm_acc": "GCA_020685845.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568731",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP241"
+ },
+ {
+  "asm_acc": "GCA_020685865.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568739",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP251"
+ },
+ {
+  "asm_acc": "GCA_020685885.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568728",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP235"
+ },
+ {
+  "asm_acc": "GCA_020685905.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568729",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP236"
+ },
+ {
+  "asm_acc": "GCA_020685925.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568727",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP232"
+ },
+ {
+  "asm_acc": "GCA_020686685.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20568743",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP286"
+ },
+ {
+  "asm_acc": "GCA_020693965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249973",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP279"
+ },
+ {
+  "asm_acc": "GCA_020693985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21249975",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "HSP281"
+ },
+ {
+  "asm_acc": "GCA_025558745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26923358",
+  "host": "CAMEL",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "IVB6245"
+ },
+ {
+  "asm_acc": "GCA_025558765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26923356",
+  "host": "CAMEL",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "IVB6222"
+ },
+ {
+  "asm_acc": "GCA_025558785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26923355",
+  "host": "CAMEL",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "IVB6220"
+ },
+ {
+  "asm_acc": "GCA_025558805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26923354",
+  "host": "CAMEL",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "IVB6219"
+ },
+ {
+  "asm_acc": "GCA_025558825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26923353",
+  "host": "CAMEL",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "IVB6190"
+ },
+ {
+  "asm_acc": "GCA_025561565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26923357",
+  "host": "CAMEL",
+  "scientific_name": "Staphylococcus delphini",
+  "strain": "IVB6226"
+ },
+ {
+  "asm_acc": "GCA_030254625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35621296",
+  "host": "FELIS CATUS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "19KM0990"
+ },
+ {
+  "asm_acc": "GCA_030263975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35555370",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "10916-77753"
+ },
+ {
+  "asm_acc": "GCA_030264035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35555368",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "6127-64107"
+ }
+]

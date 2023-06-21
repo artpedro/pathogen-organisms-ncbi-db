@@ -1,0 +1,1834 @@
+[
+ {
+  "asm_acc":"GCA_000174395.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN00002237",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium DO",
+  "strain":"DO"
+ },
+ {
+  "asm_acc":"GCA_001298485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04009964",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"64\/3"
+ },
+ {
+  "asm_acc":"GCA_001518735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04418075",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"6E6"
+ },
+ {
+  "asm_acc":"GCA_001587115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03339922",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UW8175"
+ },
+ {
+  "asm_acc":"GCA_001750885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04045274",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"E745"
+ },
+ {
+  "asm_acc":"GCA_001886635.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06019998",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"E1"
+ },
+ {
+  "asm_acc":"GCA_001895905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06018903",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE001"
+ },
+ {
+  "asm_acc":"GCA_001953235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03988631",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ISMMS_VRE_12"
+ },
+ {
+  "asm_acc":"GCA_001953255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03988627",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ISMMS_VRE_9"
+ },
+ {
+  "asm_acc":"GCA_002007625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06186500",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"2014-VREF-41"
+ },
+ {
+  "asm_acc":"GCA_002024245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06463381",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002025045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06472830",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_002025065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06472829",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_900092475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA4067785",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_001720945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03988632",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ISMMS_VRE_1"
+ },
+ {
+  "asm_acc":"GCA_001721065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03988624",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ISMMS_VRE_7"
+ },
+ {
+  "asm_acc":"GCA_001721905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03988630",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ISMMS_VRE_11"
+ },
+ {
+  "asm_acc":"GCA_002278015.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04875571",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"FDAARGOS_234"
+ },
+ {
+  "asm_acc":"GCA_002334625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07638053",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K60-39"
+ },
+ {
+  "asm_acc":"GCA_002442955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06006823",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A_020709_82"
+ },
+ {
+  "asm_acc":"GCA_002761255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05933399",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"E240"
+ },
+ {
+  "asm_acc":"GCA_002761275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05933400",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"E243"
+ },
+ {
+  "asm_acc":"GCA_002777275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05933398",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"E232"
+ },
+ {
+  "asm_acc":"GCA_002831505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08102921",
+  "host":"MOSCHUS BEREZOVSKII",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"LS170308"
+ },
+ {
+  "asm_acc":"GCA_002848625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679728",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER03933.3A"
+ },
+ {
+  "asm_acc":"GCA_002848645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679729",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER04120.3A"
+ },
+ {
+  "asm_acc":"GCA_002848665.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679731",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER04484.3A"
+ },
+ {
+  "asm_acc":"GCA_002848685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679730",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER04462.3A"
+ },
+ {
+  "asm_acc":"GCA_002848705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679734",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER04619.3A"
+ },
+ {
+  "asm_acc":"GCA_002848725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679733",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER04526.5A"
+ },
+ {
+  "asm_acc":"GCA_002848745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07679732",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Efaecium_ER04526.3A"
+ },
+ {
+  "asm_acc":"GCA_002850515.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07211315",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"WEFA23"
+ },
+ {
+  "asm_acc":"GCA_002973755.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08093650",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"15-307-1"
+ },
+ {
+  "asm_acc":"GCA_002983785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06173336",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"FDAARGOS_323"
+ },
+ {
+  "asm_acc":"GCA_003020685.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08628413",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUSMDU00004167"
+ },
+ {
+  "asm_acc":"GCA_003020705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08628411",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUSMDU00004055"
+ },
+ {
+  "asm_acc":"GCA_003020725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08628410",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUSMDU00004028"
+ },
+ {
+  "asm_acc":"GCA_003020745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08628409",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUSMDU00004024"
+ },
+ {
+  "asm_acc":"GCA_003020765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08628412",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUSMDU00004142"
+ },
+ {
+  "asm_acc":"GCA_003071425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06621458",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"CFSAN059070"
+ },
+ {
+  "asm_acc":"GCA_003071445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06621457",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"CFSAN059071"
+ },
+ {
+  "asm_acc":"GCA_003957785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10273305",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"RBWH1"
+ },
+ {
+  "asm_acc":"GCA_900636615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3679192",
+  "host":"PIG",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"NCTC12368"
+ },
+ {
+  "asm_acc":"GCA_900637035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA4557825",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NCTC7174"
+ },
+ {
+  "asm_acc":"GCA_900683475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3614259",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"3012STDY6244127"
+ },
+ {
+  "asm_acc":"GCA_004332055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08689723",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"FSIS1608820"
+ },
+ {
+  "asm_acc":"GCA_005166365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10697318",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NM213"
+ },
+ {
+  "asm_acc":"GCA_005517315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11490474",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB3025"
+ },
+ {
+  "asm_acc":"GCA_005576735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11633508",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB3240"
+ },
+ {
+  "asm_acc":"GCA_005886545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10863479",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UAMSEF_01"
+ },
+ {
+  "asm_acc":"GCA_005886655.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10863491",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UAMSEF_08"
+ },
+ {
+  "asm_acc":"GCA_005886715.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10863492",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UAMSEF_09"
+ },
+ {
+  "asm_acc":"GCA_005952885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11848047",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"HOU503"
+ },
+ {
+  "asm_acc":"GCA_006007925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11890391",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE1"
+ },
+ {
+  "asm_acc":"GCA_006280355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11942429",
+  "host":"CHICKEN",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"F17E0263"
+ },
+ {
+  "asm_acc":"GCA_006337045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11952093",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"DB-1"
+ },
+ {
+  "asm_acc":"GCA_006337145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11960005",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"HB-1"
+ },
+ {
+  "asm_acc":"GCA_006351785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11974796",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"FB-1"
+ },
+ {
+  "asm_acc":"GCA_006575625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12141647",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"515"
+ },
+ {
+  "asm_acc":"GCA_007917035.3",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12138936",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VVEswe-R"
+ },
+ {
+  "asm_acc":"GCA_007917315.3",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12138986",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VVEswe-S"
+ },
+ {
+  "asm_acc":"GCA_008000855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12530214",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"FA3"
+ },
+ {
+  "asm_acc":"GCA_008728455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12818007",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"V1836"
+ },
+ {
+  "asm_acc":"GCA_008728475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12818041",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"V2937"
+ },
+ {
+  "asm_acc":"GCA_009036045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12828129",
+  "host":"OREOCHROMIS NILOTICUS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"LAC7.2"
+ },
+ {
+  "asm_acc":"GCA_009697285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13283502",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE"
+ },
+ {
+  "asm_acc":"GCA_009734005.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10867607",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"SRR24"
+ },
+ {
+  "asm_acc":"GCA_009938075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11269520",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ZY11"
+ },
+ {
+  "asm_acc":"GCA_009938285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00202474",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"KUHS13"
+ },
+ {
+  "asm_acc":"GCA_010120755.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10867605",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ZY2"
+ },
+ {
+  "asm_acc":"GCA_011745645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12688234",
+  "host":"BEEF CATTLE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"DT1-1"
+ },
+ {
+  "asm_acc":"GCA_012932975.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675398",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BA17124"
+ },
+ {
+  "asm_acc":"GCA_012932985.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675394",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BP5067"
+ },
+ {
+  "asm_acc":"GCA_012933055.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675393",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BP3378"
+ },
+ {
+  "asm_acc":"GCA_012933075.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675395",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BP657"
+ },
+ {
+  "asm_acc":"GCA_012933165.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675388",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A7214"
+ },
+ {
+  "asm_acc":"GCA_012933195.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675386",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A6521"
+ },
+ {
+  "asm_acc":"GCA_012933245.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675385",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A4694"
+ },
+ {
+  "asm_acc":"GCA_012933265.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675384",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A3895"
+ },
+ {
+  "asm_acc":"GCA_012933285.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675381",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A11051"
+ },
+ {
+  "asm_acc":"GCA_012933295.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675383",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A15023"
+ },
+ {
+  "asm_acc":"GCA_012933345.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14675380",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A10290"
+ },
+ {
+  "asm_acc":"GCA_013201055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14969421",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"FS 86"
+ },
+ {
+  "asm_acc":"GCA_013391145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15223909",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"13344"
+ },
+ {
+  "asm_acc":"GCA_013391165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15223908",
+  "host":"ENVIRONMENTAL",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"13152"
+ },
+ {
+  "asm_acc":"GCA_013391185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15223907",
+  "host":"MUS MUSCULUS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"13144"
+ },
+ {
+  "asm_acc":"GCA_013391205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15223906",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"708"
+ },
+ {
+  "asm_acc":"GCA_014218175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12405821",
+  "host":"PIG",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"HDC14-2"
+ },
+ {
+  "asm_acc":"GCA_014490015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15643623",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AML0157"
+ },
+ {
+  "asm_acc":"GCA_014874615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16287686",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB3338"
+ },
+ {
+  "asm_acc":"GCA_015325925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15566652",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE3370"
+ },
+ {
+  "asm_acc":"GCA_015476295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15566645",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE3363"
+ },
+ {
+  "asm_acc":"GCA_015999405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15566671",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE3389"
+ },
+ {
+  "asm_acc":"GCA_015999425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15566664",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE3382"
+ },
+ {
+  "asm_acc":"GCA_015999605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17012772",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 1"
+ },
+ {
+  "asm_acc":"GCA_016126675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038066",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 5"
+ },
+ {
+  "asm_acc":"GCA_016406345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038086",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 91"
+ },
+ {
+  "asm_acc":"GCA_016406365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038078",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 53_1"
+ },
+ {
+  "asm_acc":"GCA_016406385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038079",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 55"
+ },
+ {
+  "asm_acc":"GCA_016406405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038081",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 66"
+ },
+ {
+  "asm_acc":"GCA_016406425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038084",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 83"
+ },
+ {
+  "asm_acc":"GCA_016406445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038071",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 17_1"
+ },
+ {
+  "asm_acc":"GCA_016406465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038075",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 51_4"
+ },
+ {
+  "asm_acc":"GCA_016406485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038069",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 16_1"
+ },
+ {
+  "asm_acc":"GCA_016406505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038085",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 87_1"
+ },
+ {
+  "asm_acc":"GCA_016406525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038083",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 71_2"
+ },
+ {
+  "asm_acc":"GCA_016406545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038077",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 53_2"
+ },
+ {
+  "asm_acc":"GCA_016406565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038080",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 57"
+ },
+ {
+  "asm_acc":"GCA_016406585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038089",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 93_3"
+ },
+ {
+  "asm_acc":"GCA_016406605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038088",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 93_2"
+ },
+ {
+  "asm_acc":"GCA_016415025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038090",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 97_1"
+ },
+ {
+  "asm_acc":"GCA_016415105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038093",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 103"
+ },
+ {
+  "asm_acc":"GCA_016415285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038091",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 100_1"
+ },
+ {
+  "asm_acc":"GCA_016415325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038094",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 107_1"
+ },
+ {
+  "asm_acc":"GCA_016415345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038095",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 111"
+ },
+ {
+  "asm_acc":"GCA_016415365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038100",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 124_3"
+ },
+ {
+  "asm_acc":"GCA_016415385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038098",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 124_1"
+ },
+ {
+  "asm_acc":"GCA_016415405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038103",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 144_1"
+ },
+ {
+  "asm_acc":"GCA_016415425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038104",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 148"
+ },
+ {
+  "asm_acc":"GCA_016415445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038102",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 137"
+ },
+ {
+  "asm_acc":"GCA_016415465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038101",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 131_2"
+ },
+ {
+  "asm_acc":"GCA_016415485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038111",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 163_1"
+ },
+ {
+  "asm_acc":"GCA_016415505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038106",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 155"
+ },
+ {
+  "asm_acc":"GCA_016415545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038105",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 154_1"
+ },
+ {
+  "asm_acc":"GCA_016415565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17038107",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"Dallas 158"
+ },
+ {
+  "asm_acc":"GCA_016864255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12930511",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"WGS1811-4-7"
+ },
+ {
+  "asm_acc":"GCA_017584065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15566637",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE3355"
+ },
+ {
+  "asm_acc":"GCA_017603725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18353823",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB13828"
+ },
+ {
+  "asm_acc":"GCA_017815655.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18533867",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB12993"
+ },
+ {
+  "asm_acc":"GCA_017815675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18533866",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB3895"
+ },
+ {
+  "asm_acc":"GCA_017815695.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18533868",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB976"
+ },
+ {
+  "asm_acc":"GCA_017897965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18533763",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB6171"
+ },
+ {
+  "asm_acc":"GCA_017898005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18533757",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB6521"
+ },
+ {
+  "asm_acc":"GCA_017898025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18533778",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VB3378"
+ },
+ {
+  "asm_acc":"GCA_018219285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16327791",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"PR05720-3"
+ },
+ {
+  "asm_acc":"GCA_018219325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16327730",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"PR01996-12"
+ },
+ {
+  "asm_acc":"GCA_907165365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8659956",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_907176135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8659929",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_907176815.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8659991",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_907177285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8659977",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_018516845.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988100",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"18-465"
+ },
+ {
+  "asm_acc":"GCA_018516925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988099",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"18-276"
+ },
+ {
+  "asm_acc":"GCA_018517045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988094",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"17-508"
+ },
+ {
+  "asm_acc":"GCA_018517065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988093",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"17-318"
+ },
+ {
+  "asm_acc":"GCA_018517085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988092",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"16-164"
+ },
+ {
+  "asm_acc":"GCA_018517105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988091",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"16-021"
+ },
+ {
+  "asm_acc":"GCA_018517185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16988095",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"18-042"
+ },
+ {
+  "asm_acc":"GCA_019356355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN20255402",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"7150"
+ },
+ {
+  "asm_acc":"GCA_907163255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8520472",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUS2001"
+ },
+ {
+  "asm_acc":"GCA_907163315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8520473",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AUS2002"
+ },
+ {
+  "asm_acc":"GCA_019977495.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00324535",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AA620"
+ },
+ {
+  "asm_acc":"GCA_019977575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00324536",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AA622"
+ },
+ {
+  "asm_acc":"GCA_020091325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21438094",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"HJP554"
+ },
+ {
+  "asm_acc":"GCA_020162155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5367970",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_020162175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5367917",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_020736585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN22627481",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"SC1762"
+ },
+ {
+  "asm_acc":"GCA_020736625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN22627489",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"SC1762-D"
+ },
+ {
+  "asm_acc":"GCA_021172105.3",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23500290",
+  "host":"DOG",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"V13-21-E11-012-001"
+ },
+ {
+  "asm_acc":"GCA_021228615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23828484",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NMVRE-001"
+ },
+ {
+  "asm_acc":"GCA_021398505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21240068",
+  "host":"APIS MELLIFERA",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"H7"
+ },
+ {
+  "asm_acc":"GCA_021560195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN25039860",
+  "host":"PIG",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"P47"
+ },
+ {
+  "asm_acc":"GCA_021713095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN25134383",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UK043"
+ },
+ {
+  "asm_acc":"GCA_021899455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN25260013",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UK040"
+ },
+ {
+  "asm_acc":"GCA_022647825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN19573784",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UAMS_EF58"
+ },
+ {
+  "asm_acc":"GCA_022647945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN19573783",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UAMS_EF57"
+ },
+ {
+  "asm_acc":"GCA_022648125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN19573782",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UAMS_EF55"
+ },
+ {
+  "asm_acc":"GCA_022691445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26026626",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"VRE-WC072"
+ },
+ {
+  "asm_acc":"GCA_022699225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26754680",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NY2032"
+ },
+ {
+  "asm_acc":"GCA_022699545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26754766",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NY11067"
+ },
+ {
+  "asm_acc":"GCA_022699565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26754719",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NY11066"
+ },
+ {
+  "asm_acc":"GCA_022749455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26755017",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"NY13320"
+ },
+ {
+  "asm_acc":"GCA_022811085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16442613",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-5-1-10"
+ },
+ {
+  "asm_acc":"GCA_022811125.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483167",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-2-2-11"
+ },
+ {
+  "asm_acc":"GCA_022811145.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483166",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-4-1-1"
+ },
+ {
+  "asm_acc":"GCA_022811165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483165",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ICU-1-2"
+ },
+ {
+  "asm_acc":"GCA_022811185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483164",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-1-1-10"
+ },
+ {
+  "asm_acc":"GCA_022811205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483163",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ICU-3-1"
+ },
+ {
+  "asm_acc":"GCA_022811225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483162",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-1-1-11"
+ },
+ {
+  "asm_acc":"GCA_022811245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483161",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-1-1-12"
+ },
+ {
+  "asm_acc":"GCA_022811265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483160",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-4-1-11"
+ },
+ {
+  "asm_acc":"GCA_022811285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483159",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-2-1-1"
+ },
+ {
+  "asm_acc":"GCA_022811305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483158",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-1-3-1"
+ },
+ {
+  "asm_acc":"GCA_022811325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483157",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-3-2-1"
+ },
+ {
+  "asm_acc":"GCA_022811345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483156",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-2-3-8"
+ },
+ {
+  "asm_acc":"GCA_022811365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483155",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-2-1-3"
+ },
+ {
+  "asm_acc":"GCA_022811385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483154",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ICU-1-1"
+ },
+ {
+  "asm_acc":"GCA_022811405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483153",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"BMT-4-1-3"
+ },
+ {
+  "asm_acc":"GCA_022811425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483152",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ICU-4-1"
+ },
+ {
+  "asm_acc":"GCA_022811445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483151",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ICU-5-1"
+ },
+ {
+  "asm_acc":"GCA_022811465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16483150",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ICU-2-1"
+ },
+ {
+  "asm_acc":"GCA_023204955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27725314",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UCH1"
+ },
+ {
+  "asm_acc":"GCA_023204975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27728132",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"UCH5"
+ },
+ {
+  "asm_acc":"GCA_023375205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424489",
+  "host":"SUS SCROFA DOMESTICUS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"S2-6b"
+ },
+ {
+  "asm_acc":"GCA_023375225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424486",
+  "host":"SUS SCROFA DOMESTICUS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"S39-7a"
+ },
+ {
+  "asm_acc":"GCA_023375345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424744",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"1818"
+ },
+ {
+  "asm_acc":"GCA_023375365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424743",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"211b"
+ },
+ {
+  "asm_acc":"GCA_023375385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424742",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"264a"
+ },
+ {
+  "asm_acc":"GCA_023375405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424741",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"1525"
+ },
+ {
+  "asm_acc":"GCA_023375425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424740",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"642"
+ },
+ {
+  "asm_acc":"GCA_023375445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424739",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"237"
+ },
+ {
+  "asm_acc":"GCA_023373765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26687403",
+  "host":"SWINE",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"GDIAS-5"
+ },
+ {
+  "asm_acc":"GCA_023375155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424493",
+  "host":"SUS SCROFA DOMESTICUS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"S2-7"
+ },
+ {
+  "asm_acc":"GCA_023375175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424492",
+  "host":"SUS SCROFA DOMESTICUS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"S46-3"
+ },
+ {
+  "asm_acc":"GCA_023375305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424747",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus hirae",
+  "strain":"697"
+ },
+ {
+  "asm_acc":"GCA_023658035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15486631",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ef332"
+ },
+ {
+  "asm_acc":"GCA_024665675.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN29862207",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"ENCfa-68"
+ },
+ {
+  "asm_acc":"GCA_026073115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466802",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_026073415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466807",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_026073435.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466808",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_026073455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466809",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_026073625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466815",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_026073735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466816",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_026073915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00466817",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_023182815.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27545022",
+  "host":"PIGLET",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AKSZ-47"
+ },
+ {
+  "asm_acc":"GCA_023182835.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27545023",
+  "host":"NURSERY PIG",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"AKSZ-142"
+ },
+ {
+  "asm_acc":"GCA_026409165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31742645",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"DVT1681"
+ },
+ {
+  "asm_acc":"GCA_027286245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32302292",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"EF0656"
+ },
+ {
+  "asm_acc":"GCA_028335205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424535",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K195-6b"
+ },
+ {
+  "asm_acc":"GCA_028335225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424529",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K191-3"
+ },
+ {
+  "asm_acc":"GCA_028335245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424534",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"R39-1"
+ },
+ {
+  "asm_acc":"GCA_028335265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424533",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"R186-2"
+ },
+ {
+  "asm_acc":"GCA_028335465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424532",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K69-1a"
+ },
+ {
+  "asm_acc":"GCA_028335485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424531",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K188-5"
+ },
+ {
+  "asm_acc":"GCA_028335525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424528",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K162-1"
+ },
+ {
+  "asm_acc":"GCA_028335565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424527",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K75-1"
+ },
+ {
+  "asm_acc":"GCA_028335585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424526",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K70-1a"
+ },
+ {
+  "asm_acc":"GCA_028335605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424525",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K189-3"
+ },
+ {
+  "asm_acc":"GCA_028335625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23424524",
+  "host":"BOVINE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"K80-15b"
+ },
+ {
+  "asm_acc":"GCA_030064735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31265469",
+  "host":"CATTLE",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"XJ78NG"
+ }
+]

@@ -1,0 +1,1066 @@
+[
+ {
+  "asm_acc":"GCA_000196595.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN00002223",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae TCH8431\/19A",
+  "strain":"TCH8431\/19A"
+ },
+ {
+  "asm_acc":"GCA_000146975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02603428",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae AP200",
+  "strain":"AP200"
+ },
+ {
+  "asm_acc":"GCA_000251085.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02604071",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae ST556",
+  "strain":"ST556"
+ },
+ {
+  "asm_acc":"GCA_000299015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02299431",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae gamPNI0373",
+  "strain":"gamPNI0373"
+ },
+ {
+  "asm_acc":"GCA_000722765.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02836939",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus mitis",
+  "strain":"SK637"
+ },
+ {
+  "asm_acc":"GCA_001281025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03263069",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus mitis",
+  "strain":"KCOM 1350 (= ChDC B183)"
+ },
+ {
+  "asm_acc":"GCA_001560895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04461788",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus mitis",
+  "strain":"SVGS_061"
+ },
+ {
+  "asm_acc":"GCA_001896045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN05981365",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SP49"
+ },
+ {
+  "asm_acc":"GCA_001896065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06009945",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SP61"
+ },
+ {
+  "asm_acc":"GCA_001896085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06009955",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SP64"
+ },
+ {
+  "asm_acc":"GCA_001902455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06109026",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SWU02"
+ },
+ {
+  "asm_acc":"GCA_001983955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06179980",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"S.MIT\/ORALIS-351"
+ },
+ {
+  "asm_acc":"GCA_002356415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00078884",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis subsp. tigurinus",
+  "strain":"osk_001"
+ },
+ {
+  "asm_acc":"GCA_002357995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00073590",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"KK0981"
+ },
+ {
+  "asm_acc":"GCA_002386345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07312411",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"FDAARGOS_367"
+ },
+ {
+  "asm_acc":"GCA_002813535.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08105887",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"BHN97x"
+ },
+ {
+  "asm_acc":"GCA_002813955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06166933",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"11A"
+ },
+ {
+  "asm_acc":"GCA_002947575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08501023",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"endophthalmitis"
+ },
+ {
+  "asm_acc":"GCA_003003495.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04093378",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"D39V"
+ },
+ {
+  "asm_acc":"GCA_900476505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104042952",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4041STDY6836166"
+ },
+ {
+  "asm_acc":"GCA_900476445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104042953",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4041STDY6836167"
+ },
+ {
+  "asm_acc":"GCA_900476455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104042955",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4041STDY6836169"
+ },
+ {
+  "asm_acc":"GCA_900476465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104042956",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4041STDY6836170"
+ },
+ {
+  "asm_acc":"GCA_900476475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA4469815",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4041STDY6583227"
+ },
+ {
+  "asm_acc":"GCA_900475515.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3649044",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NCTC13276"
+ },
+ {
+  "asm_acc":"GCA_900475305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3714884",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NCTC7466"
+ },
+ {
+  "asm_acc":"GCA_900475805.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3956100",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NCTC11902"
+ },
+ {
+  "asm_acc":"GCA_003351525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09704656",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"M23734"
+ },
+ {
+  "asm_acc":"GCA_003351645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09704646",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"M16808"
+ },
+ {
+  "asm_acc":"GCA_003351705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09704657",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"M26365"
+ },
+ {
+  "asm_acc":"GCA_003351725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09704658",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"M26368"
+ },
+ {
+  "asm_acc":"GCA_003354825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08323709",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SPN XDR SMC1710-32"
+ },
+ {
+  "asm_acc":"GCA_003609935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00096762",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"MDRSPN001"
+ },
+ {
+  "asm_acc":"GCA_900636585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3679170",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NCTC12977"
+ },
+ {
+  "asm_acc":"GCA_900637025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3936797",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis ATCC 35037",
+  "strain":"NCTC 11427"
+ },
+ {
+  "asm_acc":"GCA_003966485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00137665",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"ATCC 49619"
+ },
+ {
+  "asm_acc":"GCA_003966505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00137664",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"HU-OH"
+ },
+ {
+  "asm_acc":"GCA_003966525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00137663",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NU83127"
+ },
+ {
+  "asm_acc":"GCA_003967155.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00110695",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_003994915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06233407",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"HKU1-14"
+ },
+ {
+  "asm_acc":"GCA_900618545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5092020",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4496"
+ },
+ {
+  "asm_acc":"GCA_900618555.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5092021",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"947"
+ },
+ {
+  "asm_acc":"GCA_900618575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5092023",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"180-2"
+ },
+ {
+  "asm_acc":"GCA_900618585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5092024",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"180-15"
+ },
+ {
+  "asm_acc":"GCA_004291255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10908922",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"EF3030"
+ },
+ {
+  "asm_acc":"GCA_900692935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3431333",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"GPSC10"
+ },
+ {
+  "asm_acc":"GCA_900693025.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3713867",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"GPSC47"
+ },
+ {
+  "asm_acc":"GCA_900693055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3714487",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"GPSC18"
+ },
+ {
+  "asm_acc":"GCA_900693075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3714520",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"GPSC13"
+ },
+ {
+  "asm_acc":"GCA_900795205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA104035599",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"GPSC55"
+ },
+ {
+  "asm_acc":"GCA_900622505.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA5092022",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"4559"
+ },
+ {
+  "asm_acc":"GCA_007475365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10534501",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis subsp. dentisani",
+  "strain":"F0392"
+ },
+ {
+  "asm_acc":"GCA_008253725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11338705",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"R6CIB17"
+ },
+ {
+  "asm_acc":"GCA_009664475.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13191652",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"AUSMDU00010538"
+ },
+ {
+  "asm_acc":"GCA_011694695.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14380576",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PZ900701590"
+ },
+ {
+  "asm_acc":"GCA_013047165.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14779717",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"6A-10"
+ },
+ {
+  "asm_acc":"GCA_013305725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11382546",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus mitis",
+  "strain":"S022-V3-A4"
+ },
+ {
+  "asm_acc":"GCA_015838875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321470",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"310"
+ },
+ {
+  "asm_acc":"GCA_015839035.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321471",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"475"
+ },
+ {
+  "asm_acc":"GCA_015839235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321472",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"521"
+ },
+ {
+  "asm_acc":"GCA_015839415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321473",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"525"
+ },
+ {
+  "asm_acc":"GCA_015839575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321474",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"566"
+ },
+ {
+  "asm_acc":"GCA_015839775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321476",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"573"
+ },
+ {
+  "asm_acc":"GCA_015839915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321477",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"574"
+ },
+ {
+  "asm_acc":"GCA_015840115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13321475",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"563"
+ },
+ {
+  "asm_acc":"GCA_016549395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17082796",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"SF100"
+ },
+ {
+  "asm_acc":"GCA_016658865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17258151",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus mitis",
+  "strain":"S022-V7-A3"
+ },
+ {
+  "asm_acc":"GCA_016888845.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07428910",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"SF100"
+ },
+ {
+  "asm_acc":"GCA_017569245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN17602804",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"BVJ1JL"
+ },
+ {
+  "asm_acc":"GCA_018336875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15858987",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"D39_P0"
+ },
+ {
+  "asm_acc":"GCA_019334565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN20209571",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"34"
+ },
+ {
+  "asm_acc":"GCA_019915285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN20982453",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SCAID PHRX1-2021"
+ },
+ {
+  "asm_acc":"GCA_020008085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14609417",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"B1900"
+ },
+ {
+  "asm_acc":"GCA_021497885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13440953",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"SOD"
+ },
+ {
+  "asm_acc":"GCA_021497945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13440952",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"SOT"
+ },
+ {
+  "asm_acc":"GCA_021497965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13440951",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus infantis",
+  "strain":"SO"
+ },
+ {
+  "asm_acc":"GCA_022068225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734535",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_TIGR4"
+ },
+ {
+  "asm_acc":"GCA_022068245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734537",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_Taiwan19F-14"
+ },
+ {
+  "asm_acc":"GCA_022068265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734517",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901928"
+ },
+ {
+  "asm_acc":"GCA_022068285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734516",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901927"
+ },
+ {
+  "asm_acc":"GCA_022068405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734515",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901926"
+ },
+ {
+  "asm_acc":"GCA_022068525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734514",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901925"
+ },
+ {
+  "asm_acc":"GCA_022068645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734513",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901924"
+ },
+ {
+  "asm_acc":"GCA_022068765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734512",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901923"
+ },
+ {
+  "asm_acc":"GCA_022068885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734511",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901922"
+ },
+ {
+  "asm_acc":"GCA_022069005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734533",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901948"
+ },
+ {
+  "asm_acc":"GCA_022069085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734532",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901947"
+ },
+ {
+  "asm_acc":"GCA_022069205.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734531",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901946"
+ },
+ {
+  "asm_acc":"GCA_022069325.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734530",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901945"
+ },
+ {
+  "asm_acc":"GCA_022069445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734529",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901943"
+ },
+ {
+  "asm_acc":"GCA_022069485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734528",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901941"
+ },
+ {
+  "asm_acc":"GCA_022069505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734527",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901940"
+ },
+ {
+  "asm_acc":"GCA_022069545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734526",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901939"
+ },
+ {
+  "asm_acc":"GCA_022069645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734510",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901921"
+ },
+ {
+  "asm_acc":"GCA_022069785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734525",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901938"
+ },
+ {
+  "asm_acc":"GCA_022069905.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734523",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901935"
+ },
+ {
+  "asm_acc":"GCA_022070005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734522",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901934"
+ },
+ {
+  "asm_acc":"GCA_022070225.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734520",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901932"
+ },
+ {
+  "asm_acc":"GCA_022070425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734518",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901930"
+ },
+ {
+  "asm_acc":"GCA_022070465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734509",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901920"
+ },
+ {
+  "asm_acc":"GCA_022070485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734540",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1902277"
+ },
+ {
+  "asm_acc":"GCA_022070505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734536",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_D39"
+ },
+ {
+  "asm_acc":"GCA_022070545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734539",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1902276"
+ },
+ {
+  "asm_acc":"GCA_022070565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734538",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1902282"
+ },
+ {
+  "asm_acc":"GCA_022075545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734563",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901936"
+ },
+ {
+  "asm_acc":"GCA_022075645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734565",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901944"
+ },
+ {
+  "asm_acc":"GCA_022075745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10734562",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"TVO_1901929"
+ },
+ {
+  "asm_acc":"GCA_022318385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647280",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"BR1268"
+ },
+ {
+  "asm_acc":"GCA_022318405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647361",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"CH2241"
+ },
+ {
+  "asm_acc":"GCA_022318425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647548",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"LE4448"
+ },
+ {
+  "asm_acc":"GCA_022318445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647626",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"MD5403"
+ },
+ {
+  "asm_acc":"GCA_022318465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647706",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"ND6401"
+ },
+ {
+  "asm_acc":"GCA_022318485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647831",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NP7513"
+ },
+ {
+  "asm_acc":"GCA_022318505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647838",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"NP7536"
+ },
+ {
+  "asm_acc":"GCA_022318525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647902",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PT8465"
+ },
+ {
+  "asm_acc":"GCA_022318545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08647378",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"CH2439"
+ },
+ {
+  "asm_acc":"GCA_930986525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA4657913",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"RMV7"
+ },
+ {
+  "asm_acc":"GCA_022558605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15783364",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PZ900700608"
+ },
+ {
+  "asm_acc":"GCA_022749195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06040933",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"1648"
+ },
+ {
+  "asm_acc":"GCA_023611505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28592655",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"HP01"
+ },
+ {
+  "asm_acc":"GCA_024089335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24060681",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae TIGR4",
+  "strain":"TIGR4"
+ },
+ {
+  "asm_acc":"GCA_024089355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24060680",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SN75752"
+ },
+ {
+  "asm_acc":"GCA_024399415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN09081250",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus oralis",
+  "strain":"CCUG 53468"
+ },
+ {
+  "asm_acc":"GCA_025136435.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16580452",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"19A-ST320_99-176"
+ },
+ {
+  "asm_acc":"GCA_025643295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN25149806",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"3238\/09"
+ },
+ {
+  "asm_acc":"GCA_025643315.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN25149807",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"3641\/15"
+ },
+ {
+  "asm_acc":"GCA_027563115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27647185",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"SP007"
+ },
+ {
+  "asm_acc":"GCA_027943765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00453553",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PZ900700617"
+ },
+ {
+  "asm_acc":"GCA_027943785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00453554",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PZ900700792"
+ },
+ {
+  "asm_acc":"GCA_027943805.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00453556",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PZ900701057"
+ },
+ {
+  "asm_acc":"GCA_027943825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00453558",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"Utah_35B-24"
+ },
+ {
+  "asm_acc":"GCA_027943845.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00453552",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"PZ900700204"
+ },
+ {
+  "asm_acc":"GCA_030028375.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35018717",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus pneumoniae",
+  "strain":"105_Kz"
+ }
+]

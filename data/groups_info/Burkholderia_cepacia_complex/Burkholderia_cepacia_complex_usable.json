@@ -1,0 +1,725 @@
+[
+ {
+  "Burkholderia_cepacia_complex": "PDG000000094.40"
+ },
+ {
+  "asm_acc": "GCA_000974835.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03486590",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "LO6"
+ },
+ {
+  "asm_acc": "GCA_001411495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04167160",
+  "host": "ALLIUM CEPA (ONION)",
+  "scientific_name": "Burkholderia cepacia ATCC 25416",
+  "strain": "UCB 717"
+ },
+ {
+  "asm_acc": "GCA_001484665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03323790",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "ST32"
+ },
+ {
+  "asm_acc": "GCA_001606115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04570263",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "842"
+ },
+ {
+  "asm_acc": "GCA_001606135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04574071",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "895"
+ },
+ {
+  "asm_acc": "GCA_001718755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03449401",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "AU1185"
+ },
+ {
+  "asm_acc": "GCA_001718775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03449402",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia vietnamiensis",
+  "strain": "AU1233"
+ },
+ {
+  "asm_acc": "GCA_001718795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03449404",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia latens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_001742165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05367054",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia stabilis",
+  "strain": "ATCC BAA-67"
+ },
+ {
+  "asm_acc": "GCA_001999785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05001925",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "VC7848"
+ },
+ {
+  "asm_acc": "GCA_001999825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05001933",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "VC12802"
+ },
+ {
+  "asm_acc": "GCA_001999885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05001912",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "VC12308"
+ },
+ {
+  "asm_acc": "GCA_002007585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05756084",
+  "host": "CORN",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "CR318"
+ },
+ {
+  "asm_acc": "GCA_002209085.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173358",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "FDAARGOS_345"
+ },
+ {
+  "asm_acc": "GCA_002407525.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07312432",
+  "host": "ONION",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "FDAARGOS_388"
+ },
+ {
+  "asm_acc": "GCA_003019945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05004748",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Burkholderia vietnamiensis",
+  "strain": "FDAARGOS_239"
+ },
+ {
+  "asm_acc": "GCA_003019965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05004755",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_246"
+ },
+ {
+  "asm_acc": "GCA_003076415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06842015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "PC184 Mulks"
+ },
+ {
+  "asm_acc": "GCA_003711145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08042342",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia lata",
+  "strain": "A05"
+ },
+ {
+  "asm_acc": "GCA_003812365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163240",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_547"
+ },
+ {
+  "asm_acc": "GCA_003812585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163241",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_548"
+ },
+ {
+  "asm_acc": "GCA_003813045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163186",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia dolosa",
+  "strain": "FDAARGOS_562"
+ },
+ {
+  "asm_acc": "GCA_003966315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10081159",
+  "host": "POPULUS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "YG-3"
+ },
+ {
+  "asm_acc": "GCA_008693485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056338",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_623"
+ },
+ {
+  "asm_acc": "GCA_008693525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056337",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_622"
+ },
+ {
+  "asm_acc": "GCA_009730035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056434",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_719"
+ },
+ {
+  "asm_acc": "GCA_009730175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056441",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_726"
+ },
+ {
+  "asm_acc": "GCA_009730195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056437",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "FDAARGOS_722"
+ },
+ {
+  "asm_acc": "GCA_014357995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14693155",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "K56-2"
+ },
+ {
+  "asm_acc": "GCA_014854795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08724754",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "39628"
+ },
+ {
+  "asm_acc": "GCA_017815595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18497774",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia latens",
+  "strain": "AU0505"
+ },
+ {
+  "asm_acc": "GCA_017815615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18497773",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia latens",
+  "strain": "AU2934"
+ },
+ {
+  "asm_acc": "GCA_018223765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18839524",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "toggle2"
+ },
+ {
+  "asm_acc": "GCA_018223785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18839523",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia contaminans",
+  "strain": "toggle1"
+ },
+ {
+  "asm_acc": "GCA_018223805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18839526",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "toggle4"
+ },
+ {
+  "asm_acc": "GCA_018228625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18839525",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "toggle3"
+ },
+ {
+  "asm_acc": "GCA_019915365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20982457",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia contaminans",
+  "strain": "SCAID TST1-2021 (11/270)"
+ },
+ {
+  "asm_acc": "GCA_022213445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056436",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia vietnamiensis",
+  "strain": "FDAARGOS_721"
+ },
+ {
+  "asm_acc": "GCA_022809715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26934490",
+  "host": "POPLAR",
+  "scientific_name": "Burkholderia pyrrocinia",
+  "strain": "JK-SH007"
+ },
+ {
+  "asm_acc": "GCA_017165175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876244",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P2Bm2011a"
+ },
+ {
+  "asm_acc": "GCA_017165195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876243",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P1Bm2015"
+ },
+ {
+  "asm_acc": "GCA_017165475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876242",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P1Bm2014"
+ },
+ {
+  "asm_acc": "GCA_017165495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876240",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P1Bm2012b"
+ },
+ {
+  "asm_acc": "GCA_017165515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876238",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P1Bm2011b"
+ },
+ {
+  "asm_acc": "GCA_017165535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876237",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P1Bm2011a"
+ },
+ {
+  "asm_acc": "GCA_017165555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13876236",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "P1Bm2009"
+ },
+ {
+  "asm_acc": "GCA_023053515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27545478",
+  "host": "RICE",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "BRDJ"
+ },
+ {
+  "asm_acc": "GCA_023373625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348567",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2007Ycf278"
+ },
+ {
+  "asm_acc": "GCA_023373645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348566",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2006Ycf877"
+ },
+ {
+  "asm_acc": "GCA_023373665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348565",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2005Ycf971III"
+ },
+ {
+  "asm_acc": "GCA_023373685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348562",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2004Ycf1069VI"
+ },
+ {
+  "asm_acc": "GCA_023373725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348560",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia vietnamiensis",
+  "strain": "2003Ycf867"
+ },
+ {
+  "asm_acc": "GCA_023374315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348620",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2020Y71628512IV"
+ },
+ {
+  "asm_acc": "GCA_023374335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348617",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "2019Y71443953II"
+ },
+ {
+  "asm_acc": "GCA_023374355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348615",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2019Y71421880II"
+ },
+ {
+  "asm_acc": "GCA_023374375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348614",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2019Y71417852IX"
+ },
+ {
+  "asm_acc": "GCA_023374395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348612",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2019Y60005016V"
+ },
+ {
+  "asm_acc": "GCA_023374415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348609",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2017Y71087112III"
+ },
+ {
+  "asm_acc": "GCA_023374435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348608",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2017Y71079786"
+ },
+ {
+  "asm_acc": "GCA_023374455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348607",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2017Y71078597II"
+ },
+ {
+  "asm_acc": "GCA_023374475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348603",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "2017Y70952565VI"
+ },
+ {
+  "asm_acc": "GCA_023374495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348601",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2016Y70910410I"
+ },
+ {
+  "asm_acc": "GCA_023374515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348600",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2016Y70888756VI"
+ },
+ {
+  "asm_acc": "GCA_023374535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348598",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2016Y70836300"
+ },
+ {
+  "asm_acc": "GCA_023374575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348594",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2015Y70629342III"
+ },
+ {
+  "asm_acc": "GCA_023374595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348593",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2014Y70532416II"
+ },
+ {
+  "asm_acc": "GCA_023374615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348592",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2014Y70522077"
+ },
+ {
+  "asm_acc": "GCA_023374635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348591",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2014Y70518672I"
+ },
+ {
+  "asm_acc": "GCA_023374655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348590",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2014Y70439247"
+ },
+ {
+  "asm_acc": "GCA_023374675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348582",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "2011Ycf793I"
+ },
+ {
+  "asm_acc": "GCA_023374695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348581",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2011Ycf521III"
+ },
+ {
+  "asm_acc": "GCA_023374715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348580",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "2011Ycf427V"
+ },
+ {
+  "asm_acc": "GCA_023374735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348578",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2010Ycf635"
+ },
+ {
+  "asm_acc": "GCA_023374755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348577",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2010Ycf576V"
+ },
+ {
+  "asm_acc": "GCA_023374775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348576",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2010Ycf503"
+ },
+ {
+  "asm_acc": "GCA_023374795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348575",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2010Ycf41"
+ },
+ {
+  "asm_acc": "GCA_023374815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348574",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2010Ycf31III"
+ },
+ {
+  "asm_acc": "GCA_023374835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348572",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "2009Ycf95III"
+ },
+ {
+  "asm_acc": "GCA_023374855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348570",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "2008Ycf657"
+ },
+ {
+  "asm_acc": "GCA_023374875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348569",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2008Ycf542"
+ },
+ {
+  "asm_acc": "GCA_023374895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20348568",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2007Ycf875II"
+ },
+ {
+  "asm_acc": "GCA_025643495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29271629",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "NML180963"
+ },
+ {
+  "asm_acc": "GCA_025643515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29271628",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia contaminans",
+  "strain": "NML151013"
+ },
+ {
+  "asm_acc": "GCA_025643555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29271626",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "NML140411"
+ },
+ {
+  "asm_acc": "GCA_025643575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29271625",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cenocepacia",
+  "strain": "NML110041"
+ },
+ {
+  "asm_acc": "GCA_029590335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33824436",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia contaminans",
+  "strain": "5080"
+ },
+ {
+  "asm_acc": "GCA_029633645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24289056",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia contaminans",
+  "strain": "FFH2055"
+ },
+ {
+  "asm_acc": "GCA_029633825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24289055",
+  "host": "SHEEP",
+  "scientific_name": "Burkholderia contaminans",
+  "strain": "LMG 23361"
+ },
+ {
+  "asm_acc": "GCA_029962485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18838426",
+  "host": "PLECTROCNEMIA",
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "ZJ1"
+ },
+ {
+  "asm_acc": "GCA_030078435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33830059",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia vietnamiensis",
+  "strain": "LMG16232"
+ }
+]

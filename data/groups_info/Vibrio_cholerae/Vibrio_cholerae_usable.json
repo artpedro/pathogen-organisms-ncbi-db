@@ -1,0 +1,325 @@
+[
+ {
+  "Vibrio_cholerae": "PDG000000055.383"
+ },
+ {
+  "asm_acc": "GCA_000166455.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN00765529",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 str. 2010EL-1786",
+  "strain": "2010EL-1786"
+ },
+ {
+  "asm_acc": "GCA_000765415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02741837",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_000963555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02928187",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 biovar El Tor",
+  "strain": "FJ147"
+ },
+ {
+  "asm_acc": "GCA_001250235.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA889328",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "A19"
+ },
+ {
+  "asm_acc": "GCA_001558475.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996328",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Vibrio mimicus",
+  "strain": "FDAARGOS_112"
+ },
+ {
+  "asm_acc": "GCA_001767355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05356867",
+  "host": "YELLOW CATFISH",
+  "scientific_name": "Vibrio mimicus",
+  "strain": "SCCF01"
+ },
+ {
+  "asm_acc": "GCA_002073335.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875560",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "FDAARGOS_223"
+ },
+ {
+  "asm_acc": "GCA_002313005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04045282",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "ICDC-VC661"
+ },
+ {
+  "asm_acc": "GCA_002749635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07821484",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "E7946"
+ },
+ {
+  "asm_acc": "GCA_900185995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104115281",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_002892855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08323859",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "A1552"
+ },
+ {
+  "asm_acc": "GCA_002946655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08472240",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 biovar El Tor",
+  "strain": "HC1037"
+ },
+ {
+  "asm_acc": "GCA_002997215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07974340",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "A1552"
+ },
+ {
+  "asm_acc": "GCA_003063785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08822914",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "N16961"
+ },
+ {
+  "asm_acc": "GCA_900324445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4374366",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "4295STDY6534216"
+ },
+ {
+  "asm_acc": "GCA_900324425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4374367",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "4295STDY6534232"
+ },
+ {
+  "asm_acc": "GCA_900324455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4374368",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "4295STDY6534248"
+ },
+ {
+  "asm_acc": "GCA_003097695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08896638",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "A1552"
+ },
+ {
+  "asm_acc": "GCA_003574155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00118470",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "V060002"
+ },
+ {
+  "asm_acc": "GCA_003591575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07684567",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "FORC_073"
+ },
+ {
+  "asm_acc": "GCA_004117115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08384473",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "FORC_076"
+ },
+ {
+  "asm_acc": "GCA_009799825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13613314",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_900324435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4374365",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "4295STDY6534200"
+ },
+ {
+  "asm_acc": "GCA_013085075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13734987",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae C6706",
+  "strain": "C6706"
+ },
+ {
+  "asm_acc": "GCA_013085105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13734988",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 biovar El Tor",
+  "strain": "C6709"
+ },
+ {
+  "asm_acc": "GCA_013085125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13734999",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 biovar El Tor",
+  "strain": "P27459"
+ },
+ {
+  "asm_acc": "GCA_013085145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13735001",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 biovar El Tor",
+  "strain": "DRC-193A"
+ },
+ {
+  "asm_acc": "GCA_013085165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13734989",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O1 biovar El Tor",
+  "strain": "E7946"
+ },
+ {
+  "asm_acc": "GCA_013462495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11604374",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "VC1374"
+ },
+ {
+  "asm_acc": "GCA_015168795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16483972",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "VC_hf7"
+ },
+ {
+  "asm_acc": "GCA_017948285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18636297",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "A1552"
+ },
+ {
+  "asm_acc": "GCA_017948345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18642716",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae MO10",
+  "strain": "MO10"
+ },
+ {
+  "asm_acc": "GCA_018336415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13736322",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae O37",
+  "strain": "ATCC 25872"
+ },
+ {
+  "asm_acc": "GCA_019048845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19795481",
+  "host": "MACROBRACHIUM NIPPONENSE",
+  "scientific_name": "Vibrio mimicus",
+  "strain": "Y4"
+ },
+ {
+  "asm_acc": "GCA_019504425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19718245",
+  "host": "PUFFER FISH",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "PS-4"
+ },
+ {
+  "asm_acc": "GCA_021431945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24501422",
+  "host": "MACROBRACHIUM ROSENBERGII",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "GXFL1-4"
+ },
+ {
+  "asm_acc": "GCA_024734685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30329103",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "N1252"
+ },
+ {
+  "asm_acc": "GCA_937000115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9995352",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "CNRVC190247"
+ },
+ {
+  "asm_acc": "GCA_937000105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9995373",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "CNRVC190243"
+ },
+ {
+  "asm_acc": "GCA_030062725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18296291",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "MS84A"
+ }
+]

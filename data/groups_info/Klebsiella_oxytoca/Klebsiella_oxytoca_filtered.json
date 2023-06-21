@@ -1,0 +1,634 @@
+[
+ {
+  "asm_acc":"GCA_000276705.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02603642",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis E718",
+  "strain":"E718"
+ },
+ {
+  "asm_acc":"GCA_000632415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03081460",
+  "host":"GIANT PANDA",
+  "scientific_name":"Klebsiella michiganensis HKOPL1",
+  "strain":"HKOPL1"
+ },
+ {
+  "asm_acc":"GCA_000783935.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN02934513",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella planticola",
+  "strain":"FDAARGOS_64"
+ },
+ {
+  "asm_acc":"GCA_001022115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03733750",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"CAV1335"
+ },
+ {
+  "asm_acc":"GCA_001022295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03733663",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"CAV1099"
+ },
+ {
+  "asm_acc":"GCA_001870185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03733631",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"CAV1015"
+ },
+ {
+  "asm_acc":"GCA_001970835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03733848",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"CAV1752"
+ },
+ {
+  "asm_acc":"GCA_002214825.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06909736",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"Ro24724"
+ },
+ {
+  "asm_acc":"GCA_002216835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07315162",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"K516"
+ },
+ {
+  "asm_acc":"GCA_002290285.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07551913",
+  "host":"PATIENT",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"K518"
+ },
+ {
+  "asm_acc":"GCA_002984395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN06173348",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"FDAARGOS_335"
+ },
+ {
+  "asm_acc":"GCA_003812925.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN10163176",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"FDAARGOS_500"
+ },
+ {
+  "asm_acc":"GCA_900635105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3251432",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"NCTC11356"
+ },
+ {
+  "asm_acc":"GCA_900636985.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3923594",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"NCTC13727"
+ },
+ {
+  "asm_acc":"GCA_900635915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3251450",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"NCTC13096"
+ },
+ {
+  "asm_acc":"GCA_008694045.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12780943",
+  "host":"DUCK",
+  "scientific_name":"Raoultella planticola",
+  "strain":"S25"
+ },
+ {
+  "asm_acc":"GCA_008931605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12289379",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"C52"
+ },
+ {
+  "asm_acc":"GCA_009930855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN07411959",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"F107"
+ },
+ {
+  "asm_acc":"GCA_010093005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13911826",
+  "host":"BACTROCERA DORSALIS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"BD177"
+ },
+ {
+  "asm_acc":"GCA_011149255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14258453",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"WM1"
+ },
+ {
+  "asm_acc":"GCA_013425975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15425329",
+  "host":"SORGHUM BICOLOR",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"DSM 16926"
+ },
+ {
+  "asm_acc":"GCA_013457615.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13520756",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"193104922"
+ },
+ {
+  "asm_acc":"GCA_013457875.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN13520757",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"172117885"
+ },
+ {
+  "asm_acc":"GCA_013462275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11603266",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella planticola",
+  "strain":"Rp_CZ180511"
+ },
+ {
+  "asm_acc":"GCA_014050515.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN12648330",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"PS_Koxy4"
+ },
+ {
+  "asm_acc":"GCA_014217275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15755083",
+  "host":"MORUS ALBA",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"AKKL-001"
+ },
+ {
+  "asm_acc":"GCA_015139575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00196009",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"THO-011"
+ },
+ {
+  "asm_acc":"GCA_904863345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3357409",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"MSB1_10D"
+ },
+ {
+  "asm_acc":"GCA_015571975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16304043",
+  "host":"SUS SCROFA DOMESTICUS",
+  "scientific_name":"Raoultella terrigena",
+  "strain":"Res13-Abat-PEB01-P1-04-A"
+ },
+ {
+  "asm_acc":"GCA_015999385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16931445",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"7525"
+ },
+ {
+  "asm_acc":"GCA_016616645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16425386",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"B106"
+ },
+ {
+  "asm_acc":"GCA_016618215.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16233476",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"BD-50-Km"
+ },
+ {
+  "asm_acc":"GCA_016903415.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16357476",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"FDAARGOS_1334"
+ },
+ {
+  "asm_acc":"GCA_016903715.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16357474",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"FDAARGOS_1332"
+ },
+ {
+  "asm_acc":"GCA_016903975.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16357475",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"FDAARGOS_1333"
+ },
+ {
+  "asm_acc":"GCA_016904515.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16357473",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"FDAARGOS_1331"
+ },
+ {
+  "asm_acc":"GCA_017310465.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16561276",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"IR5392"
+ },
+ {
+  "asm_acc":"GCA_017348855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18138829",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"Kmfe267"
+ },
+ {
+  "asm_acc":"GCA_017639895.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18395722",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"12084"
+ },
+ {
+  "asm_acc":"GCA_017815775.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14585699",
+  "host":"NOT COLLECTED",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"X2-1"
+ },
+ {
+  "asm_acc":"GCA_017968865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18675296",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_018604105.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN19186367",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"JNQH491"
+ },
+ {
+  "asm_acc":"GCA_018966505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN19652012",
+  "host":"DONGXIANG WILD RICE",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"XF201"
+ },
+ {
+  "asm_acc":"GCA_019803065.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN20153793",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"CCRI-24235"
+ },
+ {
+  "asm_acc":"GCA_905232115.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA7962775",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_905322525.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8065686",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_905329555.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8065822",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_905330835.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8065780",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_905330865.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8065781",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_905333885.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8158457",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_905338025.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA8158514",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_021228695.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23286118",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"Kox58"
+ },
+ {
+  "asm_acc":"GCA_021228755.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23286126",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"Kox101"
+ },
+ {
+  "asm_acc":"GCA_021228855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23799016",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"K92"
+ },
+ {
+  "asm_acc":"GCA_021228995.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN23798052",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"8-1"
+ },
+ {
+  "asm_acc":"GCA_021391575.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24290086",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"KM41"
+ },
+ {
+  "asm_acc":"GCA_021398915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN24372405",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"KONSF-1"
+ },
+ {
+  "asm_acc":"GCA_021496525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15079954",
+  "host":"SUS SCROFA DOMESTICUS",
+  "scientific_name":"Raoultella ornithinolytica",
+  "strain":"OHMEATKPC2_NDM5"
+ },
+ {
+  "asm_acc":"GCA_022163245.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN25236446",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"KO_408"
+ },
+ {
+  "asm_acc":"GCA_022343245.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21892164",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"YL6-1"
+ },
+ {
+  "asm_acc":"GCA_022343265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN21906695",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"YL9"
+ },
+ {
+  "asm_acc":"GCA_022569835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26455295",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"K342"
+ },
+ {
+  "asm_acc":"GCA_022605305.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26549876",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"C-21-18"
+ },
+ {
+  "asm_acc":"GCA_022869885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27163261",
+  "host":"FEMALE",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"fxq"
+ },
+ {
+  "asm_acc":"GCA_023093835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26455257",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"K254"
+ },
+ {
+  "asm_acc":"GCA_024225115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN29499319",
+  "host":"CHICKEN",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"LH71"
+ },
+ {
+  "asm_acc":"GCA_024917295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28174081",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"5088"
+ },
+ {
+  "asm_acc":"GCA_026967695.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31152638",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"2022CK-00497"
+ },
+ {
+  "asm_acc":"GCA_025676565.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31261055",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"2022CK-00498"
+ },
+ {
+  "asm_acc":"GCA_025579125.2",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31152639",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"2022CK-00499"
+ },
+ {
+  "asm_acc":"GCA_027577885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31152637",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"2022CK-00496"
+ },
+ {
+  "asm_acc":"GCA_027595545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN16387624",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"S4_CRE4"
+ },
+ {
+  "asm_acc":"GCA_027627785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28911479",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella oxytoca",
+  "strain":"AHC-6"
+ },
+ {
+  "asm_acc":"GCA_027921545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN31765424",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella electrica",
+  "strain":"S2-IND-01-C"
+ },
+ {
+  "asm_acc":"GCA_027945215.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32737190",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"2563"
+ },
+ {
+  "asm_acc":"GCA_028736015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15907150",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"2020CK-00215"
+ },
+ {
+  "asm_acc":"GCA_029027885.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28515549",
+  "host":"USTILAGO MAYDIS YZZF202006",
+  "scientific_name":"Klebsiella michiganensis",
+  "strain":"YZUMF202001"
+ },
+ {
+  "asm_acc":"GCA_029635815.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32289991",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Raoultella planticola",
+  "strain":"RP_3045"
+ },
+ {
+  "asm_acc":"GCA_030253455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN33658283",
+  "host":"RECILIA DORSALIS",
+  "scientific_name":"Raoultella electrica",
+  "strain":"Rd210413"
+ }
+]

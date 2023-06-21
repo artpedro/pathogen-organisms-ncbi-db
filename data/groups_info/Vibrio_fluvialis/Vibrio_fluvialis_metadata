@@ -1,0 +1,18 @@
+{
+ "group": "Vibrio_fluvialis",
+ "count": 6,
+ "species": {
+  "Vibrio fluvialis": 6
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Vibrio fluvialis": 6
+ },
+ "strain": {},
+ "hosts": {
+  "ENVIRONMENT": 1,
+  "GRACILARIOPSIS LEMANEIFORMIS": 1,
+  "HOMO SAPIENS": 3,
+  "ORATOSQUILLA ORATORIA": 1
+ }
+}

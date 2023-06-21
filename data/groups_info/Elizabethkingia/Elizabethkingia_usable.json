@@ -1,0 +1,477 @@
+[
+ {
+  "Elizabethkingia": "PDG000000014.124"
+ },
+ {
+  "asm_acc": "GCA_000240095.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02470679",
+  "host": "ANOPHELES GAMBIAE",
+  "scientific_name": "Elizabethkingia anophelis Ag1",
+  "strain": "Ag1"
+ },
+ {
+  "asm_acc": "GCA_000495935.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02470988",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis NUHP1",
+  "strain": "NUHP1"
+ },
+ {
+  "asm_acc": "GCA_001596175.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04567744",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "CSID_3015183678"
+ },
+ {
+  "asm_acc": "GCA_001618465.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04590540",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "CSID_3015183684"
+ },
+ {
+  "asm_acc": "GCA_001618505.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04567738",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "CSID_3000521207"
+ },
+ {
+  "asm_acc": "GCA_001618545.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04567745",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "CSID_3015183681"
+ },
+ {
+  "asm_acc": "GCA_002022025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04254539",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "0422"
+ },
+ {
+  "asm_acc": "GCA_002022065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05273152",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "3375"
+ },
+ {
+  "asm_acc": "GCA_002022105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05281841",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "G4076"
+ },
+ {
+  "asm_acc": "GCA_002022145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05281842",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "G4120"
+ },
+ {
+  "asm_acc": "GCA_002023235.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04482265",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "E6809"
+ },
+ {
+  "asm_acc": "GCA_002023665.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02470677",
+  "host": "ANOPHELES GAMBIAE LAB COLONY",
+  "scientific_name": "Elizabethkingia anophelis R26",
+  "strain": "R26"
+ },
+ {
+  "asm_acc": "GCA_002022045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05255122",
+  "host": "ZEA MAYS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "JM-87"
+ },
+ {
+  "asm_acc": "GCA_002022085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05277779",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "F3201"
+ },
+ {
+  "asm_acc": "GCA_002024825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04482309",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "F3543"
+ },
+ {
+  "asm_acc": "GCA_002277995.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875535",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "FDAARGOS_198"
+ },
+ {
+  "asm_acc": "GCA_002310515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07625922",
+  "host": "ANOPHELES SINENSIS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "AR4-6"
+ },
+ {
+  "asm_acc": "GCA_002310535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07625921",
+  "host": "ANOPHELES SINENSIS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "AR6-8"
+ },
+ {
+  "asm_acc": "GCA_002887275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04254555",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "KC1913"
+ },
+ {
+  "asm_acc": "GCA_002951395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996277",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "FDAARGOS_132"
+ },
+ {
+  "asm_acc": "GCA_002951455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996278",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "FDAARGOS_134"
+ },
+ {
+  "asm_acc": "GCA_900475375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3643315",
+  "host": "HUMAN (INFANT)",
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "NCTC10016"
+ },
+ {
+  "asm_acc": "GCA_009697265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13281618",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "296-96"
+ },
+ {
+  "asm_acc": "GCA_009810215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00195183",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "JUNP353"
+ },
+ {
+  "asm_acc": "GCA_011612125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14310234",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "F2"
+ },
+ {
+  "asm_acc": "GCA_014702245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08166467",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "SUE"
+ },
+ {
+  "asm_acc": "GCA_016838625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17717915",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "SEA01"
+ },
+ {
+  "asm_acc": "GCA_022221405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19866467",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "090-MNO-R"
+ },
+ {
+  "asm_acc": "GCA_022221425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19866466",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "229-MNO-R"
+ },
+ {
+  "asm_acc": "GCA_022221445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19866465",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "2008N07-201"
+ },
+ {
+  "asm_acc": "GCA_022221465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19866464",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "2008S01-229"
+ },
+ {
+  "asm_acc": "GCA_022221485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19866463",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "2002N07-090"
+ },
+ {
+  "asm_acc": "GCA_022221505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19866462",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "2002C02-176"
+ },
+ {
+  "asm_acc": "GCA_024205085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192332",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "367-19"
+ },
+ {
+  "asm_acc": "GCA_024205105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192331",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "362-2"
+ },
+ {
+  "asm_acc": "GCA_024205125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192330",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "356-17"
+ },
+ {
+  "asm_acc": "GCA_024205145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192329",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "355-58"
+ },
+ {
+  "asm_acc": "GCA_024205165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192328",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "354-87"
+ },
+ {
+  "asm_acc": "GCA_024205185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192327",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "354-72"
+ },
+ {
+  "asm_acc": "GCA_024205425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192326",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "351-72"
+ },
+ {
+  "asm_acc": "GCA_024205445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192325",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "349-83"
+ },
+ {
+  "asm_acc": "GCA_024205465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192323",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "347-96"
+ },
+ {
+  "asm_acc": "GCA_024205485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192324",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "348-50"
+ },
+ {
+  "asm_acc": "GCA_024205505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192322",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "347-50"
+ },
+ {
+  "asm_acc": "GCA_024205525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192321",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "347-10"
+ },
+ {
+  "asm_acc": "GCA_024205545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192320",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "346-72"
+ },
+ {
+  "asm_acc": "GCA_024205565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192319",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "346-66"
+ },
+ {
+  "asm_acc": "GCA_024205585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192317",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "343-63"
+ },
+ {
+  "asm_acc": "GCA_024205605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192316",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "313-22"
+ },
+ {
+  "asm_acc": "GCA_024205625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192315",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "277-17"
+ },
+ {
+  "asm_acc": "GCA_024205645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18192318",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "344-1"
+ },
+ {
+  "asm_acc": "GCA_025449135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30929146",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "C08"
+ },
+ {
+  "asm_acc": "GCA_023092945.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27739174",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "2022CK-00262"
+ },
+ {
+  "asm_acc": "GCA_024123775.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29473046",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "2022CK-00380"
+ },
+ {
+  "asm_acc": "GCA_029873315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31358076",
+  "host": "LITHOBATES CATESBEIANUS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "AWYL_1"
+ },
+ {
+  "asm_acc": "GCA_927611585.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA12009938",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "EAV_NVB490"
+ },
+ {
+  "asm_acc": "GCA_927611535.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA12009940",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "EAV_NVH72"
+ },
+ {
+  "asm_acc": "GCA_927611525.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA12009939",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "EAV_VTKC53"
+ },
+ {
+  "asm_acc": "GCA_951394135.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA112835271",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Elizabethkingia anophelis",
+  "strain": "EAV_NNN508"
+ }
+]

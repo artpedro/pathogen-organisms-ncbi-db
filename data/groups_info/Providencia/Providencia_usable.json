@@ -1,0 +1,853 @@
+[
+ {
+  "Providencia": "PDG000000021.527"
+ },
+ {
+  "asm_acc": "GCA_000259175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02604304",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii MRSN 2154",
+  "strain": "MRSN 2154"
+ },
+ {
+  "asm_acc": "GCA_000783575.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02934536",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FDAARGOS_81"
+ },
+ {
+  "asm_acc": "GCA_000783595.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02934535",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FDAARGOS_80"
+ },
+ {
+  "asm_acc": "GCA_000783875.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02934516",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FDAARGOS_67"
+ },
+ {
+  "asm_acc": "GCA_000784015.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02934509",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FDAARGOS_60"
+ },
+ {
+  "asm_acc": "GCA_001281545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03968924",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "CYPM1"
+ },
+ {
+  "asm_acc": "GCA_001281565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03968923",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "CYPV1"
+ },
+ {
+  "asm_acc": "GCA_001558855.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996292",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "FDAARGOS_145"
+ },
+ {
+  "asm_acc": "GCA_001640985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04849770",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "AOUC-001"
+ },
+ {
+  "asm_acc": "GCA_001874625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05734415",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_001888205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05629093",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "BE2467"
+ },
+ {
+  "asm_acc": "GCA_002310875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05715221",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "T21"
+ },
+ {
+  "asm_acc": "GCA_002310895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05715220",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "T18"
+ },
+ {
+  "asm_acc": "GCA_002393505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07312452",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "FDAARGOS_408"
+ },
+ {
+  "asm_acc": "GCA_002944495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08450188",
+  "host": "PIG",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "BC11-24"
+ },
+ {
+  "asm_acc": "GCA_002945235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08463802",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_002983665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173304",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "FDAARGOS_291"
+ },
+ {
+  "asm_acc": "GCA_002984195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173343",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "FDAARGOS_330"
+ },
+ {
+  "asm_acc": "GCA_900635965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3222067",
+  "host": "RHESUS MACAQUES",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "NCTC4199"
+ },
+ {
+  "asm_acc": "GCA_005155965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11523820",
+  "host": "HOMO SAPIENS FEMALE",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "Pr-15-2-50"
+ },
+ {
+  "asm_acc": "GCA_008041895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12566310",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "VAC"
+ },
+ {
+  "asm_acc": "GCA_008195605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12636071",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "CRPM10"
+ },
+ {
+  "asm_acc": "GCA_008693805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056360",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "FDAARGOS_645"
+ },
+ {
+  "asm_acc": "GCA_008705195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12770272",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "K817"
+ },
+ {
+  "asm_acc": "GCA_009429045.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13082492",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "CRE14IB"
+ },
+ {
+  "asm_acc": "GCA_009684665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11567705",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "ENT1157"
+ },
+ {
+  "asm_acc": "GCA_009806715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13509247",
+  "host": "SWINE",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "SCBX1.1"
+ },
+ {
+  "asm_acc": "GCA_010318885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00185877",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "BML2496"
+ },
+ {
+  "asm_acc": "GCA_010319105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00185878",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "BML2526"
+ },
+ {
+  "asm_acc": "GCA_010319405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00185881",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "BML2576"
+ },
+ {
+  "asm_acc": "GCA_010320145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00185879",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "BML2531"
+ },
+ {
+  "asm_acc": "GCA_010320365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00185880",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "BML2537"
+ },
+ {
+  "asm_acc": "GCA_010442675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13936255",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "N18-00201"
+ },
+ {
+  "asm_acc": "GCA_010692865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14074148",
+  "host": "DOG",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "CC15031"
+ },
+ {
+  "asm_acc": "GCA_011149675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12995602",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PmBR607"
+ },
+ {
+  "asm_acc": "GCA_011383025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14331295",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "XH1568"
+ },
+ {
+  "asm_acc": "GCA_011383045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14331403",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "XH1569"
+ },
+ {
+  "asm_acc": "GCA_012516515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14558572",
+  "host": "SWINE",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "STP3"
+ },
+ {
+  "asm_acc": "GCA_013255915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15002271",
+  "host": "DUCK",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "YPR31"
+ },
+ {
+  "asm_acc": "GCA_013255765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15002270",
+  "host": "CHICKEN",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "JPM24"
+ },
+ {
+  "asm_acc": "GCA_013343255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13037561",
+  "host": "HOMOSAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "L90-1"
+ },
+ {
+  "asm_acc": "GCA_013357465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14909661",
+  "host": "CACATUA GALERITA",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "M3-1-17"
+ },
+ {
+  "asm_acc": "GCA_013357485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14909848",
+  "host": "AILUROPODA MELANOLEUCA",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "MPE0156"
+ },
+ {
+  "asm_acc": "GCA_013357505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14910118",
+  "host": "PANTHERA TIGRIS AMOYENSIS FACEL",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "MPE0027"
+ },
+ {
+  "asm_acc": "GCA_013357525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14916645",
+  "host": "CARACAL CARACAL",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "MPE4069"
+ },
+ {
+  "asm_acc": "GCA_013357545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14930506",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "MPE5139"
+ },
+ {
+  "asm_acc": "GCA_013357565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14930855",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "MPE5203"
+ },
+ {
+  "asm_acc": "GCA_013357585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14937971",
+  "host": "MALAYAN PANGOLIN",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "MPE0346"
+ },
+ {
+  "asm_acc": "GCA_013358795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13254340",
+  "host": "SWINE",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "HN2p"
+ },
+ {
+  "asm_acc": "GCA_013423885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501686",
+  "host": "TURTLE",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "G0519"
+ },
+ {
+  "asm_acc": "GCA_013694385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15576635",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PROV275"
+ },
+ {
+  "asm_acc": "GCA_013702025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15576908",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PROV002"
+ },
+ {
+  "asm_acc": "GCA_013702245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15577107",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PROV087"
+ },
+ {
+  "asm_acc": "GCA_014394705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15897916",
+  "host": "DUCK",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "YPR25"
+ },
+ {
+  "asm_acc": "GCA_015169015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16521237",
+  "host": "YAK",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "Yak 2019"
+ },
+ {
+  "asm_acc": "GCA_015571575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16304245",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "Res13-Sevr-LER2-35"
+ },
+ {
+  "asm_acc": "GCA_015693865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16816155",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PmBJ015-2"
+ },
+ {
+  "asm_acc": "GCA_015693965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16816126",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PmBJ012-2"
+ },
+ {
+  "asm_acc": "GCA_015693985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16816180",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PmBJ024-1"
+ },
+ {
+  "asm_acc": "GCA_015694005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16816163",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PmBJ023-2"
+ },
+ {
+  "asm_acc": "GCA_015694025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16816162",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PmBJ020-1"
+ },
+ {
+  "asm_acc": "GCA_016939715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16933295",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PM52260"
+ },
+ {
+  "asm_acc": "GCA_016939735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16933297",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PM52808"
+ },
+ {
+  "asm_acc": "GCA_017161055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13254342",
+  "host": "SWINE",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "DY.F1.2"
+ },
+ {
+  "asm_acc": "GCA_017901195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18593959",
+  "host": "BIGHEAD CARP",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "1035"
+ },
+ {
+  "asm_acc": "GCA_018771265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19471671",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "W986"
+ },
+ {
+  "asm_acc": "GCA_018861215.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19573044",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PreM15793"
+ },
+ {
+  "asm_acc": "GCA_018861235.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19571474",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PreM15628"
+ },
+ {
+  "asm_acc": "GCA_018861255.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19573043",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PreM15758"
+ },
+ {
+  "asm_acc": "GCA_018972025.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16824307",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "XH1653"
+ },
+ {
+  "asm_acc": "GCA_019192645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19608370",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "6Pmi283"
+ },
+ {
+  "asm_acc": "GCA_915401715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835637",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-29034-1-3"
+ },
+ {
+  "asm_acc": "GCA_915401705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835636",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-27799-1-2"
+ },
+ {
+  "asm_acc": "GCA_915401735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835631",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-28369-1-2"
+ },
+ {
+  "asm_acc": "GCA_915401765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835632",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-28370-1-5"
+ },
+ {
+  "asm_acc": "GCA_915401745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835630",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-01-3283-1-1"
+ },
+ {
+  "asm_acc": "GCA_915402005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835633",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-29290-1-7"
+ },
+ {
+  "asm_acc": "GCA_915402015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835635",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-29292-1-3"
+ },
+ {
+  "asm_acc": "GCA_915403165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA9835634",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2019-04-29291-1-1"
+ },
+ {
+  "asm_acc": "GCA_020683065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14226984",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "06-1619"
+ },
+ {
+  "asm_acc": "GCA_022453625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26106932",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PM8762"
+ },
+ {
+  "asm_acc": "GCA_023093855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27177301",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "T1010"
+ },
+ {
+  "asm_acc": "GCA_023184555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24180573",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "PROV_UAMS_01"
+ },
+ {
+  "asm_acc": "GCA_023205015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27737498",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "Pre20-95"
+ },
+ {
+  "asm_acc": "GCA_023242175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27518677",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "HURS-181823"
+ },
+ {
+  "asm_acc": "GCA_023242195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27518675",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "HURS-186083"
+ },
+ {
+  "asm_acc": "GCA_023520575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28204728",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "P14"
+ },
+ {
+  "asm_acc": "GCA_023547145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27484493",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "CMC-4104"
+ },
+ {
+  "asm_acc": "GCA_023650895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN25186315",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "18004577"
+ },
+ {
+  "asm_acc": "GCA_023702555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28745298",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FZP2826"
+ },
+ {
+  "asm_acc": "GCA_023702575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28745299",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FZP2936"
+ },
+ {
+  "asm_acc": "GCA_023702595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28745301",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "FZP3115"
+ },
+ {
+  "asm_acc": "GCA_025264285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09908145",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "XH983"
+ },
+ {
+  "asm_acc": "GCA_025490355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30912358",
+  "host": "CHICKEN",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "W47"
+ },
+ {
+  "asm_acc": "GCA_025583505.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30724597",
+  "host": "CHICKEN",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "YZLc5-3"
+ },
+ {
+  "asm_acc": "GCA_025916175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29990039",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "12105"
+ },
+ {
+  "asm_acc": "GCA_026167565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31634663",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "DP2019"
+ },
+ {
+  "asm_acc": "GCA_028768505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33299137",
+  "host": "CHICKEN",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "CY32"
+ },
+ {
+  "asm_acc": "GCA_029201285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33575657",
+  "host": "GALLUS GALLUS DOMESTICUS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "HK294"
+ },
+ {
+  "asm_acc": "GCA_029277825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33687286",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "CAVP496"
+ },
+ {
+  "asm_acc": "GCA_029277985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33687285",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "CAVP490"
+ },
+ {
+  "asm_acc": "GCA_029278185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33687284",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia stuartii",
+  "strain": "CAVP450"
+ },
+ {
+  "asm_acc": "GCA_029542405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32241351",
+  "host": "GALLUS GALLUS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "IVRI/FBI/326"
+ },
+ {
+  "asm_acc": "GCA_029962585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32951864",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia alcalifaciens",
+  "strain": "2939/90"
+ },
+ {
+  "asm_acc": "GCA_029962305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34510058",
+  "host": "FISH",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "WSY-114"
+ },
+ {
+  "asm_acc": "GCA_030062245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29990040",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Providencia rettgeri",
+  "strain": "12100"
+ }
+]

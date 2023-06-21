@@ -1,0 +1,23 @@
+{
+ "group": "Enterobacter_cloacae",
+ "count": 24,
+ "species": {
+  "Enterobacter cloacae": 24
+ },
+ "subsp.": {
+  "Enterobacter cloacae subsp. cloacae": 1
+ },
+ "scientific_name": {
+  "Enterobacter cloacae": 23,
+  "Enterobacter cloacae subsp. cloacae": 1
+ },
+ "strain": {
+  "null": 5
+ },
+ "hosts": {
+  "PENAEUS VANNAMEI": 1,
+  "CHICKEN": 1,
+  "SWINE": 1,
+  "HOMO SAPIENS": 21
+ }
+}

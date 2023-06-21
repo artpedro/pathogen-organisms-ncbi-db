@@ -1,0 +1,90 @@
+[
+ {
+  "asm_acc":"GCA_005885795.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11812273",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"X-4"
+ },
+ {
+  "asm_acc":"GCA_023016345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27502673",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"TpN-CL8"
+ },
+ {
+  "asm_acc":"GCA_023016365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27502672",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"TpN-CL5"
+ },
+ {
+  "asm_acc":"GCA_023016385.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27502668",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"TpN-CL1"
+ },
+ {
+  "asm_acc":"GCA_023016405.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27502671",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"TpN-CL4"
+ },
+ {
+  "asm_acc":"GCA_023016425.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27502670",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"TpN-CL3"
+ },
+ {
+  "asm_acc":"GCA_023016445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27502669",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Treponema pallidum subsp. pallidum",
+  "strain":"TpN-CL2"
+ },
+ {
+  "asm_acc":"GCA_029866565.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26521568",
+  "host":"PAPIO ANUBIS",
+  "scientific_name":"Treponema pallidum subsp. pertenue",
+  "strain":"19LMF8280815"
+ },
+ {
+  "asm_acc":"GCA_029866585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26521550",
+  "host":"CHLOROCEBUS PYGERYTHRUS",
+  "scientific_name":"Treponema pallidum subsp. pertenue",
+  "strain":"6RUM2090716"
+ },
+ {
+  "asm_acc":"GCA_029866705.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26521572",
+  "host":"PAPIO ANUBIS",
+  "scientific_name":"Treponema pallidum subsp. pertenue",
+  "strain":"22LMF5290815"
+ },
+ {
+  "asm_acc":"GCA_029866725.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26521574",
+  "host":"PAPIO ANUBIS",
+  "scientific_name":"Treponema pallidum subsp. pertenue",
+  "strain":"24SNM5151115"
+ }
+]

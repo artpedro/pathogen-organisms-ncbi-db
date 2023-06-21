@@ -1,0 +1,35 @@
+{
+ "group": "Enterobacter_hormaechei",
+ "count": 179,
+ "species": {
+  "Enterobacter hormaechei": 179
+ },
+ "subsp.": {
+  "Enterobacter hormaechei subsp. hormaechei": 2,
+  "Enterobacter hormaechei subsp. hoffmannii": 3,
+  "Enterobacter hormaechei subsp. steigerwaltii": 10,
+  "Enterobacter hormaechei subsp. oharae": 1,
+  "Enterobacter hormaechei subsp. xiangfangensis": 11
+ },
+ "scientific_name": {
+  "Enterobacter hormaechei subsp. hormaechei": 2,
+  "Enterobacter hormaechei subsp. hoffmannii": 3,
+  "Enterobacter hormaechei": 152,
+  "Enterobacter hormaechei subsp. steigerwaltii": 10,
+  "Enterobacter hormaechei subsp. oharae": 1,
+  "Enterobacter hormaechei subsp. xiangfangensis": 11
+ },
+ "strain": {
+  "BW": 2
+ },
+ "hosts": {
+  "NOT AVAILABLE": 1,
+  "HEALTHY DOG": 1,
+  "SWINE": 1,
+  "CANINE": 1,
+  "CANIS LUPUS FAMILIARIS": 1,
+  "DUCK": 1,
+  "HOMO SAPIENS": 172,
+  "TENEBRIO MOLITOR": 1
+ }
+}

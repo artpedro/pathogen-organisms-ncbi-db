@@ -1,0 +1,18 @@
+[
+ {
+  "asm_acc":"GCA_018638795.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18011300",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterobacter mori",
+  "strain":"08-091"
+ },
+ {
+  "asm_acc":"GCA_019203945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN15184663",
+  "host":"KIWIFRUIT",
+  "scientific_name":"Enterobacter mori",
+  "strain":"CX01"
+ }
+]

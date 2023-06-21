@@ -1,0 +1,17 @@
+{
+ "group": "Enterobacter_asburiae",
+ "count": 17,
+ "species": {
+  "Enterobacter asburiae": 17
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Enterobacter asburiae": 17
+ },
+ "strain": {},
+ "hosts": {
+  "FELIS CATUS": 1,
+  "HOMO SAPIENS": 15,
+  "RICE": 1
+ }
+}

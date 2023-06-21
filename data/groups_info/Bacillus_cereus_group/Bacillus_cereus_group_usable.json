@@ -1,0 +1,661 @@
+[
+ {
+  "Bacillus_cereus_group": "PDG000000088.175"
+ },
+ {
+  "asm_acc": "GCA_000021205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02604059",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus cereus B4264",
+  "strain": "B4264"
+ },
+ {
+  "asm_acc": "GCA_000258885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02603474",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis str. H9401",
+  "strain": "H9401"
+ },
+ {
+  "asm_acc": "GCA_000295695.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02469407",
+  "host": "COW",
+  "scientific_name": "Bacillus anthracis str. BF1",
+  "strain": "BF1"
+ },
+ {
+  "asm_acc": "GCA_000534935.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00002586",
+  "host": "HIPPOPOTAMUS AMPHIBIUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "CZC5"
+ },
+ {
+  "asm_acc": "GCA_000789315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03121921",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus cereus",
+  "strain": "03BB87"
+ },
+ {
+  "asm_acc": "GCA_000833065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03201418",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Ames"
+ },
+ {
+  "asm_acc": "GCA_000833085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03223175",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "97-27"
+ },
+ {
+  "asm_acc": "GCA_000875715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02999504",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A1144"
+ },
+ {
+  "asm_acc": "GCA_001017635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03457230",
+  "host": "TOBACCO",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "YC-10"
+ },
+ {
+  "asm_acc": "GCA_001455345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04278951",
+  "host": "INVERTEBRATES",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "CTC"
+ },
+ {
+  "asm_acc": "GCA_001543225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04442145",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Stendal"
+ },
+ {
+  "asm_acc": "GCA_001640965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04628222",
+  "host": "BOMBYX MORI",
+  "scientific_name": "Bacillus thuringiensis serovar alesti",
+  "strain": "BGSC 4C1"
+ },
+ {
+  "asm_acc": "GCA_001685565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03890259",
+  "host": "CAENORHABDITIS ELEGANS",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "MYBT18246"
+ },
+ {
+  "asm_acc": "GCA_001936375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06186720",
+  "host": "COW",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Tyrol 4675"
+ },
+ {
+  "asm_acc": "GCA_001990245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06270326",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "SPV842_15"
+ },
+ {
+  "asm_acc": "GCA_002025105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06473083",
+  "host": "BACILLUS THURINGIENSIS SUBSP",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "Bacillus thuringiensis L-7601"
+ },
+ {
+  "asm_acc": "GCA_002073415.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875572",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus sp. FDAARGOS_235",
+  "strain": "FDAARGOS_235"
+ },
+ {
+  "asm_acc": "GCA_001721165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04513593",
+  "host": "CAENORHABDITIS ELEGANS",
+  "scientific_name": "Bacillus thuringiensis Bt18247",
+  "strain": "Bt18247"
+ },
+ {
+  "asm_acc": "GCA_002208785.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06173354",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "FDAARGOS_341"
+ },
+ {
+  "asm_acc": "GCA_002277915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07498358",
+  "host": "BOS PRIMIGENIUS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "14RA5914"
+ },
+ {
+  "asm_acc": "GCA_003013315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08455831",
+  "host": "SPOROBOLUS ANGLICUS",
+  "scientific_name": "Bacillus cereus",
+  "strain": "TG1-6"
+ },
+ {
+  "asm_acc": "GCA_003445395.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04288432",
+  "host": "VECTOBAC",
+  "scientific_name": "Bacillus thuringiensis serovar israelensis",
+  "strain": "AM65-52"
+ },
+ {
+  "asm_acc": "GCA_003546665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07981265",
+  "host": "ORYCTES GIGAS",
+  "scientific_name": "Bacillus thuringiensis LM1212",
+  "strain": "LM1212"
+ },
+ {
+  "asm_acc": "GCA_003568565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07515795",
+  "host": "BACTERIA",
+  "scientific_name": "Bacillus cereus",
+  "strain": "HBL-AI"
+ },
+ {
+  "asm_acc": "GCA_004006495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09652006",
+  "host": "SOIL",
+  "scientific_name": "Bacillus cereus",
+  "strain": "ZB201708"
+ },
+ {
+  "asm_acc": "GCA_006088855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09041402",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "17OD930"
+ },
+ {
+  "asm_acc": "GCA_006349715.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11959879",
+  "host": "COFFEE",
+  "scientific_name": "Bacillus cereus",
+  "strain": "A22"
+ },
+ {
+  "asm_acc": "GCA_006349735.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11960211",
+  "host": "BLACK PEPPER PLANT",
+  "scientific_name": "Bacillus cereus",
+  "strain": "A24"
+ },
+ {
+  "asm_acc": "GCA_008807735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10058771",
+  "host": "ALVINOCARIS LONGIROSTRIS",
+  "scientific_name": "Bacillus wiedmannii",
+  "strain": "SR52"
+ },
+ {
+  "asm_acc": "GCA_009739925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10819077",
+  "host": "APOSTICHOPUS JAPONICUS",
+  "scientific_name": "Bacillus cereus",
+  "strain": "DLOU-Changhai"
+ },
+ {
+  "asm_acc": "GCA_009739945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10819129",
+  "host": "APOSTICHOPUS JAPONICUS",
+  "scientific_name": "Bacillus luti",
+  "strain": "FJ"
+ },
+ {
+  "asm_acc": "GCA_009739965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10819049",
+  "host": "APOSTICHOPUS JAPONICUS",
+  "scientific_name": "Bacillus cereus",
+  "strain": "DLOU-Tangshan"
+ },
+ {
+  "asm_acc": "GCA_009739985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10743320",
+  "host": "APOSTICHOPUS JAPONICUS",
+  "scientific_name": "Bacillus cereus",
+  "strain": "DLOU-Weihai"
+ },
+ {
+  "asm_acc": "GCA_009740005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10739311",
+  "host": "APOSTICHOPUS JAPONICUS",
+  "scientific_name": "Bacillus albus",
+  "strain": "DLOU-Yingkou"
+ },
+ {
+  "asm_acc": "GCA_013112375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14832921",
+  "host": "PYROPIA",
+  "scientific_name": "Bacillus cereus",
+  "strain": "WPySW2"
+ },
+ {
+  "asm_acc": "GCA_013394245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12769617",
+  "host": "SHINKAIA CROSNIERI",
+  "scientific_name": "Bacillus cereus",
+  "strain": "H2"
+ },
+ {
+  "asm_acc": "GCA_016774555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17369856",
+  "host": "ANGELICA SINENSIS DLIES",
+  "scientific_name": "Bacillus cereus",
+  "strain": "21155"
+ },
+ {
+  "asm_acc": "GCA_016917795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17864500",
+  "host": "BOMBYX MORI",
+  "scientific_name": "Bacillus cereus",
+  "strain": "VKM B-370"
+ },
+ {
+  "asm_acc": "GCA_018141025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13705136",
+  "host": "SOLANUM LYCOPERSICUM L.",
+  "scientific_name": "Bacillus nitratireducens",
+  "strain": "BM02"
+ },
+ {
+  "asm_acc": "GCA_018141085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14440804",
+  "host": "ORYCTES GIGAS",
+  "scientific_name": "Bacillus tropicus",
+  "strain": "LM1212-DB"
+ },
+ {
+  "asm_acc": "GCA_021595545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17818117",
+  "host": "MOTH",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "B13"
+ },
+ {
+  "asm_acc": "GCA_022014755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN25416578",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "PNO2"
+ },
+ {
+  "asm_acc": "GCA_022014795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN25419190",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "ChBA30D"
+ },
+ {
+  "asm_acc": "GCA_022170805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20890002",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Bacillus toyonensis",
+  "strain": "UTDF19-29B"
+ },
+ {
+  "asm_acc": "GCA_022220505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164746",
+  "host": "CATTLE",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A182"
+ },
+ {
+  "asm_acc": "GCA_022220545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164732",
+  "host": "CATTLE",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "3016"
+ },
+ {
+  "asm_acc": "GCA_022220685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13640833",
+  "host": "COW",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Tyrol 3520"
+ },
+ {
+  "asm_acc": "GCA_022220925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164741",
+  "host": "CATTLE",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A193a"
+ },
+ {
+  "asm_acc": "GCA_022220945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164734",
+  "host": "CATTLE",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A166"
+ },
+ {
+  "asm_acc": "GCA_022220965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164740",
+  "host": "CATTLE",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A168"
+ },
+ {
+  "asm_acc": "GCA_022220985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164747",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A178"
+ },
+ {
+  "asm_acc": "GCA_022221045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13164726",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A27"
+ },
+ {
+  "asm_acc": "GCA_022221085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02469407",
+  "host": "COW",
+  "scientific_name": "Bacillus anthracis str. BF1",
+  "strain": "BF1"
+ },
+ {
+  "asm_acc": "GCA_022221105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241473",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Pasteur"
+ },
+ {
+  "asm_acc": "GCA_022221125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241472",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "UR-1"
+ },
+ {
+  "asm_acc": "GCA_022221145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241471",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "188678-1"
+ },
+ {
+  "asm_acc": "GCA_022221165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241470",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Tangail-4/2"
+ },
+ {
+  "asm_acc": "GCA_022221185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241469",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A3783"
+ },
+ {
+  "asm_acc": "GCA_022221205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241468",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "3-IZSLT"
+ },
+ {
+  "asm_acc": "GCA_022221225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241467",
+  "host": "BOS TAURUS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Pollino 3734"
+ },
+ {
+  "asm_acc": "GCA_022221245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241466",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A1074"
+ },
+ {
+  "asm_acc": "GCA_022221265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241465",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A0777"
+ },
+ {
+  "asm_acc": "GCA_022221285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241464",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "SA020"
+ },
+ {
+  "asm_acc": "GCA_022221305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241463",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "AF039"
+ },
+ {
+  "asm_acc": "GCA_022221325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241462",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "A159"
+ },
+ {
+  "asm_acc": "GCA_022221345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18241461",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Vollum"
+ },
+ {
+  "asm_acc": "GCA_022699365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26688063",
+  "host": "BUBALUS BUBALIS",
+  "scientific_name": "Bacillus cereus",
+  "strain": "AH7-7"
+ },
+ {
+  "asm_acc": "GCA_022700995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16562415",
+  "host": "SOIL IN TIGER AREA OF ZOO",
+  "scientific_name": "Bacillus cereus",
+  "strain": "N435-1"
+ },
+ {
+  "asm_acc": "GCA_022810705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04513597",
+  "host": "CAENORHABDITIS ELEGANS",
+  "scientific_name": "Bacillus wiedmannii",
+  "strain": "Bt18679"
+ },
+ {
+  "asm_acc": "GCA_022810725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03890260",
+  "host": "TRIBOLIUM CASTANEUM",
+  "scientific_name": "Bacillus thuringiensis serovar morrisoni str. 4AA1",
+  "strain": "4AA1"
+ },
+ {
+  "asm_acc": "GCA_024134505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29358476",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus paranthracis",
+  "strain": "SSBC101"
+ },
+ {
+  "asm_acc": "GCA_025677725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31013773",
+  "host": "BGSC DATABASE",
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "4F5"
+ },
+ {
+  "asm_acc": "GCA_027626015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32338359",
+  "host": "TRYONYX SINENSIS (CHINESE SOFT-SHELL TURTLE)",
+  "scientific_name": "Bacillus tropicus",
+  "strain": "JMT105-2"
+ },
+ {
+  "asm_acc": "GCA_029024805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33336515",
+  "host": "SOIL",
+  "scientific_name": "Bacillus mycoides",
+  "strain": "DSM 2048"
+ },
+ {
+  "asm_acc": "GCA_029027925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28980187",
+  "host": "CHICKEN",
+  "scientific_name": "Bacillus pacificus",
+  "strain": "ANSB901"
+ },
+ {
+  "asm_acc": "GCA_029282725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33463191",
+  "host": "WHITE BREAM",
+  "scientific_name": "Bacillus paranthracis",
+  "strain": "Bc006"
+ },
+ {
+  "asm_acc": "GCA_029590375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33826275",
+  "host": "MOSCHUS BEREZOVSKII",
+  "scientific_name": "Bacillus cereus",
+  "strain": "SCBCM001"
+ },
+ {
+  "asm_acc": "GCA_029636405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32614585",
+  "host": "OVIS ARIES",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "AN17-384_2"
+ },
+ {
+  "asm_acc": "GCA_029636605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32614595",
+  "host": "EQUUS QUAGGA",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "AN18-416_2"
+ },
+ {
+  "asm_acc": "GCA_029636705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32614574",
+  "host": "OVIS ARIES",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "AN17-14_S4"
+ },
+ {
+  "asm_acc": "GCA_030166675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35323095",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "BHY1401"
+ },
+ {
+  "asm_acc": "GCA_030166975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34374906",
+  "host": "MACROTERMES NATALENSIS COLONY MN106",
+  "scientific_name": "Bacillus anthracis",
+  "strain": "Mn106-1 head2 chi"
+ }
+]

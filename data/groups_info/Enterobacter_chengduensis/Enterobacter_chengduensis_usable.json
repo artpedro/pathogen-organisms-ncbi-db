@@ -1,0 +1,13 @@
+[
+ {
+  "Enterobacter_chengduensis": "PDG000000118.9"
+ },
+ {
+  "asm_acc": "GCA_001984825.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06249239",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter chengduensis",
+  "strain": "WCHECl-C4 = WCHECh050004"
+ }
+]

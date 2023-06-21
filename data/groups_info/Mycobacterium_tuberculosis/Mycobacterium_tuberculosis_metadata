@@ -1,0 +1,39 @@
+{
+ "group": "Mycobacterium_tuberculosis",
+ "count": 308,
+ "species": {
+  "Mycobacterium lepromatosis": 1,
+  "Mycobacterium tuberculosis": 306,
+  "Mycobacterium leprae": 1
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Mycobacterium tuberculosis KZN 4207": 1,
+  "Mycobacterium tuberculosis CCDC5180": 1,
+  "Mycobacterium tuberculosis variant bovis": 17,
+  "Mycobacterium tuberculosis H37Ra": 1,
+  "Mycobacterium tuberculosis variant microti": 4,
+  "Mycobacterium leprae": 1,
+  "Mycobacterium tuberculosis K": 1,
+  "Mycobacterium lepromatosis": 1,
+  "Mycobacterium tuberculosis variant microti OV254": 1,
+  "Mycobacterium tuberculosis variant bovis AF2122/97": 1,
+  "Mycobacterium tuberculosis": 276,
+  "Mycobacterium tuberculosis variant bovis BCG": 1,
+  "Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172": 1,
+  "Mycobacterium tuberculosis str. Kurono": 1
+ },
+ "strain": {
+  "Lineage 1.1.2": 2,
+  "null": 17
+ },
+ "hosts": {
+  "CATTLE": 11,
+  "DEER": 1,
+  "BISON BISON ATHABASCAE": 1,
+  "BOVINE": 6,
+  "ETHNIC KOREANS LIVING IN CHINA": 1,
+  "MICROTUS AGRESTIS": 2,
+  "HOMO SAPIENS": 286
+ }
+}

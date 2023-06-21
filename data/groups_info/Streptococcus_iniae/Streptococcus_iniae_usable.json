@@ -1,0 +1,53 @@
+[
+ {
+  "Streptococcus_iniae": "PDG000000085.9"
+ },
+ {
+  "asm_acc": "GCA_001885145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05967356",
+  "host": "OREOCHROMIS NILOTICUS",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "89353"
+ },
+ {
+  "asm_acc": "GCA_002220115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06909305",
+  "host": "LATES CALCARIFER",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "QMA0248"
+ },
+ {
+  "asm_acc": "GCA_002787125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07962172",
+  "host": "PARALICHTHYS OLIVACEUS",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "FP5228"
+ },
+ {
+  "asm_acc": "GCA_003589905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10067964",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "GX005"
+ },
+ {
+  "asm_acc": "GCA_003589945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10067963",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "YM011"
+ },
+ {
+  "asm_acc": "GCA_030020365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34895452",
+  "host": "SELENOTOCA MULTIFASCIATA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "DFSM220524"
+ }
+]

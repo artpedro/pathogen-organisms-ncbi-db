@@ -1,0 +1,53 @@
+[
+ {
+  "Corynebacterium_striatum": "PDG000000064.52"
+ },
+ {
+  "asm_acc": "GCA_000833575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03177398",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Corynebacterium singulare",
+  "strain": "IBS B52218"
+ },
+ {
+  "asm_acc": "GCA_002156805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07109493",
+  "host": "NEOPHOCAENA ASIAEORIENTALIS",
+  "scientific_name": "Corynebacterium striatum",
+  "strain": "KC-Na-01"
+ },
+ {
+  "asm_acc": "GCA_002803965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05374476",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Corynebacterium striatum",
+  "strain": "215"
+ },
+ {
+  "asm_acc": "GCA_002804085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05178544",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Corynebacterium striatum",
+  "strain": "216"
+ },
+ {
+  "asm_acc": "GCA_900478045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4030732",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Corynebacterium minutissimum",
+  "strain": "NCTC10288"
+ },
+ {
+  "asm_acc": "GCA_900637065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4017705",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Corynebacterium minutissimum",
+  "strain": "NCTC10285"
+ }
+]

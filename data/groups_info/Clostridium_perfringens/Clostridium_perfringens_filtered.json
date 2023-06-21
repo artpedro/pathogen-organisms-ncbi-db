@@ -1,0 +1,194 @@
+[
+ {
+  "asm_acc":"GCA_001579765.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03372134",
+  "host":"EQUINE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"JP55"
+ },
+ {
+  "asm_acc":"GCA_001579785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN03377063",
+  "host":"CANINE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"JP838"
+ },
+ {
+  "asm_acc":"GCA_001854085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN04209542",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"FORC_025"
+ },
+ {
+  "asm_acc":"GCA_002355795.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00057672",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"CBA7123"
+ },
+ {
+  "asm_acc":"GCA_003203455.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08195748",
+  "host":"CHICKEN",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"EHE-NE18"
+ },
+ {
+  "asm_acc":"GCA_900475545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA3867463",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"NCTC13170"
+ },
+ {
+  "asm_acc":"GCA_900478015.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMEA4040483",
+  "host":"NOT AVAILABLE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"NCTC2837"
+ },
+ {
+  "asm_acc":"GCA_003350945.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN08771210",
+  "host":"PORCINE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"JXJA17"
+ },
+ {
+  "asm_acc":"GCA_012271835.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN14089789",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"[Clostridium] innocuum",
+  "strain":"LC-LUMC-CI-001"
+ },
+ {
+  "asm_acc":"GCA_018135545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN18740316",
+  "host":"BOVINE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"19TSBNCP"
+ },
+ {
+  "asm_acc":"GCA_022429605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN26101717",
+  "host":"YAK",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"Qinghai-1"
+ },
+ {
+  "asm_acc":"GCA_022845735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00389861",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"[Clostridium] innocuum",
+  "strain":"CE91-St51"
+ },
+ {
+  "asm_acc":"GCA_023008265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN20819815",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"[Clostridium] innocuum",
+  "strain":"VE303-07"
+ },
+ {
+  "asm_acc":"GCA_024599935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28230540",
+  "host":"CANIS LUPUS FAMILIARIS",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"JXNC-DD"
+ },
+ {
+  "asm_acc":"GCA_024599955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28416573",
+  "host":"SWINE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"JXNC-3B"
+ },
+ {
+  "asm_acc":"GCA_024652865.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27755654",
+  "host":"BOVINE",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"JXNC-B4"
+ },
+ {
+  "asm_acc":"GCA_028743735.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN33244154",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"OB21 TSA 19"
+ },
+ {
+  "asm_acc":"GCA_028867175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN33306092",
+  "host":"SHEEP",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"QHY-2"
+ },
+ {
+  "asm_acc":"GCA_029233855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN28005067",
+  "host":"GOAT",
+  "scientific_name":"Clostridium perfringens",
+  "strain":"21-D-5"
+ },
+ {
+  "asm_acc":"GCA_029392915.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32781896",
+  "host":"RUMINANT",
+  "scientific_name":"Clostridium perfringens D",
+  "strain":"CN3842"
+ },
+ {
+  "asm_acc":"GCA_029392935.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32781893",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Clostridium perfringens D",
+  "strain":"SHDS0050"
+ },
+ {
+  "asm_acc":"GCA_029392955.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32781895",
+  "host":"RUMINANT",
+  "scientific_name":"Clostridium perfringens D",
+  "strain":"NCTC8346"
+ },
+ {
+  "asm_acc":"GCA_029393075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32781892",
+  "host":"RUMINANT",
+  "scientific_name":"Clostridium perfringens B",
+  "strain":"NCTC3110"
+ },
+ {
+  "asm_acc":"GCA_029393235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32781891",
+  "host":"RUMINANT",
+  "scientific_name":"Clostridium perfringens B",
+  "strain":"ATCC 3626"
+ }
+]

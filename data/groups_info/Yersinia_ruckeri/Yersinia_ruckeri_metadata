@@ -1,0 +1,18 @@
+{
+ "group": "Yersinia_ruckeri",
+ "count": 23,
+ "species": {
+  "Yersinia ruckeri": 23
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Yersinia ruckeri": 23
+ },
+ "strain": {},
+ "hosts": {
+  "SALMO SALAR": 20,
+  "BIOFILM": 1,
+  "ONCORHYNCHUS MYKISS": 1,
+  "ONCORHYNCHUS TSHAWYTSCHA": 1
+ }
+}

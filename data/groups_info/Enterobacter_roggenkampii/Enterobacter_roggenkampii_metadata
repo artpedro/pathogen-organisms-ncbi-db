@@ -1,0 +1,20 @@
+{
+ "group": "Enterobacter_roggenkampii",
+ "count": 18,
+ "species": {
+  "Enterobacter roggenkampii": 18
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Enterobacter roggenkampii": 18
+ },
+ "strain": {},
+ "hosts": {
+  "MORUS ALBA VAR. ATROPURPUREA": 1,
+  "SUGARCANE": 1,
+  "OSTEOGLOSSUM BICIRRHOSUM": 1,
+  "ENVIRONMENT": 1,
+  "HEALTHY CAT": 2,
+  "HOMO SAPIENS": 12
+ }
+}

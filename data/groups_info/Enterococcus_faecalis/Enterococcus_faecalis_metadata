@@ -1,0 +1,40 @@
+{
+ "group": "Enterococcus_faecalis",
+ "count": 138,
+ "species": {
+  "Enterococcus faecalis": 138
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Enterococcus faecalis EnGen0107": 1,
+  "Enterococcus faecalis": 134,
+  "Enterococcus faecalis R712": 1,
+  "Enterococcus faecalis D32": 1,
+  "Enterococcus faecalis DENG1": 1
+ },
+ "strain": {
+  "null": 6
+ },
+ "hosts": {
+  "SWINE": 5,
+  "CAMEL": 1,
+  "GOOSE": 1,
+  "UNDARIA PINNATIFIDA": 1,
+  "DAIRY CATTLE": 1,
+  "GOAT": 1,
+  "NOT AVAILABLE": 1,
+  "BOVINE": 11,
+  "TILAPIA (OREOCHROMIS NILOTICUS)": 1,
+  "FAECES": 1,
+  "RHODNIUS PROLIXUS": 1,
+  "HOMO SAPIENS": 94,
+  "NOT AVAILABLE: NOT COLLECTED": 1,
+  "MUS MUSCULUS": 2,
+  "SUS SCROFA DOMESTICUS": 2,
+  "CHICKEN": 5,
+  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
+  "FISH": 1,
+  "THE STATE KEY LABORATORY BREEDING BASE OF BASIC SCIENCE OF STOMATOLOGY": 1,
+  "PIG": 6
+ }
+}

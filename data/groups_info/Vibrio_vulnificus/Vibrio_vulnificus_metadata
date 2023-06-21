@@ -1,0 +1,19 @@
+{
+ "group": "Vibrio_vulnificus",
+ "count": 13,
+ "species": {
+  "Vibrio vulnificus": 13
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Vibrio vulnificus": 13
+ },
+ "strain": {},
+ "hosts": {
+  "SHRIMP": 1,
+  "OREOCHROMIS": 1,
+  "HOMO SAPIENS": 9,
+  "ANGUILLA ANGUILLA": 1,
+  "MYA ARENARIA OONOGAI MAKIYAMA": 1
+ }
+}
