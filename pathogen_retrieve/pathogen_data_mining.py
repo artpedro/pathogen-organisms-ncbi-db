@@ -78,20 +78,26 @@ class Group():
     
     def checkDataUpdate(self):
         '''
-        Verifica se a versão do .tsv salvo precisa ser atualizada para uma nova
+        Encaminha o arquivo para 
         True: Precisa ser atualizada
         False: Não precisa ser atualizada
         '''
-        tsv_log = os.listdir(self.tsv_path)
-        if tsv_log == []:
+        usable_log = os.listdir(self.info_path)
+        if usable_log == ['tsv']:
+            print(f'{self.name}: Nenhum registro encontrado')
             return True
-        tsv_log = tsv_log[0]
-        tsv_version = tsv_log.split('_')[-1].rstrip('.tsv')
-        if tsv_version != self.pat_id:
-            os.remove(os.path.normpath(self.tsv_path+'/'+tsv_log))
-            return True
+        if f"{self.name}_usable.json" in usable_log:
+            with open(self.usable_json_path,'r') as file:
+                data = js.load(file)
+                if data[0][self.name] == self.pat_id:
+                    print(f'{self.name}: Registro já atualizado')
+                    return False
+                else:
+                    print(f'{self.name}: Atualizando registro(1)')
+                    return True
         else:
-            return False
+            print(f'{self.name}: Atualizando registro(2)')
+            return True
 
     def getPatData(self):
         try:
@@ -104,13 +110,13 @@ class Group():
     def checkData(self):
         with open(self.tsv_file,'r') as tsv:
             if tsv.readline()[0] != '#':
-                print('Erro no download')
+                print(f'{self.name}: Erro no download')
                 if hasattr(self,"retry_download"):
-                    print(self.retry_download)
                     self.retry_download = self.retry_download + 1
                     if self.retry_download > 2:
                         self.pat_id = getSinglePathogenId(self.name)
-                        refreshSingleGroup(self.name)
+                        new_id = refreshSingleGroup(self.name)
+                        self.pat_id = new_id
                         self.tsv_file = os.path.normpath(f'{self.tsv_path}/{self.name}_{self.pat_id}.tsv')
                         self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
                     self.getPatData()
@@ -118,7 +124,7 @@ class Group():
                     self.retry_download = 0
                     self.getPatData()
             else:
-                print("Download bem sucessido")
+                print(f"{self.name}: Download bem sucessido")
 
     def getUsableTsv(self):
         '''
@@ -127,23 +133,46 @@ class Group():
 
         Retorna falso se não houver nenhum
         '''
-
+        
+        if os.path.exists(self.usable_json_path):
+            if hasattr(self,'iter'):
+                print(f'{self.name}: Gerando novo registro')
+            else:
+                with open(self.usable_json_path,'r') as file:
+                    data = json.load(file)
+                    if data[0][self.name] == self.pat_id:
+                        print(f'{self.name}: Informações já atualizadas')
+                    else:
+                        print(f"{self.name}: Informações desatualizadas")
+                        self.getPatData()
+                        self.iter = 1
+                        self.getUsableTsv()
+                        print(f'{self.name}: Informações atualizadas')
+                        return
+        else:
+            self.getPatData()
         # campos importantes
         fields = ['scientific_name','strain','host','asm_level','asm_acc','biosample_acc']
-        
         # lendo arquivo .tsv em um dataframe
-        df = pd.read_csv(self.tsv_file,sep='\t',usecols=fields)
-        
     
+        df = pd.read_csv(self.tsv_file,sep='\t',usecols=fields)
+
+
         # filtrando as linhas dispensáveis do dataframe
         self.usable_df = df.loc[df['asm_level'] == 'Complete Genome']
         if self.usable_df.empty:
+            print(f'{self.name}: Sem informações válidas')
+            os.remove(self.tsv_file)
             return False
         self.usable_df = self.usable_df[self.usable_df['host'].notnull()]
         if self.usable_df.empty:
+            print(f'{self.name}: Sem informações válidas')
+            os.remove(self.tsv_file)
             return False
         self.usable_df = self.usable_df[self.usable_df['asm_acc'].notnull()]
         if self.usable_df.empty:
+            print(f'{self.name}: Sem informações válidas')
+            os.remove(self.tsv_file)
             return False
 
         # normalizando a coluna host
@@ -154,16 +183,33 @@ class Group():
 
         with open(self.usable_json_path,'w') as file:
             self.usable_json = self.usable_df.to_json(orient="records",indent=1)
+            self.usable_json = js.loads(self.usable_json)
+            self.tag = {self.name:self.pat_id}
+            self.usable_json.insert(0,self.tag)
+            self.usable_json = js.dumps(self.usable_json,indent=1)
             file.write(self.usable_json)
+
+        os.remove(self.tsv_file)
         return True
+        
     def filterTsv(self):    
         human = 'HOMO|HUMAN|HOMO|SAPIENS'
         chicken = 'GALLUS|CHICKEN'
         bovine = 'TAURUS|BOVINAE|COW|BOVINE'
         fish = 'AQUA|FISH|CARP'
-
-        self.filtered_df = self.usable_df
-
+    
+        if hasattr(self,'usable_df'):
+            self.filtered_df = self.usable_df
+        else:
+            if os.path.exists(self.usable_json_path):
+                self.usable_df = pd.read_json(self.usable_json_path)
+                self.filtered_df = self.usable_df
+            else:
+                return False
+        
+        self.filtered_df.drop(columns=[f"{self.name}"],inplace=True)
+        self.filtered_df.drop(0,inplace=True)
+    
         self.filtered_df.loc[self.filtered_df['host'].str.contains(human),'host'] = 'HOMO SAPIENS'
         self.filtered_df.loc[self.filtered_df['host'].str.contains(chicken),'host'] = 'CHICKEN'
         self.filtered_df.loc[self.filtered_df['host'].str.contains(bovine),'host'] = 'BOVINE'
@@ -173,7 +219,7 @@ class Group():
         with open(self.filtered_json_path, 'w') as file:
             self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
             file.write(self.filtered_json)
-
+        return True
     def readFilteredTsv(self,filter=True):
         '''
         Extrai informações do .json gerado pelo getUsableTsv() ou filterTsv() (filter = True).
@@ -186,7 +232,7 @@ class Group():
         elif hasattr(self,'usable_df'):
                 df = self.usable_df
         else:
-            print('Sem registros salvos')
+            print(f'{self.name}: Sem registros salvos')
             return False
                     
         self.species = df['scientific_name'].tolist()
@@ -254,8 +300,7 @@ def mountData():
     for group in groups:
         obj = Group(group)
         if obj.checkDataUpdate():    
-            obj.getPatData()
-        obj.getUsableTsv()
+            obj.getUsableTsv()
 
 
 def updateData():
@@ -267,20 +312,18 @@ def updateData():
     for group in groups:
         obj = Group(group)
         if obj.checkDataUpdate():
-            obj.getPatData()
-            obj.getUsableTsv()
-        else:
             obj.getUsableTsv()
 
 def readAllData():
     groups = readGroupsNames()
     for group in groups:
         obj = Group(group)
-        if obj.getUsableTsv():
-            obj.filterTsv()
+        if obj.filterTsv():
             obj.readFilteredTsv()
             obj.makeGroupMetadata()
             print(group,' lido')
+        else:
+            print('Sem registros válidos')
         
 def readSingleData(group="Edwardsiella_tarda"):
     obj = Group(group)
@@ -301,15 +344,15 @@ def generalMetadata():
 
 
 
-
+'''
 start = time.time()
 refresh()
-updateData()
+mountData()
 end = time.time()
 minutos = int((end - start) // 60)
 segundos = (end - start) % 60
 print(f'mount runtime: {minutos}:{segundos}')
-
+'''
 start = time.time()
 readAllData()
 end = time.time()
