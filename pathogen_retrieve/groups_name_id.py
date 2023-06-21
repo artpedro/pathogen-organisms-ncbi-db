@@ -90,6 +90,7 @@ def refreshSingleGroup(name):
                 with open(group_names,'w') as file:
                     file.write(json.dumps(log_info,indent=1))
                     print(name,": ",old," ---> ",new)
+                return new
             else:
                 print('Versão mais atual')
 # principais
