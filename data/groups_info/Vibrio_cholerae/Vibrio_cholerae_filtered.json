@@ -318,5 +318,13 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Vibrio cholerae",
   "strain":"MS84A"
+ },
+ {
+  "asm_acc":"GCA_030295265.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00515067",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Vibrio cholerae",
+  "strain":"man9"
  }
 ]

@@ -5,42 +5,34 @@
   "Pasteurella multocida": 119
  },
  "subsp.": {
-  "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. multocida": 6,
+  "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. septica": 2
  },
  "scientific_name": {
-  "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. multocida str. HB03": 1,
-  "Pasteurella multocida subsp. septica": 2,
+  "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. multocida str. 3480": 1,
-  "Pasteurella multocida": 110,
-  "Pasteurella multocida subsp. multocida": 4
+  "Pasteurella multocida subsp. septica": 2,
+  "Pasteurella multocida subsp. multocida": 4,
+  "Pasteurella multocida": 110
  },
  "strain": {},
  "hosts": {
-  "CATTLE": 6,
-  "PORCINE": 1,
-  "GOOSE": 2,
-  "YAK": 2,
-  "ENVIRONMENT": 1,
-  "AVIAN": 14,
-  "POULTRY": 2,
-  "BOVINE": 31,
+  "PIG": 5,
+  "CAT": 1,
+  "BOVINE": 27,
+  "CHICKEN": 30,
   "HOMO SAPIENS": 7,
   "ORYCTOLAGUS CUNICULUS": 3,
-  "SHEEP": 1,
-  "SUS SCROFA": 2,
-  "ANATIDAE": 1,
+  "GOOSE": 2,
+  "ENVIRONMENT": 5,
   "CAPRA HIRCUS": 1,
-  "DUCK": 6,
-  "TURKEY": 4,
-  "SUS SCROFA DOMESTICUS": 2,
-  "CHICKEN": 8,
+  "YAK": 2,
+  "SHEEP": 12,
   "MARMOTA HIMALAYANA": 1,
-  "RABBIT": 18,
-  "BEEF CATTLE": 1,
-  "CAT": 1,
-  "PIG": 4
+  "ANATIDAE": 1,
+  "TURKEY": 4,
+  "RABBIT": 18
  }
 }

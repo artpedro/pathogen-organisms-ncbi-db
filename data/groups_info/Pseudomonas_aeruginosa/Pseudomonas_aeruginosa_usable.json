@@ -1,6 +1,6 @@
 [
  {
-  "Pseudomonas_aeruginosa": "PDG000000036.873"
+  "Pseudomonas_aeruginosa": "PDG000000036.874"
  },
  {
   "asm_acc": "GCA_000359505.1",
@@ -4657,5 +4657,13 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas aeruginosa",
   "strain": "22112"
+ },
+ {
+  "asm_acc": "GCA_030316095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35722428",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "NMI2312_06"
  }
 ]

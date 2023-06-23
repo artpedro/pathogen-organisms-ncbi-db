@@ -1,6 +1,6 @@
 [
  {
-  "Enterococcus_faecalis": "PDG000000072.362"
+  "Enterococcus_faecalis": "PDG000000072.363"
  },
  {
   "asm_acc": "GCA_000281195.1",
@@ -1105,5 +1105,13 @@
   "host": "CAMEL",
   "scientific_name": "Enterococcus faecalis",
   "strain": "AFL-109F"
+ },
+ {
+  "asm_acc": "GCA_030295445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00521555",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JARB-HU0796"
  }
 ]

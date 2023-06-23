@@ -195,7 +195,7 @@
   "asm_acc":"GCA_004006495.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09652006",
-  "host":"SOIL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Bacillus cereus",
   "strain":"ZB201708"
  },
@@ -355,7 +355,7 @@
   "asm_acc":"GCA_022220505.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13164746",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Bacillus anthracis",
   "strain":"A182"
  },
@@ -363,7 +363,7 @@
   "asm_acc":"GCA_022220545.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13164732",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Bacillus anthracis",
   "strain":"3016"
  },
@@ -379,7 +379,7 @@
   "asm_acc":"GCA_022220925.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13164741",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Bacillus anthracis",
   "strain":"A193a"
  },
@@ -387,7 +387,7 @@
   "asm_acc":"GCA_022220945.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13164734",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Bacillus anthracis",
   "strain":"A166"
  },
@@ -395,7 +395,7 @@
   "asm_acc":"GCA_022220965.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13164740",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Bacillus anthracis",
   "strain":"A168"
  },
@@ -539,7 +539,7 @@
   "asm_acc":"GCA_022700995.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16562415",
-  "host":"SOIL IN TIGER AREA OF ZOO",
+  "host":"ENVIRONMENT",
   "scientific_name":"Bacillus cereus",
   "strain":"N435-1"
  },
@@ -587,7 +587,7 @@
   "asm_acc":"GCA_029024805.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33336515",
-  "host":"SOIL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Bacillus mycoides",
   "strain":"DSM 2048"
  },
@@ -619,7 +619,7 @@
   "asm_acc":"GCA_029636405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32614585",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Bacillus anthracis",
   "strain":"AN17-384_2"
  },
@@ -627,7 +627,7 @@
   "asm_acc":"GCA_029636605.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32614595",
-  "host":"EQUUS QUAGGA",
+  "host":"HORSE",
   "scientific_name":"Bacillus anthracis",
   "strain":"AN18-416_2"
  },
@@ -635,7 +635,7 @@
   "asm_acc":"GCA_029636705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32614574",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Bacillus anthracis",
   "strain":"AN17-14_S4"
  },

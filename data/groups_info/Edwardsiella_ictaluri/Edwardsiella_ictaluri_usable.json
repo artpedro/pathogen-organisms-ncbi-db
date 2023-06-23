@@ -1,6 +1,6 @@
 [
  {
-  "Edwardsiella_ictaluri": "PDG000000079.10"
+  "Edwardsiella_ictaluri": "PDG000000079.11"
  },
  {
   "asm_acc": "GCA_002076875.1",
@@ -41,5 +41,53 @@
   "host": "TACHYSURUS FULVIDRACO (YELLOW CATFISH)",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "669"
+ },
+ {
+  "asm_acc": "GCA_030297415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611014",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "KH20906"
+ },
+ {
+  "asm_acc": "GCA_030297435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611015",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "KB20921"
+ },
+ {
+  "asm_acc": "GCA_030297455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611016",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "KH201010"
+ },
+ {
+  "asm_acc": "GCA_030297475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611017",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STU22726"
+ },
+ {
+  "asm_acc": "GCA_030297495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611018",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STU22816"
+ },
+ {
+  "asm_acc": "GCA_030297515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611019",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STA22820"
  }
 ]

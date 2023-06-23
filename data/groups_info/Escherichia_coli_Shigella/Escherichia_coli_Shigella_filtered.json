@@ -43,7 +43,7 @@
   "asm_acc":"GCA_000212715.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02604221",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli UMNK88",
   "strain":"UMNK88"
  },
@@ -123,7 +123,7 @@
   "asm_acc":"GCA_000827105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02673556",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli O157:H16",
   "strain":"Santai"
  },
@@ -611,7 +611,7 @@
   "asm_acc":"GCA_001735705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05346848",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"210221272"
  },
@@ -1363,7 +1363,7 @@
   "asm_acc":"GCA_002246595.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07450616",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"ECCTRSRTH03"
  },
@@ -1403,7 +1403,7 @@
   "asm_acc":"GCA_002310555.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618127",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"1943"
  },
@@ -1411,7 +1411,7 @@
   "asm_acc":"GCA_002310575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618128",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"317"
  },
@@ -1419,7 +1419,7 @@
   "asm_acc":"GCA_002310595.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618126",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"144"
  },
@@ -1427,7 +1427,7 @@
   "asm_acc":"GCA_002310615.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618121",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"1190"
  },
@@ -1435,7 +1435,7 @@
   "asm_acc":"GCA_002310635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618120",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"1105"
  },
@@ -1443,7 +1443,7 @@
   "asm_acc":"GCA_002310655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618129",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"746"
  },
@@ -1451,7 +1451,7 @@
   "asm_acc":"GCA_002310675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618123",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"127"
  },
@@ -1459,7 +1459,7 @@
   "asm_acc":"GCA_002310695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618125",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"1428"
  },
@@ -1467,7 +1467,7 @@
   "asm_acc":"GCA_002310715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618122",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"1223"
  },
@@ -1475,7 +1475,7 @@
   "asm_acc":"GCA_002310735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07618124",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"1283"
  },
@@ -1483,7 +1483,7 @@
   "asm_acc":"GCA_900196535.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA104140560",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":null
  },
@@ -1507,7 +1507,7 @@
   "asm_acc":"GCA_002357915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00056130",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"20Ec-P-124"
  },
@@ -1691,7 +1691,7 @@
   "asm_acc":"GCA_002844685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08148591",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"ExPEC XM"
  },
@@ -3083,7 +3083,7 @@
   "asm_acc":"GCA_900635325.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3529258",
-  "host":"CALF",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli",
   "strain":"NCTC10444"
  },
@@ -3555,7 +3555,7 @@
   "asm_acc":"GCA_004771235.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11333172",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"PF9285"
  },
@@ -3915,7 +3915,7 @@
   "asm_acc":"GCA_007012305.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11230749",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"ECOL-18-VL-LA-PA-Ryan-0026"
  },
@@ -3931,7 +3931,7 @@
   "asm_acc":"GCA_007833255.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12389475",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"PU-1"
  },
@@ -4195,7 +4195,7 @@
   "asm_acc":"GCA_008823185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12512712",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"PK6"
  },
@@ -4347,7 +4347,7 @@
   "asm_acc":"GCA_009671045.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13242665",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"1916D18"
  },
@@ -4355,7 +4355,7 @@
   "asm_acc":"GCA_009671085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13242769",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"1916D6"
  },
@@ -4363,7 +4363,7 @@
   "asm_acc":"GCA_009671105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13242782",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"1919D3"
  },
@@ -4371,7 +4371,7 @@
   "asm_acc":"GCA_009671125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13242790",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"1919D62"
  },
@@ -4395,7 +4395,7 @@
   "asm_acc":"GCA_009728565.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07594018",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O22:H8",
   "strain":"RM10809-3"
  },
@@ -4411,7 +4411,7 @@
   "asm_acc":"GCA_009761715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12027817",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"PT109"
  },
@@ -4499,7 +4499,7 @@
   "asm_acc":"GCA_009931435.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12641172",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"EC42405"
  },
@@ -4763,7 +4763,7 @@
   "asm_acc":"GCA_011492885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14238615",
-  "host":"PET DOG",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"T28R"
  },
@@ -4779,7 +4779,7 @@
   "asm_acc":"GCA_011492985.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13530296",
-  "host":"PET DOG",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"T16R"
  },
@@ -4803,7 +4803,7 @@
   "asm_acc":"GCA_011996085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13705263",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"CAU16175"
  },
@@ -4851,7 +4851,7 @@
   "asm_acc":"GCA_012516455.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14558608",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"SFE8"
  },
@@ -4859,7 +4859,7 @@
   "asm_acc":"GCA_012537835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14558879",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"SCZE5"
  },
@@ -5171,7 +5171,7 @@
   "asm_acc":"GCA_013167155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360245",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"YB14-1"
  },
@@ -5179,7 +5179,7 @@
   "asm_acc":"GCA_013167175.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360243",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"TX 376-2"
  },
@@ -5187,7 +5187,7 @@
   "asm_acc":"GCA_013167195.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360242",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"TX 265-1"
  },
@@ -5195,7 +5195,7 @@
   "asm_acc":"GCA_013167235.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360240",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"TB21-1"
  },
@@ -5211,7 +5211,7 @@
   "asm_acc":"GCA_013167275.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360237",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"SS TX 754-1"
  },
@@ -5219,7 +5219,7 @@
   "asm_acc":"GCA_013167295.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360235",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"SS TX 313-1"
  },
@@ -5227,7 +5227,7 @@
   "asm_acc":"GCA_013167315.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360230",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"SS NE 1040-1"
  },
@@ -5235,7 +5235,7 @@
   "asm_acc":"GCA_013167335.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360225",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"Show KS 470-1"
  },
@@ -5251,7 +5251,7 @@
   "asm_acc":"GCA_013167375.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229494",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"NE92"
  },
@@ -5259,7 +5259,7 @@
   "asm_acc":"GCA_013167395.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229495",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"NE122"
  },
@@ -5267,7 +5267,7 @@
   "asm_acc":"GCA_013167415.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229496",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"NE1127"
  },
@@ -5275,7 +5275,7 @@
   "asm_acc":"GCA_013167435.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360232",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"NE 1169-1"
  },
@@ -5283,7 +5283,7 @@
   "asm_acc":"GCA_013167455.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360231",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"NE 1092-2"
  },
@@ -5291,7 +5291,7 @@
   "asm_acc":"GCA_013167475.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360221",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"N8B7-2"
  },
@@ -5323,7 +5323,7 @@
   "asm_acc":"GCA_013167555.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360205",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"Gim1-1"
  },
@@ -5387,7 +5387,7 @@
   "asm_acc":"GCA_013168055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360196",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"BB24-1"
  },
@@ -5419,7 +5419,7 @@
   "asm_acc":"GCA_013168135.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360191",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"17B6-2"
  },
@@ -5427,7 +5427,7 @@
   "asm_acc":"GCA_013168155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360204",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"3-5-1"
  },
@@ -5435,7 +5435,7 @@
   "asm_acc":"GCA_013168175.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05360202",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"2-6-2"
  },
@@ -5443,7 +5443,7 @@
   "asm_acc":"GCA_013168195.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229480",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"7636"
  },
@@ -5451,7 +5451,7 @@
   "asm_acc":"GCA_013168215.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229479",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"7409"
  },
@@ -5459,7 +5459,7 @@
   "asm_acc":"GCA_013168235.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229478",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"2571"
  },
@@ -5467,7 +5467,7 @@
   "asm_acc":"GCA_013168255.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11229477",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"611"
  },
@@ -5539,7 +5539,7 @@
   "asm_acc":"GCA_013201525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA6471236",
-  "host":"WILD BOAR",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":null
  },
@@ -5659,7 +5659,7 @@
   "asm_acc":"GCA_013357365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14449600",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli",
   "strain":"RM13322"
  },
@@ -6275,7 +6275,7 @@
   "asm_acc":"GCA_014607515.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07977663",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli",
   "strain":"RM9872-C1"
  },
@@ -6283,7 +6283,7 @@
   "asm_acc":"GCA_014607535.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09742415",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM10425-C1"
  },
@@ -6291,7 +6291,7 @@
   "asm_acc":"GCA_014607575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10887318",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM12522-C8"
  },
@@ -6299,7 +6299,7 @@
   "asm_acc":"GCA_014623185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10887316",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM8988-C1"
  },
@@ -6307,7 +6307,7 @@
   "asm_acc":"GCA_014623205.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10887317",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM11626-C1"
  },
@@ -6315,7 +6315,7 @@
   "asm_acc":"GCA_014623225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09742411",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM9154-C1"
  },
@@ -6323,7 +6323,7 @@
   "asm_acc":"GCA_014623245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09742412",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM9467-C1"
  },
@@ -6331,7 +6331,7 @@
   "asm_acc":"GCA_014623425.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09742413",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O145",
   "strain":"RM9873-C1"
  },
@@ -6363,7 +6363,7 @@
   "asm_acc":"GCA_014770655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16183875",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli O15:H12",
   "strain":"2273-PO3"
  },
@@ -6395,7 +6395,7 @@
   "asm_acc":"GCA_904426485.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA7287971",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":null
  },
@@ -6403,7 +6403,7 @@
   "asm_acc":"GCA_904711295.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA7287972",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":null
  },
@@ -6467,7 +6467,7 @@
   "asm_acc":"GCA_014854675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16277032",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"K_EC180"
  },
@@ -6763,7 +6763,7 @@
   "asm_acc":"GCA_015291785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09852207",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli",
   "strain":"R1"
  },
@@ -6803,7 +6803,7 @@
   "asm_acc":"GCA_015571535.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304268",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Sevr-PER07-33"
  },
@@ -6811,7 +6811,7 @@
   "asm_acc":"GCA_015571555.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304267",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Sevr-PER06-05-b-A"
  },
@@ -6819,7 +6819,7 @@
   "asm_acc":"GCA_015571595.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304240",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O167:H26",
   "strain":"Res13-Lact-PER13-34"
  },
@@ -6827,7 +6827,7 @@
   "asm_acc":"GCA_015571615.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304239",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PER12-33-A"
  },
@@ -6835,7 +6835,7 @@
   "asm_acc":"GCA_015571635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304231",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PER04-33"
  },
@@ -6843,7 +6843,7 @@
   "asm_acc":"GCA_015571655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304229",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PER02-33"
  },
@@ -6851,7 +6851,7 @@
   "asm_acc":"GCA_015571675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304212",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O9:H10",
   "strain":"Res13-Lact-PEB21-38-A"
  },
@@ -6859,7 +6859,7 @@
   "asm_acc":"GCA_015571695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304211",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O9:H10",
   "strain":"Res13-Lact-PEB20-37-A"
  },
@@ -6867,7 +6867,7 @@
   "asm_acc":"GCA_015571715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304208",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O20:H12",
   "strain":"Res13-Lact-PEB17-18"
  },
@@ -6875,7 +6875,7 @@
   "asm_acc":"GCA_015571735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304199",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O39:H21",
   "strain":"Res13-Lact-PEB08-01"
  },
@@ -6883,7 +6883,7 @@
   "asm_acc":"GCA_015571755.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304185",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PEA14-20"
  },
@@ -6891,7 +6891,7 @@
   "asm_acc":"GCA_015571775.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304175",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PEA06-10"
  },
@@ -6899,7 +6899,7 @@
   "asm_acc":"GCA_015571795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304150",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O100:H21",
   "strain":"Res13-Lact-ER07-18"
  },
@@ -6907,7 +6907,7 @@
   "asm_acc":"GCA_015571815.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304205",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PEB14-36"
  },
@@ -6915,7 +6915,7 @@
   "asm_acc":"GCA_015571835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304193",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PEB01-20"
  },
@@ -6923,7 +6923,7 @@
   "asm_acc":"GCA_015571855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304178",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O157:H16",
   "strain":"Res13-Lact-PEA12-26"
  },
@@ -6931,7 +6931,7 @@
   "asm_acc":"GCA_015571875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304147",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-ER02-39"
  },
@@ -6939,7 +6939,7 @@
   "asm_acc":"GCA_015571895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304146",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O152:H23",
   "strain":"Res13-Lact-ER01-35"
  },
@@ -6947,7 +6947,7 @@
   "asm_acc":"GCA_015571915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304114",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O112ab:H8",
   "strain":"Res13-Lact-EA06-22"
  },
@@ -6955,7 +6955,7 @@
   "asm_acc":"GCA_015571955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304132",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-EB12-05"
  },
@@ -7011,7 +7011,7 @@
   "asm_acc":"GCA_016237425.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304201",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"Res13-Lact-PEB09-33"
  },
@@ -7115,7 +7115,7 @@
   "asm_acc":"GCA_016592875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00233763",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"2018-18.25PC"
  },
@@ -7139,7 +7139,7 @@
   "asm_acc":"GCA_016696665.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17293653",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"U90"
  },
@@ -7515,7 +7515,7 @@
   "asm_acc":"GCA_016834635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648873",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2010G"
  },
@@ -7523,7 +7523,7 @@
   "asm_acc":"GCA_016834675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648872",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2019B"
  },
@@ -7531,7 +7531,7 @@
   "asm_acc":"GCA_016834695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648871",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2018C"
  },
@@ -7539,7 +7539,7 @@
   "asm_acc":"GCA_016834715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648870",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2012I"
  },
@@ -7547,7 +7547,7 @@
   "asm_acc":"GCA_016834735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648869",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2011E"
  },
@@ -7555,7 +7555,7 @@
   "asm_acc":"GCA_016834755.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648868",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2011B"
  },
@@ -7563,7 +7563,7 @@
   "asm_acc":"GCA_016834775.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648867",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2010I"
  },
@@ -7571,7 +7571,7 @@
   "asm_acc":"GCA_016834795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648865",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2010A"
  },
@@ -7579,7 +7579,7 @@
   "asm_acc":"GCA_016834815.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648866",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2010E"
  },
@@ -7587,7 +7587,7 @@
   "asm_acc":"GCA_016834835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648864",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2009D"
  },
@@ -7595,7 +7595,7 @@
   "asm_acc":"GCA_016834855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648863",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2009B"
  },
@@ -7603,7 +7603,7 @@
   "asm_acc":"GCA_016834875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648862",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2008D"
  },
@@ -7611,7 +7611,7 @@
   "asm_acc":"GCA_016834895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648861",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2007G"
  },
@@ -7619,7 +7619,7 @@
   "asm_acc":"GCA_016834915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648860",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2006I"
  },
@@ -7627,7 +7627,7 @@
   "asm_acc":"GCA_016834935.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648859",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2006A"
  },
@@ -7635,7 +7635,7 @@
   "asm_acc":"GCA_016834955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648858",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2005F"
  },
@@ -7643,7 +7643,7 @@
   "asm_acc":"GCA_016834975.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648855",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2001A"
  },
@@ -7651,7 +7651,7 @@
   "asm_acc":"GCA_016834995.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648856",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2002D"
  },
@@ -7659,7 +7659,7 @@
   "asm_acc":"GCA_016835015.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648857",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2004G"
  },
@@ -7667,7 +7667,7 @@
   "asm_acc":"GCA_016835035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648853",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_1999G"
  },
@@ -7675,7 +7675,7 @@
   "asm_acc":"GCA_016835055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648854",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_2000A"
  },
@@ -7683,7 +7683,7 @@
   "asm_acc":"GCA_016835075.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648851",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_1997A"
  },
@@ -7691,7 +7691,7 @@
   "asm_acc":"GCA_016835095.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14648852",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli O157:H7",
   "strain":"FLT_1998F"
  },
@@ -7699,7 +7699,7 @@
   "asm_acc":"GCA_016864175.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13017016",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"DE17"
  },
@@ -8347,7 +8347,7 @@
   "asm_acc":"GCA_017161345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10397841",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"RCAD0514"
  },
@@ -8379,7 +8379,7 @@
   "asm_acc":"GCA_017310055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13282710",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"LZYWN_4"
  },
@@ -8579,7 +8579,7 @@
   "asm_acc":"GCA_018141125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15235523",
-  "host":"MEAT DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"EC31"
  },
@@ -8587,7 +8587,7 @@
   "asm_acc":"GCA_018141145.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15214392",
-  "host":"MEAT DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"EC50"
  },
@@ -8595,7 +8595,7 @@
   "asm_acc":"GCA_018141225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09939624",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E166"
  },
@@ -8603,7 +8603,7 @@
   "asm_acc":"GCA_018141245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09939625",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"CT29"
  },
@@ -8611,7 +8611,7 @@
   "asm_acc":"GCA_018141265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09939627",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"CT30"
  },
@@ -8723,7 +8723,7 @@
   "asm_acc":"GCA_018279125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13563036",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"19-5"
  },
@@ -8731,7 +8731,7 @@
   "asm_acc":"GCA_018279225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13563032",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"tcmA_3"
  },
@@ -8739,7 +8739,7 @@
   "asm_acc":"GCA_900166955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA95542918",
-  "host":"SUS SCROFA DOMESTICA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"KV7"
  },
@@ -8763,7 +8763,7 @@
   "asm_acc":"GCA_018415975.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15684126",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"TCM_B_2"
  },
@@ -8771,7 +8771,7 @@
   "asm_acc":"GCA_018415995.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15684191",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"EC_J_9"
  },
@@ -8979,7 +8979,7 @@
   "asm_acc":"GCA_018966845.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19653581",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"GD33"
  },
@@ -8987,7 +8987,7 @@
   "asm_acc":"GCA_018968645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19604990",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"NC19"
  },
@@ -9027,7 +9027,7 @@
   "asm_acc":"GCA_018988345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17246086",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJW9B263"
  },
@@ -9035,7 +9035,7 @@
   "asm_acc":"GCA_018988385.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17245958",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJW9B277"
  },
@@ -9171,7 +9171,7 @@
   "asm_acc":"GCA_019375055.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17183821",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"XD35"
  },
@@ -9211,7 +9211,7 @@
   "asm_acc":"GCA_019431295.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20003587",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O141:H4",
   "strain":"P13-6"
  },
@@ -9219,7 +9219,7 @@
   "asm_acc":"GCA_019431315.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20003582",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O139:H1",
   "strain":"P15-25"
  },
@@ -9227,7 +9227,7 @@
   "asm_acc":"GCA_019431335.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20003598",
-  "host":"SUS SCROFA SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli O139:H1",
   "strain":"W13-16"
  },
@@ -9403,7 +9403,7 @@
   "asm_acc":"GCA_019976835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00283124",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Escherichia coli",
   "strain":"E148"
  },
@@ -9411,7 +9411,7 @@
   "asm_acc":"GCA_019976915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00283125",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Escherichia coli",
   "strain":"E189"
  },
@@ -9603,7 +9603,7 @@
   "asm_acc":"GCA_020683145.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22504350",
-  "host":"PIGEON",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"fECg99.1"
  },
@@ -9611,7 +9611,7 @@
   "asm_acc":"GCA_020683185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22515629",
-  "host":"PIGEON",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"fEC.1"
  },
@@ -11939,7 +11939,7 @@
   "asm_acc":"GCA_021498025.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14996619",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"258E"
  },
@@ -12075,7 +12075,7 @@
   "asm_acc":"GCA_022014695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN25378667",
-  "host":"EQUUS FERUS CABALLUS (THOROUGHBRED)",
+  "host":"HORSE",
   "scientific_name":"Escherichia coli",
   "strain":"SWYH.B349aT"
  },
@@ -12099,7 +12099,7 @@
   "asm_acc":"GCA_022058205.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN25553860",
-  "host":"EQUUS FERUS CABALLUS (THOROUGHBRED)",
+  "host":"HORSE",
   "scientific_name":"Escherichia coli",
   "strain":"SWYHX138.33gt"
  },
@@ -12107,7 +12107,7 @@
   "asm_acc":"GCA_022058225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN25554218",
-  "host":"EQUUS FERUS CABALLUS (THOROUGHBRED)",
+  "host":"HORSE",
   "scientific_name":"Escherichia coli",
   "strain":"SWYHX138.261ft"
  },
@@ -12115,7 +12115,7 @@
   "asm_acc":"GCA_022117635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12724284",
-  "host":"FERAL PIG",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"RM10740"
  },
@@ -12123,7 +12123,7 @@
   "asm_acc":"GCA_022117655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12724283",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Escherichia coli",
   "strain":"RM8082"
  },
@@ -12507,7 +12507,7 @@
   "asm_acc":"GCA_022514105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00408332",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"JP538"
  },
@@ -13171,7 +13171,7 @@
   "asm_acc":"GCA_023657915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703758",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0148"
  },
@@ -13179,7 +13179,7 @@
   "asm_acc":"GCA_023657935.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703757",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0133"
  },
@@ -13187,7 +13187,7 @@
   "asm_acc":"GCA_023657955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703755",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0117"
  },
@@ -13195,7 +13195,7 @@
   "asm_acc":"GCA_023657975.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703754",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0116"
  },
@@ -13203,7 +13203,7 @@
   "asm_acc":"GCA_023657995.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703753",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0098"
  },
@@ -13211,7 +13211,7 @@
   "asm_acc":"GCA_023658015.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703750",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0056"
  },
@@ -13219,7 +13219,7 @@
   "asm_acc":"GCA_023658265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703751",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0062"
  },
@@ -13227,7 +13227,7 @@
   "asm_acc":"GCA_023658285.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703749",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0055"
  },
@@ -13235,7 +13235,7 @@
   "asm_acc":"GCA_023658305.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703748",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0054"
  },
@@ -13243,7 +13243,7 @@
   "asm_acc":"GCA_023658325.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703747",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0051"
  },
@@ -13251,7 +13251,7 @@
   "asm_acc":"GCA_023658345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703746",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0040"
  },
@@ -13259,7 +13259,7 @@
   "asm_acc":"GCA_023658365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703745",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0036"
  },
@@ -13267,7 +13267,7 @@
   "asm_acc":"GCA_023658385.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703744",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0032"
  },
@@ -13275,7 +13275,7 @@
   "asm_acc":"GCA_023658405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703743",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0013"
  },
@@ -13283,7 +13283,7 @@
   "asm_acc":"GCA_023658425.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703742",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"Z0117EC0005"
  },
@@ -13651,7 +13651,7 @@
   "asm_acc":"GCA_024499095.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19296501",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"CPww7"
  },
@@ -13667,7 +13667,7 @@
   "asm_acc":"GCA_024499155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19296497",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"CPF6"
  },
@@ -13675,7 +13675,7 @@
   "asm_acc":"GCA_024499175.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19296500",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"CPE35"
  },
@@ -13931,7 +13931,7 @@
   "asm_acc":"GCA_024585365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877320",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB165"
  },
@@ -13939,7 +13939,7 @@
   "asm_acc":"GCA_024585385.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877319",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB98"
  },
@@ -13947,7 +13947,7 @@
   "asm_acc":"GCA_024585405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877318",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB64"
  },
@@ -13955,7 +13955,7 @@
   "asm_acc":"GCA_024585425.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877317",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB57"
  },
@@ -13963,7 +13963,7 @@
   "asm_acc":"GCA_024585445.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877316",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB56"
  },
@@ -13971,7 +13971,7 @@
   "asm_acc":"GCA_024585465.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877315",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB53"
  },
@@ -13979,7 +13979,7 @@
   "asm_acc":"GCA_024585485.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877314",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB52"
  },
@@ -13987,7 +13987,7 @@
   "asm_acc":"GCA_024585505.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877313",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB51"
  },
@@ -13995,7 +13995,7 @@
   "asm_acc":"GCA_024585525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877312",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB50"
  },
@@ -14003,7 +14003,7 @@
   "asm_acc":"GCA_024585545.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877311",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB49"
  },
@@ -14011,7 +14011,7 @@
   "asm_acc":"GCA_024585565.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877310",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB46"
  },
@@ -14019,7 +14019,7 @@
   "asm_acc":"GCA_024585585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877309",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB31"
  },
@@ -14027,7 +14027,7 @@
   "asm_acc":"GCA_024585625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877307",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB22"
  },
@@ -14035,7 +14035,7 @@
   "asm_acc":"GCA_024585665.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877305",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB19"
  },
@@ -14043,7 +14043,7 @@
   "asm_acc":"GCA_024585685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877304",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB15"
  },
@@ -14051,7 +14051,7 @@
   "asm_acc":"GCA_024585705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877303",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB10"
  },
@@ -14059,7 +14059,7 @@
   "asm_acc":"GCA_024585725.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18877302",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"MB1"
  },
@@ -14683,7 +14683,7 @@
   "asm_acc":"GCA_024971795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20236810",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"SF10"
  },
@@ -14691,7 +14691,7 @@
   "asm_acc":"GCA_024971815.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20236841",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"HL15"
  },
@@ -14699,7 +14699,7 @@
   "asm_acc":"GCA_024971875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20236813",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"GS04"
  },
@@ -14707,7 +14707,7 @@
   "asm_acc":"GCA_024971895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20236820",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"BL12"
  },
@@ -14795,7 +14795,7 @@
   "asm_acc":"GCA_025369675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789305",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E2"
  },
@@ -14803,7 +14803,7 @@
   "asm_acc":"GCA_025369695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789311",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E8"
  },
@@ -14811,7 +14811,7 @@
   "asm_acc":"GCA_025369715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789313",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E10"
  },
@@ -14819,7 +14819,7 @@
   "asm_acc":"GCA_025369775.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789308",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E5"
  },
@@ -14827,7 +14827,7 @@
   "asm_acc":"GCA_025369795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789310",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E7"
  },
@@ -14835,7 +14835,7 @@
   "asm_acc":"GCA_025369815.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789312",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E9"
  },
@@ -14843,7 +14843,7 @@
   "asm_acc":"GCA_025369835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789306",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E3"
  },
@@ -14851,7 +14851,7 @@
   "asm_acc":"GCA_025369855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789307",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E4"
  },
@@ -14859,7 +14859,7 @@
   "asm_acc":"GCA_025369875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789304",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E1"
  },
@@ -14867,7 +14867,7 @@
   "asm_acc":"GCA_025369915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30789309",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"E6"
  },
@@ -15043,7 +15043,7 @@
   "asm_acc":"GCA_025600135.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30823220",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia albertii",
   "strain":"KBSW50i"
  },
@@ -15051,7 +15051,7 @@
   "asm_acc":"GCA_025600175.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30823218",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia albertii",
   "strain":"KBSW16i"
  },
@@ -15067,7 +15067,7 @@
   "asm_acc":"GCA_025643135.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20989715",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Escherichia coli",
   "strain":"B2"
  },
@@ -15091,7 +15091,7 @@
   "asm_acc":"GCA_025808215.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31221298",
-  "host":"WATER FROM A LAKE",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"SW4848"
  },
@@ -15115,7 +15115,7 @@
   "asm_acc":"GCA_025908275.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31266533",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"TL-14"
  },
@@ -15427,7 +15427,7 @@
   "asm_acc":"GCA_026074235.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00547841",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"MY732"
  },
@@ -15827,7 +15827,7 @@
   "asm_acc":"GCA_027947615.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32743768",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"7.1994\/NIST0056"
  },
@@ -15867,7 +15867,7 @@
   "asm_acc":"GCA_028551195.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32924205",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"CUVM3"
  },
@@ -15875,7 +15875,7 @@
   "asm_acc":"GCA_028551215.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32957160",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"E6474"
  },
@@ -15883,7 +15883,7 @@
   "asm_acc":"GCA_028551235.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32925239",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"CUVM53"
  },
@@ -15899,7 +15899,7 @@
   "asm_acc":"GCA_028623045.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33214804",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"PBS4"
  },
@@ -15907,7 +15907,7 @@
   "asm_acc":"GCA_028623065.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33214846",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"B1S11"
  },
@@ -16163,7 +16163,7 @@
   "asm_acc":"GCA_029224065.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18927628",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJ6-3"
  },
@@ -16171,7 +16171,7 @@
   "asm_acc":"GCA_029224085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18927774",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJ55"
  },
@@ -16179,7 +16179,7 @@
   "asm_acc":"GCA_029224105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18927803",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJ34"
  },
@@ -16187,7 +16187,7 @@
   "asm_acc":"GCA_029224125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18928494",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"ZYB39"
  },
@@ -16195,7 +16195,7 @@
   "asm_acc":"GCA_029227835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18917646",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJ5.2"
  },
@@ -16203,7 +16203,7 @@
   "asm_acc":"GCA_029227855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18917855",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJ6.1"
  },
@@ -16211,7 +16211,7 @@
   "asm_acc":"GCA_029227875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18917930",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"XJ6.2"
  },
@@ -16219,7 +16219,7 @@
   "asm_acc":"GCA_029227895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19028101",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"ZYB62"
  },
@@ -16227,7 +16227,7 @@
   "asm_acc":"GCA_029278625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33688535",
-  "host":"BROILER",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"C012_chr"
  },
@@ -16251,7 +16251,7 @@
   "asm_acc":"GCA_029318975.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33693441",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E92"
  },
@@ -16259,7 +16259,7 @@
   "asm_acc":"GCA_029319035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33693442",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E94"
  },
@@ -16347,7 +16347,7 @@
   "asm_acc":"GCA_029625135.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33924087",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E47"
  },
@@ -16355,7 +16355,7 @@
   "asm_acc":"GCA_029625155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33924089",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E57"
  },
@@ -16363,7 +16363,7 @@
   "asm_acc":"GCA_029625175.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33924091",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E89"
  },
@@ -16371,7 +16371,7 @@
   "asm_acc":"GCA_029625195.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33924090",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E67"
  },
@@ -16379,7 +16379,7 @@
   "asm_acc":"GCA_029625455.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN33924088",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Escherichia coli",
   "strain":"E50"
  },
@@ -16395,7 +16395,7 @@
   "asm_acc":"GCA_029635575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31396625",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"NC22"
  },
@@ -16411,7 +16411,7 @@
   "asm_acc":"GCA_029674645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN34068129",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"rl0044"
  },
@@ -16507,7 +16507,7 @@
   "asm_acc":"GCA_029962405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18536563",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"FP4"
  },
@@ -16515,7 +16515,7 @@
   "asm_acc":"GCA_029962425.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18536561",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"YP3"
  },
@@ -16523,7 +16523,7 @@
   "asm_acc":"GCA_029962445.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18536560",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Escherichia coli",
   "strain":"P4"
  },
@@ -16539,7 +16539,7 @@
   "asm_acc":"GCA_030012625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549597",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1718"
  },
@@ -16547,7 +16547,7 @@
   "asm_acc":"GCA_030012645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549596",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1717"
  },
@@ -16555,7 +16555,7 @@
   "asm_acc":"GCA_030012665.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549595",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1716"
  },
@@ -16563,7 +16563,7 @@
   "asm_acc":"GCA_030012745.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549586",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1703"
  },
@@ -16571,7 +16571,7 @@
   "asm_acc":"GCA_030012765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549585",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1702"
  },
@@ -16579,7 +16579,7 @@
   "asm_acc":"GCA_030012785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549584",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1701"
  },
@@ -16587,7 +16587,7 @@
   "asm_acc":"GCA_030013005.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549676",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC6335"
  },
@@ -16595,7 +16595,7 @@
   "asm_acc":"GCA_030013025.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549675",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC6334"
  },
@@ -16603,7 +16603,7 @@
   "asm_acc":"GCA_030013045.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549674",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC6333"
  },
@@ -16611,7 +16611,7 @@
   "asm_acc":"GCA_030013085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549667",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4091"
  },
@@ -16619,7 +16619,7 @@
   "asm_acc":"GCA_030013105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549666",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4090"
  },
@@ -16627,7 +16627,7 @@
   "asm_acc":"GCA_030013125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549665",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4089"
  },
@@ -16635,7 +16635,7 @@
   "asm_acc":"GCA_030013145.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549664",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4088"
  },
@@ -16643,7 +16643,7 @@
   "asm_acc":"GCA_030013165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549661",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4085"
  },
@@ -16651,7 +16651,7 @@
   "asm_acc":"GCA_030013185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549656",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4079"
  },
@@ -16659,7 +16659,7 @@
   "asm_acc":"GCA_030013205.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549654",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4077"
  },
@@ -16667,7 +16667,7 @@
   "asm_acc":"GCA_030013225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549652",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4075"
  },
@@ -16675,7 +16675,7 @@
   "asm_acc":"GCA_030013245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549651",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4074"
  },
@@ -16683,7 +16683,7 @@
   "asm_acc":"GCA_030013265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549650",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4073"
  },
@@ -16691,7 +16691,7 @@
   "asm_acc":"GCA_030013305.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549648",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4071"
  },
@@ -16699,7 +16699,7 @@
   "asm_acc":"GCA_030013325.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549647",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4070"
  },
@@ -16707,7 +16707,7 @@
   "asm_acc":"GCA_030013345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549646",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4069"
  },
@@ -16715,7 +16715,7 @@
   "asm_acc":"GCA_030013365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549645",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4068"
  },
@@ -16723,7 +16723,7 @@
   "asm_acc":"GCA_030013385.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549644",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC4067"
  },
@@ -16731,7 +16731,7 @@
   "asm_acc":"GCA_030013435.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549626",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1749"
  },
@@ -16739,7 +16739,7 @@
   "asm_acc":"GCA_030013455.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549625",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1748"
  },
@@ -16747,7 +16747,7 @@
   "asm_acc":"GCA_030013475.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549624",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1747"
  },
@@ -16755,7 +16755,7 @@
   "asm_acc":"GCA_030013495.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549623",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1746"
  },
@@ -16763,7 +16763,7 @@
   "asm_acc":"GCA_030013575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549616",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1739"
  },
@@ -16771,7 +16771,7 @@
   "asm_acc":"GCA_030013595.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549615",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1738"
  },
@@ -16779,7 +16779,7 @@
   "asm_acc":"GCA_030013675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549611",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1734"
  },
@@ -16787,7 +16787,7 @@
   "asm_acc":"GCA_030013715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549609",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1732"
  },
@@ -16795,7 +16795,7 @@
   "asm_acc":"GCA_030013735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549608",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1731"
  },
@@ -16803,7 +16803,7 @@
   "asm_acc":"GCA_030013755.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549607",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1730"
  },
@@ -16811,7 +16811,7 @@
   "asm_acc":"GCA_030013785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549606",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1729"
  },
@@ -16819,7 +16819,7 @@
   "asm_acc":"GCA_030013825.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549601",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1722"
  },
@@ -16827,7 +16827,7 @@
   "asm_acc":"GCA_030013845.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549600",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1721"
  },
@@ -16835,7 +16835,7 @@
   "asm_acc":"GCA_030013865.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN32549599",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Escherichia coli",
   "strain":"ETEC1720"
  },
@@ -16923,7 +16923,7 @@
   "asm_acc":"GCA_030168695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN34133713",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Escherichia coli",
   "strain":"a7"
  },
@@ -17014,5 +17014,205 @@
   "host":"BOVINE",
   "scientific_name":"Escherichia coli",
   "strain":"C25"
+ },
+ {
+  "asm_acc":"GCA_030295055.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00439258",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"LR-06"
+ },
+ {
+  "asm_acc":"GCA_030295075.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00439260",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"LR-50"
+ },
+ {
+  "asm_acc":"GCA_030295485.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00565531",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE181771"
+ },
+ {
+  "asm_acc":"GCA_030295505.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566112",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE082640"
+ },
+ {
+  "asm_acc":"GCA_030295525.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566111",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE131328"
+ },
+ {
+  "asm_acc":"GCA_030295545.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566110",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE170426"
+ },
+ {
+  "asm_acc":"GCA_030295585.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566463",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE120393"
+ },
+ {
+  "asm_acc":"GCA_030295605.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566464",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE120442"
+ },
+ {
+  "asm_acc":"GCA_030295625.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566465",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE141411"
+ },
+ {
+  "asm_acc":"GCA_030295645.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00566466",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"JNE151685"
+ },
+ {
+  "asm_acc":"GCA_030296095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585614",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC416"
+ },
+ {
+  "asm_acc":"GCA_030296115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585615",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC507"
+ },
+ {
+  "asm_acc":"GCA_030296135.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585616",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC521"
+ },
+ {
+  "asm_acc":"GCA_030296155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585617",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC361"
+ },
+ {
+  "asm_acc":"GCA_030296175.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585618",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC476"
+ },
+ {
+  "asm_acc":"GCA_030296195.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585619",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC261"
+ },
+ {
+  "asm_acc":"GCA_030296215.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585620",
+  "host":"MUSCA DOMESTICA",
+  "scientific_name":"Escherichia coli",
+  "strain":"B27"
+ },
+ {
+  "asm_acc":"GCA_030296235.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585621",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC581"
+ },
+ {
+  "asm_acc":"GCA_030296255.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585622",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC571"
+ },
+ {
+  "asm_acc":"GCA_030296275.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585623",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC556"
+ },
+ {
+  "asm_acc":"GCA_030296295.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585626",
+  "host":"ENVIRONMENT",
+  "scientific_name":"Escherichia coli",
+  "strain":"EC291"
+ },
+ {
+  "asm_acc":"GCA_030296335.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585628",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"SME173"
+ },
+ {
+  "asm_acc":"GCA_030296855.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00514633",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia fergusonii",
+  "strain":"30038"
+ },
+ {
+  "asm_acc":"GCA_030297395.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00608481",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":null
+ },
+ {
+  "asm_acc":"GCA_030316365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00585627",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Escherichia coli",
+  "strain":"SME98"
  }
 ]

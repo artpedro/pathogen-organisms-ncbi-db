@@ -179,7 +179,7 @@
   "asm_acc":"GCA_900638065.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA103980411",
-  "host":"ENVIRONMENTAL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Citrobacter youngae",
   "strain":"NCTC13709"
  },
@@ -331,7 +331,7 @@
   "asm_acc":"GCA_017086505.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13140889",
-  "host":"GRASS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Citrobacter freundii",
   "strain":"zone4"
  },
@@ -355,7 +355,7 @@
   "asm_acc":"GCA_019645955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20585126",
-  "host":"MUS MUSCULUS C3H\/HEN",
+  "host":"CHICKEN",
   "scientific_name":"Citrobacter amalonaticus",
   "strain":"C3H"
  },

@@ -347,7 +347,7 @@
   "asm_acc":"GCA_009362915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12500617",
-  "host":"SUS SCROFA DOMESTICA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Clostridioides difficile",
   "strain":"TW11"
  },
@@ -443,7 +443,7 @@
   "asm_acc":"GCA_016694795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17178901",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Peptacetobacter hiranonis",
   "strain":"DGF055142"
  },
@@ -459,7 +459,7 @@
   "asm_acc":"GCA_017592625.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18395883",
-  "host":"PIGS",
+  "host":"PIG",
   "scientific_name":"Clostridioides difficile",
   "strain":"S0756_078"
  },

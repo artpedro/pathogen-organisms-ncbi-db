@@ -27,7 +27,7 @@
   "asm_acc":"GCA_000422145.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02056285",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Mannheimia haemolytica D153",
   "strain":"D153"
  },
@@ -59,7 +59,7 @@
   "asm_acc":"GCA_000963635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03435925",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"89010807N"
  },
@@ -67,7 +67,7 @@
   "asm_acc":"GCA_000963675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03435924",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"89010807N"
  },
@@ -747,7 +747,7 @@
   "asm_acc":"GCA_023516295.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28102262",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"NCTC 10208"
  },
@@ -755,7 +755,7 @@
   "asm_acc":"GCA_023516315.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28102261",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"NCTC 10636"
  },
@@ -771,7 +771,7 @@
   "asm_acc":"GCA_023516375.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28102258",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"H-5106"
  },
@@ -779,7 +779,7 @@
   "asm_acc":"GCA_023516395.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28102257",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"B-31"
  },
@@ -803,7 +803,7 @@
   "asm_acc":"GCA_029916885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN34340262",
-  "host":"CALF",
+  "host":"BOVINE",
   "scientific_name":"Mannheimia haemolytica",
   "strain":"190176"
  }

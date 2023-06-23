@@ -427,7 +427,7 @@
   "asm_acc":"GCA_001298325.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04008874",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Staphylococcus aureus",
   "strain":"BA01611"
  },
@@ -843,7 +843,7 @@
   "asm_acc":"GCA_002025125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06480668",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"08S00974"
  },
@@ -939,7 +939,7 @@
   "asm_acc":"GCA_002204555.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04571767",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"ISU935"
  },
@@ -947,7 +947,7 @@
   "asm_acc":"GCA_002204575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04571756",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"ISU926"
  },
@@ -1083,7 +1083,7 @@
   "asm_acc":"GCA_002952015.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06689951",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Staphylococcus aureus",
   "strain":"K5"
  },
@@ -1131,7 +1131,7 @@
   "asm_acc":"GCA_003111745.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08999457",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"PTDrAP2"
  },
@@ -1787,7 +1787,7 @@
   "asm_acc":"GCA_003432345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09906500",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Staphylococcus aureus",
   "strain":"NX-T55"
  },
@@ -1795,7 +1795,7 @@
   "asm_acc":"GCA_003432365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09906394",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Staphylococcus aureus",
   "strain":"QD-CD9"
  },
@@ -2059,7 +2059,7 @@
   "asm_acc":"GCA_900636695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3724096",
-  "host":"OVINE",
+  "host":"SHEEP",
   "scientific_name":"Staphylococcus aureus",
   "strain":"NCTC1803"
  },
@@ -2099,7 +2099,7 @@
   "asm_acc":"GCA_004026185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10659755",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Staphylococcus aureus",
   "strain":"PCFA-221"
  },
@@ -2475,7 +2475,7 @@
   "asm_acc":"GCA_007185035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00172962",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Staphylococcus aureus",
   "strain":"JRA307"
  },
@@ -6427,7 +6427,7 @@
   "asm_acc":"GCA_018141385.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13613317",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"19\/Msa0875"
  },
@@ -6459,7 +6459,7 @@
   "asm_acc":"GCA_018987325.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19718690",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"55-100-016"
  },
@@ -6467,7 +6467,7 @@
   "asm_acc":"GCA_018987345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19718724",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"55-100-003"
  },
@@ -7179,7 +7179,7 @@
   "asm_acc":"GCA_020702585.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15963967",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Staphylococcus aureus",
   "strain":"0213-M-4A"
  },
@@ -8595,7 +8595,7 @@
   "asm_acc":"GCA_025559405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN26923339",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Staphylococcus aureus",
   "strain":"IVB6202"
  },
@@ -8603,7 +8603,7 @@
   "asm_acc":"GCA_025559465.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN26923338",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Staphylococcus aureus",
   "strain":"IVB6201"
  },
@@ -8627,7 +8627,7 @@
   "asm_acc":"GCA_025559585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN26923335",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Staphylococcus aureus",
   "strain":"IVB6191"
  },
@@ -8651,7 +8651,7 @@
   "asm_acc":"GCA_025559645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN26923332",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Staphylococcus aureus",
   "strain":"IVB6172"
  },
@@ -8931,7 +8931,7 @@
   "asm_acc":"GCA_029167685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN24529927",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Staphylococcus aureus",
   "strain":"GD4SA159-1"
  },
@@ -8939,7 +8939,7 @@
   "asm_acc":"GCA_029167705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN24529930",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Staphylococcus aureus",
   "strain":"GD4SA108-1"
  },
@@ -10478,5 +10478,77 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Staphylococcus aureus",
   "strain":"C1"
+ },
+ {
+  "asm_acc":"GCA_030292965.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360959",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C907"
+ },
+ {
+  "asm_acc":"GCA_030293085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360953",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C900"
+ },
+ {
+  "asm_acc":"GCA_030293185.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360947",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C887"
+ },
+ {
+  "asm_acc":"GCA_030293345.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360951",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C64"
+ },
+ {
+  "asm_acc":"GCA_030293355.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360957",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C905"
+ },
+ {
+  "asm_acc":"GCA_030293785.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360958",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C906"
+ },
+ {
+  "asm_acc":"GCA_030293805.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360940",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C871"
+ },
+ {
+  "asm_acc":"GCA_030293845.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360933",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C864"
+ },
+ {
+  "asm_acc":"GCA_030294085.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN32360966",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Staphylococcus aureus",
+  "strain":"C913"
  }
 ]

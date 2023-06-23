@@ -6,16 +6,16 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Neisseria meningitidis": 102,
+  "Neisseria meningitidis LNP21362": 1,
   "Neisseria meningitidis M7124": 1,
-  "Neisseria meningitidis LNP21362": 1
+  "Neisseria meningitidis": 102
  },
  "strain": {
   "null": 3
  },
  "hosts": {
-  "NOT AVAILABLE": 2,
   "ENVIRONMENT": 2,
+  "NOT AVAILABLE": 2,
   "HOMO SAPIENS": 100
  }
 }

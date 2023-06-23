@@ -19,7 +19,7 @@
   "asm_acc":"GCA_000252875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02604223",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium str. 798",
   "strain":"798"
  },
@@ -27,7 +27,7 @@
   "asm_acc":"GCA_000258365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02603149",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Heidelberg str. B182",
   "strain":"B182"
  },
@@ -43,7 +43,7 @@
   "asm_acc":"GCA_000272715.4",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN01765627",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. CVM 21550",
   "strain":"CVM 21550"
  },
@@ -75,7 +75,7 @@
   "asm_acc":"GCA_000272895.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN01813482",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. CVM 22462",
   "strain":"CVM 22462"
  },
@@ -539,7 +539,7 @@
   "asm_acc":"GCA_001620115.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716853",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1736",
   "strain":"USDA-ARS-USMARC-1736"
  },
@@ -579,7 +579,7 @@
   "asm_acc":"GCA_001623545.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716849",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1677",
   "strain":"USDA-ARS-USMARC-1677"
  },
@@ -587,7 +587,7 @@
   "asm_acc":"GCA_001623585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716851",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1728",
   "strain":"USDA-ARS-USMARC-1728"
  },
@@ -627,7 +627,7 @@
   "asm_acc":"GCA_001623725.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716861",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1808",
   "strain":"USDA-ARS-USMARC-1808"
  },
@@ -651,7 +651,7 @@
   "asm_acc":"GCA_001623765.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716871",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1898",
   "strain":"USDA-ARS-USMARC-1898"
  },
@@ -675,7 +675,7 @@
   "asm_acc":"GCA_001623845.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716869",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1896",
   "strain":"USDA-ARS-USMARC-1896"
  },
@@ -779,7 +779,7 @@
   "asm_acc":"GCA_001922165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03744300",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport",
   "strain":"0007-33"
  },
@@ -947,7 +947,7 @@
   "asm_acc":"GCA_002504105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07334225",
-  "host":"CANIS LATRANS",
+  "host":"DOG",
   "scientific_name":"Salmonella enterica subsp. enterica",
   "strain":"RM11065"
  },
@@ -1027,7 +1027,7 @@
   "asm_acc":"GCA_002762135.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07945789",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":"BL10"
  },
@@ -1059,7 +1059,7 @@
   "asm_acc":"GCA_002982095.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06311389",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Enteritidis",
   "strain":"SE86"
  },
@@ -1251,7 +1251,7 @@
   "asm_acc":"GCA_003589825.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08868707",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Dublin",
   "strain":"CVM 34981"
  },
@@ -1259,7 +1259,7 @@
   "asm_acc":"GCA_003589845.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08868685",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Dublin",
   "strain":"CVM 22453"
  },
@@ -1267,7 +1267,7 @@
   "asm_acc":"GCA_003589865.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08868674",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Dublin",
   "strain":"CVM 22429"
  },
@@ -1363,7 +1363,7 @@
   "asm_acc":"GCA_003994635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10638893",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. salamae serovar 42:r:-",
   "strain":"RSE09"
  },
@@ -1371,7 +1371,7 @@
   "asm_acc":"GCA_003994655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10638888",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":"RSE04"
  },
@@ -1395,7 +1395,7 @@
   "asm_acc":"GCA_004126495.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10441277",
-  "host":"OVIS ARIES (DOMESTIC SHEEP)",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. diarizonae serovar 61:k:1,5,(7)",
   "strain":"16-SA00356"
  },
@@ -1419,7 +1419,7 @@
   "asm_acc":"GCA_004136055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716894",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1924",
   "strain":"USDA-ARS-USMARC-1924"
  },
@@ -1427,7 +1427,7 @@
   "asm_acc":"GCA_004136075.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716895",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1925",
   "strain":"USDA-ARS-USMARC-1925"
  },
@@ -1435,7 +1435,7 @@
   "asm_acc":"GCA_004136095.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716896",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1926",
   "strain":"USDA-ARS-USMARC-1926"
  },
@@ -1451,7 +1451,7 @@
   "asm_acc":"GCA_004136135.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716897",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1928",
   "strain":"USDA-ARS-USMARC-1928"
  },
@@ -1459,7 +1459,7 @@
   "asm_acc":"GCA_004136155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716898",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1929",
   "strain":"USDA-ARS-USMARC-1929"
  },
@@ -1571,7 +1571,7 @@
   "asm_acc":"GCA_004328785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716883",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1913",
   "strain":"USDA-ARS-USMARC-1913"
  },
@@ -1579,7 +1579,7 @@
   "asm_acc":"GCA_004328805.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716893",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1923",
   "strain":"USDA-ARS-USMARC-1923"
  },
@@ -2043,7 +2043,7 @@
   "asm_acc":"GCA_005954705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10833328",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-",
   "strain":"SA20082869"
  },
@@ -2083,7 +2083,7 @@
   "asm_acc":"GCA_006385115.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10833329",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-",
   "strain":"SA20143792"
  },
@@ -2091,7 +2091,7 @@
   "asm_acc":"GCA_006461325.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12070264",
-  "host":"FISH",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica",
   "strain":"GSJ\/2016-Sal.-018"
  },
@@ -2211,7 +2211,7 @@
   "asm_acc":"GCA_009387895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13031564",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Schwarzengrund",
   "strain":"12888"
  },
@@ -2219,7 +2219,7 @@
   "asm_acc":"GCA_009388185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13031563",
-  "host":"POULTRY",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Schwarzengrund",
   "strain":"9355"
  },
@@ -2235,7 +2235,7 @@
   "asm_acc":"GCA_009497855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10076455",
-  "host":"BEEF",
+  "host":"BOVINE",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":"SO21"
  },
@@ -2651,7 +2651,7 @@
   "asm_acc":"GCA_012051625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14450165",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":"ST90"
  },
@@ -2659,7 +2659,7 @@
   "asm_acc":"GCA_012052085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14450160",
-  "host":"BEEF",
+  "host":"BOVINE",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Indiana",
   "strain":"SI174"
  },
@@ -2675,7 +2675,7 @@
   "asm_acc":"GCA_012052445.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14450159",
-  "host":"PORK",
+  "host":"PIG",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Indiana",
   "strain":"SI173"
  },
@@ -2795,7 +2795,7 @@
   "asm_acc":"GCA_903992995.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA5976334",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":null
  },
@@ -2819,7 +2819,7 @@
   "asm_acc":"GCA_014521465.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15891899",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Salmonella enterica",
   "strain":"K_SA184"
  },
@@ -2859,7 +2859,7 @@
   "asm_acc":"GCA_903989485.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA5976334",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":null
  },
@@ -3035,7 +3035,7 @@
   "asm_acc":"GCA_016638525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17169750",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica",
   "strain":"Se32"
  },
@@ -3043,7 +3043,7 @@
   "asm_acc":"GCA_016638585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17169725",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica",
   "strain":"Se13"
  },
@@ -3051,7 +3051,7 @@
   "asm_acc":"GCA_016653555.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17169784",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella bongori",
   "strain":"Se40"
  },
@@ -3067,7 +3067,7 @@
   "asm_acc":"GCA_016903075.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17734270",
-  "host":"AVIAN",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica",
   "strain":"Se29"
  },
@@ -3219,7 +3219,7 @@
   "asm_acc":"GCA_018339155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03165679",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Enteritidis",
   "strain":"CFSAN026633"
  },
@@ -3443,7 +3443,7 @@
   "asm_acc":"GCA_019670185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00097511",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica subsp. enterica serovar 4,[5],12:i:-",
   "strain":"L-3844"
  },
@@ -3907,7 +3907,7 @@
   "asm_acc":"GCA_021266225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23451934",
-  "host":"BROILER",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Kentucky",
   "strain":"ZTA19\/00847"
  },
@@ -3931,7 +3931,7 @@
   "asm_acc":"GCA_021266285.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23451931",
-  "host":"BROILER",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Kentucky",
   "strain":"ZTA19\/00820"
  },
@@ -3955,7 +3955,7 @@
   "asm_acc":"GCA_021266365.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23451927",
-  "host":"BROILER",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Kentucky",
   "strain":"ZTA19\/00813"
  },
@@ -3963,7 +3963,7 @@
   "asm_acc":"GCA_021266405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23451925",
-  "host":"BROILER",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Kentucky",
   "strain":"ZTA19\/00790"
  },
@@ -3979,7 +3979,7 @@
   "asm_acc":"GCA_021266445.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23451923",
-  "host":"LAYING HEN",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Kentucky",
   "strain":"ZTA19\/00785"
  },
@@ -4459,7 +4459,7 @@
   "asm_acc":"GCA_023702165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28614156",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":"ATOMSal-L6"
  },
@@ -4467,7 +4467,7 @@
   "asm_acc":"GCA_023746725.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28818465",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain":"HJL222"
  },
@@ -4779,7 +4779,7 @@
   "asm_acc":"GCA_024664955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN29636369",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica",
   "strain":"IndS102"
  },
@@ -5923,7 +5923,7 @@
   "asm_acc":"GCA_030127065.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN35175716",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Kottbus",
   "strain":"DSK01"
  },
@@ -5931,7 +5931,7 @@
   "asm_acc":"GCA_030127085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN35169325",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Enteritidis",
   "strain":"DSE06"
  },

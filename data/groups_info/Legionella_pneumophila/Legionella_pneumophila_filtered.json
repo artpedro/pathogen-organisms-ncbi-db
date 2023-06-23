@@ -291,7 +291,7 @@
   "asm_acc":"GCA_900637585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA44537668",
-  "host":"ENVIRONMENTAL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Legionella pneumophila subsp. pascullei",
   "strain":"NCTC12273"
  },
@@ -299,7 +299,7 @@
   "asm_acc":"GCA_900637635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA4552886",
-  "host":"ENVIRONMENTAL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Legionella jordanis",
   "strain":"NCTC11533"
  },

@@ -571,7 +571,7 @@
   "asm_acc":"GCA_002753915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07945345",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"AbPK1"
  },
@@ -939,7 +939,7 @@
   "asm_acc":"GCA_004194555.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08513260",
-  "host":"PARTHENIUM ARGENTATUM GRAY (GUAYULE SHRUBS)",
+  "host":"CHICKEN",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"NCIMB 8209"
  },
@@ -1435,7 +1435,7 @@
   "asm_acc":"GCA_012974585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14072279",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"ABF9692"
  },
@@ -1443,7 +1443,7 @@
   "asm_acc":"GCA_012974845.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12057668",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"CUVET-MIC596"
  },
@@ -1483,7 +1483,7 @@
   "asm_acc":"GCA_013394265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12860376",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"31FS3-2"
  },
@@ -1491,7 +1491,7 @@
   "asm_acc":"GCA_013394285.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12859885",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"29FS20"
  },
@@ -1787,7 +1787,7 @@
   "asm_acc":"GCA_015571935.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304032",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"Res13-Abat-PEA21-P4-01-A"
  },
@@ -2163,7 +2163,7 @@
   "asm_acc":"GCA_019457715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19911946",
-  "host":"CANIS LUPUS",
+  "host":"DOG",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"40288"
  },
@@ -2323,7 +2323,7 @@
   "asm_acc":"GCA_021729465.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15182649",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Acinetobacter baumannii",
   "strain":"YC103"
  },

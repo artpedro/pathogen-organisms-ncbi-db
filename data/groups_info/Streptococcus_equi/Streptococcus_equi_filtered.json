@@ -51,7 +51,7 @@
   "asm_acc":"GCA_009676645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13257491",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus equi subsp. zooepidemicus",
   "strain":"OH-71905"
  },
@@ -59,7 +59,7 @@
   "asm_acc":"GCA_009676685.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13257910",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus equi subsp. zooepidemicus",
   "strain":"TN-714097"
  },
@@ -67,7 +67,7 @@
   "asm_acc":"GCA_009676725.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13257493",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus equi subsp. zooepidemicus",
   "strain":"AZ-45470"
  },
@@ -83,7 +83,7 @@
   "asm_acc":"GCA_018140535.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18752700",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus equi subsp. zooepidemicus",
   "strain":"IN-6992"
  },
@@ -91,7 +91,7 @@
   "asm_acc":"GCA_018604625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18051978",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Streptococcus equi subsp. equi",
   "strain":"489_004"
  },
@@ -99,7 +99,7 @@
   "asm_acc":"GCA_018604665.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18051975",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Streptococcus equi subsp. equi",
   "strain":"470_008"
  },
@@ -107,7 +107,7 @@
   "asm_acc":"GCA_018604685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18051974",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Streptococcus equi subsp. equi",
   "strain":"470_007"
  },
@@ -115,7 +115,7 @@
   "asm_acc":"GCA_018604745.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18051970",
-  "host":"EQUUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Streptococcus equi subsp. equi",
   "strain":"470_001"
  },
@@ -123,7 +123,7 @@
   "asm_acc":"GCA_021029665.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19647685",
-  "host":"EQUINE",
+  "host":"HORSE",
   "scientific_name":"Streptococcus equi subsp. zooepidemicus",
   "strain":"SEZ_14-145"
  },
@@ -131,7 +131,7 @@
   "asm_acc":"GCA_021029685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19647690",
-  "host":"EQUINE",
+  "host":"HORSE",
   "scientific_name":"Streptococcus equi subsp. zooepidemicus",
   "strain":"SEZ_18-036"
  },

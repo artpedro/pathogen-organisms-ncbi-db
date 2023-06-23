@@ -1,17 +1,18 @@
 {
  "group": "Edwardsiella_ictaluri",
- "count": 5,
+ "count": 11,
  "species": {
-  "Edwardsiella ictaluri": 5
+  "Edwardsiella ictaluri": 11
  },
  "subsp.": {},
  "scientific_name": {
-  "Edwardsiella ictaluri": 5
+  "Edwardsiella ictaluri": 11
  },
  "strain": {},
  "hosts": {
-  "FISH": 2,
+  "OREOCHROMIS NILOTICUS": 1,
   "ICTALURUS PUNCTATUS": 2,
-  "OREOCHROMIS NILOTICUS": 1
+  "FISH": 2,
+  "PLECOGLOSSUS ALTIVELIS": 6
  }
 }

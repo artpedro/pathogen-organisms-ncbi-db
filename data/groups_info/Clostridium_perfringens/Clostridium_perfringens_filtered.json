@@ -3,7 +3,7 @@
   "asm_acc":"GCA_001579765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03372134",
-  "host":"EQUINE",
+  "host":"HORSE",
   "scientific_name":"Clostridium perfringens",
   "strain":"JP55"
  },
@@ -11,7 +11,7 @@
   "asm_acc":"GCA_001579785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03377063",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Clostridium perfringens",
   "strain":"JP838"
  },
@@ -59,7 +59,7 @@
   "asm_acc":"GCA_003350945.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08771210",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Clostridium perfringens",
   "strain":"JXJA17"
  },
@@ -75,7 +75,7 @@
   "asm_acc":"GCA_018135545.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18740316",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Clostridium perfringens",
   "strain":"19TSBNCP"
  },
@@ -107,7 +107,7 @@
   "asm_acc":"GCA_024599935.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28230540",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Clostridium perfringens",
   "strain":"JXNC-DD"
  },
@@ -115,7 +115,7 @@
   "asm_acc":"GCA_024599955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28416573",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Clostridium perfringens",
   "strain":"JXNC-3B"
  },
@@ -123,7 +123,7 @@
   "asm_acc":"GCA_024652865.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27755654",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Clostridium perfringens",
   "strain":"JXNC-B4"
  },

@@ -10,19 +10,17 @@
  },
  "scientific_name": {
   "Streptococcus equi subsp. zooepidemicus": 18,
-  "Streptococcus equi subsp. zooepidemicus CY": 1,
-  "Streptococcus equi subsp. equi": 4
+  "Streptococcus equi subsp. equi": 4,
+  "Streptococcus equi subsp. zooepidemicus CY": 1
  },
  "strain": {},
  "hosts": {
-  "EQUUS CABALLUS": 4,
+  "PIG": 5,
   "MARE": 7,
+  "HOMO SAPIENS": 2,
   "NOT AVAILABLE": 1,
   "HORSE (MARE)": 1,
-  "PORCINE": 4,
-  "EQUINE": 2,
-  "HOMO SAPIENS": 2,
   "MOUSE": 1,
-  "PIG": 1
+  "HORSE": 6
  }
 }

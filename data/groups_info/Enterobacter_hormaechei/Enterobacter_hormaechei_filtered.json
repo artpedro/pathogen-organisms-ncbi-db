@@ -155,7 +155,7 @@
   "asm_acc":"GCA_003382725.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09071586",
-  "host":"CANINE",
+  "host":"DOG",
   "scientific_name":"Enterobacter hormaechei subsp. xiangfangensis",
   "strain":"OSUVMCKPC4-2"
  },
@@ -195,7 +195,7 @@
   "asm_acc":"GCA_003586025.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07988874",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Enterobacter hormaechei subsp. xiangfangensis",
   "strain":"OSUKPC4_L"
  },
@@ -603,7 +603,7 @@
   "asm_acc":"GCA_019356035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20299883",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Enterobacter hormaechei",
   "strain":"G17"
  },
@@ -707,7 +707,7 @@
   "asm_acc":"GCA_021497625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18311225",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterobacter hormaechei",
   "strain":"GX4-8L"
  },
@@ -723,7 +723,7 @@
   "asm_acc":"GCA_023375605.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27363748",
-  "host":"HEALTHY DOG",
+  "host":"DOG",
   "scientific_name":"Enterobacter hormaechei",
   "strain":"K528"
  },

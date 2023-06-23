@@ -7,26 +7,20 @@
  "subsp.": {},
  "scientific_name": {
   "Streptococcus suis": 95,
-  "Streptococcus suis 05HAS68": 1,
   "Streptococcus suis TL13": 1,
-  "Streptococcus suis YB51": 1
+  "Streptococcus suis YB51": 1,
+  "Streptococcus suis 05HAS68": 1
  },
  "strain": {
   "null": 5
  },
  "hosts": {
-  "DISEASED PIG": 3,
-  "SUS SCROFA DOMESTICA": 4,
-  "LAB": 5,
-  "FATTENING PIG": 2,
+  "PIG": 47,
+  "HOMO SAPIENS": 22,
   "NOT COLLECTED": 1,
   "FELIS CATUS": 1,
-  "SWINE": 3,
-  "SUS SCROFA": 7,
-  "TRICHOPODUS PECTORALIS": 1,
-  "HOMO SAPIENS": 22,
-  "SUS SCROFA DOMESTICUS": 10,
-  "PIG": 38,
-  "HEALTHY CARRIER PIG": 1
+  "ENVIRONMENT": 21,
+  "LAB": 5,
+  "TRICHOPODUS PECTORALIS": 1
  }
 }

@@ -123,7 +123,7 @@
   "asm_acc":"GCA_008694045.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12780943",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Raoultella planticola",
   "strain":"S25"
  },
@@ -227,7 +227,7 @@
   "asm_acc":"GCA_015571975.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304043",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Raoultella terrigena",
   "strain":"Res13-Abat-PEB01-P1-04-A"
  },
@@ -459,7 +459,7 @@
   "asm_acc":"GCA_021496525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15079954",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Raoultella ornithinolytica",
   "strain":"OHMEATKPC2_NDM5"
  },

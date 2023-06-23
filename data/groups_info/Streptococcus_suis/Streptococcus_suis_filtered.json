@@ -67,7 +67,7 @@
   "asm_acc":"GCA_001721625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05567566",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"GZ0565"
  },
@@ -83,7 +83,7 @@
   "asm_acc":"GCA_002111405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06765615",
-  "host":"DISEASED PIG",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"SC19"
  },
@@ -99,7 +99,7 @@
   "asm_acc":"GCA_002285535.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04956488",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"SRD478"
  },
@@ -107,7 +107,7 @@
   "asm_acc":"GCA_002688665.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07807405",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"CS100322"
  },
@@ -115,7 +115,7 @@
   "asm_acc":"GCA_002736265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07807408",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"HA0609"
  },
@@ -155,7 +155,7 @@
   "asm_acc":"GCA_003285225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05912964",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"0061"
  },
@@ -163,7 +163,7 @@
   "asm_acc":"GCA_003285245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN05912965",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"1081"
  },
@@ -179,7 +179,7 @@
   "asm_acc":"GCA_003352205.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09460429",
-  "host":"HEALTHY CARRIER PIG",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"HA1003"
  },
@@ -187,7 +187,7 @@
   "asm_acc":"GCA_003352225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09460428",
-  "host":"DISEASED PIG",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"SH1510"
  },
@@ -211,7 +211,7 @@
   "asm_acc":"GCA_902702765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA6227227",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":null
  },
@@ -227,7 +227,7 @@
   "asm_acc":"GCA_902702755.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA6227224",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":null
  },
@@ -235,7 +235,7 @@
   "asm_acc":"GCA_902702785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA6227226",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":null
  },
@@ -243,7 +243,7 @@
   "asm_acc":"GCA_902702775.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA6227228",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":null
  },
@@ -251,7 +251,7 @@
   "asm_acc":"GCA_013488085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09210932",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ISU1606"
  },
@@ -259,7 +259,7 @@
   "asm_acc":"GCA_013488105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09237933",
-  "host":"SUS SCROFA DOMESTICA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ISU2514"
  },
@@ -267,7 +267,7 @@
   "asm_acc":"GCA_013488125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09237935",
-  "host":"SUS SCROFA DOMESTICA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ISU2714"
  },
@@ -275,7 +275,7 @@
   "asm_acc":"GCA_013488145.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09237990",
-  "host":"SUS SCROFA DOMESTICA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ISU2414"
  },
@@ -283,7 +283,7 @@
   "asm_acc":"GCA_013488165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09210929",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ISU2614"
  },
@@ -291,7 +291,7 @@
   "asm_acc":"GCA_013488185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09237991",
-  "host":"SUS SCROFA DOMESTICA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ISU2660"
  },
@@ -299,7 +299,7 @@
   "asm_acc":"GCA_014192345.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00238721",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"DAT299"
  },
@@ -307,7 +307,7 @@
   "asm_acc":"GCA_014192525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00238722",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"DAT300"
  },
@@ -347,7 +347,7 @@
   "asm_acc":"GCA_017372155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18202284",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"1112S"
  },
@@ -379,7 +379,7 @@
   "asm_acc":"GCA_019856315.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20955368",
-  "host":"DISEASED PIG",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"NJ3"
  },
@@ -499,7 +499,7 @@
   "asm_acc":"GCA_022964955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27363618",
-  "host":"FATTENING PIG",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"TJS75"
  },
@@ -507,7 +507,7 @@
   "asm_acc":"GCA_023023005.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27395176",
-  "host":"FATTENING PIG",
+  "host":"PIG",
   "scientific_name":"Streptococcus suis",
   "strain":"TJS56"
  },
@@ -611,7 +611,7 @@
   "asm_acc":"GCA_024582755.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN29938211",
-  "host":"SUS SCROFA",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"12RC1"
  },
@@ -723,7 +723,7 @@
   "asm_acc":"GCA_025946885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31277175",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"TRG6"
  },
@@ -739,7 +739,7 @@
   "asm_acc":"GCA_025946925.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31277173",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ID34572"
  },
@@ -747,7 +747,7 @@
   "asm_acc":"GCA_025946945.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31277171",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"ID35541"
  },
@@ -763,7 +763,7 @@
   "asm_acc":"GCA_004843685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11431856",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Streptococcus suis",
   "strain":"WUSS351"
  },

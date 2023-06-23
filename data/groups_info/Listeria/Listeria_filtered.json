@@ -115,7 +115,7 @@
   "asm_acc":"GCA_001188655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02997429",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Listeria monocytogenes",
   "strain":"LM850658"
  },
@@ -547,7 +547,7 @@
   "asm_acc":"GCA_003722375.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10391004",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Listeria monocytogenes",
   "strain":"LMJF5203"
  },
@@ -579,7 +579,7 @@
   "asm_acc":"GCA_900637785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA26403418",
-  "host":"GUINEA PIG",
+  "host":"PIG",
   "scientific_name":"Listeria monocytogenes",
   "strain":"NCTC7973"
  },
@@ -635,7 +635,7 @@
   "asm_acc":"GCA_008807875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10148454",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Listeria monocytogenes",
   "strain":"52873"
  },
@@ -643,7 +643,7 @@
   "asm_acc":"GCA_008807895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10148451",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Listeria monocytogenes",
   "strain":"52869"
  },
@@ -651,7 +651,7 @@
   "asm_acc":"GCA_008807915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10148434",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Listeria monocytogenes",
   "strain":"52860"
  },
@@ -659,7 +659,7 @@
   "asm_acc":"GCA_008807935.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10148433",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Listeria monocytogenes",
   "strain":"52859"
  },
@@ -667,7 +667,7 @@
   "asm_acc":"GCA_008807955.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10148429",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Listeria monocytogenes",
   "strain":"52854"
  },
@@ -723,7 +723,7 @@
   "asm_acc":"GCA_010443035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13973456",
-  "host":"PIGLET",
+  "host":"PIG",
   "scientific_name":"Listeria monocytogenes",
   "strain":"4\/52-1953"
  },
@@ -1115,7 +1115,7 @@
   "asm_acc":"GCA_030168065.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27620981",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Listeria monocytogenes",
   "strain":"FSL J2-0071"
  },

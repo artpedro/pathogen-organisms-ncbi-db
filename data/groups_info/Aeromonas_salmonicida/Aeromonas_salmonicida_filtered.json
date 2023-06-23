@@ -11,7 +11,7 @@
   "asm_acc":"GCA_002214245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07276469",
-  "host":"ATLANTIC SALMON",
+  "host":"FISH",
   "scientific_name":"Aeromonas salmonicida",
   "strain":"S121"
  },
@@ -19,7 +19,7 @@
   "asm_acc":"GCA_002214265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07276873",
-  "host":"ATLANTIC SALMON",
+  "host":"FISH",
   "scientific_name":"Aeromonas salmonicida",
   "strain":"S68"
  },
@@ -27,7 +27,7 @@
   "asm_acc":"GCA_002214305.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07276874",
-  "host":"ATLANTIC SALMON",
+  "host":"FISH",
   "scientific_name":"Aeromonas salmonicida",
   "strain":"S44"
  },
@@ -123,7 +123,7 @@
   "asm_acc":"GCA_028355995.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31541906",
-  "host":"COREIUS GUICHENOTI",
+  "host":"CHICKEN",
   "scientific_name":"Aeromonas salmonicida",
   "strain":"YK"
  },
@@ -147,7 +147,7 @@
   "asm_acc":"GCA_028358575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31541904",
-  "host":"SALMON",
+  "host":"FISH",
   "scientific_name":"Aeromonas salmonicida",
   "strain":"AS2"
  },
@@ -155,7 +155,7 @@
   "asm_acc":"GCA_029541925.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN25210568",
-  "host":"FISH",
+  "host":"ENVIRONMENT",
   "scientific_name":"Aeromonas salmonicida",
   "strain":"ASscau0313"
  },

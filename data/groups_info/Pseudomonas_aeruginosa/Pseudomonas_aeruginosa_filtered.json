@@ -1795,7 +1795,7 @@
   "asm_acc":"GCA_019378915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20179392",
-  "host":"SOIL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Pseudomonas aeruginosa",
   "strain":"S-1"
  },
@@ -4654,5 +4654,13 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Pseudomonas aeruginosa",
   "strain":"22112"
+ },
+ {
+  "asm_acc":"GCA_030316095.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35722428",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Pseudomonas aeruginosa",
+  "strain":"NMI2312_06"
  }
 ]

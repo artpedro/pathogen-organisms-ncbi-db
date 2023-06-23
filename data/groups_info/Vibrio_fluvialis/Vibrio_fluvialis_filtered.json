@@ -46,5 +46,13 @@
   "host":"ORATOSQUILLA ORATORIA",
   "scientific_name":"Vibrio fluvialis",
   "strain":"10M-VF"
+ },
+ {
+  "asm_acc":"GCA_030297535.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00603157",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Vibrio fluvialis",
+  "strain":"IDH05335"
  }
 ]

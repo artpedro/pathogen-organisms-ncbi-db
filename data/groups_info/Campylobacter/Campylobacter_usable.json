@@ -1,6 +1,6 @@
 [
  {
-  "Campylobacter": "PDG000000003.1950"
+  "Campylobacter": "PDG000000003.1952"
  },
  {
   "asm_acc": "GCA_000025425.1",
@@ -1161,6 +1161,14 @@
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
   "strain": "BC"
+ },
+ {
+  "asm_acc": "GCA_007431745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11336895",
+  "host": "MOUSE",
+  "scientific_name": "Campylobacter jejuni",
+  "strain": "SCJK2"
  },
  {
   "asm_acc": "GCA_007723545.1",

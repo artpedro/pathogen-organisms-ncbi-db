@@ -1,31 +1,31 @@
 {
  "group": "Vibrio_cholerae",
- "count": 40,
+ "count": 41,
  "species": {
-  "Vibrio mimicus": 3,
-  "Vibrio cholerae": 37
+  "Vibrio cholerae": 38,
+  "Vibrio mimicus": 3
  },
  "subsp.": {},
  "scientific_name": {
-  "Vibrio cholerae O37": 1,
-  "Vibrio mimicus": 3,
-  "Vibrio cholerae": 27,
   "Vibrio cholerae O1 str. 2010EL-1786": 1,
-  "Vibrio cholerae MO10": 1,
+  "Vibrio cholerae": 28,
   "Vibrio cholerae C6706": 1,
-  "Vibrio cholerae O1 biovar El Tor": 6
+  "Vibrio cholerae O37": 1,
+  "Vibrio cholerae MO10": 1,
+  "Vibrio cholerae O1 biovar El Tor": 6,
+  "Vibrio mimicus": 3
  },
  "strain": {
-  "A1552": 4,
   "null": 3,
-  "E7946": 2
+  "E7946": 2,
+  "A1552": 4
  },
  "hosts": {
-  "NOT AVAILABLE": 4,
-  "MACROBRACHIUM ROSENBERGII": 1,
-  "FISH": 2,
+  "HOMO SAPIENS": 32,
   "ENVIRONMENT": 1,
+  "NOT AVAILABLE": 4,
+  "FISH": 2,
   "MACROBRACHIUM NIPPONENSE": 1,
-  "HOMO SAPIENS": 31
+  "MACROBRACHIUM ROSENBERGII": 1
  }
 }

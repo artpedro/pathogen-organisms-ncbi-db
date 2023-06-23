@@ -6,23 +6,23 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Pseudomonas putida": 18,
-  "Pseudomonas putida HB3267": 1
+  "Pseudomonas putida HB3267": 1,
+  "Pseudomonas putida": 18
  },
  "strain": {},
  "hosts": {
-  "RIPARIOSIDA HERMAPHRODITA": 2,
-  "MEDICAGO SATIVA": 1,
-  "NOT COLLECTED": 2,
-  "PISTACIA CHINENSIS BUNGE": 1,
-  "NOT AVAILABLE": 1,
-  "SORGHUM": 1,
-  "ZEA MAYS": 1,
-  "TOMATO PLANT": 1,
-  "STRAWBERRY": 1,
-  "DIOSCOREA SANSIBARENSIS": 1,
   "UROCHLOA REPTANS": 1,
+  "PYRUS COMMUNIS 'WILLIAMS'": 1,
+  "STRAWBERRY": 1,
   "HOMO SAPIENS": 5,
-  "PYRUS COMMUNIS 'WILLIAMS'": 1
+  "NOT COLLECTED": 2,
+  "TOMATO PLANT": 1,
+  "ZEA MAYS": 1,
+  "SORGHUM": 1,
+  "NOT AVAILABLE": 1,
+  "PISTACIA CHINENSIS BUNGE": 1,
+  "DIOSCOREA SANSIBARENSIS": 1,
+  "RIPARIOSIDA HERMAPHRODITA": 2,
+  "MEDICAGO SATIVA": 1
  }
 }

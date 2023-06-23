@@ -211,7 +211,7 @@
   "asm_acc":"GCA_009806715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13509247",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Proteus mirabilis",
   "strain":"SCBX1.1"
  },
@@ -299,7 +299,7 @@
   "asm_acc":"GCA_012516515.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14558572",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Proteus mirabilis",
   "strain":"STP3"
  },
@@ -307,7 +307,7 @@
   "asm_acc":"GCA_013255915.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15002271",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Providencia rettgeri",
   "strain":"YPR31"
  },
@@ -387,7 +387,7 @@
   "asm_acc":"GCA_013358795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13254340",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Proteus mirabilis",
   "strain":"HN2p"
  },
@@ -427,7 +427,7 @@
   "asm_acc":"GCA_014394705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15897916",
-  "host":"DUCK",
+  "host":"CHICKEN",
   "scientific_name":"Providencia rettgeri",
   "strain":"YPR25"
  },
@@ -443,7 +443,7 @@
   "asm_acc":"GCA_015571575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16304245",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Providencia rettgeri",
   "strain":"Res13-Sevr-LER2-35"
  },
@@ -507,7 +507,7 @@
   "asm_acc":"GCA_017161055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13254342",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Proteus mirabilis",
   "strain":"DY.F1.2"
  },
@@ -571,7 +571,7 @@
   "asm_acc":"GCA_915401715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835637",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-29034-1-3"
  },
@@ -579,7 +579,7 @@
   "asm_acc":"GCA_915401705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835636",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-27799-1-2"
  },
@@ -587,7 +587,7 @@
   "asm_acc":"GCA_915401735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835631",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-28369-1-2"
  },
@@ -595,7 +595,7 @@
   "asm_acc":"GCA_915401765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835632",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-28370-1-5"
  },
@@ -603,7 +603,7 @@
   "asm_acc":"GCA_915401745.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835630",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-01-3283-1-1"
  },
@@ -611,7 +611,7 @@
   "asm_acc":"GCA_915402005.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835633",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-29290-1-7"
  },
@@ -619,7 +619,7 @@
   "asm_acc":"GCA_915402015.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835635",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-29292-1-3"
  },
@@ -627,7 +627,7 @@
   "asm_acc":"GCA_915403165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9835634",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Providencia alcalifaciens",
   "strain":"2019-04-29291-1-1"
  },

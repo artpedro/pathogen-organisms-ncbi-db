@@ -59,7 +59,7 @@
   "asm_acc":"GCA_000583755.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02743856",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Campylobacter coli RM1875",
   "strain":"RM1875"
  },
@@ -75,7 +75,7 @@
   "asm_acc":"GCA_000583795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02743854",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter coli RM5611",
   "strain":"RM5611"
  },
@@ -683,7 +683,7 @@
   "asm_acc":"GCA_001686885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04505906",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus subsp. venerealis",
   "strain":"cfvi01\/165"
  },
@@ -763,7 +763,7 @@
   "asm_acc":"GCA_002209005.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04875588",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter jejuni",
   "strain":"FDAARGOS_262"
  },
@@ -923,7 +923,7 @@
   "asm_acc":"GCA_900475935.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA4063018",
-  "host":"MAMMAL FETUS (SHEEP)",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus subsp. fetus",
   "strain":"NCTC10842"
  },
@@ -1139,7 +1139,7 @@
   "asm_acc":"GCA_003999645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06339750",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter jejuni subsp. jejuni",
   "strain":"ATCC 33560"
  },
@@ -1160,10 +1160,18 @@
   "strain":"BC"
  },
  {
+  "asm_acc":"GCA_007431745.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN11336895",
+  "host":"MOUSE",
+  "scientific_name":"Campylobacter jejuni",
+  "strain":"SCJK2"
+ },
+ {
   "asm_acc":"GCA_007723545.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12256997",
-  "host":"OVIS ARIES",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus subsp. fetus",
   "strain":"INIA\/17144"
  },
@@ -1187,7 +1195,7 @@
   "asm_acc":"GCA_011600845.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976980",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFV08A1102-42A"
  },
@@ -1195,7 +1203,7 @@
   "asm_acc":"GCA_011600855.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976976",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFF02A725-35A"
  },
@@ -1203,7 +1211,7 @@
   "asm_acc":"GCA_011600955.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976982",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFViADRI1362"
  },
@@ -1211,7 +1219,7 @@
   "asm_acc":"GCA_011600945.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976978",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFF00A031"
  },
@@ -1219,7 +1227,7 @@
   "asm_acc":"GCA_011601005.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976979",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFV08A948-2A"
  },
@@ -1227,7 +1235,7 @@
   "asm_acc":"GCA_011600995.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976977",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFF09A980"
  },
@@ -1235,7 +1243,7 @@
   "asm_acc":"GCA_011601375.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN13976981",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter fetus",
   "strain":"CFViADRI545"
  },
@@ -1579,7 +1587,7 @@
   "asm_acc":"GCA_014931135.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16387699",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Campylobacter jejuni subsp. jejuni",
   "strain":"D0133"
  },
@@ -1867,7 +1875,7 @@
   "asm_acc":"GCA_916098265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9957328",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Campylobacter upsaliensis",
   "strain":"Campylobacter upsaliensis 17-M197059"
  },
@@ -1875,7 +1883,7 @@
   "asm_acc":"GCA_916098255.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA9957327",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Campylobacter upsaliensis",
   "strain":"Campylobacter upsaliensis CCUG 14913"
  },

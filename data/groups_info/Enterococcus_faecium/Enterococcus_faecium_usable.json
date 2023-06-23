@@ -1,6 +1,6 @@
 [
  {
-  "Enterococcus_faecium": "PDG000000071.399"
+  "Enterococcus_faecium": "PDG000000071.400"
  },
  {
   "asm_acc": "GCA_000174395.2",
@@ -1833,5 +1833,13 @@
   "host": "CATTLE",
   "scientific_name": "Enterococcus faecium",
   "strain": "XJ78NG"
+ },
+ {
+  "asm_acc": "GCA_030316155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35725530",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "A2"
  }
 ]

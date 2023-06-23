@@ -10,9 +10,9 @@
  },
  "strain": {},
  "hosts": {
-  "TOBACCO": 1,
   "ZEA MAYS": 1,
-  "HOMO SAPIENS": 3,
-  "STRAWBERRY": 1
+  "STRAWBERRY": 1,
+  "TOBACCO": 1,
+  "HOMO SAPIENS": 3
  }
 }

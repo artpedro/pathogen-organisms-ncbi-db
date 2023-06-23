@@ -2,16 +2,16 @@
  "group": "Vibrio_parahaemolyticus",
  "count": 64,
  "species": {
-  "Vibrio alginolyticus": 19,
   "Vibrio diabolicus": 3,
+  "Vibrio alginolyticus": 19,
   "Vibrio parahaemolyticus": 42
  },
  "subsp.": {},
  "scientific_name": {
   "Vibrio alginolyticus": 19,
-  "Vibrio diabolicus": 3,
   "Vibrio parahaemolyticus": 40,
   "Vibrio parahaemolyticus 10329": 1,
+  "Vibrio diabolicus": 3,
   "Vibrio parahaemolyticus O1:K33 str. CDC_K4557": 1
  },
  "strain": {
@@ -19,20 +19,20 @@
   "null": 3
  },
  "hosts": {
-  "PENAEUS VANNAMEI (WHITELEG SHRIMP)": 1,
-  "PENAEUS VANNAMEI": 25,
-  "N": 1,
-  "SHRIMP": 1,
-  "NOT COLLECTED": 1,
-  "FINESPOTTED FLOUNDER": 1,
-  "PENAEUS JAPONICUS": 2,
-  "PENAEUS MONODON": 1,
-  "FISH": 1,
   "EPINEPHELUS COIOIDES": 1,
-  "SYNGNATHUS TYPHLE": 9,
-  "LUTJANUS ERYTHROPTERUS": 1,
-  "ENVIRONMENT": 5,
   "HOMO SAPIENS": 13,
-  "SHRIMPS": 1
+  "SHRIMPS": 1,
+  "NOT COLLECTED": 1,
+  "ENVIRONMENT": 5,
+  "PENAEUS VANNAMEI (WHITELEG SHRIMP)": 1,
+  "LUTJANUS ERYTHROPTERUS": 1,
+  "SHRIMP": 1,
+  "FISH": 1,
+  "FINESPOTTED FLOUNDER": 1,
+  "SYNGNATHUS TYPHLE": 9,
+  "PENAEUS VANNAMEI": 25,
+  "PENAEUS MONODON": 1,
+  "N": 1,
+  "PENAEUS JAPONICUS": 2
  }
 }

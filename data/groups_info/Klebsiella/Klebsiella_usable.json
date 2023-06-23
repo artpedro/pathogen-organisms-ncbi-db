@@ -1,6 +1,6 @@
 [
  {
-  "Klebsiella": "PDG000000012.1486"
+  "Klebsiella": "PDG000000012.1487"
  },
  {
   "asm_acc": "GCA_000281535.2",
@@ -15377,5 +15377,21 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Klebsiella pneumoniae RYC492",
   "strain": "RYC492"
+ },
+ {
+  "asm_acc": "GCA_030295665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00574222",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "TA8711"
+ },
+ {
+  "asm_acc": "GCA_030316115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35723189",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP0714"
  }
 ]

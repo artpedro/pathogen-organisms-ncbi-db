@@ -10,10 +10,10 @@
  },
  "strain": {},
  "hosts": {
+  "ANGUILLA ANGUILLA": 1,
+  "HOMO SAPIENS": 9,
   "SHRIMP": 1,
   "OREOCHROMIS": 1,
-  "HOMO SAPIENS": 9,
-  "ANGUILLA ANGUILLA": 1,
   "MYA ARENARIA OONOGAI MAKIYAMA": 1
  }
 }

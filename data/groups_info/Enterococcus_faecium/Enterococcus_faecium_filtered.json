@@ -563,7 +563,7 @@
   "asm_acc":"GCA_011745645.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12688234",
-  "host":"BEEF CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Enterococcus faecium",
   "strain":"DT1-1"
  },
@@ -675,7 +675,7 @@
   "asm_acc":"GCA_013391165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15223908",
-  "host":"ENVIRONMENTAL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus hirae",
   "strain":"13152"
  },
@@ -1539,7 +1539,7 @@
   "asm_acc":"GCA_023375205.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23424489",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus faecium",
   "strain":"S2-6b"
  },
@@ -1547,7 +1547,7 @@
   "asm_acc":"GCA_023375225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23424486",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus faecium",
   "strain":"S39-7a"
  },
@@ -1603,7 +1603,7 @@
   "asm_acc":"GCA_023373765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN26687403",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterococcus hirae",
   "strain":"GDIAS-5"
  },
@@ -1611,7 +1611,7 @@
   "asm_acc":"GCA_023375155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23424493",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus hirae",
   "strain":"S2-7"
  },
@@ -1619,7 +1619,7 @@
   "asm_acc":"GCA_023375175.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23424492",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus hirae",
   "strain":"S46-3"
  },
@@ -1707,7 +1707,7 @@
   "asm_acc":"GCA_023182815.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27545022",
-  "host":"PIGLET",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecium",
   "strain":"AKSZ-47"
  },
@@ -1715,7 +1715,7 @@
   "asm_acc":"GCA_023182835.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27545023",
-  "host":"NURSERY PIG",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecium",
   "strain":"AKSZ-142"
  },
@@ -1827,8 +1827,16 @@
   "asm_acc":"GCA_030064735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN31265469",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Enterococcus faecium",
   "strain":"XJ78NG"
+ },
+ {
+  "asm_acc":"GCA_030316155.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35725530",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecium",
+  "strain":"A2"
  }
 ]

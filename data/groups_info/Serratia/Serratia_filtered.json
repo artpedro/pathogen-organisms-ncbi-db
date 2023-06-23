@@ -211,7 +211,7 @@
   "asm_acc":"GCA_900637965.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA101169418",
-  "host":"ENVIRONMENTAL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Serratia plymuthica",
   "strain":"NCTC8015"
  },
@@ -475,7 +475,7 @@
   "asm_acc":"GCA_022343985.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN25876440",
-  "host":"SOIL",
+  "host":"ENVIRONMENT",
   "scientific_name":"Serratia marcescens",
   "strain":"YHYF1"
  },
@@ -491,7 +491,7 @@
   "asm_acc":"GCA_022439525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23485809",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Serratia marcescens",
   "strain":"CM2017_569"
  },
@@ -499,7 +499,7 @@
   "asm_acc":"GCA_022439565.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23485811",
-  "host":"EQUUS FERUS CABALLUS",
+  "host":"HORSE",
   "scientific_name":"Serratia marcescens",
   "strain":"CM2019_254"
  },
@@ -507,7 +507,7 @@
   "asm_acc":"GCA_022439585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23485804",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Serratia marcescens",
   "strain":"CM2015_854"
  },

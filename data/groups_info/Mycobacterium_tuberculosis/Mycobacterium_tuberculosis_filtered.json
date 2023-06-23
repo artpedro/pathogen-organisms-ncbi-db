@@ -83,7 +83,7 @@
   "asm_acc":"GCA_000934325.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03288261",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"SP38"
  },
@@ -107,7 +107,7 @@
   "asm_acc":"GCA_001078615.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN03761171",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"1595"
  },
@@ -163,7 +163,7 @@
   "asm_acc":"GCA_001855255.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04293604",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis",
   "strain":"1458"
  },
@@ -1131,7 +1131,7 @@
   "asm_acc":"GCA_902459825.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA5803801",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb3601"
  },
@@ -2235,7 +2235,7 @@
   "asm_acc":"GCA_028583125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865562",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb2487"
  },
@@ -2243,7 +2243,7 @@
   "asm_acc":"GCA_028583145.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865564",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb2269"
  },
@@ -2251,7 +2251,7 @@
   "asm_acc":"GCA_028583165.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865566",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb0820"
  },
@@ -2259,7 +2259,7 @@
   "asm_acc":"GCA_028583185.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865559",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb3114"
  },
@@ -2275,7 +2275,7 @@
   "asm_acc":"GCA_028583225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865560",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb1855"
  },
@@ -2283,7 +2283,7 @@
   "asm_acc":"GCA_028583245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865558",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb1101"
  },
@@ -2291,7 +2291,7 @@
   "asm_acc":"GCA_028583265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865561",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb2377"
  },
@@ -2299,7 +2299,7 @@
   "asm_acc":"GCA_028583285.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865565",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb0531"
  },
@@ -2307,7 +2307,7 @@
   "asm_acc":"GCA_028583305.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN27865567",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Mycobacterium tuberculosis variant bovis",
   "strain":"Mb0486"
  },

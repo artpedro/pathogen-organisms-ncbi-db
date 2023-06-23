@@ -1,6 +1,6 @@
 [
  {
-  "Staphylococcus_aureus": "PDG000000073.490"
+  "Staphylococcus_aureus": "PDG000000073.491"
  },
  {
   "asm_acc": "GCA_000009005.1",
@@ -10481,5 +10481,77 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Staphylococcus aureus",
   "strain": "C1"
+ },
+ {
+  "asm_acc": "GCA_030292965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360959",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C907"
+ },
+ {
+  "asm_acc": "GCA_030293085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360953",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C900"
+ },
+ {
+  "asm_acc": "GCA_030293185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360947",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C887"
+ },
+ {
+  "asm_acc": "GCA_030293345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360951",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C64"
+ },
+ {
+  "asm_acc": "GCA_030293355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360957",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C905"
+ },
+ {
+  "asm_acc": "GCA_030293785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360958",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C906"
+ },
+ {
+  "asm_acc": "GCA_030293805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360940",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C871"
+ },
+ {
+  "asm_acc": "GCA_030293845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360933",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C864"
+ },
+ {
+  "asm_acc": "GCA_030294085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32360966",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "C913"
  }
 ]

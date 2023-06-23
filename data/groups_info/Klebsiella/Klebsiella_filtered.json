@@ -827,7 +827,7 @@
   "asm_acc":"GCA_002248115.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07450602",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae subsp. pneumoniae",
   "strain":"KPCTRSRTH07"
  },
@@ -843,7 +843,7 @@
   "asm_acc":"GCA_002251875.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07450608",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae subsp. pneumoniae",
   "strain":"KPCTRSRTH01"
  },
@@ -1755,7 +1755,7 @@
   "asm_acc":"GCA_003432265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA882196",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"QMP B2-170"
  },
@@ -2051,7 +2051,7 @@
   "asm_acc":"GCA_003990375.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10622699",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella quasipneumoniae",
   "strain":"D120-1"
  },
@@ -4115,7 +4115,7 @@
   "asm_acc":"GCA_013416035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14168398",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"11KM256"
  },
@@ -4123,7 +4123,7 @@
   "asm_acc":"GCA_013416055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14168397",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"06KM907"
  },
@@ -4131,7 +4131,7 @@
   "asm_acc":"GCA_013416085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14333445",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"19KM267"
  },
@@ -5099,7 +5099,7 @@
   "asm_acc":"GCA_015353095.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN16659219",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"19110124"
  },
@@ -5875,7 +5875,7 @@
   "asm_acc":"GCA_017161155.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN14858807",
-  "host":"CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"EGKP6"
  },
@@ -6299,7 +6299,7 @@
   "asm_acc":"GCA_019048885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN19778273",
-  "host":"PORCINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella aerogenes",
   "strain":"NTT31XS"
  },
@@ -6547,7 +6547,7 @@
   "asm_acc":"GCA_019334625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20245095",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"JP20"
  },
@@ -7067,7 +7067,7 @@
   "asm_acc":"GCA_019900285.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362513",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella quasipneumoniae",
   "strain":"MN-07"
  },
@@ -7075,7 +7075,7 @@
   "asm_acc":"GCA_019900305.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362514",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"NC-01"
  },
@@ -7083,7 +7083,7 @@
   "asm_acc":"GCA_019900325.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362512",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"PA-01"
  },
@@ -7091,7 +7091,7 @@
   "asm_acc":"GCA_019900345.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362511",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"MN-03"
  },
@@ -7099,7 +7099,7 @@
   "asm_acc":"GCA_019900745.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362519",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"IA-044"
  },
@@ -7107,7 +7107,7 @@
   "asm_acc":"GCA_019900765.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362518",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"IA-021"
  },
@@ -7115,7 +7115,7 @@
   "asm_acc":"GCA_019900785.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362517",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"CT-04"
  },
@@ -7123,7 +7123,7 @@
   "asm_acc":"GCA_019900805.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362516",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"NY-06"
  },
@@ -7131,7 +7131,7 @@
   "asm_acc":"GCA_019900825.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN20362515",
-  "host":"BOVINE",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella quasipneumoniae",
   "strain":"WI-06"
  },
@@ -7187,7 +7187,7 @@
   "asm_acc":"GCA_020023445.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18487813",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella quasipneumoniae",
   "strain":"3Z-5L"
  },
@@ -7195,7 +7195,7 @@
   "asm_acc":"GCA_020023465.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18487815",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"K-1L"
  },
@@ -7251,7 +7251,7 @@
   "asm_acc":"GCA_020172745.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18487814",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"b1-2L"
  },
@@ -7339,7 +7339,7 @@
   "asm_acc":"GCA_020525565.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024808",
-  "host":"SOIL (POLLUTED)",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella quasipneumoniae subsp. similipneumoniae",
   "strain":"CIP110288"
  },
@@ -7379,7 +7379,7 @@
   "asm_acc":"GCA_020525705.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024809",
-  "host":"WATER (ENVIRONMENT)",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella quasipneumoniae subsp. similipneumoniae",
   "strain":"SB610"
  },
@@ -7403,7 +7403,7 @@
   "asm_acc":"GCA_020525825.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024802",
-  "host":"WATER (ENVIRONMENT)",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella quasipneumoniae subsp. quasipneumoniae",
   "strain":"SB1124"
  },
@@ -7435,7 +7435,7 @@
   "asm_acc":"GCA_020525905.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024798",
-  "host":"WATER",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"SB617"
  },
@@ -7451,7 +7451,7 @@
   "asm_acc":"GCA_020525945.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024797",
-  "host":"WATER",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"SB615"
  },
@@ -7459,7 +7459,7 @@
   "asm_acc":"GCA_020525965.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024796",
-  "host":"WATER",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"SB612"
  },
@@ -7467,7 +7467,7 @@
   "asm_acc":"GCA_020525985.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN22024795",
-  "host":"WATER",
+  "host":"ENVIRONMENT",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"SB611"
  },
@@ -10291,7 +10291,7 @@
   "asm_acc":"GCA_021496545.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN15097741",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"200"
  },
@@ -12387,7 +12387,7 @@
   "asm_acc":"GCA_023657615.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703774",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0042"
  },
@@ -12395,7 +12395,7 @@
   "asm_acc":"GCA_023657635.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703773",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0033"
  },
@@ -12403,7 +12403,7 @@
   "asm_acc":"GCA_023657655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703772",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0028"
  },
@@ -12411,7 +12411,7 @@
   "asm_acc":"GCA_023657675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703771",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0027"
  },
@@ -12419,7 +12419,7 @@
   "asm_acc":"GCA_023657695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703770",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0025"
  },
@@ -12427,7 +12427,7 @@
   "asm_acc":"GCA_023657715.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703769",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0020"
  },
@@ -12435,7 +12435,7 @@
   "asm_acc":"GCA_023657735.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703768",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0019"
  },
@@ -12443,7 +12443,7 @@
   "asm_acc":"GCA_023657795.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703765",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0008"
  },
@@ -12451,7 +12451,7 @@
   "asm_acc":"GCA_023657815.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703763",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0006"
  },
@@ -12459,7 +12459,7 @@
   "asm_acc":"GCA_023657835.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703762",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0005"
  },
@@ -12467,7 +12467,7 @@
   "asm_acc":"GCA_023657855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703761",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0004"
  },
@@ -12475,7 +12475,7 @@
   "asm_acc":"GCA_023657875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703760",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0003"
  },
@@ -12483,7 +12483,7 @@
   "asm_acc":"GCA_023657895.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28703759",
-  "host":"CANIS LUPUS FAMILIARIS",
+  "host":"DOG",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"Z0117KP0001"
  },
@@ -12715,7 +12715,7 @@
   "asm_acc":"GCA_024134525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN28890170",
-  "host":"SHEEP RUMEN",
+  "host":"SHEEP",
   "scientific_name":"Klebsiella quasipneumoniae",
   "strain":"Y7-3"
  },
@@ -13563,7 +13563,7 @@
   "asm_acc":"GCA_025837075.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN30667246",
-  "host":"EQUUS",
+  "host":"HORSE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"IMT44613"
  },
@@ -14763,7 +14763,7 @@
   "asm_acc":"GCA_029541765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617029",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP111"
  },
@@ -14771,7 +14771,7 @@
   "asm_acc":"GCA_029541785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617024",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP037"
  },
@@ -14779,7 +14779,7 @@
   "asm_acc":"GCA_029541805.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617028",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP106"
  },
@@ -14787,7 +14787,7 @@
   "asm_acc":"GCA_029541825.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617030",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP308"
  },
@@ -14795,7 +14795,7 @@
   "asm_acc":"GCA_029541845.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617031",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP309"
  },
@@ -14803,7 +14803,7 @@
   "asm_acc":"GCA_029541865.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617025",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP059"
  },
@@ -14811,7 +14811,7 @@
   "asm_acc":"GCA_029541885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617027",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP102"
  },
@@ -14819,7 +14819,7 @@
   "asm_acc":"GCA_029541905.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23617032",
-  "host":"MILK",
+  "host":"BOVINE",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KP403"
  },
@@ -15374,5 +15374,21 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Klebsiella pneumoniae RYC492",
   "strain":"RYC492"
+ },
+ {
+  "asm_acc":"GCA_030295665.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00574222",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella pneumoniae",
+  "strain":"TA8711"
+ },
+ {
+  "asm_acc":"GCA_030316115.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN35723189",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Klebsiella pneumoniae",
+  "strain":"KP0714"
  }
 ]

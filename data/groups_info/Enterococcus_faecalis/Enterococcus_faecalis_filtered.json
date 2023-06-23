@@ -115,7 +115,7 @@
   "asm_acc":"GCA_004332015.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08689725",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecalis",
   "strain":"CVM N48037F"
  },
@@ -131,7 +131,7 @@
   "asm_acc":"GCA_005158025.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08803040",
-  "host":"DAIRY CATTLE",
+  "host":"BOVINE",
   "scientific_name":"Enterococcus faecalis",
   "strain":"FC"
  },
@@ -203,7 +203,7 @@
   "asm_acc":"GCA_009498175.3",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12272102",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecalis",
   "strain":"L8"
  },
@@ -251,7 +251,7 @@
   "asm_acc":"GCA_016812095.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN17615183",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecalis",
   "strain":"L11"
  },
@@ -259,7 +259,7 @@
   "asm_acc":"GCA_017280035.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18062968",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecalis",
   "strain":"L13"
  },
@@ -267,7 +267,7 @@
   "asm_acc":"GCA_017280235.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18063036",
-  "host":"SWINE",
+  "host":"PIG",
   "scientific_name":"Enterococcus faecalis",
   "strain":"L18"
  },
@@ -515,7 +515,7 @@
   "asm_acc":"GCA_023375245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23424485",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus faecalis",
   "strain":"S11-6"
  },
@@ -523,7 +523,7 @@
   "asm_acc":"GCA_023375265.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN23424484",
-  "host":"SUS SCROFA DOMESTICUS",
+  "host":"ENVIRONMENT",
   "scientific_name":"Enterococcus faecalis",
   "strain":"S39-4"
  },
@@ -1102,5 +1102,13 @@
   "host":"CAMEL",
   "scientific_name":"Enterococcus faecalis",
   "strain":"AFL-109F"
+ },
+ {
+  "asm_acc":"GCA_030295445.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMD00521555",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Enterococcus faecalis",
+  "strain":"JARB-HU0796"
  }
 ]

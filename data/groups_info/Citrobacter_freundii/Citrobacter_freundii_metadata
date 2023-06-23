@@ -2,41 +2,39 @@
  "group": "Citrobacter_freundii",
  "count": 74,
  "species": {
-  "Citrobacter farmeri": 1,
-  "Citrobacter freundii": 47,
   "Citrobacter amalonaticus": 6,
   "Citrobacter pasteurii": 1,
-  "Citrobacter youngae": 2,
-  "Citrobacter braakii": 3,
   "Citrobacter koseri": 9,
   "Citrobacter rodentium": 1,
-  "Citrobacter sedlakii": 1,
-  "Citrobacter werkmanii": 3
+  "Citrobacter freundii": 47,
+  "Citrobacter farmeri": 1,
+  "Citrobacter youngae": 2,
+  "Citrobacter werkmanii": 3,
+  "Citrobacter braakii": 3,
+  "Citrobacter sedlakii": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Citrobacter farmeri": 1,
-  "Citrobacter freundii": 47,
   "Citrobacter amalonaticus": 6,
   "Citrobacter pasteurii": 1,
-  "Citrobacter youngae": 2,
-  "Citrobacter braakii": 3,
   "Citrobacter koseri": 9,
+  "Citrobacter freundii": 47,
+  "Citrobacter farmeri": 1,
+  "Citrobacter youngae": 2,
   "Citrobacter rodentium NBRC 105723 = DSM 16636": 1,
-  "Citrobacter sedlakii": 1,
-  "Citrobacter werkmanii": 3
+  "Citrobacter werkmanii": 3,
+  "Citrobacter braakii": 3,
+  "Citrobacter sedlakii": 1
  },
  "strain": {
   "null": 8
  },
  "hosts": {
-  "ENVIRONMENTAL": 1,
-  "GRASS": 1,
   "PELODISCUS SINENSIS": 1,
-  "MUS MUSCULUS C3H/HEN": 1,
-  "RODENT": 1,
+  "CHICKEN": 1,
+  "HOMO SAPIENS": 67,
+  "ENVIRONMENT": 3,
   "MUS MUSCULUS": 1,
-  "ENVIRONMENT": 1,
-  "HOMO SAPIENS": 67
+  "RODENT": 1
  }
 }
