@@ -296,7 +296,6 @@ class Group():
         # padronizando a coluna host
         self.filtered_df['host'] = self.filtered_df['host'].apply(lambda x:x.upper())
 
-
         # FILTRANDO HUMAN
         for var in human.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'HOMO SAPIENS'
@@ -376,6 +375,7 @@ class Group():
         with open(os.path.normpath(self.info_path + f'/{self.name}_metadata'),'w') as log:
             content = js.dumps(metadata,indent=1)
             log.write(content)
+    
         
 
 
@@ -455,30 +455,55 @@ def readSingleData(group="Edwardsiella_tarda"):
 # Terminar função
 def generalMetadata():
     groups = readGroupsNames()
-    metadata = {'count':0,'scientific_names':{},'hosts':{}}
+    metadata = {'count':0,'species':{},'hosts':{},'subsp.':{}}
     for group in groups:
-        with open(os.path.normpath(f'data/groups_info/{group}/{group}_metadata'),'r') as log:
-            data = js.dumps(log)
+        print(group)
+        if os.path.exists(os.path.normpath(f'data/groups_info/{group}/{group}_metadata')):
+            with open(os.path.normpath(f'data/groups_info/{group}/{group}_metadata'),'r') as log:
+                data = js.load(log)
+                metadata['count'] += data['count']
+                
+                for sp in data['species']:
+                    metadata['species'][sp] = data['species'][sp]
+                for sb in data['subsp.']:
+                    metadata['subsp.'][sb] = data['subsp.'][sb]
+                        
+
+                
+                for host in data['hosts']:
+                    if host in metadata['hosts']:
+                        metadata['hosts'][host] += data['hosts'][host]
+                    else:
+                        metadata['hosts'][host] = data['hosts'][host]
+    with open('data/metadata.json','w') as file:
+        info = js.dumps(metadata,indent=1)
+        file.write(info)
+            
 
 
+if __name__ == "__main__":
+    '''start = time.time()
+    refresh()
+    updateData()
+    end = time.time()
+    minutos = int((end - start) // 60)
+    segundos = (end - start) % 60
+    print(f'mount runtime: {minutos}:{segundos}')
 
-
-start = time.time()
-refresh()
-updateData()
-end = time.time()
-minutos = int((end - start) // 60)
-segundos = (end - start) % 60
-print(f'mount runtime: {minutos}:{segundos}')
-
-start = time.time()
-readAllData()
-end = time.time()
-minutos = int((end - start) // 60)
-segundos = int((end - start) % 60)
-print(f'read runtime: {minutos}:{segundos}')
-# readAllData() = 0:50
-# new readAllData() = 0:05
+    start = time.time()
+    readAllData()
+    end = time.time()
+    minutos = int((end - start) // 60)
+    segundos = int((end - start) % 60)
+    print(f'read runtime: {minutos}:{segundos}')'''
+    # readAllData() = 0:50
+    # new readAllData() = 0:05
+    start = time.time()
+    generalMetadata()
+    end = time.time()
+    minutos = int((end - start) // 60)
+    segundos = int((end - start) % 60)
+    print(f'read runtime: {minutos}:{segundos}')
 
 
 '''
