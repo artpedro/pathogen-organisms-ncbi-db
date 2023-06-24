@@ -119,11 +119,9 @@ class Group():
                     print(f'{self.name}: Registro já atualizado')
                     return False
                 else:
-                    print(f'{self.name}: Atualizando registro(1)')
                     return True
         # caso chegue até aqui, também sera encaminhado a atualização
         else:
-            print(f'{self.name}: Atualizando registro(2)')
             return True
 
     def getPatData(self):
