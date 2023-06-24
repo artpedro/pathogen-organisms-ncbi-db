@@ -11,7 +11,7 @@
  "strain": {},
  "hosts": {
   "FELIS CATUS": 1,
-  "RICE": 1,
-  "HOMO SAPIENS": 15
+  "HOMO SAPIENS": 15,
+  "RICE": 1
  }
 }

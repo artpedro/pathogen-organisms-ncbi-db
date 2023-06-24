@@ -10,9 +10,9 @@
  },
  "strain": {},
  "hosts": {
-  "SALMO SALAR": 20,
   "ONCORHYNCHUS TSHAWYTSCHA": 1,
+  "BIOFILM": 1,
   "ONCORHYNCHUS MYKISS": 1,
-  "BIOFILM": 1
+  "SALMO SALAR": 20
  }
 }

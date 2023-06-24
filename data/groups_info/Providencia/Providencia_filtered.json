@@ -846,5 +846,13 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Providencia rettgeri",
   "strain":"12100"
+ },
+ {
+  "asm_acc":"GCA_030323005.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN27918893",
+  "host":"BOVINE",
+  "scientific_name":"Proteus mirabilis",
+  "strain":"51661"
  }
 ]

@@ -11,7 +11,7 @@
  "strain": {},
  "hosts": {
   "BOVINE": 1,
-  "NOT AVAILABLE": 1,
-  "HOMO SAPIENS": 3
+  "HOMO SAPIENS": 3,
+  "NOT AVAILABLE": 1
  }
 }

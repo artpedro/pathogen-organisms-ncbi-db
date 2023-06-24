@@ -14,8 +14,8 @@
  },
  "strain": {},
  "hosts": {
+  "HOMO SAPIENS": 7,
   "CHLOROCEBUS PYGERYTHRUS": 1,
-  "PAPIO ANUBIS": 3,
-  "HOMO SAPIENS": 7
+  "PAPIO ANUBIS": 3
  }
 }

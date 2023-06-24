@@ -1,6 +1,6 @@
 [
  {
-  "Klebsiella": "PDG000000012.1487"
+  "Klebsiella": "PDG000000012.1488"
  },
  {
   "asm_acc": "GCA_000281535.2",
@@ -15393,5 +15393,45 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Klebsiella pneumoniae",
   "strain": "KP0714"
+ },
+ {
+  "asm_acc": "GCA_030322925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27555111",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "BA11088"
+ },
+ {
+  "asm_acc": "GCA_030323605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11649358",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "P39"
+ },
+ {
+  "asm_acc": "GCA_030323625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11649350",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "P20"
+ },
+ {
+  "asm_acc": "GCA_030323665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11658403",
+  "host": "BLOOD",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "2019011308"
+ },
+ {
+  "asm_acc": "GCA_030323685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11230747",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "2019010306"
  }
 ]

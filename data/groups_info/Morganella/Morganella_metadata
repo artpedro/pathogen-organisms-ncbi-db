@@ -8,17 +8,17 @@
   "Morganella morganii subsp. morganii": 12
  },
  "scientific_name": {
-  "Morganella morganii": 18,
   "Morganella morganii subsp. morganii": 11,
-  "Morganella morganii subsp. morganii KT": 1
+  "Morganella morganii subsp. morganii KT": 1,
+  "Morganella morganii": 18
  },
  "strain": {},
  "hosts": {
-  "PIG": 1,
   "CROCODILE LIZARD": 1,
-  "HOMO SAPIENS": 25,
+  "PIG": 1,
+  "TURSIOPS TRUNCATUS": 1,
   "MISGURNUS ANGUILLICAUDATUS": 1,
-  "PTYAS MUCOSA": 1,
-  "TURSIOPS TRUNCATUS": 1
+  "HOMO SAPIENS": 25,
+  "PTYAS MUCOSA": 1
  }
 }

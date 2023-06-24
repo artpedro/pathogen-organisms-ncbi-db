@@ -2,30 +2,30 @@
  "group": "Aeromonas",
  "count": 37,
  "species": {
-  "Aeromonas dhakensis": 9,
-  "Aeromonas hydrophila": 28
+  "Aeromonas hydrophila": 28,
+  "Aeromonas dhakensis": 9
  },
  "subsp.": {},
  "scientific_name": {
-  "Aeromonas dhakensis": 9,
-  "Aeromonas hydrophila": 28
+  "Aeromonas hydrophila": 28,
+  "Aeromonas dhakensis": 9
  },
  "strain": {
   "516": 2
  },
  "hosts": {
-  "OREOCHROMIS NILOTICUS": 2,
-  "ANGUILLA ROSTRATA": 1,
-  "HYPOSTOMUS PLECOSTOMUS": 1,
-  "DENDROCEPHALUS BRASILIENSIS": 3,
-  "HOMO SAPIENS": 17,
-  "ENVIRONMENT": 1,
   "LARIMICHTHYS CROCEA": 1,
-  "PHRACTOCEPHALUS HEMIOLIOPTERUS": 1,
-  "FISH": 6,
+  "DENDROCEPHALUS BRASILIENSIS": 3,
   "SINIPERCA CHUATSI": 1,
+  "CARASSIUS CARASSIUS": 1,
+  "HYPOSTOMUS PLECOSTOMUS": 1,
+  "ENVIRONMENT": 1,
   "CRUCIAN": 1,
+  "OREOCHROMIS NILOTICUS": 2,
+  "FISH": 6,
+  "HOMO SAPIENS": 17,
+  "ANGUILLA ROSTRATA": 1,
   "MEGALOBRAMA AMBLYCEPHALA": 1,
-  "CARASSIUS CARASSIUS": 1
+  "PHRACTOCEPHALUS HEMIOLIOPTERUS": 1
  }
 }

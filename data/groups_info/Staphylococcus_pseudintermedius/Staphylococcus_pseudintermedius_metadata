@@ -2,8 +2,8 @@
  "group": "Staphylococcus_pseudintermedius",
  "count": 116,
  "species": {
-  "Staphylococcus delphini": 7,
-  "Staphylococcus pseudintermedius": 109
+  "Staphylococcus pseudintermedius": 109,
+  "Staphylococcus delphini": 7
  },
  "subsp.": {},
  "scientific_name": {
@@ -13,10 +13,10 @@
  },
  "strain": {},
  "hosts": {
-  "HOMO SAPIENS": 4,
   "FELIS CATUS": 1,
-  "CAMEL": 6,
   "DOG": 104,
+  "HOMO SAPIENS": 4,
+  "CAMEL": 6,
   "DOLPHIN": 1
  }
 }

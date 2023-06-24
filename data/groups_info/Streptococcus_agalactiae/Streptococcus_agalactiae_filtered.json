@@ -782,5 +782,13 @@
   "host":"BOVINE",
   "scientific_name":"Streptococcus agalactiae",
   "strain":null
+ },
+ {
+  "asm_acc":"GCA_030323365.1",
+  "asm_level":"Complete Genome",
+  "biosample_acc":"SAMN33919071",
+  "host":"HOMO SAPIENS",
+  "scientific_name":"Streptococcus agalactiae",
+  "strain":"GBSIR0001"
  }
 ]

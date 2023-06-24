@@ -1,6 +1,6 @@
 [
  {
-  "Acinetobacter": "PDG000000010.1001"
+  "Acinetobacter": "PDG000000010.1002"
  },
  {
   "asm_acc": "GCA_000186665.4",
@@ -4137,5 +4137,13 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Acinetobacter baumannii",
   "strain": "Mu1956"
+ },
+ {
+  "asm_acc": "GCA_030322945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27553639",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter nosocomialis",
+  "strain": "11J360"
  }
 ]
