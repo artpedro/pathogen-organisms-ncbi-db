@@ -6,19 +6,19 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Aeromonas veronii": 35,
-  "Aeromonas veronii Hm21": 1
+  "Aeromonas veronii Hm21": 1,
+  "Aeromonas veronii": 35
  },
  "strain": {},
  "hosts": {
-  "ODONTOBUTIS OBSCURA": 1,
+  "MEGALOBRAMA AMBLYCEPHALA": 1,
+  "ALLIGATOR": 1,
+  "HOMO SAPIENS": 24,
+  "FISH": 5,
+  "DISCUS": 1,
+  "MICROPTERUS SALMOIDES": 1,
   "HIRUDO VERBANA": 1,
   "TACHYSURUS FULVIDRACO": 1,
-  "MICROPTERUS SALMOIDES": 1,
-  "HOMO SAPIENS": 24,
-  "DISCUS": 1,
-  "ALLIGATOR": 1,
-  "MEGALOBRAMA AMBLYCEPHALA": 1,
-  "FISH": 5
+  "ODONTOBUTIS OBSCURA": 1
  }
 }

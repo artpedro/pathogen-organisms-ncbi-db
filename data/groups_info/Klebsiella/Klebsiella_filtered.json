@@ -1024,14 +1024,6 @@
   "strain":"INF157"
  },
  {
-  "asm_acc":"GCA_002753165.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07211282",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"KSB1_9D"
- },
- {
   "asm_acc":"GCA_002753355.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3357043",
@@ -1046,22 +1038,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"KSB1_7J"
- },
- {
-  "asm_acc":"GCA_002753405.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07211279",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"INF163"
- },
- {
-  "asm_acc":"GCA_002753555.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07211280",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"INF164"
  },
  {
   "asm_acc":"GCA_002753605.1",
@@ -2000,54 +1976,6 @@
   "strain":"11492"
  },
  {
-  "asm_acc":"GCA_900635125.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3251435",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"NCTC11359"
- },
- {
-  "asm_acc":"GCA_900635925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3251433",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella quasipneumoniae",
-  "strain":"NCTC11357"
- },
- {
-  "asm_acc":"GCA_900635995.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3368254",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"NCTC418"
- },
- {
-  "asm_acc":"GCA_900636185.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3446337",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella variicola",
-  "strain":"NCTC9668"
- },
- {
-  "asm_acc":"GCA_900636455.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3597594",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"NCTC9793"
- },
- {
-  "asm_acc":"GCA_900637945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA80457418",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella aerogenes",
-  "strain":"NCTC9735"
- },
- {
   "asm_acc":"GCA_003990375.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10622699",
@@ -2294,30 +2222,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Klebsiella pneumoniae",
   "strain":"ST23"
- },
- {
-  "asm_acc":"GCA_901421925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3368261",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"NCTC11698"
- },
- {
-  "asm_acc":"GCA_901422025.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3368328",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella quasipneumoniae",
-  "strain":"NCTC9170"
- },
- {
-  "asm_acc":"GCA_901422065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3492649",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"NCTC9157"
  },
  {
   "asm_acc":"GCA_005853785.1",
@@ -5342,14 +5246,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Klebsiella quasipneumoniae",
   "strain":"KqPF42"
- },
- {
-  "asm_acc":"GCA_016629585.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07211281",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Klebsiella pneumoniae",
-  "strain":"KSB1_9A"
  },
  {
   "asm_acc":"GCA_016694775.1",

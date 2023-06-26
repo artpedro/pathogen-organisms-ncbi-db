@@ -1,31 +1,30 @@
 {
  "group": "Streptococcus_agalactiae",
- "count": 99,
+ "count": 94,
  "species": {
   "Streptococcus urinalis": 1,
-  "Streptococcus agalactiae": 98
+  "Streptococcus agalactiae": 93
  },
  "subsp.": {},
  "scientific_name": {
   "Streptococcus urinalis": 1,
+  "Streptococcus agalactiae CNCTC 10/84": 1,
   "Streptococcus agalactiae CJB111": 1,
-  "Streptococcus agalactiae": 96,
-  "Streptococcus agalactiae CNCTC 10/84": 1
+  "Streptococcus agalactiae": 91
  },
  "strain": {
   "null": 19
  },
  "hosts": {
-  "HOPLOBATRACHUS RUGULOSUS": 1,
-  "NEONATES": 1,
-  "NOT AVAILABLE": 5,
+  "TILAPIA": 3,
+  "OREOCHROMIS NILOTICUS": 1,
+  "TIAPIA": 1,
+  "HOMO SAPIENS": 63,
   "SEABASS": 1,
+  "SHEEP": 1,
   "DOG": 1,
   "BOVINE": 21,
-  "OREOCHROMIS NILOTICUS": 1,
-  "TILAPIA": 3,
-  "HOMO SAPIENS": 63,
-  "TIAPIA": 1,
-  "SHEEP": 1
+  "HOPLOBATRACHUS RUGULOSUS": 1,
+  "NEONATES": 1
  }
 }

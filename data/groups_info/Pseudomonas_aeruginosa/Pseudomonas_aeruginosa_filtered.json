@@ -632,14 +632,6 @@
   "strain":"K34-7"
  },
  {
-  "asm_acc":"GCA_003319235.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN08102919",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Pseudomonas aeruginosa",
-  "strain":"HS9"
- },
- {
   "asm_acc":"GCA_003332705.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08435059",
@@ -904,36 +896,12 @@
   "strain":"GIMC5015:PAKB6"
  },
  {
-  "asm_acc":"GCA_900636735.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3856675",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Pseudomonas aeruginosa",
-  "strain":"NCTC11445"
- },
- {
-  "asm_acc":"GCA_900636755.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3856677",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Pseudomonas aeruginosa",
-  "strain":"NCTC12903"
- },
- {
   "asm_acc":"GCA_900636975.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3923580",
   "host":"HOMO SAPIENS",
   "scientific_name":"Pseudomonas aeruginosa",
   "strain":"NCTC13715"
- },
- {
-  "asm_acc":"GCA_900637045.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4007823",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Pseudomonas aeruginosa",
-  "strain":"NCTC10728"
  },
  {
   "asm_acc":"GCA_003991465.1",

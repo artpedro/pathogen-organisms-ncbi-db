@@ -112,30 +112,6 @@
   "strain":"N16961"
  },
  {
-  "asm_acc":"GCA_900324445.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4374366",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Vibrio cholerae",
-  "strain":"4295STDY6534216"
- },
- {
-  "asm_acc":"GCA_900324425.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4374367",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Vibrio cholerae",
-  "strain":"4295STDY6534232"
- },
- {
-  "asm_acc":"GCA_900324455.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4374368",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Vibrio cholerae",
-  "strain":"4295STDY6534248"
- },
- {
   "asm_acc":"GCA_003097695.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08896638",
@@ -174,14 +150,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Vibrio cholerae",
   "strain":null
- },
- {
-  "asm_acc":"GCA_900324435.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4374365",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Vibrio cholerae",
-  "strain":"4295STDY6534200"
  },
  {
   "asm_acc":"GCA_013085075.1",

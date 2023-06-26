@@ -216,14 +216,6 @@
   "strain":"WCHEH090011"
  },
  {
-  "asm_acc":"GCA_900635705.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2709017",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Enterobacter hormaechei",
-  "strain":"NCTC11571"
- },
- {
   "asm_acc":"GCA_004118875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN10755318",

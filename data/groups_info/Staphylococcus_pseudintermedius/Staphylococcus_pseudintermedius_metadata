@@ -8,15 +8,15 @@
  "subsp.": {},
  "scientific_name": {
   "Staphylococcus pseudintermedius": 108,
-  "Staphylococcus pseudintermedius HKU10-03": 1,
-  "Staphylococcus delphini": 7
+  "Staphylococcus delphini": 7,
+  "Staphylococcus pseudintermedius HKU10-03": 1
  },
  "strain": {},
  "hosts": {
   "FELIS CATUS": 1,
-  "DOG": 104,
-  "HOMO SAPIENS": 4,
   "CAMEL": 6,
+  "HOMO SAPIENS": 4,
+  "DOG": 104,
   "DOLPHIN": 1
  }
 }

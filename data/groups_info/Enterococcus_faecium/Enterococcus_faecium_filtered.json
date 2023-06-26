@@ -344,22 +344,6 @@
   "strain":"NCTC12368"
  },
  {
-  "asm_acc":"GCA_900637035.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4557825",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Enterococcus faecium",
-  "strain":"NCTC7174"
- },
- {
-  "asm_acc":"GCA_900683475.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3614259",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Enterococcus faecium",
-  "strain":"3012STDY6244127"
- },
- {
   "asm_acc":"GCA_004332055.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08689723",

@@ -22,13 +22,5 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Enterobacter bugandensis",
   "strain":"1367"
- },
- {
-  "asm_acc":"GCA_023374275.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27966081",
-  "host":"NOT PROVIDED",
-  "scientific_name":"Enterobacter bugandensis",
-  "strain":"CMCC(B)45301"
  }
 ]

@@ -1176,30 +1176,6 @@
   "strain":"R16.0676"
  },
  {
-  "asm_acc":"GCA_900477905.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4017717",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Sundsvall",
-  "strain":"NCTC9787"
- },
- {
-  "asm_acc":"GCA_900477895.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4017719",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Carmel",
-  "strain":"NCTC9872"
- },
- {
-  "asm_acc":"GCA_900478065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4028451",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Senftenberg",
-  "strain":"NCTC10080"
- },
- {
   "asm_acc":"GCA_003347075.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN04849646",
@@ -1480,94 +1456,6 @@
   "strain":"LXYSH"
  },
  {
-  "asm_acc":"GCA_004324035.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759461",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10452"
- },
- {
-  "asm_acc":"GCA_004324015.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759463",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10640"
- },
- {
-  "asm_acc":"GCA_004324045.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759459",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10359"
- },
- {
-  "asm_acc":"GCA_004324095.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759458",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10330"
- },
- {
-  "asm_acc":"GCA_004324145.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759452",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10057"
- },
- {
-  "asm_acc":"GCA_004324125.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759456",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10236"
- },
- {
-  "asm_acc":"GCA_004324135.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759455",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10231"
- },
- {
-  "asm_acc":"GCA_004324115.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759457",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10250"
- },
- {
-  "asm_acc":"GCA_004324245.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759464",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10648"
- },
- {
-  "asm_acc":"GCA_004324275.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759454",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10169"
- },
- {
-  "asm_acc":"GCA_004324315.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759453",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10112"
- },
- {
   "asm_acc":"GCA_004328785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN02716883",
@@ -1582,22 +1470,6 @@
   "host":"SHEEP",
   "scientific_name":"Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1923",
   "strain":"USDA-ARS-USMARC-1923"
- },
- {
-  "asm_acc":"GCA_004337745.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759460",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF10405"
- },
- {
-  "asm_acc":"GCA_004337735.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09759468",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Typhimurium",
-  "strain":"SJTUF11216"
  },
  {
   "asm_acc":"GCA_004358925.1",
@@ -2094,46 +1966,6 @@
   "host":"ENVIRONMENT",
   "scientific_name":"Salmonella enterica",
   "strain":"GSJ\/2016-Sal.-018"
- },
- {
-  "asm_acc":"GCA_006516995.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11979405",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Thompson",
-  "strain":"SH11G0791"
- },
- {
-  "asm_acc":"GCA_006517015.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11979404",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Enteritidis",
-  "strain":"SJTUF12519v2"
- },
- {
-  "asm_acc":"GCA_006517035.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11979402",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Indiana",
-  "strain":"SJTUF87912v2"
- },
- {
-  "asm_acc":"GCA_006517055.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11979403",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Enteritidis",
-  "strain":"SJTUF12367v2"
- },
- {
-  "asm_acc":"GCA_006517075.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11979401",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Indiana",
-  "strain":"SJTUF13520v2"
  },
  {
   "asm_acc":"GCA_006969245.1",
@@ -5878,14 +5710,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Salmonella enterica",
   "strain":"PNUSAS118467"
- },
- {
-  "asm_acc":"GCA_949361545.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA112702326",
-  "host":"NOT PROVIDED",
-  "scientific_name":"Salmonella enterica subsp. enterica serovar Rissen",
-  "strain":null
  },
  {
   "asm_acc":"GCA_030122175.1",

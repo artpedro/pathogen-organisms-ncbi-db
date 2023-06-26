@@ -1,46 +1,44 @@
 {
  "group": "Pseudomonas_aeruginosa",
- "count": 583,
+ "count": 579,
  "species": {
-  "Pseudomonas aeruginosa": 583
+  "Pseudomonas aeruginosa": 579
  },
  "subsp.": {},
  "scientific_name": {
-  "Pseudomonas aeruginosa DHS01": 1,
-  "Pseudomonas aeruginosa SCV20265": 1,
-  "Pseudomonas aeruginosa CI27": 1,
-  "Pseudomonas aeruginosa": 574,
   "Pseudomonas aeruginosa C-NN2": 1,
+  "Pseudomonas aeruginosa B136-33": 1,
+  "Pseudomonas aeruginosa DK1": 1,
+  "Pseudomonas aeruginosa TBCF10839": 1,
+  "Pseudomonas aeruginosa CI27": 1,
   "Pseudomonas aeruginosa VRFPA04": 1,
   "Pseudomonas aeruginosa PAK": 1,
-  "Pseudomonas aeruginosa TBCF10839": 1,
-  "Pseudomonas aeruginosa DK1": 1,
-  "Pseudomonas aeruginosa B136-33": 1
+  "Pseudomonas aeruginosa SCV20265": 1,
+  "Pseudomonas aeruginosa DHS01": 1,
+  "Pseudomonas aeruginosa": 570
  },
  "strain": {
+  "B17932": 2,
   "DL201330": 2,
   "ATCC 27853": 2,
-  "B17932": 2,
   "null": 14
  },
  "hosts": {
-  "SEVERELY BURNED PATIENT": 1,
-  "NOT AVAILABLE": 3,
-  "CYSTIC FIBROSIS (CF) PATIENTS": 1,
-  "MORUS ALBA": 1,
-  "ENVIRONMENT": 1,
   "SUGARCANE": 4,
-  "TURSIOPS TRUNCATUS (BOTTLENOSE DOLPHIN)": 1,
+  "ENVIRONMENT": 1,
+  "MINK": 1,
+  "MALE": 1,
+  "SEVERELY BURNED PATIENT": 1,
   "TETRADESMUS DIMORPHUS": 1,
-  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
+  "TURSIOPS TRUNCATUS (BOTTLENOSE DOLPHIN)": 1,
+  "MORUS ALBA": 1,
   "HUMEN BEING": 1,
+  "RICE": 1,
+  "HOMO SAPIENS": 561,
+  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
   "BOVINE": 1,
   "NIST MIXED MICROBIAL RM STRAIN": 1,
-  "MINK": 1,
-  "HOMO SAPIENS": 561,
-  "NOT COLLECTED": 1,
-  "MALE": 1,
-  "TOBACCO": 1,
-  "RICE": 1
+  "CYSTIC FIBROSIS (CF) PATIENTS": 1,
+  "TOBACCO": 1
  }
 }

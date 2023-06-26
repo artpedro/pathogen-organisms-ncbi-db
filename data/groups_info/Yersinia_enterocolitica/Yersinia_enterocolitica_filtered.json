@@ -16,14 +16,6 @@
   "strain":"KNG22703"
  },
  {
-  "asm_acc":"GCA_900635745.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2742608",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Yersinia enterocolitica subsp. enterocolitica",
-  "strain":"NCTC13629"
- },
- {
   "asm_acc":"GCA_900637005.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3936789",
@@ -38,13 +30,5 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Yersinia enterocolitica subsp. palearctica",
   "strain":"Y1"
- },
- {
-  "asm_acc":"GCA_901472495.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2742606",
-  "host":"NOT AVAILABLE: NOT COLLECTED",
-  "scientific_name":"Yersinia enterocolitica subsp. enterocolitica",
-  "strain":"NCTC12982"
  }
 ]

@@ -40,22 +40,6 @@
   "strain":"EHE-NE18"
  },
  {
-  "asm_acc":"GCA_900475545.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3867463",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Clostridium perfringens",
-  "strain":"NCTC13170"
- },
- {
-  "asm_acc":"GCA_900478015.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4040483",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Clostridium perfringens",
-  "strain":"NCTC2837"
- },
- {
   "asm_acc":"GCA_003350945.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08771210",

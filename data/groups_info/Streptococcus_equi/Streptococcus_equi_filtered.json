@@ -8,14 +8,6 @@
   "strain":"CY"
  },
  {
-  "asm_acc":"GCA_900474805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542438",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus equi subsp. zooepidemicus",
-  "strain":"NCTC7022"
- },
- {
   "asm_acc":"GCA_900474875.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3542451",

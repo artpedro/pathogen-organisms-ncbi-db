@@ -72,14 +72,6 @@
   "strain":"GZ0565"
  },
  {
-  "asm_acc":"GCA_001936415.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06187704",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Streptococcus suis",
-  "strain":"SS2-1"
- },
- {
   "asm_acc":"GCA_002111405.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06765615",

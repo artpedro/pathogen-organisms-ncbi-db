@@ -56,14 +56,6 @@
   "strain":"JBC17"
  },
  {
-  "asm_acc":"GCA_900636645.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3711446",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Pseudomonas putida",
-  "strain":"NCTC13186"
- },
- {
   "asm_acc":"GCA_005080685.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11380143",
@@ -102,22 +94,6 @@
   "host":"TOMATO PLANT",
   "scientific_name":"Pseudomonas putida",
   "strain":"PCL1760"
- },
- {
-  "asm_acc":"GCA_025905425.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31266696",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Pseudomonas putida",
-  "strain":"SEH01"
- },
- {
-  "asm_acc":"GCA_025905485.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31269035",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Pseudomonas putida",
-  "strain":"QH1"
  },
  {
   "asm_acc":"GCA_026898135.1",

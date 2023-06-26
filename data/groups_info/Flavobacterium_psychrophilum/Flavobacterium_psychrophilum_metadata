@@ -6,16 +6,16 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Flavobacterium psychrophilum": 6,
+  "Flavobacterium psychrophilum FPG3": 1,
   "Flavobacterium psychrophilum FPG101": 1,
-  "Flavobacterium psychrophilum FPG3": 1
+  "Flavobacterium psychrophilum": 6
  },
  "strain": {},
  "hosts": {
   "RAINBOW TROUT": 3,
+  "THYMALLUS THYMALLUS": 1,
   "ONCORHYNCHUS MYKISS (RAINBOW TROUT)": 1,
   "FISH": 1,
-  "ONCORHYNCHUS MYKISS": 2,
-  "THYMALLUS THYMALLUS": 1
+  "ONCORHYNCHUS MYKISS": 2
  }
 }

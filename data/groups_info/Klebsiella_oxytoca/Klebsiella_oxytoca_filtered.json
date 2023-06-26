@@ -96,30 +96,6 @@
   "strain":"FDAARGOS_500"
  },
  {
-  "asm_acc":"GCA_900635105.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3251432",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella oxytoca",
-  "strain":"NCTC11356"
- },
- {
-  "asm_acc":"GCA_900636985.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3923594",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Klebsiella oxytoca",
-  "strain":"NCTC13727"
- },
- {
-  "asm_acc":"GCA_900635915.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3251450",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Raoultella ornithinolytica",
-  "strain":"NCTC13096"
- },
- {
   "asm_acc":"GCA_008694045.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN12780943",
@@ -310,14 +286,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Klebsiella michiganensis",
   "strain":"12084"
- },
- {
-  "asm_acc":"GCA_017815775.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14585699",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Klebsiella michiganensis",
-  "strain":"X2-1"
  },
  {
   "asm_acc":"GCA_017968865.1",

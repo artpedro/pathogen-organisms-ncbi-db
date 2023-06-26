@@ -15,9 +15,9 @@
   "null": 5
  },
  "hosts": {
-  "HOMO SAPIENS": 21,
   "PENAEUS VANNAMEI": 1,
-  "PIG": 1,
-  "CHICKEN": 1
+  "HOMO SAPIENS": 21,
+  "CHICKEN": 1,
+  "PIG": 1
  }
 }

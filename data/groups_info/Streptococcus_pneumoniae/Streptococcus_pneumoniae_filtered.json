@@ -192,30 +192,6 @@
   "strain":"4041STDY6583227"
  },
  {
-  "asm_acc":"GCA_900475515.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3649044",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pneumoniae",
-  "strain":"NCTC13276"
- },
- {
-  "asm_acc":"GCA_900475305.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3714884",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pneumoniae",
-  "strain":"NCTC7466"
- },
- {
-  "asm_acc":"GCA_900475805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3956100",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pneumoniae",
-  "strain":"NCTC11902"
- },
- {
   "asm_acc":"GCA_003351525.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09704656",

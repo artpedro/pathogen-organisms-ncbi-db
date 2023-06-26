@@ -248,22 +248,6 @@
   "strain":"874391"
  },
  {
-  "asm_acc":"GCA_900474905.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3597587",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC11930"
- },
- {
-  "asm_acc":"GCA_900475355.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3856681",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC8187"
- },
- {
   "asm_acc":"GCA_003287995.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07178061",
@@ -336,36 +320,12 @@
   "strain":"TFJ0901"
  },
  {
-  "asm_acc":"GCA_900636375.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3529271",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC8184"
- },
- {
   "asm_acc":"GCA_900636885.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3881064",
   "host":"HOMO SAPIENS",
   "scientific_name":"Streptococcus urinalis",
   "strain":"NCTC13766"
- },
- {
-  "asm_acc":"GCA_900638415.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104210798",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC13949"
- },
- {
-  "asm_acc":"GCA_900638495.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104224788",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC13947"
  },
  {
   "asm_acc":"GCA_003966545.1",

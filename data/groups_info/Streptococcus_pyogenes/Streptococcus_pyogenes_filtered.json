@@ -272,36 +272,12 @@
   "strain":"NGAS979"
  },
  {
-  "asm_acc":"GCA_900474645.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3539724",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC5163"
- },
- {
-  "asm_acc":"GCA_900474795.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542433",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC5164"
- },
- {
   "asm_acc":"GCA_900474815.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3542440",
   "host":"HOMO SAPIENS",
   "scientific_name":"Streptococcus pyogenes",
   "strain":"NCTC8300"
- },
- {
-  "asm_acc":"GCA_900474765.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542441",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8314"
  },
  {
   "asm_acc":"GCA_900474955.1",
@@ -312,164 +288,12 @@
   "strain":"NCTC8332"
  },
  {
-  "asm_acc":"GCA_900474825.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542444",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12045"
- },
- {
-  "asm_acc":"GCA_900474745.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542447",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12059"
- },
- {
-  "asm_acc":"GCA_900474775.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542449",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12066"
- },
- {
-  "asm_acc":"GCA_900474835.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3542450",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12069"
- },
- {
-  "asm_acc":"GCA_900474965.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3572417",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8231"
- },
- {
   "asm_acc":"GCA_900474855.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3572419",
   "host":"HOMO SAPIENS",
   "scientific_name":"Streptococcus pyogenes",
   "strain":"NCTC8328"
- },
- {
-  "asm_acc":"GCA_900474885.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3572427",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12046"
- },
- {
-  "asm_acc":"GCA_900474935.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3572429",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12047"
- },
- {
-  "asm_acc":"GCA_900474915.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3572431",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12048"
- },
- {
-  "asm_acc":"GCA_900474925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3572435",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12050"
- },
- {
-  "asm_acc":"GCA_900474995.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594343",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12840"
- },
- {
-  "asm_acc":"GCA_900474975.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594345",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12052"
- },
- {
-  "asm_acc":"GCA_900474845.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594346",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12057"
- },
- {
-  "asm_acc":"GCA_900474865.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594347",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12058"
- },
- {
-  "asm_acc":"GCA_900475005.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594349",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12062"
- },
- {
-  "asm_acc":"GCA_900475135.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594351",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12067"
- },
- {
-  "asm_acc":"GCA_900475155.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594352",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12068"
- },
- {
-  "asm_acc":"GCA_900475035.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594357",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12064"
- },
- {
-  "asm_acc":"GCA_900475105.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3594360",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC4001"
- },
- {
-  "asm_acc":"GCA_900474455.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3597579",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8225"
  },
  {
   "asm_acc":"GCA_900474945.1",
@@ -488,14 +312,6 @@
   "strain":"NCTC12696"
  },
  {
-  "asm_acc":"GCA_900475115.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3614262",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8326"
- },
- {
   "asm_acc":"GCA_900475085.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3632058",
@@ -512,28 +328,12 @@
   "strain":"NCTC8195"
  },
  {
-  "asm_acc":"GCA_900475165.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3649042",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8230"
- },
- {
   "asm_acc":"GCA_900475565.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3662931",
   "host":"HOMO SAPIENS",
   "scientific_name":"Streptococcus pyogenes",
   "strain":"NCTC10880"
- },
- {
-  "asm_acc":"GCA_900475335.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3662934",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8322"
  },
  {
   "asm_acc":"GCA_900475175.1",
@@ -608,22 +408,6 @@
   "strain":"NCTC10085"
  },
  {
-  "asm_acc":"GCA_900475955.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3923596",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC13745"
- },
- {
-  "asm_acc":"GCA_900475925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3956097",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC12044"
- },
- {
   "asm_acc":"GCA_900475785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3956099",
@@ -654,30 +438,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Streptococcus pyogenes",
   "strain":"NCTC13751"
- },
- {
-  "asm_acc":"GCA_900476015.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4364215",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8370"
- },
- {
-  "asm_acc":"GCA_900475795.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4557824",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8304"
- },
- {
-  "asm_acc":"GCA_900475465.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA53411668",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus pyogenes",
-  "strain":"NCTC8224"
  },
  {
   "asm_acc":"GCA_900475485.1",

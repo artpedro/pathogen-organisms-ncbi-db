@@ -248,14 +248,6 @@
   "strain":"160807"
  },
  {
-  "asm_acc":"GCA_004194515.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN10591529",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Vibrio parahaemolyticus",
-  "strain":"D3112"
- },
- {
   "asm_acc":"GCA_008693625.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN11056382",

@@ -192,22 +192,6 @@
   "strain":"NCTC10848"
  },
  {
-  "asm_acc":"GCA_900635445.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2612492",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Serratia odorifera",
-  "strain":"NCTC11214"
- },
- {
-  "asm_acc":"GCA_900635625.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2689766",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Serratia plymuthica",
-  "strain":"NCTC8900"
- },
- {
   "asm_acc":"GCA_900637965.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA101169418",
@@ -414,14 +398,6 @@
   "host":"CURCULIO CARYAE",
   "scientific_name":"Serratia marcescens",
   "strain":"Byron"
- },
- {
-  "asm_acc":"GCA_017654245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18473280",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Serratia marcescens subsp. marcescens ATCC 13880",
-  "strain":"ATCC 13880"
  },
  {
   "asm_acc":"GCA_018336935.1",

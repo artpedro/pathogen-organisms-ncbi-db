@@ -88,14 +88,6 @@
   "strain":"FDAARGOS_528"
  },
  {
-  "asm_acc":"GCA_900636775.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA1046663",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Enterococcus faecalis",
-  "strain":"NCTC8745"
- },
- {
   "asm_acc":"GCA_003966385.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMD00113788",
@@ -134,14 +126,6 @@
   "host":"BOVINE",
   "scientific_name":"Enterococcus faecalis",
   "strain":"FC"
- },
- {
-  "asm_acc":"GCA_901553725.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3614265",
-  "host":"NOT AVAILABLE: NOT COLLECTED",
-  "scientific_name":"Enterococcus faecalis",
-  "strain":"NCTC8732"
  },
  {
   "asm_acc":"GCA_005979285.1",

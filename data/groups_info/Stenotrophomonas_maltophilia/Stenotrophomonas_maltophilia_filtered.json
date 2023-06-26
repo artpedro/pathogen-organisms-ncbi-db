@@ -80,22 +80,6 @@
   "strain":"FDAARGOS_507"
  },
  {
-  "asm_acc":"GCA_900636655.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3724090",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Stenotrophomonas maltophilia",
-  "strain":"NCTC13014"
- },
- {
-  "asm_acc":"GCA_900636905.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4537264",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Stenotrophomonas maltophilia",
-  "strain":"NCTC10259"
- },
- {
   "asm_acc":"GCA_007833655.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN09665072",

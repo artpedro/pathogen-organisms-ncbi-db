@@ -608,28 +608,12 @@
   "strain":"NCTC10025"
  },
  {
-  "asm_acc":"GCA_900638575.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104307687",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Neisseria meningitidis",
-  "strain":"NCTC3372"
- },
- {
   "asm_acc":"GCA_900638595.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA104307690",
   "host":"HOMO SAPIENS",
   "scientific_name":"Neisseria meningitidis",
   "strain":"NCTC12163"
- },
- {
-  "asm_acc":"GCA_900638605.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104307689",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Neisseria meningitidis",
-  "strain":"NCTC10026"
  },
  {
   "asm_acc":"GCA_008329765.1",

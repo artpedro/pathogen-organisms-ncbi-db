@@ -424,14 +424,6 @@
   "strain":"BF1"
  },
  {
-  "asm_acc":"GCA_022221105.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241473",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"Pasteur"
- },
- {
   "asm_acc":"GCA_022221125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18241472",
@@ -448,76 +440,12 @@
   "strain":"188678-1"
  },
  {
-  "asm_acc":"GCA_022221165.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241470",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"Tangail-4\/2"
- },
- {
-  "asm_acc":"GCA_022221185.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241469",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"A3783"
- },
- {
-  "asm_acc":"GCA_022221205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241468",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"3-IZSLT"
- },
- {
   "asm_acc":"GCA_022221225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN18241467",
   "host":"BOVINE",
   "scientific_name":"Bacillus anthracis",
   "strain":"Pollino 3734"
- },
- {
-  "asm_acc":"GCA_022221245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241466",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"A1074"
- },
- {
-  "asm_acc":"GCA_022221265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241465",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"A0777"
- },
- {
-  "asm_acc":"GCA_022221285.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241464",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"SA020"
- },
- {
-  "asm_acc":"GCA_022221305.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241463",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"AF039"
- },
- {
-  "asm_acc":"GCA_022221325.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18241462",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Bacillus anthracis",
-  "strain":"A159"
  },
  {
   "asm_acc":"GCA_022221345.1",

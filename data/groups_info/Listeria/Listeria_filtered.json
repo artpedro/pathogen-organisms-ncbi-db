@@ -299,7 +299,7 @@
   "asm_acc":"GCA_002213585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124748",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2a str. 08-6056",
   "strain":"1\/2a"
  },
@@ -307,7 +307,7 @@
   "asm_acc":"GCA_002213605.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124749",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2a str. 08-7374",
   "strain":"08-7374"
  },
@@ -363,7 +363,7 @@
   "asm_acc":"GCA_002213745.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124753",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2c str. 10-5025",
   "strain":"1\/2c"
  },
@@ -371,7 +371,7 @@
   "asm_acc":"GCA_002213765.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124754",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2c str. 10-5026",
   "strain":"1\/2c"
  },
@@ -379,7 +379,7 @@
   "asm_acc":"GCA_002213785.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124755",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 3c str. 10-5027",
   "strain":"3c"
  },
@@ -395,7 +395,7 @@
   "asm_acc":"GCA_002213825.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124736",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2a str. 10-4758",
   "strain":"1\/2a"
  },
@@ -411,7 +411,7 @@
   "asm_acc":"GCA_002213865.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124738",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2a str. 10-0934",
   "strain":"1\/2a"
  },
@@ -435,7 +435,7 @@
   "asm_acc":"GCA_002213945.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124741",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 4b str. 02-1792",
   "strain":"4b"
  },
@@ -443,7 +443,7 @@
   "asm_acc":"GCA_002213965.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124742",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 4b str. 02-6680",
   "strain":"02-6680"
  },
@@ -483,7 +483,7 @@
   "asm_acc":"GCA_002214105.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124732",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2b str. 10-0811",
   "strain":"1\/2b"
  },
@@ -491,7 +491,7 @@
   "asm_acc":"GCA_002214125.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN07124733",
-  "host":"ENVIROMENT",
+  "host":"ENVIRONMENT",
   "scientific_name":"Listeria monocytogenes serotype 1\/2a str. 10-0812",
   "strain":"1\/2a"
  },
@@ -726,14 +726,6 @@
   "host":"PIG",
   "scientific_name":"Listeria monocytogenes",
   "strain":"4\/52-1953"
- },
- {
-  "asm_acc":"GCA_014304675.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14074482",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Listeria monocytogenes",
-  "strain":"GIMC2016:Lmc547"
  },
  {
   "asm_acc":"GCA_014304695.1",

@@ -32,7 +32,7 @@ def write_pdf(fname, figures, resolution=(1366, 768),path='.'):
     doc.close()
 
 def plotSingleDistribution(name='',key='species',all=False):
-    
+    print(name)
     metadata = f'data/groups_info/{name}/{name}_metadata'
     if all:
         metadata = f'data/metadata.json'
@@ -83,7 +83,7 @@ def plotSingleDistribution(name='',key='species',all=False):
             plt.xlim(0, max(count))
             
             # Pontos para serem plotados em X
-            x_points = [i for i in set(count)]
+            x_points = []
             
             # Selecionando pontos para adicionar baseado na escala
             if max(count) <= 25:
@@ -98,10 +98,13 @@ def plotSingleDistribution(name='',key='species',all=False):
             if max(count) >= 100 and max(count) <= 500:
                 for i in range(0,max(count),25):
                     x_points.append(i)
-            if max(count) >= 500:
+            if max(count) >= 500 and max(count) <1000:
                 for i in range(0,max(count),100):
                     x_points.append(i)
-            
+            if max(count) >= 1000:
+                for i in range(0,max(count),500):
+                    x_points.append(i)
+            '''
             # Elimina pontos muito próximos no eixo x
             x_points = sorted(x_points)
             print(x_points)
@@ -130,6 +133,7 @@ def plotSingleDistribution(name='',key='species',all=False):
                             thrs_points.append(x)
 
             x_points = [i for i in sorted(set(thrs_points))]
+            '''
             plt.xticks(x_points,x_points)
             
             # Labels
@@ -154,6 +158,7 @@ def writeAll():
 def writeSingle(group):
     species = [plotSingleDistribution(group,'species')]
     hosts = [plotSingleDistribution(group,'hosts')]
+    print(hosts)
     if species:
         write_pdf(f"sdis_{group}.pdf",species,path=f'data/groups_info/{group}')
     if hosts:    
@@ -162,6 +167,9 @@ def writeSingle(group):
 def writeGeneral():
     species = [plotSingleDistribution(all=True)]
     host = [plotSingleDistribution(key='hosts',all=True)]
-    write_pdf(f"sdis_all.pdf",species,path="data/")
-    write_pdf(f"hdis_all.pdf",host,path="data/")
+    if species:
+        write_pdf(f"sdis_all.pdf",species,path="data/")
+    if host:    
+        write_pdf(f"hdis_all.pdf",host,path="data/")
 writeGeneral()
+writeAll()

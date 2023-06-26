@@ -192,14 +192,6 @@
   "strain":"JUNP353"
  },
  {
-  "asm_acc":"GCA_011612125.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14310234",
-  "host":"NOT COLLECTED",
-  "scientific_name":"Elizabethkingia meningoseptica",
-  "strain":"F2"
- },
- {
   "asm_acc":"GCA_014702245.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN08166467",

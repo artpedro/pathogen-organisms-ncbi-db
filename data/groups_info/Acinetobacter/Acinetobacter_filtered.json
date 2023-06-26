@@ -416,14 +416,6 @@
   "strain":"YMC2010\/8\/T346"
  },
  {
-  "asm_acc":"GCA_900093475.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3310339",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Acinetobacter baumannii",
-  "strain":"NCTC7364"
- },
- {
   "asm_acc":"GCA_002082625.2",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMN06650260",

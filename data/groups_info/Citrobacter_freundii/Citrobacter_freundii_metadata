@@ -2,29 +2,29 @@
  "group": "Citrobacter_freundii",
  "count": 74,
  "species": {
-  "Citrobacter youngae": 2,
   "Citrobacter sedlakii": 1,
-  "Citrobacter koseri": 9,
-  "Citrobacter amalonaticus": 6,
-  "Citrobacter rodentium": 1,
   "Citrobacter freundii": 47,
   "Citrobacter braakii": 3,
-  "Citrobacter werkmanii": 3,
+  "Citrobacter rodentium": 1,
+  "Citrobacter amalonaticus": 6,
   "Citrobacter pasteurii": 1,
-  "Citrobacter farmeri": 1
+  "Citrobacter farmeri": 1,
+  "Citrobacter youngae": 2,
+  "Citrobacter werkmanii": 3,
+  "Citrobacter koseri": 9
  },
  "subsp.": {},
  "scientific_name": {
-  "Citrobacter youngae": 2,
   "Citrobacter sedlakii": 1,
-  "Citrobacter koseri": 9,
-  "Citrobacter rodentium NBRC 105723 = DSM 16636": 1,
-  "Citrobacter amalonaticus": 6,
   "Citrobacter freundii": 47,
   "Citrobacter braakii": 3,
-  "Citrobacter werkmanii": 3,
+  "Citrobacter rodentium NBRC 105723 = DSM 16636": 1,
+  "Citrobacter amalonaticus": 6,
   "Citrobacter pasteurii": 1,
-  "Citrobacter farmeri": 1
+  "Citrobacter farmeri": 1,
+  "Citrobacter youngae": 2,
+  "Citrobacter werkmanii": 3,
+  "Citrobacter koseri": 9
  },
  "strain": {
   "null": 8
@@ -32,9 +32,9 @@
  "hosts": {
   "ENVIRONMENT": 3,
   "RODENT": 1,
-  "MUS MUSCULUS": 1,
-  "CHICKEN": 1,
   "PELODISCUS SINENSIS": 1,
-  "HOMO SAPIENS": 67
+  "HOMO SAPIENS": 67,
+  "CHICKEN": 1,
+  "MUS MUSCULUS": 1
  }
 }

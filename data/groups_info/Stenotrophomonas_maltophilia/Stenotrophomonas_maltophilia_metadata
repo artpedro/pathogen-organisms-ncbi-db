@@ -1,22 +1,21 @@
 {
  "group": "Stenotrophomonas_maltophilia",
- "count": 24,
+ "count": 22,
  "species": {
-  "Stenotrophomonas maltophilia": 24
+  "Stenotrophomonas maltophilia": 22
  },
  "subsp.": {},
  "scientific_name": {
-  "Stenotrophomonas maltophilia": 24
+  "Stenotrophomonas maltophilia": 22
  },
  "strain": {
   "NCTC10498": 2
  },
  "hosts": {
-  "NOT AVAILABLE": 2,
-  "ZEA MAYS": 1,
   "CLIVIA": 1,
+  "LEPTINOTARSA DECEMLINEATA (COLORADO POTATO BEETLE)": 1,
   "SEMPERVIVUM TECTORUM": 1,
   "HOMO SAPIENS": 18,
-  "LEPTINOTARSA DECEMLINEATA (COLORADO POTATO BEETLE)": 1
+  "ZEA MAYS": 1
  }
 }

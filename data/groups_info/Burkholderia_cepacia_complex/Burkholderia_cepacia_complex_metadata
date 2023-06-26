@@ -2,42 +2,42 @@
  "group": "Burkholderia_cepacia_complex",
  "count": 90,
  "species": {
-  "Burkholderia vietnamiensis": 5,
-  "Burkholderia cepacia": 10,
+  "Burkholderia stabilis": 1,
+  "Burkholderia pyrrocinia": 1,
   "Burkholderia cenocepacia": 17,
+  "Burkholderia contaminans": 6,
+  "Burkholderia dolosa": 1,
+  "Burkholderia vietnamiensis": 5,
+  "Burkholderia latens": 3,
   "Burkholderia multivorans": 45,
   "Burkholderia lata": 1,
-  "Burkholderia pyrrocinia": 1,
-  "Burkholderia stabilis": 1,
-  "Burkholderia contaminans": 6,
-  "Burkholderia latens": 3,
-  "Burkholderia dolosa": 1
+  "Burkholderia cepacia": 10
  },
  "subsp.": {},
  "scientific_name": {
-  "Burkholderia vietnamiensis": 5,
-  "Burkholderia cepacia": 9,
-  "Burkholderia cenocepacia": 17,
-  "Burkholderia multivorans": 45,
-  "Burkholderia lata": 1,
-  "Burkholderia pyrrocinia": 1,
   "Burkholderia stabilis": 1,
+  "Burkholderia pyrrocinia": 1,
   "Burkholderia cepacia ATCC 25416": 1,
+  "Burkholderia cenocepacia": 17,
   "Burkholderia contaminans": 6,
+  "Burkholderia dolosa": 1,
+  "Burkholderia vietnamiensis": 5,
+  "Burkholderia multivorans": 45,
   "Burkholderia latens": 3,
-  "Burkholderia dolosa": 1
+  "Burkholderia lata": 1,
+  "Burkholderia cepacia": 9
  },
  "strain": {},
  "hosts": {
-  "POPLAR": 1,
-  "ALLIUM CEPA (ONION)": 1,
   "ENVIRONMENT": 2,
-  "POPULUS": 1,
-  "ONION": 1,
+  "POPLAR": 1,
   "PLECTROCNEMIA": 1,
+  "POPULUS": 1,
+  "ALLIUM CEPA (ONION)": 1,
+  "RICE": 1,
   "HOMO SAPIENS": 80,
   "SHEEP": 1,
-  "CORN": 1,
-  "RICE": 1
+  "ONION": 1,
+  "CORN": 1
  }
 }

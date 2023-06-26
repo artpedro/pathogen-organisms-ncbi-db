@@ -1040,46 +1040,6 @@
   "strain":"NCTC12927"
  },
  {
-  "asm_acc":"GCA_900638165.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167179",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter jejuni",
-  "strain":"NCTC13268"
- },
- {
-  "asm_acc":"GCA_900638175.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167178",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter jejuni",
-  "strain":"NCTC13266"
- },
- {
-  "asm_acc":"GCA_900638185.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167180",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter jejuni",
-  "strain":"NCTC13265"
- },
- {
-  "asm_acc":"GCA_900638195.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167187",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter jejuni",
-  "strain":"NCTC13261"
- },
- {
-  "asm_acc":"GCA_900638205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167185",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter jejuni",
-  "strain":"NCTC13255"
- },
- {
   "asm_acc":"GCA_900638225.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA104167186",
@@ -1088,28 +1048,12 @@
   "strain":"NCTC13257"
  },
  {
-  "asm_acc":"GCA_900638235.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167192",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter jejuni subsp. jejuni",
-  "strain":"NCTC12109"
- },
- {
   "asm_acc":"GCA_900638285.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA104167203",
   "host":"CHICKEN",
   "scientific_name":"Campylobacter jejuni",
   "strain":"NCTC12851"
- },
- {
-  "asm_acc":"GCA_900638335.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167213",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Campylobacter lari",
-  "strain":"NCTC11937"
  },
  {
   "asm_acc":"GCA_900638365.1",

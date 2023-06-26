@@ -2,15 +2,15 @@
  "group": "Corynebacterium_striatum",
  "count": 6,
  "species": {
-  "Corynebacterium minutissimum": 2,
   "Corynebacterium singulare": 1,
-  "Corynebacterium striatum": 3
+  "Corynebacterium striatum": 3,
+  "Corynebacterium minutissimum": 2
  },
  "subsp.": {},
  "scientific_name": {
-  "Corynebacterium minutissimum": 2,
   "Corynebacterium singulare": 1,
-  "Corynebacterium striatum": 3
+  "Corynebacterium striatum": 3,
+  "Corynebacterium minutissimum": 2
  },
  "strain": {},
  "hosts": {

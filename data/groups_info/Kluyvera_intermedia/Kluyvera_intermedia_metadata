@@ -1,16 +1,15 @@
 {
  "group": "Kluyvera_intermedia",
- "count": 2,
+ "count": 1,
  "species": {
-  "Kluyvera intermedia": 2
+  "Kluyvera intermedia": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Kluyvera intermedia": 2
+  "Kluyvera intermedia": 1
  },
  "strain": {},
  "hosts": {
-  "FLOWER": 1,
-  "NOT AVAILABLE": 1
+  "FLOWER": 1
  }
 }

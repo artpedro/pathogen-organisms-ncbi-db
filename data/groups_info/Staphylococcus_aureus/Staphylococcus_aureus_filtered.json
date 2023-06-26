@@ -1184,44 +1184,12 @@
   "strain":"CHU15-056"
  },
  {
-  "asm_acc":"GCA_900478245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3233551",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC13277"
- },
- {
   "asm_acc":"GCA_900474575.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3491695",
   "host":"HOMO SAPIENS",
   "scientific_name":"Staphylococcus aureus",
   "strain":"NCTC9944"
- },
- {
-  "asm_acc":"GCA_900474555.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3491703",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC13137"
- },
- {
-  "asm_acc":"GCA_900474725.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3491706",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC13140"
- },
- {
-  "asm_acc":"GCA_900474525.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3491711",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC13394"
  },
  {
   "asm_acc":"GCA_900474535.1",
@@ -1232,60 +1200,12 @@
   "strain":"NCTC7485"
  },
  {
-  "asm_acc":"GCA_900474735.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3504573",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC13395"
- },
- {
   "asm_acc":"GCA_900474675.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3504578",
   "host":"HOMO SAPIENS",
   "scientific_name":"Staphylococcus aureus",
   "strain":"NCTC3761"
- },
- {
-  "asm_acc":"GCA_900474695.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3504580",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC5663"
- },
- {
-  "asm_acc":"GCA_900474715.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3504582",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC6136"
- },
- {
-  "asm_acc":"GCA_900474665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3518003",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC9752"
- },
- {
-  "asm_acc":"GCA_900474755.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3518004",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC10344"
- },
- {
-  "asm_acc":"GCA_900474565.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3518008",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC8726"
  },
  {
   "asm_acc":"GCA_900475055.1",
@@ -1968,38 +1888,6 @@
   "strain":"PMB 64-1"
  },
  {
-  "asm_acc":"GCA_900635095.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2771254",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC8317"
- },
- {
-  "asm_acc":"GCA_900635245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3491692",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC13142"
- },
- {
-  "asm_acc":"GCA_900635265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3491698",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC12233"
- },
- {
-  "asm_acc":"GCA_900635285.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3491715",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC7121"
- },
- {
   "asm_acc":"GCA_900635305.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA3504579",
@@ -2022,14 +1910,6 @@
   "host":"HOMO SAPIENS",
   "scientific_name":"Staphylococcus aureus",
   "strain":"NCTC11965"
- },
- {
-  "asm_acc":"GCA_900635505.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3518006",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Staphylococcus aureus",
-  "strain":"NCTC4163"
  },
  {
   "asm_acc":"GCA_900635905.1",

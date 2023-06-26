@@ -9,18 +9,18 @@
   "Photobacterium damselae subsp. damselae": 11
  },
  "scientific_name": {
-  "Photobacterium damselae": 3,
   "Photobacterium damselae subsp. piscicida": 2,
+  "Photobacterium damselae": 3,
   "Photobacterium damselae subsp. damselae": 11
  },
  "strain": {},
  "hosts": {
+  "SERIOLA LALANDI": 9,
   "MORONE CHRYSOPS X MORONE SAXATILIS": 1,
+  "NEOPHOCAENA ASIAEORIENTALIS": 2,
+  "FISH": 1,
   "DELPHINAPTERUS LEUCAS (BELUGA WHALE)": 1,
   "APOSTICHOPUS JAPONICUS": 1,
-  "TURBOT": 1,
-  "FISH": 1,
-  "NEOPHOCAENA ASIAEORIENTALIS": 2,
-  "SERIOLA LALANDI": 9
+  "TURBOT": 1
  }
 }

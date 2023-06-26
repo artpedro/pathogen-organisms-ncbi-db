@@ -264,30 +264,6 @@
   "strain":"NCTC11404"
  },
  {
-  "asm_acc":"GCA_900635115.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3111980",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Legionella pneumophila",
-  "strain":"NCTC12180"
- },
- {
-  "asm_acc":"GCA_900635825.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3111979",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Legionella pneumophila",
-  "strain":"NCTC12179"
- },
- {
-  "asm_acc":"GCA_900636955.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3923587",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Legionella pneumophila",
-  "strain":"NCTC11193"
- },
- {
   "asm_acc":"GCA_900637585.1",
   "asm_level":"Complete Genome",
   "biosample_acc":"SAMEA44537668",
