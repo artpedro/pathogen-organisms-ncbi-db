@@ -6,33 +6,33 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterococcus faecalis": 135,
   "Enterococcus faecalis DENG1": 1,
-  "Enterococcus faecalis R712": 1,
   "Enterococcus faecalis D32": 1,
-  "Enterococcus faecalis EnGen0107": 1
+  "Enterococcus faecalis EnGen0107": 1,
+  "Enterococcus faecalis": 135,
+  "Enterococcus faecalis R712": 1
  },
  "strain": {
   "null": 6
  },
  "hosts": {
-  "NOT AVAILABLE: NOT COLLECTED": 1,
-  "NOT AVAILABLE": 1,
-  "UNDARIA PINNATIFIDA": 1,
-  "ENVIRONMENT": 2,
-  "PIG": 11,
-  "FAECES": 1,
-  "TILAPIA (OREOCHROMIS NILOTICUS)": 1,
-  "GOOSE": 1,
-  "MUS MUSCULUS": 2,
-  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
   "BOVINE": 12,
   "CHICKEN": 5,
-  "THE STATE KEY LABORATORY BREEDING BASE OF BASIC SCIENCE OF STOMATOLOGY": 1,
+  "NOT AVAILABLE: NOT COLLECTED": 1,
+  "ENVIRONMENT": 2,
+  "FAECES": 1,
+  "TILAPIA (OREOCHROMIS NILOTICUS)": 1,
   "FISH": 1,
   "HOMO SAPIENS": 95,
-  "CAMEL": 1,
+  "NOT AVAILABLE": 1,
   "RHODNIUS PROLIXUS": 1,
+  "PIG": 11,
+  "GOOSE": 1,
+  "CAMEL": 1,
+  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
+  "THE STATE KEY LABORATORY BREEDING BASE OF BASIC SCIENCE OF STOMATOLOGY": 1,
+  "UNDARIA PINNATIFIDA": 1,
+  "MUS MUSCULUS": 2,
   "GOAT": 1
  }
 }

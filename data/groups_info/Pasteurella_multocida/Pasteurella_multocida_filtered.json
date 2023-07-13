@@ -1,954 +1,1077 @@
 [
  {
-  "asm_acc":"GCA_000259545.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02603505",
-  "host":"PIG",
-  "scientific_name":"Pasteurella multocida subsp. multocida str. 3480",
-  "strain":"3480"
- },
- {
-  "asm_acc":"GCA_000512395.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02641508",
-  "host":"PIG",
-  "scientific_name":"Pasteurella multocida subsp. multocida str. HB03",
-  "strain":"HB03"
- },
- {
-  "asm_acc":"GCA_001670425.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04285688",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida subsp. multocida",
-  "strain":"HN141014"
- },
- {
-  "asm_acc":"GCA_001721885.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04520874",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"Pm-3"
- },
- {
-  "asm_acc":"GCA_001874445.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05967336",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"Razi_Pm0001"
- },
- {
-  "asm_acc":"GCA_002059225.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06140953",
-  "host":"ORYCTOLAGUS CUNICULUS",
-  "scientific_name":"Pasteurella multocida subsp. multocida",
-  "strain":"CIRMBP-0884"
- },
- {
-  "asm_acc":"GCA_002068175.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06140952",
-  "host":"ORYCTOLAGUS CUNICULUS",
-  "scientific_name":"Pasteurella multocida subsp. septica",
-  "strain":"CIRMBP-0873"
- },
- {
-  "asm_acc":"GCA_002073255.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04875555",
-  "host":"ENVIRONMENT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FDAARGOS_218"
- },
- {
-  "asm_acc":"GCA_002073295.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04875553",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FDAARGOS_216"
- },
- {
-  "asm_acc":"GCA_900187275.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA4521464",
-  "host":"PIG",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"NCTC10322"
- },
- {
-  "asm_acc":"GCA_002393385.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07312428",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FDAARGOS_384"
- },
- {
-  "asm_acc":"GCA_002591295.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07312429",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FDAARGOS_385"
- },
- {
-  "asm_acc":"GCA_002859245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622941",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60494"
- },
- {
-  "asm_acc":"GCA_002859265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622935",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60215"
- },
- {
-  "asm_acc":"GCA_002859285.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622946",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60717"
- },
- {
-  "asm_acc":"GCA_002859305.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622933",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60213"
- },
- {
-  "asm_acc":"GCA_002859325.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622931",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-59910"
- },
- {
-  "asm_acc":"GCA_002859345.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622938",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60380"
- },
- {
-  "asm_acc":"GCA_002859365.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622944",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60713"
- },
- {
-  "asm_acc":"GCA_002859385.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622936",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60224"
- },
- {
-  "asm_acc":"GCA_002859405.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622943",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60712"
- },
- {
-  "asm_acc":"GCA_002859425.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622942",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60675"
- },
- {
-  "asm_acc":"GCA_002859445.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622937",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60248"
- },
- {
-  "asm_acc":"GCA_002859465.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622940",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60385"
- },
- {
-  "asm_acc":"GCA_002859485.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622932",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-59962"
- },
- {
-  "asm_acc":"GCA_002859505.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622934",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60214"
- },
- {
-  "asm_acc":"GCA_002859525.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622939",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60381"
- },
- {
-  "asm_acc":"GCA_002859545.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04622945",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"USDA-ARS-USMARC-60714"
- },
- {
-  "asm_acc":"GCA_002891825.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03860035",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"CQ6"
- },
- {
-  "asm_acc":"GCA_002891845.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03860038",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"CQ2"
- },
- {
-  "asm_acc":"GCA_002948995.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN08498425",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"161215033201-1"
- },
- {
-  "asm_acc":"GCA_900478175.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA2822166",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"NCTC10382"
- },
- {
-  "asm_acc":"GCA_003402875.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09781073",
-  "host":"ENVIRONMENT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PM8-1"
- },
- {
-  "asm_acc":"GCA_900636625.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3696435",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida subsp. gallicida",
-  "strain":"NCTC10204"
- },
- {
-  "asm_acc":"GCA_900638315.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104167231",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida subsp. septica",
-  "strain":"NCTC11619"
- },
- {
-  "asm_acc":"GCA_900638665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104338374",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"NCTC10323"
- },
- {
-  "asm_acc":"GCA_004792555.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349271",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FCf15"
- },
- {
-  "asm_acc":"GCA_004792575.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349311",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FCf71"
- },
- {
-  "asm_acc":"GCA_004792595.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349313",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FCf45"
- },
- {
-  "asm_acc":"GCA_004792615.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349649",
-  "host":"GOOSE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FCf76"
- },
- {
-  "asm_acc":"GCA_004792635.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349653",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FCf83"
- },
- {
-  "asm_acc":"GCA_006232065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11049962",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida subsp. multocida",
-  "strain":"HN02"
- },
- {
-  "asm_acc":"GCA_006232125.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11040711",
-  "host":"CAPRA HIRCUS",
-  "scientific_name":"Pasteurella multocida subsp. multocida",
-  "strain":"HN01"
- },
- {
-  "asm_acc":"GCA_006351865.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11964561",
-  "host":"ENVIRONMENT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PM 8-6"
- },
- {
-  "asm_acc":"GCA_008693845.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11056359",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"FDAARGOS_644"
- },
- {
-  "asm_acc":"GCA_009646155.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN13069870",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PM22"
- },
- {
-  "asm_acc":"GCA_009739555.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN10371982",
-  "host":"ANATIDAE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"Q"
- },
- {
-  "asm_acc":"GCA_009739575.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN10373508",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"CQ7"
- },
- {
-  "asm_acc":"GCA_010443215.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN13867109",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"HS_Canada1"
- },
- {
-  "asm_acc":"GCA_011149495.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14260239",
-  "host":"CAT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"KVNON-213"
- },
- {
-  "asm_acc":"GCA_011390865.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14001150",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"VP161"
- },
- {
-  "asm_acc":"GCA_014058465.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501685",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"A0419"
- },
- {
-  "asm_acc":"GCA_014058485.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501684",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"A0757"
- },
- {
-  "asm_acc":"GCA_014058585.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501683",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"X0120"
- },
- {
-  "asm_acc":"GCA_014058605.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501682",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"X1053"
- },
- {
-  "asm_acc":"GCA_014058625.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501681",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"618\/90"
- },
- {
-  "asm_acc":"GCA_014058645.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501680",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"619\/90"
- },
- {
-  "asm_acc":"GCA_014058665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15501679",
-  "host":"SHEEP",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"671\/90"
- },
- {
-  "asm_acc":"GCA_014495805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15955129",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PS3536-1p"
- },
- {
-  "asm_acc":"GCA_016313205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN17080908",
-  "host":"YAK",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PM-1"
- },
- {
-  "asm_acc":"GCA_017815735.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18520938",
-  "host":"YAK",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"Tibet-Pm1"
- },
- {
-  "asm_acc":"GCA_018139065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18753491",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"HuN001"
- },
- {
-  "asm_acc":"GCA_019134675.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN19771027",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PMWSG-4"
- },
- {
-  "asm_acc":"GCA_019754255.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN20842242",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"Pm3"
- },
- {
-  "asm_acc":"GCA_019754275.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN20845833",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"Pm64"
- },
- {
-  "asm_acc":"GCA_019916005.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN21014890",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"17BRD-035"
- },
- {
-  "asm_acc":"GCA_020221775.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN21591049",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"s4"
- },
- {
-  "asm_acc":"GCA_021474145.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN24595887",
-  "host":"ORYCTOLAGUS CUNICULUS",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"SD11"
- },
- {
-  "asm_acc":"GCA_022637295.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN19461146",
-  "host":"MARMOTA HIMALAYANA",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"GS2020-X2"
- },
- {
-  "asm_acc":"GCA_023572865.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28548360",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"10159"
- },
- {
-  "asm_acc":"GCA_023572885.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28548364",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"10185"
- },
- {
-  "asm_acc":"GCA_023572905.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552806",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"11205"
- },
- {
-  "asm_acc":"GCA_023572925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552779",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"10957"
- },
- {
-  "asm_acc":"GCA_023572945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552780",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"11020"
- },
- {
-  "asm_acc":"GCA_023572985.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552832",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"11245"
- },
- {
-  "asm_acc":"GCA_023573005.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28553018",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P1702"
- },
- {
-  "asm_acc":"GCA_023573025.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552975",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"32985"
- },
- {
-  "asm_acc":"GCA_023573045.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28553023",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P2192"
- },
- {
-  "asm_acc":"GCA_023573065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28553020",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P2095"
- },
- {
-  "asm_acc":"GCA_023573085.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552996",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"33011"
- },
- {
-  "asm_acc":"GCA_023573105.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28552999",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P1581"
- },
- {
-  "asm_acc":"GCA_023573125.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28553054",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P2723"
- },
- {
-  "asm_acc":"GCA_023586965.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163571",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"38725"
- },
- {
-  "asm_acc":"GCA_023587085.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163570",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"21317"
- },
- {
-  "asm_acc":"GCA_023587205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163569",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"35564"
- },
- {
-  "asm_acc":"GCA_023587305.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163568",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"31971"
- },
- {
-  "asm_acc":"GCA_023587465.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163560",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"41060"
- },
- {
-  "asm_acc":"GCA_023587585.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163559",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"36502"
- },
- {
-  "asm_acc":"GCA_023587605.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163552",
-  "host":"TURKEY",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"21275"
- },
- {
-  "asm_acc":"GCA_023587625.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163549",
-  "host":"GOOSE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"28606"
- },
- {
-  "asm_acc":"GCA_023587645.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163548",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"34030"
- },
- {
-  "asm_acc":"GCA_023587665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163541",
-  "host":"TURKEY",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"40540"
- },
- {
-  "asm_acc":"GCA_023587685.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163539",
-  "host":"TURKEY",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"29135"
- },
- {
-  "asm_acc":"GCA_023587705.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163538",
-  "host":"TURKEY",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"29792"
- },
- {
-  "asm_acc":"GCA_023587725.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27163529",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"39639"
- },
- {
-  "asm_acc":"GCA_026409225.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765270",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF12"
- },
- {
-  "asm_acc":"GCA_026409245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765282",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF14"
- },
- {
-  "asm_acc":"GCA_026409265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765310",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF16"
- },
- {
-  "asm_acc":"GCA_026409285.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765475",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF19"
- },
- {
-  "asm_acc":"GCA_026409305.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765425",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF18"
- },
- {
-  "asm_acc":"GCA_026409325.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31736550",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF1"
- },
- {
-  "asm_acc":"GCA_026409345.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765396",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF17"
- },
- {
-  "asm_acc":"GCA_026409365.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765285",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF15"
- },
- {
-  "asm_acc":"GCA_020971725.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN22599412",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"IMT47951"
- },
- {
-  "asm_acc":"GCA_024055505.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN28553350",
-  "host":"CHICKEN",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P2237"
- },
- {
-  "asm_acc":"GCA_026153335.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31560871",
-  "host":"PIG",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P5041881"
- },
- {
-  "asm_acc":"GCA_026153375.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31560870",
-  "host":"PIG",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P504190"
- },
- {
-  "asm_acc":"GCA_026315065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31749861",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF5"
- },
- {
-  "asm_acc":"GCA_026315085.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31750065",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF6"
- },
- {
-  "asm_acc":"GCA_026315125.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31750135",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF7"
- },
- {
-  "asm_acc":"GCA_026315145.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31751329",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF9"
- },
- {
-  "asm_acc":"GCA_026315165.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31751361",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF10"
- },
- {
-  "asm_acc":"GCA_026315225.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31751474",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF11"
- },
- {
-  "asm_acc":"GCA_026636255.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31750315",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF8"
- },
- {
-  "asm_acc":"GCA_026723845.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31765281",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"PF13"
- },
- {
-  "asm_acc":"GCA_029224005.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN33607990",
-  "host":"RABBIT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"LXSS001"
- },
- {
-  "asm_acc":"GCA_029873295.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN29020738",
-  "host":"BOVINE",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"19BRD-057"
- },
- {
-  "asm_acc":"GCA_030059805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN35015592",
-  "host":"ENVIRONMENT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P030653\/2"
- },
- {
-  "asm_acc":"GCA_030122645.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN35015591",
-  "host":"ENVIRONMENT",
-  "scientific_name":"Pasteurella multocida",
-  "strain":"P030653\/1"
+  "Pasteurella_multocida": "PDG000000102.23",
+  "date": "Wed Jul 12 16:42:33 2023"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_000259545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02603505",
+  "host": "PIG",
+  "scientific_name": "Pasteurella multocida subsp. multocida str. 3480",
+  "strain": "3480"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_000512395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02641508",
+  "host": "PIG",
+  "scientific_name": "Pasteurella multocida subsp. multocida str. HB03",
+  "strain": "HB03"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_001670425.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04285688",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida subsp. multocida",
+  "strain": "HN141014"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_001721885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04520874",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm-3"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_001874445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05967336",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Razi_Pm0001"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002059225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06140953",
+  "host": "ORYCTOLAGUS CUNICULUS",
+  "scientific_name": "Pasteurella multocida subsp. multocida",
+  "strain": "CIRMBP-0884"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002068175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06140952",
+  "host": "ORYCTOLAGUS CUNICULUS",
+  "scientific_name": "Pasteurella multocida subsp. septica",
+  "strain": "CIRMBP-0873"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002073255.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875555",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FDAARGOS_218"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002073295.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875553",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FDAARGOS_216"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_900187275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA4521464",
+  "host": "PIG",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "NCTC10322"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002393385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07312428",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FDAARGOS_384"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002591295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07312429",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FDAARGOS_385"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622941",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60494"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622935",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60215"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622946",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60717"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622933",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60213"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622931",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-59910"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622938",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60380"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622944",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60713"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622936",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60224"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622943",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60712"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622942",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60675"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622937",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60248"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622940",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60385"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622932",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-59962"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622934",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60214"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622939",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60381"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002859545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04622945",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "USDA-ARS-USMARC-60714"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002891825.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03860035",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "CQ6"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002891845.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03860038",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "CQ2"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_002948995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08498425",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "161215033201-1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_900478175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA2822166",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "NCTC10382"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_003402875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09781073",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PM8-1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_900636625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3696435",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida subsp. gallicida",
+  "strain": "NCTC10204"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_900638315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104167231",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida subsp. septica",
+  "strain": "NCTC11619"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_900638665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104338374",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "NCTC10323"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_004792555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349271",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf15"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_004792575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349311",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf71"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_004792595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349313",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf45"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_004792615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349649",
+  "host": "GOOSE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf76"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_004792635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349653",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf83"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_006232065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11049962",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida subsp. multocida",
+  "strain": "HN02"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_006232125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11040711",
+  "host": "CAPRA HIRCUS",
+  "scientific_name": "Pasteurella multocida subsp. multocida",
+  "strain": "HN01"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_006351865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11964561",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PM 8-6"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_008693845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056359",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FDAARGOS_644"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_009646155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13069870",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PM22"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_009739555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10371982",
+  "host": "ANATIDAE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Q"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_009739575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10373508",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "CQ7"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_010443215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13867109",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "HS_Canada1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_011149495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14260239",
+  "host": "CAT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "KVNON-213"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_011390865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14001150",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "VP161"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501685",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "A0419"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501684",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "A0757"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501683",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "X0120"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501682",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "X1053"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501681",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "618/90"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501680",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "619/90"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014058665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15501679",
+  "host": "SHEEP",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "671/90"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_014495805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15955129",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PS3536-1p"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_016313205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17080908",
+  "host": "YAK",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PM-1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_017815735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18520938",
+  "host": "YAK",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Tibet-Pm1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_018139065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18753491",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "HuN001"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_019134675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19771027",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PMWSG-4"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_019754255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20842242",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm3"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_019754275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20845833",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm64"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_019916005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21014890",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "17BRD-035"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_020221775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21591049",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "s4"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_021474145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24595887",
+  "host": "ORYCTOLAGUS CUNICULUS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "SD11"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_022637295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19461146",
+  "host": "MARMOTA HIMALAYANA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "GS2020-X2"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023572865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28548360",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "10159"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023572885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28548364",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "10185"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023572905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552806",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "11205"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023572925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552779",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "10957"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023572945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552780",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "11020"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023572985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552832",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "11245"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28553018",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P1702"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552975",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "32985"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28553023",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P2192"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28553020",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P2095"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552996",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "33011"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28552999",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P1581"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023573125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28553054",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P2723"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023586965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163571",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "38725"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163570",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "21317"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163569",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "35564"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163568",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "31971"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163560",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "41060"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163559",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "36502"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163552",
+  "host": "TURKEY",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "21275"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163549",
+  "host": "GOOSE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "28606"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163548",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "34030"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163541",
+  "host": "TURKEY",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "40540"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163539",
+  "host": "TURKEY",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "29135"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163538",
+  "host": "TURKEY",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "29792"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_023587725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27163529",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "39639"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765270",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF12"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765282",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF14"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765310",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF16"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765475",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF19"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765425",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF18"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31736550",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765396",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF17"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026409365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765285",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF15"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_020971725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22599412",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "IMT47951"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_024055505.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28553350",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P2237"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026153335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31560871",
+  "host": "PIG",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P5041881"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026153375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31560870",
+  "host": "PIG",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P504190"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026315065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31749861",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF5"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026315085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31750065",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF6"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026315125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31750135",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF7"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026315145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31751329",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF9"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026315165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31751361",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF10"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026315225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31751474",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF11"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026636255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31750315",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF8"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_026723845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31765281",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PF13"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_029224005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33607990",
+  "host": "RABBIT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "LXSS001"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_029873295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29020738",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "19BRD-057"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_030059805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35015592",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P030653/2"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "asm_acc": "GCA_030122645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35015591",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P030653/1"
  }
 ]

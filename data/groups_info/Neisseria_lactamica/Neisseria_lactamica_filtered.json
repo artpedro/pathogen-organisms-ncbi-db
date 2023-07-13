@@ -1,26 +1,33 @@
 [
  {
-  "asm_acc":"GCA_002022745.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05437355",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Neisseria lactamica",
-  "strain":"Y92-1009"
+  "Neisseria_lactamica": "PDG000000095.6",
+  "date": "Wed Jul 12 16:42:33 2023"
  },
  {
-  "asm_acc":"GCA_003351565.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09704838",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Neisseria lactamica",
-  "strain":"M17106"
+  "Neisseria_lactamica": null,
+  "asm_acc": "GCA_002022745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05437355",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria lactamica",
+  "strain": "Y92-1009"
  },
  {
-  "asm_acc":"GCA_901482445.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3867448",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Neisseria lactamica",
-  "strain":"NCTC10617"
+  "Neisseria_lactamica": null,
+  "asm_acc": "GCA_003351565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09704838",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria lactamica",
+  "strain": "M17106"
+ },
+ {
+  "Neisseria_lactamica": null,
+  "asm_acc": "GCA_901482445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3867448",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Neisseria lactamica",
+  "strain": "NCTC10617"
  }
 ]

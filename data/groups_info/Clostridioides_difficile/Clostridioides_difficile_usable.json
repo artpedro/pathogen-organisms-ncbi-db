@@ -1,11 +1,13 @@
 [
  {
-  "Clostridioides_difficile": "PDG000000045.517"
+  "Clostridioides_difficile": "PDG000000045.526",
+  "date": "Wed Jul 12 16:39:29 2023"
  },
  {
   "asm_acc": "GCA_000932055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03344097",
+  "collection_date": "1982",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile 630",
   "strain": "630"
@@ -14,6 +16,7 @@
   "asm_acc": "GCA_001577795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03332454",
+  "collection_date": "2005",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": null
@@ -22,6 +25,7 @@
   "asm_acc": "GCA_002007885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06286529",
+  "collection_date": "2016-04-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "BR81"
@@ -30,6 +34,7 @@
   "asm_acc": "GCA_002080065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05285388",
+  "collection_date": "2005",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "630 delta erm"
@@ -38,6 +43,7 @@
   "asm_acc": "GCA_002234355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07339707",
+  "collection_date": "2012-03-08",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DH/NAP11/106/ST-42"
@@ -46,6 +52,7 @@
   "asm_acc": "GCA_002812585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104991",
+  "collection_date": "2014-07-19",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "R0104a"
@@ -54,6 +61,7 @@
   "asm_acc": "GCA_002812605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104990",
+  "collection_date": "2014-02-02",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "W0023a"
@@ -62,6 +70,7 @@
   "asm_acc": "GCA_002812625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104989",
+  "collection_date": "2014-02-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "W0022a"
@@ -70,6 +79,7 @@
   "asm_acc": "GCA_002812645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104988",
+  "collection_date": "2014-01-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "W0003a"
@@ -78,6 +88,7 @@
   "asm_acc": "GCA_002945415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08442145",
+  "collection_date": "2010-09-18",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD-10-00484"
@@ -86,6 +97,7 @@
   "asm_acc": "GCA_002945515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08442093",
+  "collection_date": "2007",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD-17-01474"
@@ -94,6 +106,7 @@
   "asm_acc": "GCA_002945665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443809",
+  "collection_date": "2012-04-20",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "12-00008"
@@ -102,6 +115,7 @@
   "asm_acc": "GCA_002945755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443811",
+  "collection_date": "2008-05-29",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "08-00495"
@@ -110,6 +124,7 @@
   "asm_acc": "GCA_002945855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443813",
+  "collection_date": "2012-05-07",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "12-00011"
@@ -118,6 +133,7 @@
   "asm_acc": "GCA_002945945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443812",
+  "collection_date": "2010-01-04",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "10-00071"
@@ -126,6 +142,7 @@
   "asm_acc": "GCA_002946035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443877",
+  "collection_date": "2010-01-28",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "10-00078"
@@ -134,6 +151,7 @@
   "asm_acc": "GCA_002946135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443881",
+  "collection_date": "2010-03-02",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "10-00253"
@@ -142,6 +160,7 @@
   "asm_acc": "GCA_002946195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443921",
+  "collection_date": "1990",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "09-00072"
@@ -150,6 +169,7 @@
   "asm_acc": "GCA_001077535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03486969",
+  "collection_date": "1935",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile ATCC 9689 = DSM 1296",
   "strain": "DSM 1296T"
@@ -158,6 +178,7 @@
   "asm_acc": "GCA_003313545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495888",
+  "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 27638"
@@ -166,6 +187,7 @@
   "asm_acc": "GCA_003313565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495889",
+  "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 27639"
@@ -174,6 +196,7 @@
   "asm_acc": "GCA_003313585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495890",
+  "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 27640"
@@ -182,6 +205,7 @@
   "asm_acc": "GCA_003456975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06619921",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 102859"
@@ -190,6 +214,7 @@
   "asm_acc": "GCA_003457015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06619923",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 102860"
@@ -198,6 +223,7 @@
   "asm_acc": "GCA_003457035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06368405",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 102978"
@@ -206,6 +232,7 @@
   "asm_acc": "GCA_003481905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200625",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29688"
@@ -214,6 +241,7 @@
   "asm_acc": "GCA_003481965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188775",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29632"
@@ -222,6 +250,7 @@
   "asm_acc": "GCA_003482035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487125",
+  "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28196"
@@ -230,6 +259,7 @@
   "asm_acc": "GCA_003482065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487129",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28666"
@@ -238,6 +268,7 @@
   "asm_acc": "GCA_003482125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487133",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28669"
@@ -246,6 +277,7 @@
   "asm_acc": "GCA_003482165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487137",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29020"
@@ -254,6 +286,7 @@
   "asm_acc": "GCA_003482225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487134",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28670"
@@ -262,6 +295,7 @@
   "asm_acc": "GCA_003482255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188752",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29627"
@@ -270,6 +304,7 @@
   "asm_acc": "GCA_003482305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188758",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29629"
@@ -278,6 +313,7 @@
   "asm_acc": "GCA_003482325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188782",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29637"
@@ -286,6 +322,7 @@
   "asm_acc": "GCA_003482345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200826",
+  "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29745"
@@ -294,6 +331,7 @@
   "asm_acc": "GCA_003482365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200827",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29747"
@@ -302,6 +340,7 @@
   "asm_acc": "GCA_003490105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487131",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28668"
@@ -310,6 +349,7 @@
   "asm_acc": "GCA_003697205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274208",
+  "collection_date": "2015-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD10010"
@@ -318,6 +358,7 @@
   "asm_acc": "GCA_003697225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274224",
+  "collection_date": "2015-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "12038"
@@ -326,6 +367,7 @@
   "asm_acc": "GCA_003697245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274251",
+  "collection_date": "2015-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD21062"
@@ -334,6 +376,7 @@
   "asm_acc": "GCA_008151785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10976983",
+  "collection_date": "2000-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Peptacetobacter hiranonis",
   "strain": "DSM 13275"
@@ -342,6 +385,7 @@
   "asm_acc": "GCA_008245165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12370807",
+  "collection_date": "2018-11-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Mta-79"
@@ -350,6 +394,7 @@
   "asm_acc": "GCA_009362915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12500617",
+  "collection_date": "2011/2015",
   "host": "SUS SCROFA DOMESTICA",
   "scientific_name": "Clostridioides difficile",
   "strain": "TW11"
@@ -358,6 +403,7 @@
   "asm_acc": "GCA_009730495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056438",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "FDAARGOS_723"
@@ -366,6 +412,7 @@
   "asm_acc": "GCA_009867095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09039199",
+  "collection_date": "2017-09-26",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CBA7204"
@@ -374,6 +421,7 @@
   "asm_acc": "GCA_014236775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08744682",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 105001"
@@ -382,6 +430,7 @@
   "asm_acc": "GCA_015351935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029149",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-02"
@@ -390,6 +439,7 @@
   "asm_acc": "GCA_015351965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029170",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-23"
@@ -398,6 +448,7 @@
   "asm_acc": "GCA_015352015.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029171",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-24"
@@ -406,6 +457,7 @@
   "asm_acc": "GCA_015352045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029169",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-22"
@@ -414,6 +466,7 @@
   "asm_acc": "GCA_015352115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029177",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-30"
@@ -422,6 +475,7 @@
   "asm_acc": "GCA_015352155.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029148",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-01"
@@ -430,6 +484,7 @@
   "asm_acc": "GCA_015732535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06298620",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 101085"
@@ -438,6 +493,7 @@
   "asm_acc": "GCA_015732555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09205946",
+  "collection_date": "2006",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile R20291",
   "strain": "R20291"
@@ -446,6 +502,7 @@
   "asm_acc": "GCA_016694795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17178901",
+  "collection_date": "2019-10-03",
   "host": "CANIS LUPUS FAMILIARIS",
   "scientific_name": "Peptacetobacter hiranonis",
   "strain": "DGF055142"
@@ -454,6 +511,7 @@
   "asm_acc": "GCA_016766955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16927931",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "M120"
@@ -462,6 +520,7 @@
   "asm_acc": "GCA_017592625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18395883",
+  "collection_date": "2012",
   "host": "PIGS",
   "scientific_name": "Clostridioides difficile",
   "strain": "S0756_078"
@@ -470,6 +529,7 @@
   "asm_acc": "GCA_018255775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18882462",
+  "collection_date": "2007-12-07",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "2015"
@@ -478,6 +538,7 @@
   "asm_acc": "GCA_018603395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317496",
+  "collection_date": "2018-11-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "MT4854"
@@ -486,6 +547,7 @@
   "asm_acc": "GCA_018603455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317495",
+  "collection_date": "2018-11-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "MHS-156"
@@ -494,6 +556,7 @@
   "asm_acc": "GCA_018603475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317498",
+  "collection_date": "2018-11-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "MT5121"
@@ -502,6 +565,7 @@
   "asm_acc": "GCA_018884605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021927",
+  "collection_date": "2015-12-09",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd29"
@@ -510,6 +574,7 @@
   "asm_acc": "GCA_018884665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021921",
+  "collection_date": "2017-12-28",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd23"
@@ -518,6 +583,7 @@
   "asm_acc": "GCA_018884705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021916",
+  "collection_date": "2017-10-15",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd18"
@@ -526,6 +592,7 @@
   "asm_acc": "GCA_018884725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021915",
+  "collection_date": "2017-08-16",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd17"
@@ -534,6 +601,7 @@
   "asm_acc": "GCA_018884745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021914",
+  "collection_date": "2017-05-08",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd16"
@@ -542,6 +610,7 @@
   "asm_acc": "GCA_018884765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021912",
+  "collection_date": "2017-02-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd14"
@@ -550,6 +619,7 @@
   "asm_acc": "GCA_018884825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021910",
+  "collection_date": "2017-03-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd12"
@@ -558,6 +628,7 @@
   "asm_acc": "GCA_018884845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021909",
+  "collection_date": "2017-01-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd11"
@@ -566,6 +637,7 @@
   "asm_acc": "GCA_018884865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021908",
+  "collection_date": "2016-03-28",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd10"
@@ -574,6 +646,7 @@
   "asm_acc": "GCA_018884885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021907",
+  "collection_date": "2016-07-27",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd9"
@@ -582,6 +655,7 @@
   "asm_acc": "GCA_018884905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021906",
+  "collection_date": "2016-07-19",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd8"
@@ -590,6 +664,7 @@
   "asm_acc": "GCA_018884925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021905",
+  "collection_date": "2016-04-24",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd7"
@@ -598,6 +673,7 @@
   "asm_acc": "GCA_018884945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021903",
+  "collection_date": "2016-02-26",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd5"
@@ -606,6 +682,7 @@
   "asm_acc": "GCA_018884965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021904",
+  "collection_date": "2016-04-08",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd6"
@@ -614,6 +691,7 @@
   "asm_acc": "GCA_018885045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021899",
+  "collection_date": "2015-10-13",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd1"
@@ -622,6 +700,7 @@
   "asm_acc": "GCA_018885065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491760",
+  "collection_date": "2014-09-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "S-0352"
@@ -630,6 +709,7 @@
   "asm_acc": "GCA_018885085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491759",
+  "collection_date": "2014-04-02",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "S-0253"
@@ -638,6 +718,7 @@
   "asm_acc": "GCA_018885105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491761",
+  "collection_date": "2016-09-09",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "S-0942"
@@ -646,6 +727,7 @@
   "asm_acc": "GCA_019095765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7490727",
+  "collection_date": "2018-07-17",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": null
@@ -654,6 +736,7 @@
   "asm_acc": "GCA_019434215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20409632",
+  "collection_date": "2013",
   "host": "TRICHECHUS MANATUS",
   "scientific_name": "Paeniclostridium sordellii",
   "strain": "FL-manatee"
@@ -662,6 +745,7 @@
   "asm_acc": "GCA_022695655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24220739",
+  "collection_date": "2020-11-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDB"
@@ -670,6 +754,7 @@
   "asm_acc": "GCA_022845595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00389847",
+  "collection_date": "2018-11-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CE91-St50"
@@ -678,6 +763,7 @@
   "asm_acc": "GCA_022984115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27029209",
+  "collection_date": "2020-11-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Paraclostridium bifermentans",
   "strain": "HD0315_2"
@@ -686,6 +772,7 @@
   "asm_acc": "GCA_024972115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598405",
+  "collection_date": "2018-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "SH"
@@ -694,6 +781,7 @@
   "asm_acc": "GCA_024972275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598404",
+  "collection_date": "2017-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD099"
@@ -702,6 +790,7 @@
   "asm_acc": "GCA_024972415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598403",
+  "collection_date": "2018-07",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "G89"
@@ -710,6 +799,7 @@
   "asm_acc": "GCA_024972555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598402",
+  "collection_date": "2016-11",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD060"
@@ -718,6 +808,7 @@
   "asm_acc": "GCA_027625435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32411337",
+  "collection_date": "2006",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile R20291",
   "strain": "R20291"
@@ -726,6 +817,7 @@
   "asm_acc": "GCA_028743315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33244141",
+  "collection_date": "2019-11-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "P4D3A1-1"

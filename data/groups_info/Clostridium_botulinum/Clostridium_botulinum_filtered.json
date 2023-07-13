@@ -1,114 +1,132 @@
 [
  {
-  "asm_acc":"GCA_000827935.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03284354",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":null
+  "Clostridium_botulinum": "PDG000000059.129",
+  "date": "Wed Jul 12 16:42:32 2023"
  },
  {
-  "asm_acc":"GCA_000827955.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03284339",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"NCTC 8550"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_000827935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03284354",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": null
  },
  {
-  "asm_acc":"GCA_000829015.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMD00024166",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"111"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_000827955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03284339",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "NCTC 8550"
  },
  {
-  "asm_acc":"GCA_001879605.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04262333",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"CDC_69094"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_000829015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00024166",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "111"
  },
  {
-  "asm_acc":"GCA_003345335.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03769220",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"CFSAN034200"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_001879605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04262333",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "CDC_69094"
  },
  {
-  "asm_acc":"GCA_003614235.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09062437",
-  "host":"PIG",
-  "scientific_name":"Clostridium novyi",
-  "strain":"150557"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_003345335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03769220",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "CFSAN034200"
  },
  {
-  "asm_acc":"GCA_016071375.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN16288620",
-  "host":"MINK",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"Stockholm"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_003614235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09062437",
+  "host": "PIG",
+  "scientific_name": "Clostridium novyi",
+  "strain": "150557"
  },
  {
-  "asm_acc":"GCA_016838665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN17763437",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"IBCA10-7060"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_016071375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16288620",
+  "host": "MINK",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "Stockholm"
  },
  {
-  "asm_acc":"GCA_017100085.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN16288618",
-  "host":"CHICKEN",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"BKT2873"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_016838665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17763437",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "IBCA10-7060"
  },
  {
-  "asm_acc":"GCA_022833145.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14278160",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"ST7B"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_017100085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16288618",
+  "host": "CHICKEN",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "BKT2873"
  },
  {
-  "asm_acc":"GCA_024584665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN21169058",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"FE9504ACG"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_022833145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14278160",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "ST7B"
  },
  {
-  "asm_acc":"GCA_027943665.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMD00396923",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"Osaka2020"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_024584665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21169058",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "FE9504ACG"
  },
  {
-  "asm_acc":"GCA_028416655.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN25937292",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"FE9508BPD"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_027943665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00396923",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "Osaka2020"
  },
  {
-  "asm_acc":"GCA_028416675.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN25937291",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Clostridium botulinum",
-  "strain":"FE9508BRB"
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_028416655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN25937292",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "FE9508BPD"
+ },
+ {
+  "Clostridium_botulinum": null,
+  "asm_acc": "GCA_028416675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN25937291",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "FE9508BRB"
  }
 ]

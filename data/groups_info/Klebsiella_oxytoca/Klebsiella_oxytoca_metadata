@@ -1,42 +1,42 @@
 {
  "group": "Klebsiella_oxytoca",
- "count": 79,
+ "count": 80,
  "species": {
   "Raoultella electrica": 2,
+  "Klebsiella michiganensis": 37,
+  "Raoultella terrigena": 2,
   "Raoultella planticola": 4,
   "Raoultella ornithinolytica": 8,
-  "Klebsiella michiganensis": 37,
-  "Raoultella terrigena": 1,
   "Klebsiella oxytoca": 27
  },
  "subsp.": {},
  "scientific_name": {
-  "Klebsiella michiganensis HKOPL1": 1,
   "Raoultella electrica": 2,
+  "Klebsiella michiganensis": 35,
+  "Klebsiella michiganensis E718": 1,
+  "Raoultella terrigena": 2,
+  "Klebsiella michiganensis HKOPL1": 1,
   "Raoultella planticola": 4,
   "Raoultella ornithinolytica": 8,
-  "Klebsiella michiganensis E718": 1,
-  "Klebsiella michiganensis": 35,
-  "Raoultella terrigena": 1,
   "Klebsiella oxytoca": 27
  },
  "strain": {
   "null": 8
  },
  "hosts": {
-  "SORGHUM BICOLOR": 1,
-  "RECILIA DORSALIS": 1,
-  "NOT AVAILABLE": 3,
-  "FEMALE": 1,
-  "MORUS ALBA": 1,
-  "USTILAGO MAYDIS YZZF202006": 1,
-  "ENVIRONMENT": 2,
-  "GIANT PANDA": 1,
-  "BACTROCERA DORSALIS": 1,
-  "PATIENT": 1,
-  "DONGXIANG WILD RICE": 1,
   "CHICKEN": 2,
+  "FEMALE": 1,
+  "ENVIRONMENT": 3,
+  "SORGHUM BICOLOR": 1,
+  "GIANT PANDA": 1,
   "HOMO SAPIENS": 62,
-  "NOT COLLECTED": 1
+  "NOT AVAILABLE": 3,
+  "BACTROCERA DORSALIS": 1,
+  "DONGXIANG WILD RICE": 1,
+  "RECILIA DORSALIS": 1,
+  "USTILAGO MAYDIS YZZF202006": 1,
+  "MORUS ALBA": 1,
+  "NOT COLLECTED": 1,
+  "PATIENT": 1
  }
 }

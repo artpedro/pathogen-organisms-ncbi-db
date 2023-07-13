@@ -1,6 +1,7 @@
 [
  {
-  "Campylobacter": "PDG000000003.1953"
+  "Campylobacter": "PDG000000003.1965",
+  "date": "Wed Jul 12 16:03:45 2023"
  },
  {
   "asm_acc": "GCA_000025425.1",
@@ -8,6 +9,7 @@
   "biosample_acc": "SAMN02603425",
   "host": "SHEEP",
   "scientific_name": "Campylobacter jejuni subsp. jejuni IA3902",
+  "sra_release_date": null,
   "strain": null
  },
  {
@@ -16,6 +18,7 @@
   "biosample_acc": "SAMN02179883",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni 32488",
+  "sra_release_date": null,
   "strain": "32488"
  },
  {
@@ -24,6 +27,7 @@
   "biosample_acc": "SAMN02603726",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni 00-2544",
+  "sra_release_date": null,
   "strain": "00-2544"
  },
  {
@@ -32,6 +36,7 @@
   "biosample_acc": "SAMN02603724",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni 00-2426",
+  "sra_release_date": null,
   "strain": "00-2426"
  },
  {
@@ -40,6 +45,7 @@
   "biosample_acc": "SAMN02603725",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni 00-2538",
+  "sra_release_date": null,
   "strain": "00-2538"
  },
  {
@@ -48,6 +54,7 @@
   "biosample_acc": "SAMN02603723",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni 00-2425",
+  "sra_release_date": null,
   "strain": "00-2425"
  },
  {
@@ -56,6 +63,7 @@
   "biosample_acc": "SAMN02603390",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli 15-537360",
+  "sra_release_date": null,
   "strain": "15-537360"
  },
  {
@@ -64,6 +72,7 @@
   "biosample_acc": "SAMN02743856",
   "host": "SWINE",
   "scientific_name": "Campylobacter coli RM1875",
+  "sra_release_date": null,
   "strain": "RM1875"
  },
  {
@@ -72,6 +81,7 @@
   "biosample_acc": "SAMN02743855",
   "host": "TURKEY",
   "scientific_name": "Campylobacter coli RM4661",
+  "sra_release_date": null,
   "strain": "RM4661"
  },
  {
@@ -80,6 +90,7 @@
   "biosample_acc": "SAMN02743854",
   "host": "BOVINE",
   "scientific_name": "Campylobacter coli RM5611",
+  "sra_release_date": null,
   "strain": "RM5611"
  },
  {
@@ -88,6 +99,7 @@
   "biosample_acc": "SAMN02298816",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni X",
+  "sra_release_date": null,
   "strain": "X"
  },
  {
@@ -96,6 +108,7 @@
   "biosample_acc": "SAMN02864993",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "MTVDSCj20"
  },
  {
@@ -104,6 +117,7 @@
   "biosample_acc": "SAMN03077634",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "G1"
  },
  {
@@ -112,6 +126,7 @@
   "biosample_acc": "SAMN02689633",
   "host": "LIZARD",
   "scientific_name": "Campylobacter fetus subsp. testudinum",
+  "sra_release_date": null,
   "strain": "pet-3"
  },
  {
@@ -120,6 +135,7 @@
   "biosample_acc": "SAMN03216760",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "00-1597"
  },
  {
@@ -128,6 +144,7 @@
   "biosample_acc": "SAMN03216761",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "00-6200"
  },
  {
@@ -136,6 +153,7 @@
   "biosample_acc": "SAMN03216762",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "01-1512"
  },
  {
@@ -144,6 +162,7 @@
   "biosample_acc": "SAMN03216759",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "00-0949"
  },
  {
@@ -152,6 +171,7 @@
   "biosample_acc": "SAMN03381357",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "FB1"
  },
  {
@@ -160,6 +180,7 @@
   "biosample_acc": "SAMN03862076",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter gracilis",
+  "sra_release_date": null,
   "strain": "ATCC 33236"
  },
  {
@@ -168,6 +189,7 @@
   "biosample_acc": "SAMN03737995",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter ureolyticus RIGS 9880",
+  "sra_release_date": null,
   "strain": "RIGS 9880"
  },
  {
@@ -176,6 +198,7 @@
   "biosample_acc": "SAMN03342362",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "ATCC 33237"
  },
  {
@@ -184,6 +207,7 @@
   "biosample_acc": "SAMN03652757",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "RM3197"
  },
  {
@@ -192,6 +216,7 @@
   "biosample_acc": "SAMN03652743",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "RM3196"
  },
  {
@@ -200,6 +225,7 @@
   "biosample_acc": "SAMN03838469",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJM1cam"
  },
  {
@@ -208,6 +234,7 @@
   "biosample_acc": "SAMN03246034",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC519"
  },
  {
@@ -216,6 +243,7 @@
   "biosample_acc": "SAMN03246003",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC002"
  },
  {
@@ -224,6 +252,7 @@
   "biosample_acc": "SAMN03246049",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC534"
  },
  {
@@ -232,6 +261,7 @@
   "biosample_acc": "SAMN03246051",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC536"
  },
  {
@@ -240,6 +270,7 @@
   "biosample_acc": "SAMN03246026",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC073"
  },
  {
@@ -248,6 +279,7 @@
   "biosample_acc": "SAMN03246036",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC521"
  },
  {
@@ -256,6 +288,7 @@
   "biosample_acc": "SAMN03246041",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC526"
  },
  {
@@ -264,6 +297,7 @@
   "biosample_acc": "SAMN03246015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC036"
  },
  {
@@ -272,6 +306,7 @@
   "biosample_acc": "SAMN03246039",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC524"
  },
  {
@@ -280,6 +315,7 @@
   "biosample_acc": "SAMN03246009",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC016"
  },
  {
@@ -288,6 +324,7 @@
   "biosample_acc": "SAMN03246018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC041"
  },
  {
@@ -296,6 +333,7 @@
   "biosample_acc": "SAMN03246050",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC535"
  },
  {
@@ -304,6 +342,7 @@
   "biosample_acc": "SAMN03246030",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC092"
  },
  {
@@ -312,6 +351,7 @@
   "biosample_acc": "SAMN03246045",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC530"
  },
  {
@@ -320,6 +360,7 @@
   "biosample_acc": "SAMN03246047",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC532"
  },
  {
@@ -328,6 +369,7 @@
   "biosample_acc": "SAMN03246044",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC529"
  },
  {
@@ -336,6 +378,7 @@
   "biosample_acc": "SAMN03246046",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC531"
  },
  {
@@ -344,6 +387,7 @@
   "biosample_acc": "SAMN03246024",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC062"
  },
  {
@@ -352,6 +396,7 @@
   "biosample_acc": "SAMN03246022",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC059"
  },
  {
@@ -360,6 +405,7 @@
   "biosample_acc": "SAMN03246012",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC032"
  },
  {
@@ -368,6 +414,7 @@
   "biosample_acc": "SAMN03246013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC033"
  },
  {
@@ -376,6 +423,7 @@
   "biosample_acc": "SAMN03246052",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC537"
  },
  {
@@ -384,6 +432,7 @@
   "biosample_acc": "SAMN03246057",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC542"
  },
  {
@@ -392,6 +441,7 @@
   "biosample_acc": "SAMN03246043",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC528"
  },
  {
@@ -400,6 +450,7 @@
   "biosample_acc": "SAMN03246053",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC538"
  },
  {
@@ -408,6 +459,7 @@
   "biosample_acc": "SAMN03246035",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC520"
  },
  {
@@ -416,6 +468,7 @@
   "biosample_acc": "SAMN03246008",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC014"
  },
  {
@@ -424,6 +477,7 @@
   "biosample_acc": "SAMN03246016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC039"
  },
  {
@@ -432,6 +486,7 @@
   "biosample_acc": "SAMN03246028",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC085"
  },
  {
@@ -440,6 +495,7 @@
   "biosample_acc": "SAMN03246020",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC052"
  },
  {
@@ -448,6 +504,7 @@
   "biosample_acc": "SAMN03246042",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC527"
  },
  {
@@ -456,6 +513,7 @@
   "biosample_acc": "SAMN03246027",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC078"
  },
  {
@@ -464,6 +522,7 @@
   "biosample_acc": "SAMN03246038",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC523"
  },
  {
@@ -472,6 +531,7 @@
   "biosample_acc": "SAMN03246055",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC540"
  },
  {
@@ -480,6 +540,7 @@
   "biosample_acc": "SAMN03246017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC040"
  },
  {
@@ -488,6 +549,7 @@
   "biosample_acc": "SAMN03246023",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC061"
  },
  {
@@ -496,6 +558,7 @@
   "biosample_acc": "SAMN03246054",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC539"
  },
  {
@@ -504,6 +567,7 @@
   "biosample_acc": "SAMN03246048",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC533"
  },
  {
@@ -512,6 +576,7 @@
   "biosample_acc": "SAMN03246019",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC047"
  },
  {
@@ -520,6 +585,7 @@
   "biosample_acc": "SAMN03246021",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC058"
  },
  {
@@ -528,6 +594,7 @@
   "biosample_acc": "SAMN03246007",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC013"
  },
  {
@@ -536,6 +603,7 @@
   "biosample_acc": "SAMN03246033",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC100"
  },
  {
@@ -544,6 +612,7 @@
   "biosample_acc": "SAMN03246037",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC522"
  },
  {
@@ -552,6 +621,7 @@
   "biosample_acc": "SAMN03246031",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC094"
  },
  {
@@ -560,6 +630,7 @@
   "biosample_acc": "SAMN03246004",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC008"
  },
  {
@@ -568,6 +639,7 @@
   "biosample_acc": "SAMN03246056",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC541"
  },
  {
@@ -576,6 +648,7 @@
   "biosample_acc": "SAMN03246010",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC024"
  },
  {
@@ -584,6 +657,7 @@
   "biosample_acc": "SAMN03246025",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC064"
  },
  {
@@ -592,6 +666,7 @@
   "biosample_acc": "SAMN03246040",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC525"
  },
  {
@@ -600,6 +675,7 @@
   "biosample_acc": "SAMN03246011",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC026"
  },
  {
@@ -608,6 +684,7 @@
   "biosample_acc": "SAMN03246014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC034"
  },
  {
@@ -616,6 +693,7 @@
   "biosample_acc": "SAMN03246029",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC086"
  },
  {
@@ -624,6 +702,7 @@
   "biosample_acc": "SAMN03246032",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC095"
  },
  {
@@ -632,6 +711,7 @@
   "biosample_acc": "SAMN03246006",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ677CC012"
  },
  {
@@ -640,6 +720,7 @@
   "biosample_acc": "SAMN04455262",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "RM3194"
  },
  {
@@ -648,6 +729,7 @@
   "biosample_acc": "SAMN04545450",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "OD267"
  },
  {
@@ -656,6 +738,7 @@
   "biosample_acc": "SAMN04545451",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "WP2202"
  },
  {
@@ -664,6 +747,7 @@
   "biosample_acc": "SAMN03737973",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260",
+  "sra_release_date": null,
   "strain": "LMG 9260"
  },
  {
@@ -672,6 +756,7 @@
   "biosample_acc": "SAMN03737974",
   "host": "PIG",
   "scientific_name": "Campylobacter hyointestinalis subsp. lawsonii CCUG 27631",
+  "sra_release_date": null,
   "strain": "CCUG 27631"
  },
  {
@@ -680,6 +765,7 @@
   "biosample_acc": "SAMN03737975",
   "host": "ALPACA",
   "scientific_name": "Campylobacter iguaniorum",
+  "sra_release_date": null,
   "strain": "RM11343"
  },
  {
@@ -688,6 +774,7 @@
   "biosample_acc": "SAMN04505906",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus subsp. venerealis",
+  "sra_release_date": null,
   "strain": "cfvi01/165"
  },
  {
@@ -696,6 +783,7 @@
   "biosample_acc": "SAMN04544305",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter hepaticus",
+  "sra_release_date": null,
   "strain": "HV10"
  },
  {
@@ -704,6 +792,7 @@
   "biosample_acc": "SAMN05830826",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni str. RM3420",
+  "sra_release_date": null,
   "strain": "RM3420"
  },
  {
@@ -712,6 +801,7 @@
   "biosample_acc": "SAMN03737982",
   "host": "SEA LION",
   "scientific_name": "Campylobacter pinnipediorum subsp. pinnipediorum",
+  "sra_release_date": null,
   "strain": "RM17260"
  },
  {
@@ -720,6 +810,7 @@
   "biosample_acc": "SAMN03737983",
   "host": "SEA LION",
   "scientific_name": "Campylobacter pinnipediorum subsp. pinnipediorum",
+  "sra_release_date": null,
   "strain": "RM17261"
  },
  {
@@ -728,6 +819,7 @@
   "biosample_acc": "SAMN03737984",
   "host": "SEA LION",
   "scientific_name": "Campylobacter pinnipediorum subsp. pinnipediorum",
+  "sra_release_date": null,
   "strain": "RM17262"
  },
  {
@@ -736,6 +828,7 @@
   "biosample_acc": "SAMN03737985",
   "host": "SEAL",
   "scientific_name": "Campylobacter pinnipediorum subsp. caledonicus",
+  "sra_release_date": null,
   "strain": "M302/10/6"
  },
  {
@@ -744,6 +837,7 @@
   "biosample_acc": "SAMN03737986",
   "host": "SEAL",
   "scientific_name": "Campylobacter pinnipediorum subsp. caledonicus",
+  "sra_release_date": null,
   "strain": "M341/11/05"
  },
  {
@@ -752,6 +846,7 @@
   "biosample_acc": "SAMN03737972",
   "host": "CAT",
   "scientific_name": "Campylobacter helveticus",
+  "sra_release_date": null,
   "strain": "ATCC 51209"
  },
  {
@@ -760,6 +855,7 @@
   "biosample_acc": "SAMN03737977",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter lanienae NCTC 13004",
+  "sra_release_date": null,
   "strain": "NCTC 13004"
  },
  {
@@ -768,6 +864,7 @@
   "biosample_acc": "SAMN04875588",
   "host": "BOVINE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "FDAARGOS_262"
  },
  {
@@ -776,6 +873,7 @@
   "biosample_acc": "SAMN04875589",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "FDAARGOS_263"
  },
  {
@@ -784,6 +882,7 @@
   "biosample_acc": "SAMN04875591",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "FDAARGOS_265"
  },
  {
@@ -792,6 +891,7 @@
   "biosample_acc": "SAMN05411282",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "FORC_046"
  },
  {
@@ -800,6 +900,7 @@
   "biosample_acc": "SAMN07357094",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "11168H/lacY"
  },
  {
@@ -808,6 +909,7 @@
   "biosample_acc": "SAMN07357174",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "81-176_G1_B0"
  },
  {
@@ -816,6 +918,7 @@
   "biosample_acc": "SAMN03737963",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter avium LMG 24591",
+  "sra_release_date": null,
   "strain": "LMG 24591"
  },
  {
@@ -824,6 +927,7 @@
   "biosample_acc": "SAMN07312466",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "FDAARGOS_422"
  },
  {
@@ -832,6 +936,7 @@
   "biosample_acc": "SAMN07312465",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "FDAARGOS_421"
  },
  {
@@ -840,6 +945,7 @@
   "biosample_acc": "SAMN08618845",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter fetus subsp. testudinum",
+  "sra_release_date": null,
   "strain": "772"
  },
  {
@@ -848,6 +954,7 @@
   "biosample_acc": "SAMN07160232",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P2CDO4"
  },
  {
@@ -856,6 +963,7 @@
   "biosample_acc": "SAMN08042471",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "H16O-S1"
  },
  {
@@ -864,6 +972,7 @@
   "biosample_acc": "SAMN08042497",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P26UCO-S2"
  },
  {
@@ -872,6 +981,7 @@
   "biosample_acc": "SAMN08042488",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P10CDO-S2"
  },
  {
@@ -880,6 +990,7 @@
   "biosample_acc": "SAMN08042482",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P1CDO2"
  },
  {
@@ -888,6 +999,7 @@
   "biosample_acc": "SAMN08042499",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P27CDO-S2"
  },
  {
@@ -896,6 +1008,7 @@
   "biosample_acc": "SAMN08042490",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P13UCO-S1"
  },
  {
@@ -904,6 +1017,7 @@
   "biosample_acc": "SAMN08042489",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P11CDO-S1"
  },
  {
@@ -912,6 +1026,7 @@
   "biosample_acc": "SAMN08042483",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P1CDO3"
  },
  {
@@ -920,6 +1035,7 @@
   "biosample_acc": "SAMEA3672890",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "NCTC11168"
  },
  {
@@ -928,6 +1044,7 @@
   "biosample_acc": "SAMEA4063018",
   "host": "MAMMAL FETUS (SHEEP)",
   "scientific_name": "Campylobacter fetus subsp. fetus",
+  "sra_release_date": null,
   "strain": "NCTC10842"
  },
  {
@@ -936,6 +1053,7 @@
   "biosample_acc": "SAMN05831970",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ067CC45"
  },
  {
@@ -944,6 +1062,7 @@
   "biosample_acc": "SAMN05831978",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ515CC45"
  },
  {
@@ -952,6 +1071,7 @@
   "biosample_acc": "SAMN05831969",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ031CC45"
  },
  {
@@ -960,6 +1080,7 @@
   "biosample_acc": "SAMN05831994",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ017CCUA"
  },
  {
@@ -968,6 +1089,7 @@
   "biosample_acc": "SAMN05831976",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ513CC45"
  },
  {
@@ -976,6 +1098,7 @@
   "biosample_acc": "SAMN05831983",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ088CC52"
  },
  {
@@ -984,6 +1107,7 @@
   "biosample_acc": "SAMN05831985",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ074CC443"
  },
  {
@@ -992,6 +1116,7 @@
   "biosample_acc": "SAMN05831988",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ071CC464"
  },
  {
@@ -1000,6 +1125,7 @@
   "biosample_acc": "SAMN05831990",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ090CC1332"
  },
  {
@@ -1008,6 +1134,7 @@
   "biosample_acc": "SAMN05831991",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ018CCUA"
  },
  {
@@ -1016,6 +1143,7 @@
   "biosample_acc": "SAMN05831989",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ066CC508"
  },
  {
@@ -1024,6 +1152,7 @@
   "biosample_acc": "SAMN10034081",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "HPC5"
  },
  {
@@ -1032,6 +1161,7 @@
   "biosample_acc": "SAMEA4030738",
   "host": "DOG",
   "scientific_name": "Campylobacter upsaliensis",
+  "sra_release_date": null,
   "strain": "NCTC11541"
  },
  {
@@ -1040,6 +1170,7 @@
   "biosample_acc": "SAMEA48403168",
   "host": "MARINE",
   "scientific_name": "Campylobacter insulaenigrae",
+  "sra_release_date": null,
   "strain": "NCTC12927"
  },
  {
@@ -1048,6 +1179,7 @@
   "biosample_acc": "SAMEA104167179",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC13268"
  },
  {
@@ -1056,6 +1188,7 @@
   "biosample_acc": "SAMEA104167178",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC13266"
  },
  {
@@ -1064,6 +1197,7 @@
   "biosample_acc": "SAMEA104167180",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC13265"
  },
  {
@@ -1072,6 +1206,7 @@
   "biosample_acc": "SAMEA104167187",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC13261"
  },
  {
@@ -1080,6 +1215,7 @@
   "biosample_acc": "SAMEA104167185",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC13255"
  },
  {
@@ -1088,6 +1224,7 @@
   "biosample_acc": "SAMEA104167186",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC13257"
  },
  {
@@ -1096,6 +1233,7 @@
   "biosample_acc": "SAMEA104167192",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "NCTC12109"
  },
  {
@@ -1104,6 +1242,7 @@
   "biosample_acc": "SAMEA104167203",
   "host": "BIRD (CHICKEN)",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "NCTC12851"
  },
  {
@@ -1112,6 +1251,7 @@
   "biosample_acc": "SAMEA104167213",
   "host": "NOT AVAILABLE",
   "scientific_name": "Campylobacter lari",
+  "sra_release_date": null,
   "strain": "NCTC11937"
  },
  {
@@ -1120,6 +1260,7 @@
   "biosample_acc": "SAMEA104210759",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "NCTC10983"
  },
  {
@@ -1128,6 +1269,7 @@
   "biosample_acc": "SAMEA104307708",
   "host": "WILD SEAL",
   "scientific_name": "Campylobacter insulaenigrae",
+  "sra_release_date": null,
   "strain": "NCTC12928"
  },
  {
@@ -1136,6 +1278,7 @@
   "biosample_acc": "SAMN08687180",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "huA17"
  },
  {
@@ -1144,6 +1287,7 @@
   "biosample_acc": "SAMN06339750",
   "host": "BOVINE",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "ATCC 33560"
  },
  {
@@ -1152,6 +1296,7 @@
   "biosample_acc": "SAMEA4535847",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter showae",
+  "sra_release_date": null,
   "strain": null
  },
  {
@@ -1160,6 +1305,7 @@
   "biosample_acc": "SAMN10101901",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "BC"
  },
  {
@@ -1168,6 +1314,7 @@
   "biosample_acc": "SAMN11336895",
   "host": "MOUSE",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SCJK2"
  },
  {
@@ -1176,6 +1323,7 @@
   "biosample_acc": "SAMN12256997",
   "host": "OVIS ARIES",
   "scientific_name": "Campylobacter fetus subsp. fetus",
+  "sra_release_date": null,
   "strain": "INIA/17144"
  },
  {
@@ -1184,6 +1332,7 @@
   "biosample_acc": "SAMN11056450",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "FDAARGOS_735"
  },
  {
@@ -1192,6 +1341,7 @@
   "biosample_acc": "SAMN11316573",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "16SHKX65C"
  },
  {
@@ -1200,6 +1350,7 @@
   "biosample_acc": "SAMN13976980",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFV08A1102-42A"
  },
  {
@@ -1208,6 +1359,7 @@
   "biosample_acc": "SAMN13976976",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFF02A725-35A"
  },
  {
@@ -1216,6 +1368,7 @@
   "biosample_acc": "SAMN13976982",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFViADRI1362"
  },
  {
@@ -1224,6 +1377,7 @@
   "biosample_acc": "SAMN13976978",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFF00A031"
  },
  {
@@ -1232,6 +1386,7 @@
   "biosample_acc": "SAMN13976979",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFV08A948-2A"
  },
  {
@@ -1240,6 +1395,7 @@
   "biosample_acc": "SAMN13976977",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFF09A980"
  },
  {
@@ -1248,6 +1404,7 @@
   "biosample_acc": "SAMN13976981",
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus",
+  "sra_release_date": null,
   "strain": "CFViADRI545"
  },
  {
@@ -1256,6 +1413,7 @@
   "biosample_acc": "SAMN13656972",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096307"
  },
  {
@@ -1264,6 +1422,7 @@
   "biosample_acc": "SAMN13656970",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096306"
  },
  {
@@ -1272,6 +1431,7 @@
   "biosample_acc": "SAMN13656959",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096305"
  },
  {
@@ -1280,6 +1440,7 @@
   "biosample_acc": "SAMN13656984",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096302"
  },
  {
@@ -1288,6 +1449,7 @@
   "biosample_acc": "SAMN13656979",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096301"
  },
  {
@@ -1296,6 +1458,7 @@
   "biosample_acc": "SAMN13656900",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096297"
  },
  {
@@ -1304,6 +1467,7 @@
   "biosample_acc": "SAMN13656872",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN096296"
  },
  {
@@ -1312,6 +1476,7 @@
   "biosample_acc": "SAMN11487379",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CFSAN093257"
  },
  {
@@ -1320,6 +1485,7 @@
   "biosample_acc": "SAMN03737981",
   "host": "PIG",
   "scientific_name": "Campylobacter mucosalis CCUG 21559",
+  "sra_release_date": null,
   "strain": "CCUG 21559"
  },
  {
@@ -1328,6 +1494,7 @@
   "biosample_acc": "SAMN03737987",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter rectus",
+  "sra_release_date": null,
   "strain": "ATCC 33238"
  },
  {
@@ -1336,6 +1503,7 @@
   "biosample_acc": "SAMN03737988",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter showae",
+  "sra_release_date": null,
   "strain": "ATCC 51146"
  },
  {
@@ -1344,6 +1512,7 @@
   "biosample_acc": "SAMN10884419",
   "host": "PHOCA VITULINA",
   "scientific_name": "Campylobacter blaseri",
+  "sra_release_date": null,
   "strain": "LMG 30333"
  },
  {
@@ -1352,6 +1521,7 @@
   "biosample_acc": "SAMN10884418",
   "host": "MACACA SILENUS",
   "scientific_name": "Campylobacter corcagiensis",
+  "sra_release_date": null,
   "strain": "LMG 27932"
  },
  {
@@ -1360,6 +1530,7 @@
   "biosample_acc": "SAMN09274393",
   "host": "PIG",
   "scientific_name": "Campylobacter hyointestinalis subsp. lawsonii",
+  "sra_release_date": null,
   "strain": "CHY5"
  },
  {
@@ -1368,6 +1539,7 @@
   "biosample_acc": "SAMN15351903",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "D33a"
  },
  {
@@ -1376,6 +1548,7 @@
   "biosample_acc": "SAMN15351901",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "A9a"
  },
  {
@@ -1384,6 +1557,7 @@
   "biosample_acc": "SAMN11415929",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "LDG17f"
  },
  {
@@ -1392,6 +1566,7 @@
   "biosample_acc": "SAMN11415912",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "9090"
  },
  {
@@ -1400,6 +1575,7 @@
   "biosample_acc": "SAMN15508151",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "OBT12377"
  },
  {
@@ -1408,6 +1584,7 @@
   "biosample_acc": "SAMN15508152",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "OBT12386"
  },
  {
@@ -1416,6 +1593,7 @@
   "biosample_acc": "SAMN15508154",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "OBT12393"
  },
  {
@@ -1424,6 +1602,7 @@
   "biosample_acc": "SAMN15508153",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "OBT12390"
  },
  {
@@ -1432,6 +1611,7 @@
   "biosample_acc": "SAMN15690939",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C1922C72"
  },
  {
@@ -1440,6 +1620,7 @@
   "biosample_acc": "SAMN15690933",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C220"
  },
  {
@@ -1448,6 +1629,7 @@
   "biosample_acc": "SAMN15690932",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C219"
  },
  {
@@ -1456,6 +1638,7 @@
   "biosample_acc": "SAMN15690931",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C203"
  },
  {
@@ -1464,6 +1647,7 @@
   "biosample_acc": "SAMN15690930",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C201"
  },
  {
@@ -1472,6 +1656,7 @@
   "biosample_acc": "SAMN15690929",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C197"
  },
  {
@@ -1480,6 +1665,7 @@
   "biosample_acc": "SAMN15690928",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C109"
  },
  {
@@ -1488,6 +1674,7 @@
   "biosample_acc": "SAMN15690927",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C57"
  },
  {
@@ -1496,6 +1683,7 @@
   "biosample_acc": "SAMN15690924",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "C34"
  },
  {
@@ -1504,6 +1692,7 @@
   "biosample_acc": "SAMN08031525",
   "host": "TURKEY",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "meC0467"
  },
  {
@@ -1512,6 +1701,7 @@
   "biosample_acc": "SAMN08031447",
   "host": "TURKEY",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "meC0280"
  },
  {
@@ -1520,6 +1710,7 @@
   "biosample_acc": "SAMN08031524",
   "host": "TURKEY",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "meC0281"
  },
  {
@@ -1528,6 +1719,7 @@
   "biosample_acc": "SAMN05908162",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P15UCO-S2"
  },
  {
@@ -1536,6 +1728,7 @@
   "biosample_acc": "SAMN05908145",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "H1O1"
  },
  {
@@ -1544,6 +1737,7 @@
   "biosample_acc": "SAMN05908159",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P3UCO1"
  },
  {
@@ -1552,6 +1746,7 @@
   "biosample_acc": "SAMN05908158",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "P3UCB1"
  },
  {
@@ -1560,6 +1755,7 @@
   "biosample_acc": "SAMN05908146",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter concisus",
+  "sra_release_date": null,
   "strain": "H9O-S2"
  },
  {
@@ -1568,6 +1764,7 @@
   "biosample_acc": "SAMN16960974",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter hepaticus",
+  "sra_release_date": null,
   "strain": "UF2019SK1"
  },
  {
@@ -1576,6 +1773,7 @@
   "biosample_acc": "SAMN16387700",
   "host": "SHELLFISH",
   "scientific_name": "Campylobacter peloridis",
+  "sra_release_date": null,
   "strain": "2016D-0074"
  },
  {
@@ -1584,6 +1782,7 @@
   "biosample_acc": "SAMN15354339",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter upsaliensis",
+  "sra_release_date": null,
   "strain": "D6824"
  },
  {
@@ -1592,6 +1791,7 @@
   "biosample_acc": "SAMN16387699",
   "host": "BOVINE",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "D0133"
  },
  {
@@ -1600,6 +1800,7 @@
   "biosample_acc": "SAMN15354327",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter lari",
+  "sra_release_date": null,
   "strain": "2014D-0218"
  },
  {
@@ -1608,6 +1809,7 @@
   "biosample_acc": "SAMN15354326",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "2014D-0105"
  },
  {
@@ -1616,6 +1818,7 @@
   "biosample_acc": "SAMN16387701",
   "host": "LION-TAILED MACAQUES",
   "scientific_name": "Campylobacter corcagiensis",
+  "sra_release_date": null,
   "strain": "2016D-0077"
  },
  {
@@ -1624,6 +1827,7 @@
   "biosample_acc": "SAMN14615035",
   "host": "NON-HUMAN PRIMATE",
   "scientific_name": "Campylobacter fetus subsp. venerealis",
+  "sra_release_date": null,
   "strain": "P4531"
  },
  {
@@ -1632,6 +1836,7 @@
   "biosample_acc": "SAMN08987256",
   "host": "BROILER CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CAMSA2038"
  },
  {
@@ -1640,6 +1845,7 @@
   "biosample_acc": "SAMN08987254",
   "host": "BROILER CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CAMSA2002"
  },
  {
@@ -1648,6 +1854,7 @@
   "biosample_acc": "SAMN15004777",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "RM1245"
  },
  {
@@ -1656,6 +1863,7 @@
   "biosample_acc": "SAMN15004779",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "RM1510"
  },
  {
@@ -1664,6 +1872,7 @@
   "biosample_acc": "SAMN15004780",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "RM3147"
  },
  {
@@ -1672,6 +1881,7 @@
   "biosample_acc": "SAMN15004781",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R12"
  },
  {
@@ -1680,6 +1890,7 @@
   "biosample_acc": "SAMN15004773",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "GB03"
  },
  {
@@ -1688,6 +1899,7 @@
   "biosample_acc": "SAMN15004782",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R23"
  },
  {
@@ -1696,6 +1908,7 @@
   "biosample_acc": "SAMN15004783",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R31"
  },
  {
@@ -1704,6 +1917,7 @@
   "biosample_acc": "SAMN15004775",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "GB28"
  },
  {
@@ -1712,6 +1926,7 @@
   "biosample_acc": "SAMN15004776",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "GB60"
  },
  {
@@ -1720,6 +1935,7 @@
   "biosample_acc": "SAMN15004785",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R73"
  },
  {
@@ -1728,6 +1944,7 @@
   "biosample_acc": "SAMN05871074",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "GB26"
  },
  {
@@ -1736,6 +1953,7 @@
   "biosample_acc": "SAMN15004774",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "GB18"
  },
  {
@@ -1744,6 +1962,7 @@
   "biosample_acc": "SAMN15004784",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R72"
  },
  {
@@ -1752,6 +1971,7 @@
   "biosample_acc": "SAMN15004778",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "RM1477"
  },
  {
@@ -1760,6 +1980,7 @@
   "biosample_acc": "SAMN05871073",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni subsp. jejuni",
+  "sra_release_date": null,
   "strain": "GB19"
  },
  {
@@ -1768,6 +1989,7 @@
   "biosample_acc": "SAMN18438628",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter fetus subsp. fetus",
+  "sra_release_date": null,
   "strain": "CITCf01"
  },
  {
@@ -1776,6 +1998,7 @@
   "biosample_acc": "SAMN18438775",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter fetus subsp. fetus",
+  "sra_release_date": null,
   "strain": "CITCf02"
  },
  {
@@ -1784,6 +2007,7 @@
   "biosample_acc": "SAMN15156770",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R16.0174"
  },
  {
@@ -1792,6 +2016,7 @@
   "biosample_acc": "SAMN15156909",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "R18.1828"
  },
  {
@@ -1800,6 +2025,7 @@
   "biosample_acc": "SAMN15156961",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "R19.0802"
  },
  {
@@ -1808,6 +2034,7 @@
   "biosample_acc": "SAMN15156968",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "R19.0895"
  },
  {
@@ -1816,6 +2043,7 @@
   "biosample_acc": "SAMN15156890",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R18.1301"
  },
  {
@@ -1824,6 +2052,7 @@
   "biosample_acc": "SAMN15156789",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R16.4752"
  },
  {
@@ -1832,6 +2061,7 @@
   "biosample_acc": "SAMN15156991",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "R19.1157"
  },
  {
@@ -1840,6 +2070,7 @@
   "biosample_acc": "SAMN15156779",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R16.2162"
  },
  {
@@ -1848,6 +2079,7 @@
   "biosample_acc": "SAMN15156978",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "R19.1007"
  },
  {
@@ -1856,6 +2088,7 @@
   "biosample_acc": "SAMEA8911315",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": null
  },
  {
@@ -1864,6 +2097,7 @@
   "biosample_acc": "SAMEA8911316",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": null
  },
  {
@@ -1872,6 +2106,7 @@
   "biosample_acc": "SAMN21240411",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "C203016"
  },
  {
@@ -1880,6 +2115,7 @@
   "biosample_acc": "SAMEA9957328",
   "host": "CANIS LUPUS FAMILIARIS",
   "scientific_name": "Campylobacter upsaliensis",
+  "sra_release_date": null,
   "strain": "Campylobacter upsaliensis 17-M197059"
  },
  {
@@ -1888,6 +2124,7 @@
   "biosample_acc": "SAMEA9957327",
   "host": "CANIS LUPUS FAMILIARIS",
   "scientific_name": "Campylobacter upsaliensis",
+  "sra_release_date": null,
   "strain": "Campylobacter upsaliensis CCUG 14913"
  },
  {
@@ -1896,6 +2133,7 @@
   "biosample_acc": "SAMN14648956",
   "host": "MACACA MULATTA",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "P4581"
  },
  {
@@ -1904,6 +2142,7 @@
   "biosample_acc": "SAMN22668676",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SHI6972"
  },
  {
@@ -1912,6 +2151,7 @@
   "biosample_acc": "SAMN22668674",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SHI4648"
  },
  {
@@ -1920,6 +2160,7 @@
   "biosample_acc": "SAMN22668675",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SHI5328"
  },
  {
@@ -1928,6 +2169,7 @@
   "biosample_acc": "SAMN22668668",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CMP10201"
  },
  {
@@ -1936,6 +2178,7 @@
   "biosample_acc": "SAMN22668669",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "OBT12377"
  },
  {
@@ -1944,6 +2187,7 @@
   "biosample_acc": "SAMN22668672",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "OBT12393"
  },
  {
@@ -1952,6 +2196,7 @@
   "biosample_acc": "SAMN22668673",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SHI3134"
  },
  {
@@ -1960,6 +2205,7 @@
   "biosample_acc": "SAMN22668671",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "OBT12390"
  },
  {
@@ -1968,6 +2214,7 @@
   "biosample_acc": "SAMN22668667",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CMP10190"
  },
  {
@@ -1976,6 +2223,7 @@
   "biosample_acc": "SAMN22668670",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "OBT12386"
  },
  {
@@ -1984,6 +2232,7 @@
   "biosample_acc": "SAMN22668664",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "6-1083-19"
  },
  {
@@ -1992,6 +2241,7 @@
   "biosample_acc": "SAMN22668665",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "6-1197-19"
  },
  {
@@ -2000,6 +2250,7 @@
   "biosample_acc": "SAMN22668663",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "6-897-19"
  },
  {
@@ -2008,6 +2259,7 @@
   "biosample_acc": "SAMN08945459",
   "host": "CHICKEN",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "c021"
  },
  {
@@ -2016,6 +2268,7 @@
   "biosample_acc": "SAMD00491644",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ001"
  },
  {
@@ -2024,6 +2277,7 @@
   "biosample_acc": "SAMD00491646",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ003"
  },
  {
@@ -2032,6 +2286,7 @@
   "biosample_acc": "SAMD00491647",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ004"
  },
  {
@@ -2040,6 +2295,7 @@
   "biosample_acc": "SAMD00491650",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ007"
  },
  {
@@ -2048,6 +2304,7 @@
   "biosample_acc": "SAMD00491657",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ014"
  },
  {
@@ -2056,6 +2313,7 @@
   "biosample_acc": "SAMD00491659",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ016"
  },
  {
@@ -2064,6 +2322,7 @@
   "biosample_acc": "SAMD00491660",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ017"
  },
  {
@@ -2072,6 +2331,7 @@
   "biosample_acc": "SAMD00491662",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ019"
  },
  {
@@ -2080,6 +2340,7 @@
   "biosample_acc": "SAMD00491663",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ020"
  },
  {
@@ -2088,6 +2349,7 @@
   "biosample_acc": "SAMD00491665",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ022"
  },
  {
@@ -2096,6 +2358,7 @@
   "biosample_acc": "SAMD00491669",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ026"
  },
  {
@@ -2104,6 +2367,7 @@
   "biosample_acc": "SAMD00491671",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ028"
  },
  {
@@ -2112,6 +2376,7 @@
   "biosample_acc": "SAMD00491676",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ033"
  },
  {
@@ -2120,6 +2385,7 @@
   "biosample_acc": "SAMD00491680",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ037"
  },
  {
@@ -2128,6 +2394,7 @@
   "biosample_acc": "SAMD00491690",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ047"
  },
  {
@@ -2136,6 +2403,7 @@
   "biosample_acc": "SAMD00491691",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ048"
  },
  {
@@ -2144,6 +2412,7 @@
   "biosample_acc": "SAMD00491699",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ056"
  },
  {
@@ -2152,6 +2421,7 @@
   "biosample_acc": "SAMD00491700",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ057"
  },
  {
@@ -2160,6 +2430,7 @@
   "biosample_acc": "SAMD00491702",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ059"
  },
  {
@@ -2168,6 +2439,7 @@
   "biosample_acc": "SAMD00491708",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ065"
  },
  {
@@ -2176,6 +2448,7 @@
   "biosample_acc": "SAMD00491710",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ067"
  },
  {
@@ -2184,6 +2457,7 @@
   "biosample_acc": "SAMD00491737",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ094"
  },
  {
@@ -2192,6 +2466,7 @@
   "biosample_acc": "SAMD00491738",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ095"
  },
  {
@@ -2200,6 +2475,7 @@
   "biosample_acc": "SAMD00491739",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ096"
  },
  {
@@ -2208,6 +2484,7 @@
   "biosample_acc": "SAMD00491740",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ097"
  },
  {
@@ -2216,6 +2493,7 @@
   "biosample_acc": "SAMD00491742",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ099"
  },
  {
@@ -2224,6 +2502,7 @@
   "biosample_acc": "SAMD00491744",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ101"
  },
  {
@@ -2232,6 +2511,7 @@
   "biosample_acc": "SAMD00491751",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ108"
  },
  {
@@ -2240,6 +2520,7 @@
   "biosample_acc": "SAMD00491752",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ109"
  },
  {
@@ -2248,6 +2529,7 @@
   "biosample_acc": "SAMD00491754",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ111"
  },
  {
@@ -2256,6 +2538,7 @@
   "biosample_acc": "SAMD00491755",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ112"
  },
  {
@@ -2264,6 +2547,7 @@
   "biosample_acc": "SAMD00491757",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "THJ114"
  },
  {
@@ -2272,6 +2556,7 @@
   "biosample_acc": "SAMN05831973",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ510CC45"
  },
  {
@@ -2280,6 +2565,7 @@
   "biosample_acc": "SAMN05831981",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ518CC45"
  },
  {
@@ -2288,6 +2574,7 @@
   "biosample_acc": "SAMN05831965",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ007CC45"
  },
  {
@@ -2296,6 +2583,7 @@
   "biosample_acc": "SAMN05831967",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ021CC45"
  },
  {
@@ -2304,6 +2592,7 @@
   "biosample_acc": "SAMN05831987",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ015CC464"
  },
  {
@@ -2312,6 +2601,7 @@
   "biosample_acc": "SAMN05831971",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ508CC45"
  },
  {
@@ -2320,6 +2610,7 @@
   "biosample_acc": "SAMN05831980",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ517CC45"
  },
  {
@@ -2328,6 +2619,7 @@
   "biosample_acc": "SAMN05831974",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ511CC45"
  },
  {
@@ -2336,6 +2628,7 @@
   "biosample_acc": "SAMN05831966",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ020CC45"
  },
  {
@@ -2344,6 +2637,7 @@
   "biosample_acc": "SAMN05831992",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ048CCUA"
  },
  {
@@ -2352,6 +2646,7 @@
   "biosample_acc": "SAMN05831964",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ004CC45"
  },
  {
@@ -2360,6 +2655,7 @@
   "biosample_acc": "SAMN05831986",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ075CC460"
  },
  {
@@ -2368,6 +2664,7 @@
   "biosample_acc": "SAMN05831984",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ001CC354"
  },
  {
@@ -2376,6 +2673,7 @@
   "biosample_acc": "SAMN05831968",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ029CC45"
  },
  {
@@ -2384,6 +2682,7 @@
   "biosample_acc": "SAMN05831982",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ065CC48"
  },
  {
@@ -2392,6 +2691,7 @@
   "biosample_acc": "SAMN05831993",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ055CCUA"
  },
  {
@@ -2400,6 +2700,7 @@
   "biosample_acc": "SAMN05831975",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ512CC45"
  },
  {
@@ -2408,6 +2709,7 @@
   "biosample_acc": "SAMN05831972",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ509CC45"
  },
  {
@@ -2416,6 +2718,7 @@
   "biosample_acc": "SAMN05831977",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ514CC45"
  },
  {
@@ -2424,6 +2727,7 @@
   "biosample_acc": "SAMN05831979",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "CJ516CC45"
  },
  {
@@ -2432,6 +2736,7 @@
   "biosample_acc": "SAMN31167590",
   "host": "HOMO SAPIENS",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "10-02932"
  },
  {
@@ -2440,6 +2745,7 @@
   "biosample_acc": "SAMN13684191",
   "host": "PIG",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "QL_1_15"
  },
  {
@@ -2448,6 +2754,7 @@
   "biosample_acc": "SAMEA112658473",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "ST-19"
  },
  {
@@ -2456,6 +2763,7 @@
   "biosample_acc": "SAMEA112658472",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "ST-19"
  },
  {
@@ -2464,6 +2772,7 @@
   "biosample_acc": "SAMEA112658474",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "ST-19"
  },
  {
@@ -2472,6 +2781,7 @@
   "biosample_acc": "SAMEA112658475",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "ST-19"
  },
  {
@@ -2480,6 +2790,7 @@
   "biosample_acc": "SAMEA112658476",
   "host": "BOS TAURUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "ST-19"
  },
  {
@@ -2488,6 +2799,7 @@
   "biosample_acc": "SAMEA112658477",
   "host": "GALLUS GALLUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "ST-19"
  },
  {
@@ -2496,6 +2808,7 @@
   "biosample_acc": "SAMN35024727",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC102"
  },
  {
@@ -2504,6 +2817,7 @@
   "biosample_acc": "SAMN35024726",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC94"
  },
  {
@@ -2512,6 +2826,7 @@
   "biosample_acc": "SAMN35024725",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC57"
  },
  {
@@ -2520,6 +2835,7 @@
   "biosample_acc": "SAMN35024724",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC41"
  },
  {
@@ -2528,6 +2844,7 @@
   "biosample_acc": "SAMN35024723",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC25"
  },
  {
@@ -2536,6 +2853,7 @@
   "biosample_acc": "SAMN35024722",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC9"
  },
  {
@@ -2544,6 +2862,7 @@
   "biosample_acc": "SAMN35024719",
   "host": "URSUS AMERICANUS",
   "scientific_name": "Campylobacter jejuni",
+  "sra_release_date": null,
   "strain": "SKBC1"
  },
  {
@@ -2552,6 +2871,7 @@
   "biosample_acc": "SAMN13684156",
   "host": "PIG",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "JZ_1_79"
  },
  {
@@ -2560,6 +2880,7 @@
   "biosample_acc": "SAMN13684357",
   "host": "PIG",
   "scientific_name": "Campylobacter coli",
+  "sra_release_date": null,
   "strain": "SH89"
  }
 ]

@@ -1,6 +1,7 @@
 [
  {
-  "Bacillus_cereus_group": "PDG000000088.176"
+  "Bacillus_cereus_group": "PDG000000088.186",
+  "date": "Wed Jul 12 16:03:32 2023"
  },
  {
   "asm_acc": "GCA_000021205.1",
@@ -8,6 +9,7 @@
   "biosample_acc": "SAMN02604059",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus cereus B4264",
+  "sra_release_date": null,
   "strain": "B4264"
  },
  {
@@ -16,6 +18,7 @@
   "biosample_acc": "SAMN02603474",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis str. H9401",
+  "sra_release_date": null,
   "strain": "H9401"
  },
  {
@@ -24,6 +27,7 @@
   "biosample_acc": "SAMN02469407",
   "host": "COW",
   "scientific_name": "Bacillus anthracis str. BF1",
+  "sra_release_date": null,
   "strain": "BF1"
  },
  {
@@ -32,6 +36,7 @@
   "biosample_acc": "SAMD00002586",
   "host": "HIPPOPOTAMUS AMPHIBIUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "CZC5"
  },
  {
@@ -40,6 +45,7 @@
   "biosample_acc": "SAMN03121921",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "03BB87"
  },
  {
@@ -48,6 +54,7 @@
   "biosample_acc": "SAMN03201418",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Ames"
  },
  {
@@ -56,6 +63,7 @@
   "biosample_acc": "SAMN03223175",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "97-27"
  },
  {
@@ -64,6 +72,7 @@
   "biosample_acc": "SAMN02999504",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A1144"
  },
  {
@@ -72,6 +81,7 @@
   "biosample_acc": "SAMN03457230",
   "host": "TOBACCO",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "YC-10"
  },
  {
@@ -80,6 +90,7 @@
   "biosample_acc": "SAMN04278951",
   "host": "INVERTEBRATES",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "CTC"
  },
  {
@@ -88,6 +99,7 @@
   "biosample_acc": "SAMN04442145",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Stendal"
  },
  {
@@ -96,6 +108,7 @@
   "biosample_acc": "SAMN04628222",
   "host": "BOMBYX MORI",
   "scientific_name": "Bacillus thuringiensis serovar alesti",
+  "sra_release_date": null,
   "strain": "BGSC 4C1"
  },
  {
@@ -104,6 +117,7 @@
   "biosample_acc": "SAMN03890259",
   "host": "CAENORHABDITIS ELEGANS",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "MYBT18246"
  },
  {
@@ -112,6 +126,7 @@
   "biosample_acc": "SAMN06186720",
   "host": "COW",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Tyrol 4675"
  },
  {
@@ -120,6 +135,7 @@
   "biosample_acc": "SAMN06270326",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "SPV842_15"
  },
  {
@@ -128,6 +144,7 @@
   "biosample_acc": "SAMN06473083",
   "host": "BACILLUS THURINGIENSIS SUBSP",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "Bacillus thuringiensis L-7601"
  },
  {
@@ -136,6 +153,7 @@
   "biosample_acc": "SAMN04875572",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus sp. FDAARGOS_235",
+  "sra_release_date": null,
   "strain": "FDAARGOS_235"
  },
  {
@@ -144,6 +162,7 @@
   "biosample_acc": "SAMN04513593",
   "host": "CAENORHABDITIS ELEGANS",
   "scientific_name": "Bacillus thuringiensis Bt18247",
+  "sra_release_date": null,
   "strain": "Bt18247"
  },
  {
@@ -152,6 +171,7 @@
   "biosample_acc": "SAMN06173354",
   "host": "ENVIRONMENT",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "FDAARGOS_341"
  },
  {
@@ -160,6 +180,7 @@
   "biosample_acc": "SAMN07498358",
   "host": "BOS PRIMIGENIUS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "14RA5914"
  },
  {
@@ -168,6 +189,7 @@
   "biosample_acc": "SAMN08455831",
   "host": "SPOROBOLUS ANGLICUS",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "TG1-6"
  },
  {
@@ -176,6 +198,7 @@
   "biosample_acc": "SAMN04288432",
   "host": "VECTOBAC",
   "scientific_name": "Bacillus thuringiensis serovar israelensis",
+  "sra_release_date": null,
   "strain": "AM65-52"
  },
  {
@@ -184,6 +207,7 @@
   "biosample_acc": "SAMN07981265",
   "host": "ORYCTES GIGAS",
   "scientific_name": "Bacillus thuringiensis LM1212",
+  "sra_release_date": null,
   "strain": "LM1212"
  },
  {
@@ -192,6 +216,7 @@
   "biosample_acc": "SAMN07515795",
   "host": "BACTERIA",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "HBL-AI"
  },
  {
@@ -200,6 +225,7 @@
   "biosample_acc": "SAMN09652006",
   "host": "SOIL",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "ZB201708"
  },
  {
@@ -208,6 +234,7 @@
   "biosample_acc": "SAMN09041402",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "17OD930"
  },
  {
@@ -216,6 +243,7 @@
   "biosample_acc": "SAMN11959879",
   "host": "COFFEE",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "A22"
  },
  {
@@ -224,6 +252,7 @@
   "biosample_acc": "SAMN11960211",
   "host": "BLACK PEPPER PLANT",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "A24"
  },
  {
@@ -232,6 +261,7 @@
   "biosample_acc": "SAMN10058771",
   "host": "ALVINOCARIS LONGIROSTRIS",
   "scientific_name": "Bacillus wiedmannii",
+  "sra_release_date": null,
   "strain": "SR52"
  },
  {
@@ -240,6 +270,7 @@
   "biosample_acc": "SAMN10819077",
   "host": "APOSTICHOPUS JAPONICUS",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "DLOU-Changhai"
  },
  {
@@ -248,6 +279,7 @@
   "biosample_acc": "SAMN10819129",
   "host": "APOSTICHOPUS JAPONICUS",
   "scientific_name": "Bacillus luti",
+  "sra_release_date": null,
   "strain": "FJ"
  },
  {
@@ -256,6 +288,7 @@
   "biosample_acc": "SAMN10819049",
   "host": "APOSTICHOPUS JAPONICUS",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "DLOU-Tangshan"
  },
  {
@@ -264,6 +297,7 @@
   "biosample_acc": "SAMN10743320",
   "host": "APOSTICHOPUS JAPONICUS",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "DLOU-Weihai"
  },
  {
@@ -272,6 +306,7 @@
   "biosample_acc": "SAMN10739311",
   "host": "APOSTICHOPUS JAPONICUS",
   "scientific_name": "Bacillus albus",
+  "sra_release_date": null,
   "strain": "DLOU-Yingkou"
  },
  {
@@ -280,6 +315,7 @@
   "biosample_acc": "SAMN14832921",
   "host": "PYROPIA",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "WPySW2"
  },
  {
@@ -288,6 +324,7 @@
   "biosample_acc": "SAMN12769617",
   "host": "SHINKAIA CROSNIERI",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "H2"
  },
  {
@@ -296,6 +333,7 @@
   "biosample_acc": "SAMN17369856",
   "host": "ANGELICA SINENSIS DLIES",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "21155"
  },
  {
@@ -304,6 +342,7 @@
   "biosample_acc": "SAMN17864500",
   "host": "BOMBYX MORI",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "VKM B-370"
  },
  {
@@ -312,6 +351,7 @@
   "biosample_acc": "SAMN13705136",
   "host": "SOLANUM LYCOPERSICUM L.",
   "scientific_name": "Bacillus nitratireducens",
+  "sra_release_date": null,
   "strain": "BM02"
  },
  {
@@ -320,6 +360,7 @@
   "biosample_acc": "SAMN14440804",
   "host": "ORYCTES GIGAS",
   "scientific_name": "Bacillus tropicus",
+  "sra_release_date": null,
   "strain": "LM1212-DB"
  },
  {
@@ -328,6 +369,7 @@
   "biosample_acc": "SAMN17818117",
   "host": "MOTH",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "B13"
  },
  {
@@ -336,6 +378,7 @@
   "biosample_acc": "SAMN25416578",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "PNO2"
  },
  {
@@ -344,6 +387,7 @@
   "biosample_acc": "SAMN25419190",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "ChBA30D"
  },
  {
@@ -352,6 +396,7 @@
   "biosample_acc": "SAMN20890002",
   "host": "ENVIRONMENT",
   "scientific_name": "Bacillus toyonensis",
+  "sra_release_date": null,
   "strain": "UTDF19-29B"
  },
  {
@@ -360,6 +405,7 @@
   "biosample_acc": "SAMN13164746",
   "host": "CATTLE",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A182"
  },
  {
@@ -368,6 +414,7 @@
   "biosample_acc": "SAMN13164732",
   "host": "CATTLE",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "3016"
  },
  {
@@ -376,6 +423,7 @@
   "biosample_acc": "SAMN13640833",
   "host": "COW",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Tyrol 3520"
  },
  {
@@ -384,6 +432,7 @@
   "biosample_acc": "SAMN13164741",
   "host": "CATTLE",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A193a"
  },
  {
@@ -392,6 +441,7 @@
   "biosample_acc": "SAMN13164734",
   "host": "CATTLE",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A166"
  },
  {
@@ -400,6 +450,7 @@
   "biosample_acc": "SAMN13164740",
   "host": "CATTLE",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A168"
  },
  {
@@ -408,6 +459,7 @@
   "biosample_acc": "SAMN13164747",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A178"
  },
  {
@@ -416,6 +468,7 @@
   "biosample_acc": "SAMN13164726",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A27"
  },
  {
@@ -424,6 +477,7 @@
   "biosample_acc": "SAMN02469407",
   "host": "COW",
   "scientific_name": "Bacillus anthracis str. BF1",
+  "sra_release_date": null,
   "strain": "BF1"
  },
  {
@@ -432,6 +486,7 @@
   "biosample_acc": "SAMN18241473",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Pasteur"
  },
  {
@@ -440,6 +495,7 @@
   "biosample_acc": "SAMN18241472",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "UR-1"
  },
  {
@@ -448,6 +504,7 @@
   "biosample_acc": "SAMN18241471",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "188678-1"
  },
  {
@@ -456,6 +513,7 @@
   "biosample_acc": "SAMN18241470",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Tangail-4/2"
  },
  {
@@ -464,6 +522,7 @@
   "biosample_acc": "SAMN18241469",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A3783"
  },
  {
@@ -472,6 +531,7 @@
   "biosample_acc": "SAMN18241468",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "3-IZSLT"
  },
  {
@@ -480,6 +540,7 @@
   "biosample_acc": "SAMN18241467",
   "host": "BOS TAURUS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Pollino 3734"
  },
  {
@@ -488,6 +549,7 @@
   "biosample_acc": "SAMN18241466",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A1074"
  },
  {
@@ -496,6 +558,7 @@
   "biosample_acc": "SAMN18241465",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A0777"
  },
  {
@@ -504,6 +567,7 @@
   "biosample_acc": "SAMN18241464",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "SA020"
  },
  {
@@ -512,6 +576,7 @@
   "biosample_acc": "SAMN18241463",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "AF039"
  },
  {
@@ -520,6 +585,7 @@
   "biosample_acc": "SAMN18241462",
   "host": "NOT COLLECTED",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "A159"
  },
  {
@@ -528,6 +594,7 @@
   "biosample_acc": "SAMN18241461",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Vollum"
  },
  {
@@ -536,6 +603,7 @@
   "biosample_acc": "SAMN26688063",
   "host": "BUBALUS BUBALIS",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "AH7-7"
  },
  {
@@ -544,6 +612,7 @@
   "biosample_acc": "SAMN16562415",
   "host": "SOIL IN TIGER AREA OF ZOO",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "N435-1"
  },
  {
@@ -552,6 +621,7 @@
   "biosample_acc": "SAMN04513597",
   "host": "CAENORHABDITIS ELEGANS",
   "scientific_name": "Bacillus wiedmannii",
+  "sra_release_date": null,
   "strain": "Bt18679"
  },
  {
@@ -560,6 +630,7 @@
   "biosample_acc": "SAMN03890260",
   "host": "TRIBOLIUM CASTANEUM",
   "scientific_name": "Bacillus thuringiensis serovar morrisoni str. 4AA1",
+  "sra_release_date": null,
   "strain": "4AA1"
  },
  {
@@ -568,6 +639,7 @@
   "biosample_acc": "SAMN29358476",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus paranthracis",
+  "sra_release_date": null,
   "strain": "SSBC101"
  },
  {
@@ -576,6 +648,7 @@
   "biosample_acc": "SAMN31013773",
   "host": "BGSC DATABASE",
   "scientific_name": "Bacillus thuringiensis",
+  "sra_release_date": null,
   "strain": "4F5"
  },
  {
@@ -584,6 +657,7 @@
   "biosample_acc": "SAMN32338359",
   "host": "TRYONYX SINENSIS (CHINESE SOFT-SHELL TURTLE)",
   "scientific_name": "Bacillus tropicus",
+  "sra_release_date": null,
   "strain": "JMT105-2"
  },
  {
@@ -592,6 +666,7 @@
   "biosample_acc": "SAMN33336515",
   "host": "SOIL",
   "scientific_name": "Bacillus mycoides",
+  "sra_release_date": null,
   "strain": "DSM 2048"
  },
  {
@@ -600,6 +675,7 @@
   "biosample_acc": "SAMN28980187",
   "host": "CHICKEN",
   "scientific_name": "Bacillus pacificus",
+  "sra_release_date": null,
   "strain": "ANSB901"
  },
  {
@@ -608,6 +684,7 @@
   "biosample_acc": "SAMN33463191",
   "host": "WHITE BREAM",
   "scientific_name": "Bacillus paranthracis",
+  "sra_release_date": null,
   "strain": "Bc006"
  },
  {
@@ -616,6 +693,7 @@
   "biosample_acc": "SAMN33826275",
   "host": "MOSCHUS BEREZOVSKII",
   "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
   "strain": "SCBCM001"
  },
  {
@@ -624,6 +702,7 @@
   "biosample_acc": "SAMN32614585",
   "host": "OVIS ARIES",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "AN17-384_2"
  },
  {
@@ -632,6 +711,7 @@
   "biosample_acc": "SAMN32614595",
   "host": "EQUUS QUAGGA",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "AN18-416_2"
  },
  {
@@ -640,6 +720,7 @@
   "biosample_acc": "SAMN32614574",
   "host": "OVIS ARIES",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "AN17-14_S4"
  },
  {
@@ -648,6 +729,7 @@
   "biosample_acc": "SAMN35323095",
   "host": "HOMO SAPIENS",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "BHY1401"
  },
  {
@@ -656,6 +738,16 @@
   "biosample_acc": "SAMN34374906",
   "host": "MACROTERMES NATALENSIS COLONY MN106",
   "scientific_name": "Bacillus anthracis",
+  "sra_release_date": null,
   "strain": "Mn106-1 head2 chi"
+ },
+ {
+  "asm_acc": "GCA_030406205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35772075",
+  "host": "CATTLE",
+  "scientific_name": "Bacillus cereus",
+  "sra_release_date": null,
+  "strain": "lycx"
  }
 ]

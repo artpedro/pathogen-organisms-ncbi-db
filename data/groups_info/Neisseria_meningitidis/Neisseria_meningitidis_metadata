@@ -14,8 +14,8 @@
   "null": 3
  },
  "hosts": {
-  "HOMO SAPIENS": 100,
   "ENVIRONMENT": 2,
+  "HOMO SAPIENS": 100,
   "NOT AVAILABLE": 2
  }
 }

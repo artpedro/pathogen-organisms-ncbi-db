@@ -6,14 +6,14 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Edwardsiella tarda ATCC 15947 = NBRC 105688": 1,
-  "Edwardsiella tarda": 4
+  "Edwardsiella tarda": 4,
+  "Edwardsiella tarda ATCC 15947 = NBRC 105688": 1
  },
  "strain": {},
  "hosts": {
-  "PARALICHTHYS OLIVACEUS": 1,
   "HOMO SAPIENS": 1,
+  "PSEUDORCA CRASSIDENS": 1,
   "ICTALURUS PUNCTATUS": 2,
-  "PSEUDORCA CRASSIDENS": 1
+  "PARALICHTHYS OLIVACEUS": 1
  }
 }

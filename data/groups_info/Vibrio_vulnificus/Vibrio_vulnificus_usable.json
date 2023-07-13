@@ -1,11 +1,13 @@
 [
  {
-  "Vibrio_vulnificus": "PDG000000058.186"
+  "Vibrio_vulnificus": "PDG000000058.192",
+  "date": "Wed Jul 12 16:42:29 2023"
  },
  {
   "asm_acc": "GCA_000746665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03009989",
+  "collection_date": "2004",
   "host": "OREOCHROMIS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "93U204"
@@ -14,6 +16,7 @@
   "asm_acc": "GCA_001433435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03174938",
+  "collection_date": "2008",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_009"
@@ -22,6 +25,7 @@
   "asm_acc": "GCA_001558515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996334",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FDAARGOS_119"
@@ -30,6 +34,7 @@
   "asm_acc": "GCA_001653775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03764475",
+  "collection_date": "2009-07-31",
   "host": "HOMO SAPIENS; SEX: MALE",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_016"
@@ -38,6 +43,7 @@
   "asm_acc": "GCA_001675245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03956906",
+  "collection_date": "2014-09-18",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_017"
@@ -46,6 +52,7 @@
   "asm_acc": "GCA_002204915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05196200",
+  "collection_date": null,
   "host": "MYA ARENARIA OONOGAI MAKIYAMA",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_037"
@@ -54,6 +61,7 @@
   "asm_acc": "GCA_002215135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04457466",
+  "collection_date": "1990",
   "host": "ANGUILLA ANGUILLA",
   "scientific_name": "Vibrio vulnificus",
   "strain": "CECT 4999"
@@ -62,6 +70,7 @@
   "asm_acc": "GCA_002850455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06237111",
+  "collection_date": "2014-07-17",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV2014DJH"
@@ -70,6 +79,7 @@
   "asm_acc": "GCA_004319645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563567",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_077"
@@ -78,6 +88,7 @@
   "asm_acc": "GCA_008693685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056378",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FDAARGOS_663"
@@ -86,6 +97,7 @@
   "asm_acc": "GCA_014107515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12816916",
+  "collection_date": "2018-08-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "Vv180806"
@@ -94,6 +106,7 @@
   "asm_acc": "GCA_025994915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00506751",
+  "collection_date": "2020-02-03",
   "host": "SHRIMP",
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV20-8B-2"
@@ -102,6 +115,7 @@
   "asm_acc": "GCA_030220165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35548064",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV2018"

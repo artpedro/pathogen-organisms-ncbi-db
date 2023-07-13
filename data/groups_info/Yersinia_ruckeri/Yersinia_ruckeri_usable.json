@@ -1,11 +1,13 @@
 [
  {
-  "Yersinia_ruckeri": "PDG000000086.15"
+  "Yersinia_ruckeri": "PDG000000086.16",
+  "date": "Wed Jul 12 16:42:32 2023"
  },
  {
   "asm_acc": "GCA_000964565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03421018",
+  "collection_date": "1974",
   "host": "ONCORHYNCHUS TSHAWYTSCHA",
   "scientific_name": "Yersinia ruckeri",
   "strain": "Big Creek 74"
@@ -14,6 +16,7 @@
   "asm_acc": "GCA_002192595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03287980",
+  "collection_date": "2014",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "QMA0440"
@@ -22,6 +25,7 @@
   "asm_acc": "GCA_002442495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07594326",
+  "collection_date": "1987-02",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NHV_3758"
@@ -30,6 +34,7 @@
   "asm_acc": "GCA_023212385.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982389",
+  "collection_date": "2017-06-06",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11050"
@@ -38,6 +43,7 @@
   "asm_acc": "GCA_023212425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982385",
+  "collection_date": "2015-10-30",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10587"
@@ -46,6 +52,7 @@
   "asm_acc": "GCA_023212445.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982383",
+  "collection_date": "2014-08-12",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-9681"
@@ -54,6 +61,7 @@
   "asm_acc": "GCA_023212565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982378",
+  "collection_date": "1987",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-492"
@@ -62,6 +70,7 @@
   "asm_acc": "GCA_023212585.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23150584",
+  "collection_date": "2016-09-26",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10705"
@@ -70,6 +79,7 @@
   "asm_acc": "GCA_026435115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879013",
+  "collection_date": "2012",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-8524"
@@ -78,6 +88,7 @@
   "asm_acc": "GCA_026435135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879012",
+  "collection_date": "2011",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-8270"
@@ -86,6 +97,7 @@
   "asm_acc": "GCA_026435155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879011",
+  "collection_date": "1986",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-701"
@@ -94,6 +106,7 @@
   "asm_acc": "GCA_026435175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879010",
+  "collection_date": "2008",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-6614"
@@ -102,6 +115,7 @@
   "asm_acc": "GCA_026435195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879009",
+  "collection_date": "2004",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-5089"
@@ -110,6 +124,7 @@
   "asm_acc": "GCA_026435215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879008",
+  "collection_date": "2003",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-4840"
@@ -118,6 +133,7 @@
   "asm_acc": "GCA_026435235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879007",
+  "collection_date": "2002",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-4570"
@@ -126,6 +142,7 @@
   "asm_acc": "GCA_026435255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879006",
+  "collection_date": "2002",
   "host": "ONCORHYNCHUS MYKISS",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-4479"
@@ -134,6 +151,7 @@
   "asm_acc": "GCA_026435275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879005",
+  "collection_date": "1987",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-1292"
@@ -142,6 +160,7 @@
   "asm_acc": "GCA_026435295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879004",
+  "collection_date": "1987",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-1176"
@@ -150,6 +169,7 @@
   "asm_acc": "GCA_026435315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879003",
+  "collection_date": "2018",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11294"
@@ -158,6 +178,7 @@
   "asm_acc": "GCA_026435335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879002",
+  "collection_date": "2018",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11267"
@@ -166,6 +187,7 @@
   "asm_acc": "GCA_026435495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879001",
+  "collection_date": "2017",
   "host": "BIOFILM",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11073"
@@ -174,6 +196,7 @@
   "asm_acc": "GCA_026435655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879000",
+  "collection_date": "2017",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11065"
@@ -182,6 +205,7 @@
   "asm_acc": "GCA_026435835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28878999",
+  "collection_date": "2016",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10571"

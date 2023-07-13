@@ -12,17 +12,17 @@
  },
  "scientific_name": {
   "Legionella pneumophila subsp. pascullei": 2,
-  "Legionella jordanis": 1,
   "Legionella pneumophila subsp. pneumophila": 8,
-  "Legionella pneumophila": 27,
-  "Legionella pneumophila subsp. fraseri": 7
+  "Legionella pneumophila subsp. fraseri": 7,
+  "Legionella jordanis": 1,
+  "Legionella pneumophila": 27
  },
  "strain": {},
  "hosts": {
-  "NOT AVAILABLE": 3,
   "ENVIRONMENT": 2,
+  "HOMO SAPIENS": 36,
+  "NOT AVAILABLE": 3,
   "PROTOZOA": 3,
-  "NIST MIXED MICROBIAL RM STRAIN": 1,
-  "HOMO SAPIENS": 36
+  "NIST MIXED MICROBIAL RM STRAIN": 1
  }
 }

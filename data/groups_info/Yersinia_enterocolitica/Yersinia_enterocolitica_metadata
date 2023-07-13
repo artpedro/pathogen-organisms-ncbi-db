@@ -9,10 +9,10 @@
   "Yersinia enterocolitica subsp. palearctica": 2
  },
  "scientific_name": {
-  "Yersinia enterocolitica (type O:5) str. YE53/03": 1,
   "Yersinia enterocolitica": 1,
   "Yersinia enterocolitica subsp. enterocolitica": 2,
-  "Yersinia enterocolitica subsp. palearctica": 2
+  "Yersinia enterocolitica subsp. palearctica": 2,
+  "Yersinia enterocolitica (type O:5) str. YE53/03": 1
  },
  "strain": {},
  "hosts": {

@@ -1,6 +1,7 @@
 [
  {
-  "Burkholderia_cepacia_complex": "PDG000000094.40"
+  "Burkholderia_cepacia_complex": "PDG000000094.45",
+  "date": "Wed Jul 12 16:03:34 2023"
  },
  {
   "asm_acc": "GCA_000974835.2",
@@ -8,6 +9,7 @@
   "biosample_acc": "SAMN03486590",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "LO6"
  },
  {
@@ -16,6 +18,7 @@
   "biosample_acc": "SAMN04167160",
   "host": "ALLIUM CEPA (ONION)",
   "scientific_name": "Burkholderia cepacia ATCC 25416",
+  "sra_release_date": null,
   "strain": "UCB 717"
  },
  {
@@ -24,6 +27,7 @@
   "biosample_acc": "SAMN03323790",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "ST32"
  },
  {
@@ -32,6 +36,7 @@
   "biosample_acc": "SAMN04570263",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "842"
  },
  {
@@ -40,6 +45,7 @@
   "biosample_acc": "SAMN04574071",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "895"
  },
  {
@@ -48,6 +54,7 @@
   "biosample_acc": "SAMN03449401",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "AU1185"
  },
  {
@@ -56,6 +63,7 @@
   "biosample_acc": "SAMN03449402",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia vietnamiensis",
+  "sra_release_date": null,
   "strain": "AU1233"
  },
  {
@@ -64,6 +72,7 @@
   "biosample_acc": "SAMN03449404",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia latens",
+  "sra_release_date": null,
   "strain": null
  },
  {
@@ -72,6 +81,7 @@
   "biosample_acc": "SAMN05367054",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia stabilis",
+  "sra_release_date": null,
   "strain": "ATCC BAA-67"
  },
  {
@@ -80,6 +90,7 @@
   "biosample_acc": "SAMN05001925",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "VC7848"
  },
  {
@@ -88,6 +99,7 @@
   "biosample_acc": "SAMN05001933",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "VC12802"
  },
  {
@@ -96,6 +108,7 @@
   "biosample_acc": "SAMN05001912",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "VC12308"
  },
  {
@@ -104,6 +117,7 @@
   "biosample_acc": "SAMN05756084",
   "host": "CORN",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "CR318"
  },
  {
@@ -112,6 +126,7 @@
   "biosample_acc": "SAMN06173358",
   "host": "ENVIRONMENT",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "FDAARGOS_345"
  },
  {
@@ -120,6 +135,7 @@
   "biosample_acc": "SAMN07312432",
   "host": "ONION",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "FDAARGOS_388"
  },
  {
@@ -128,6 +144,7 @@
   "biosample_acc": "SAMN05004748",
   "host": "ENVIRONMENT",
   "scientific_name": "Burkholderia vietnamiensis",
+  "sra_release_date": null,
   "strain": "FDAARGOS_239"
  },
  {
@@ -136,6 +153,7 @@
   "biosample_acc": "SAMN05004755",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_246"
  },
  {
@@ -144,6 +162,7 @@
   "biosample_acc": "SAMN06842015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "PC184 Mulks"
  },
  {
@@ -152,6 +171,7 @@
   "biosample_acc": "SAMN08042342",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia lata",
+  "sra_release_date": null,
   "strain": "A05"
  },
  {
@@ -160,6 +180,7 @@
   "biosample_acc": "SAMN10163240",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_547"
  },
  {
@@ -168,6 +189,7 @@
   "biosample_acc": "SAMN10163241",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_548"
  },
  {
@@ -176,6 +198,7 @@
   "biosample_acc": "SAMN10163186",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia dolosa",
+  "sra_release_date": null,
   "strain": "FDAARGOS_562"
  },
  {
@@ -184,6 +207,7 @@
   "biosample_acc": "SAMN10081159",
   "host": "POPULUS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "YG-3"
  },
  {
@@ -192,6 +216,7 @@
   "biosample_acc": "SAMN11056338",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_623"
  },
  {
@@ -200,6 +225,7 @@
   "biosample_acc": "SAMN11056337",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_622"
  },
  {
@@ -208,6 +234,7 @@
   "biosample_acc": "SAMN11056434",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_719"
  },
  {
@@ -216,6 +243,7 @@
   "biosample_acc": "SAMN11056441",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_726"
  },
  {
@@ -224,6 +252,7 @@
   "biosample_acc": "SAMN11056437",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "FDAARGOS_722"
  },
  {
@@ -232,6 +261,7 @@
   "biosample_acc": "SAMN14693155",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "K56-2"
  },
  {
@@ -240,7 +270,17 @@
   "biosample_acc": "SAMN08724754",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "39628"
+ },
+ {
+  "asm_acc": "GCA_904865725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3357501",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
+  "strain": "MINF_4A"
  },
  {
   "asm_acc": "GCA_017815595.1",
@@ -248,6 +288,7 @@
   "biosample_acc": "SAMN18497774",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia latens",
+  "sra_release_date": null,
   "strain": "AU0505"
  },
  {
@@ -256,6 +297,7 @@
   "biosample_acc": "SAMN18497773",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia latens",
+  "sra_release_date": null,
   "strain": "AU2934"
  },
  {
@@ -264,6 +306,7 @@
   "biosample_acc": "SAMN18839524",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "toggle2"
  },
  {
@@ -272,6 +315,7 @@
   "biosample_acc": "SAMN18839523",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia contaminans",
+  "sra_release_date": null,
   "strain": "toggle1"
  },
  {
@@ -280,6 +324,7 @@
   "biosample_acc": "SAMN18839526",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "toggle4"
  },
  {
@@ -288,6 +333,7 @@
   "biosample_acc": "SAMN18839525",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "toggle3"
  },
  {
@@ -296,6 +342,7 @@
   "biosample_acc": "SAMN20982457",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia contaminans",
+  "sra_release_date": null,
   "strain": "SCAID TST1-2021 (11/270)"
  },
  {
@@ -304,6 +351,7 @@
   "biosample_acc": "SAMN11056436",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia vietnamiensis",
+  "sra_release_date": null,
   "strain": "FDAARGOS_721"
  },
  {
@@ -312,6 +360,7 @@
   "biosample_acc": "SAMN26934490",
   "host": "POPLAR",
   "scientific_name": "Burkholderia pyrrocinia",
+  "sra_release_date": null,
   "strain": "JK-SH007"
  },
  {
@@ -320,6 +369,7 @@
   "biosample_acc": "SAMN13876244",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P2Bm2011a"
  },
  {
@@ -328,6 +378,7 @@
   "biosample_acc": "SAMN13876243",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P1Bm2015"
  },
  {
@@ -336,6 +387,7 @@
   "biosample_acc": "SAMN13876242",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P1Bm2014"
  },
  {
@@ -344,6 +396,7 @@
   "biosample_acc": "SAMN13876240",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P1Bm2012b"
  },
  {
@@ -352,6 +405,7 @@
   "biosample_acc": "SAMN13876238",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P1Bm2011b"
  },
  {
@@ -360,6 +414,7 @@
   "biosample_acc": "SAMN13876237",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P1Bm2011a"
  },
  {
@@ -368,6 +423,7 @@
   "biosample_acc": "SAMN13876236",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "P1Bm2009"
  },
  {
@@ -376,6 +432,7 @@
   "biosample_acc": "SAMN27545478",
   "host": "RICE",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "BRDJ"
  },
  {
@@ -384,6 +441,7 @@
   "biosample_acc": "SAMN20348567",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2007Ycf278"
  },
  {
@@ -392,6 +450,7 @@
   "biosample_acc": "SAMN20348566",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2006Ycf877"
  },
  {
@@ -400,6 +459,7 @@
   "biosample_acc": "SAMN20348565",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2005Ycf971III"
  },
  {
@@ -408,6 +468,7 @@
   "biosample_acc": "SAMN20348562",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2004Ycf1069VI"
  },
  {
@@ -416,6 +477,7 @@
   "biosample_acc": "SAMN20348560",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia vietnamiensis",
+  "sra_release_date": null,
   "strain": "2003Ycf867"
  },
  {
@@ -424,6 +486,7 @@
   "biosample_acc": "SAMN20348620",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2020Y71628512IV"
  },
  {
@@ -432,6 +495,7 @@
   "biosample_acc": "SAMN20348617",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "2019Y71443953II"
  },
  {
@@ -440,6 +504,7 @@
   "biosample_acc": "SAMN20348615",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2019Y71421880II"
  },
  {
@@ -448,6 +513,7 @@
   "biosample_acc": "SAMN20348614",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2019Y71417852IX"
  },
  {
@@ -456,6 +522,7 @@
   "biosample_acc": "SAMN20348612",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2019Y60005016V"
  },
  {
@@ -464,6 +531,7 @@
   "biosample_acc": "SAMN20348609",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2017Y71087112III"
  },
  {
@@ -472,6 +540,7 @@
   "biosample_acc": "SAMN20348608",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2017Y71079786"
  },
  {
@@ -480,6 +549,7 @@
   "biosample_acc": "SAMN20348607",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2017Y71078597II"
  },
  {
@@ -488,6 +558,7 @@
   "biosample_acc": "SAMN20348603",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "2017Y70952565VI"
  },
  {
@@ -496,6 +567,7 @@
   "biosample_acc": "SAMN20348601",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2016Y70910410I"
  },
  {
@@ -504,6 +576,7 @@
   "biosample_acc": "SAMN20348600",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2016Y70888756VI"
  },
  {
@@ -512,6 +585,7 @@
   "biosample_acc": "SAMN20348598",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2016Y70836300"
  },
  {
@@ -520,6 +594,7 @@
   "biosample_acc": "SAMN20348594",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2015Y70629342III"
  },
  {
@@ -528,6 +603,7 @@
   "biosample_acc": "SAMN20348593",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2014Y70532416II"
  },
  {
@@ -536,6 +612,7 @@
   "biosample_acc": "SAMN20348592",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2014Y70522077"
  },
  {
@@ -544,6 +621,7 @@
   "biosample_acc": "SAMN20348591",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2014Y70518672I"
  },
  {
@@ -552,6 +630,7 @@
   "biosample_acc": "SAMN20348590",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2014Y70439247"
  },
  {
@@ -560,6 +639,7 @@
   "biosample_acc": "SAMN20348582",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "2011Ycf793I"
  },
  {
@@ -568,6 +648,7 @@
   "biosample_acc": "SAMN20348581",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2011Ycf521III"
  },
  {
@@ -576,6 +657,7 @@
   "biosample_acc": "SAMN20348580",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "2011Ycf427V"
  },
  {
@@ -584,6 +666,7 @@
   "biosample_acc": "SAMN20348578",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2010Ycf635"
  },
  {
@@ -592,6 +675,7 @@
   "biosample_acc": "SAMN20348577",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2010Ycf576V"
  },
  {
@@ -600,6 +684,7 @@
   "biosample_acc": "SAMN20348576",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2010Ycf503"
  },
  {
@@ -608,6 +693,7 @@
   "biosample_acc": "SAMN20348575",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2010Ycf41"
  },
  {
@@ -616,6 +702,7 @@
   "biosample_acc": "SAMN20348574",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2010Ycf31III"
  },
  {
@@ -624,6 +711,7 @@
   "biosample_acc": "SAMN20348572",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "2009Ycf95III"
  },
  {
@@ -632,6 +720,7 @@
   "biosample_acc": "SAMN20348570",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "2008Ycf657"
  },
  {
@@ -640,6 +729,7 @@
   "biosample_acc": "SAMN20348569",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2008Ycf542"
  },
  {
@@ -648,6 +738,7 @@
   "biosample_acc": "SAMN20348568",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "2007Ycf875II"
  },
  {
@@ -656,6 +747,7 @@
   "biosample_acc": "SAMN29271629",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "NML180963"
  },
  {
@@ -664,6 +756,7 @@
   "biosample_acc": "SAMN29271628",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia contaminans",
+  "sra_release_date": null,
   "strain": "NML151013"
  },
  {
@@ -672,6 +765,7 @@
   "biosample_acc": "SAMN29271626",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia multivorans",
+  "sra_release_date": null,
   "strain": "NML140411"
  },
  {
@@ -680,6 +774,7 @@
   "biosample_acc": "SAMN29271625",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia cenocepacia",
+  "sra_release_date": null,
   "strain": "NML110041"
  },
  {
@@ -688,6 +783,7 @@
   "biosample_acc": "SAMN33824436",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia contaminans",
+  "sra_release_date": null,
   "strain": "5080"
  },
  {
@@ -696,6 +792,7 @@
   "biosample_acc": "SAMN24289056",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia contaminans",
+  "sra_release_date": null,
   "strain": "FFH2055"
  },
  {
@@ -704,6 +801,7 @@
   "biosample_acc": "SAMN24289055",
   "host": "SHEEP",
   "scientific_name": "Burkholderia contaminans",
+  "sra_release_date": null,
   "strain": "LMG 23361"
  },
  {
@@ -712,6 +810,7 @@
   "biosample_acc": "SAMN18838426",
   "host": "PLECTROCNEMIA",
   "scientific_name": "Burkholderia cepacia",
+  "sra_release_date": null,
   "strain": "ZJ1"
  },
  {
@@ -720,6 +819,7 @@
   "biosample_acc": "SAMN33830059",
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia vietnamiensis",
+  "sra_release_date": null,
   "strain": "LMG16232"
  }
 ]

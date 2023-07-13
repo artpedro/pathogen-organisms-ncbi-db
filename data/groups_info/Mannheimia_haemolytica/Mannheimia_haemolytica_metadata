@@ -1,25 +1,25 @@
 {
  "group": "Mannheimia_haemolytica",
- "count": 101,
+ "count": 119,
  "species": {
-  "Mannheimia haemolytica": 101
+  "Mannheimia haemolytica": 119
  },
  "subsp.": {},
  "scientific_name": {
-  "Mannheimia haemolytica USDA-ARS-USMARC-183": 1,
-  "Mannheimia haemolytica D153": 1,
-  "Mannheimia haemolytica D174": 1,
   "Mannheimia haemolytica USDA-ARS-USMARC-184": 1,
+  "Mannheimia haemolytica": 112,
+  "Mannheimia haemolytica D153": 1,
   "Mannheimia haemolytica D171": 1,
-  "Mannheimia haemolytica USMARC_2286": 1,
+  "Mannheimia haemolytica D174": 1,
   "Mannheimia haemolytica USDA-ARS-USMARC-185": 1,
-  "Mannheimia haemolytica": 94
+  "Mannheimia haemolytica USDA-ARS-USMARC-183": 1,
+  "Mannheimia haemolytica USMARC_2286": 1
  },
  "strain": {
   "89010807N": 2
  },
  "hosts": {
-  "BOVINE": 95,
+  "BOVINE": 113,
   "SHEEP": 6
  }
 }

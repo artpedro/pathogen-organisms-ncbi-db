@@ -1,11 +1,13 @@
 [
  {
-  "Enterobacter_cloacae": "PDG000000028.876"
+  "Enterobacter_cloacae": "PDG000000028.889",
+  "date": "Wed Jul 12 16:39:46 2023"
  },
  {
   "asm_acc": "GCA_002197345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07162522",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": null
@@ -14,6 +16,7 @@
   "asm_acc": "GCA_002303275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831100",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "M12X01451"
@@ -22,6 +25,7 @@
   "asm_acc": "GCA_002982195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06448868",
+  "collection_date": "2010",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "PIMB10EC27"
@@ -30,6 +34,7 @@
   "asm_acc": "GCA_003031445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04122808",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "109"
@@ -38,6 +43,7 @@
   "asm_acc": "GCA_003031755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04456586",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "174"
@@ -46,6 +52,7 @@
   "asm_acc": "GCA_003719615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10359476",
+  "collection_date": "2017-03",
   "host": "PENAEUS VANNAMEI",
   "scientific_name": "Enterobacter cloacae",
   "strain": "E3442"
@@ -54,6 +61,7 @@
   "asm_acc": "GCA_004151605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10844942",
+  "collection_date": "2015-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "EN3600"
@@ -62,6 +70,7 @@
   "asm_acc": "GCA_009707405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13288306",
+  "collection_date": "2017-03-29",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "CBG15936"
@@ -70,6 +79,7 @@
   "asm_acc": "GCA_012974405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14734641",
+  "collection_date": "2017-07-07",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "3849"
@@ -78,6 +88,7 @@
   "asm_acc": "GCA_016864075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999970",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "88701"
@@ -86,6 +97,7 @@
   "asm_acc": "GCA_016864095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999971",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "99101"
@@ -94,6 +106,7 @@
   "asm_acc": "GCA_016864115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999973",
+  "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "14240244101"
@@ -102,6 +115,7 @@
   "asm_acc": "GCA_020540925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22169090",
+  "collection_date": "2020-12-10",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "ECl_1.VN"
@@ -110,6 +124,7 @@
   "asm_acc": "GCA_905232805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7962789",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": null
@@ -118,6 +133,7 @@
   "asm_acc": "GCA_905322535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065687",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": null
@@ -126,6 +142,7 @@
   "asm_acc": "GCA_905331265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065834",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": null
@@ -134,6 +151,7 @@
   "asm_acc": "GCA_905331365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065846",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": null
@@ -142,6 +160,7 @@
   "asm_acc": "GCA_021496745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14938331",
+  "collection_date": "2019",
   "host": "CHICKEN",
   "scientific_name": "Enterobacter cloacae",
   "strain": "MY490"
@@ -150,6 +169,7 @@
   "asm_acc": "GCA_021497605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18311224",
+  "collection_date": "2019-05",
   "host": "SWINE",
   "scientific_name": "Enterobacter cloacae",
   "strain": "GX1Z-1L"
@@ -158,6 +178,7 @@
   "asm_acc": "GCA_023023085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379556",
+  "collection_date": "2012-11",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae subsp. cloacae",
   "strain": "12961-yvys"
@@ -166,6 +187,7 @@
   "asm_acc": "GCA_023238665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26686306",
+  "collection_date": "2021-10",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "SD21"
@@ -174,6 +196,7 @@
   "asm_acc": "GCA_023920605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26208495",
+  "collection_date": "2019",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "EFN743"
@@ -182,6 +205,7 @@
   "asm_acc": "GCA_024917615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174020",
+  "collection_date": "2018-10-31",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "3143"
@@ -190,6 +214,7 @@
   "asm_acc": "GCA_025426135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29981189",
+  "collection_date": "2022-06-28",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "2022CK-00409"

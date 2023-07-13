@@ -1,794 +1,1106 @@
 [
  {
-  "asm_acc":"GCA_000730215.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02741687",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NGBS061"
- },
- {
-  "asm_acc":"GCA_000730255.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02741688",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NGBS572"
- },
- {
-  "asm_acc":"GCA_000782855.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03178022",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae CNCTC 10\/84",
-  "strain":"CNCTC 10\/84"
- },
- {
-  "asm_acc":"GCA_001026925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329971",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS1"
- },
- {
-  "asm_acc":"GCA_001190805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02992126",
-  "host":"TIAPIA",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"HN016"
- },
- {
-  "asm_acc":"GCA_001190885.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02991570",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"H002"
- },
- {
-  "asm_acc":"GCA_001266635.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03108598",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS85147"
- },
- {
-  "asm_acc":"GCA_001275545.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04002524",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M1"
- },
- {
-  "asm_acc":"GCA_001448985.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04111187",
-  "host":"DOG",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS ST-1"
- },
- {
-  "asm_acc":"GCA_001552035.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04007140",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NGBS128"
- },
- {
-  "asm_acc":"GCA_001592385.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03331945",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"CU_GBS_08"
- },
- {
-  "asm_acc":"GCA_001592425.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03331944",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"CU_GBS_98"
- },
- {
-  "asm_acc":"GCA_001683515.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05187216",
-  "host":"HOPLOBATRACHUS RUGULOSUS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"FWL1402"
- },
- {
-  "asm_acc":"GCA_001712835.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04007152",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NGBS357"
- },
- {
-  "asm_acc":"GCA_001729925.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05370985",
-  "host":"TILAPIA",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"WC1535"
- },
- {
-  "asm_acc":"GCA_900078265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3888151",
-  "host":"SHEEP",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_001932715.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04376007",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS-M002"
- },
- {
-  "asm_acc":"GCA_002025005.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06445344",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"Sag158"
- },
- {
-  "asm_acc":"GCA_002025025.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06329441",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"Sag37"
- },
- {
-  "asm_acc":"GCA_002073695.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN04875580",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"FDAARGOS_254"
- },
- {
-  "asm_acc":"GCA_002197205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384056",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"CUGBS591"
- },
- {
-  "asm_acc":"GCA_002197245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384208",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M50"
- },
- {
-  "asm_acc":"GCA_002197265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384089",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M158"
- },
- {
-  "asm_acc":"GCA_002197285.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384163",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M29"
- },
- {
-  "asm_acc":"GCA_002197305.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384059",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M25"
- },
- {
-  "asm_acc":"GCA_002197325.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384054",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M8"
- },
- {
-  "asm_acc":"GCA_002197365.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384057",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M6"
- },
- {
-  "asm_acc":"GCA_002197385.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384060",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M4"
- },
- {
-  "asm_acc":"GCA_002197425.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN05384092",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SG-M163"
- },
- {
-  "asm_acc":"GCA_002214425.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN02850626",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"C001"
- },
- {
-  "asm_acc":"GCA_002289205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07374522",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"874391"
- },
- {
-  "asm_acc":"GCA_900474905.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3597587",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC11930"
- },
- {
-  "asm_acc":"GCA_900475355.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3856681",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC8187"
- },
- {
-  "asm_acc":"GCA_003287995.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07178061",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"B509"
- },
- {
-  "asm_acc":"GCA_003288015.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07178060",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"B508"
- },
- {
-  "asm_acc":"GCA_003288035.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07178057",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"B105"
- },
- {
-  "asm_acc":"GCA_003288055.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07178059",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"B507"
- },
- {
-  "asm_acc":"GCA_003288075.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN07178058",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"B111"
- },
- {
-  "asm_acc":"GCA_003319215.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09606624",
-  "host":"TILAPIA",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"S73"
- },
- {
-  "asm_acc":"GCA_003403115.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09789228",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"Sag27"
- },
- {
-  "asm_acc":"GCA_003812805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN10163206",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"FDAARGOS_512"
- },
- {
-  "asm_acc":"GCA_003939065.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09379579",
-  "host":"OREOCHROMIS NILOTICUS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"TFJ0901"
- },
- {
-  "asm_acc":"GCA_900636375.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3529271",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC8184"
- },
- {
-  "asm_acc":"GCA_900636885.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA3881064",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus urinalis",
-  "strain":"NCTC13766"
- },
- {
-  "asm_acc":"GCA_900638415.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104210798",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC13949"
- },
- {
-  "asm_acc":"GCA_900638495.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104224788",
-  "host":"NOT AVAILABLE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NCTC13947"
- },
- {
-  "asm_acc":"GCA_003966545.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMD00137662",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"HU-GS5823"
- },
- {
-  "asm_acc":"GCA_006716245.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09229090",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"32790-3A"
- },
- {
-  "asm_acc":"GCA_006874565.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN09267180",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"PLGBS13"
- },
- {
-  "asm_acc":"GCA_008693505.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11056384",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"FDAARGOS_669"
- },
- {
-  "asm_acc":"GCA_008693585.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11056385",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"FDAARGOS_670"
- },
- {
-  "asm_acc":"GCA_009930895.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN08374174",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"YZ1605"
- },
- {
-  "asm_acc":"GCA_009930915.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN08374240",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"NJ1606"
- },
- {
-  "asm_acc":"GCA_013000945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14677105",
-  "host":"SEABASS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"01173"
- },
- {
-  "asm_acc":"GCA_013414325.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15246708",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"S9968"
- },
- {
-  "asm_acc":"GCA_013786965.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15580042",
-  "host":"NEONATES",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"BJ01"
- },
- {
-  "asm_acc":"GCA_014218075.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355362",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS7"
- },
- {
-  "asm_acc":"GCA_014218095.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355365",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS11"
- },
- {
-  "asm_acc":"GCA_014218115.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355372",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS19"
- },
- {
-  "asm_acc":"GCA_014218135.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355381",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS28"
- },
- {
-  "asm_acc":"GCA_014218155.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355383",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS30"
- },
- {
-  "asm_acc":"GCA_015221735.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN16191206",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae CJB111",
-  "strain":"CJB111"
- },
- {
-  "asm_acc":"GCA_019552345.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329970",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS1168"
- },
- {
-  "asm_acc":"GCA_012222485.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN10907844",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"Sag153"
- },
- {
-  "asm_acc":"GCA_021460175.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN22108510",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"MIN-181"
- },
- {
-  "asm_acc":"GCA_021460195.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN22108509",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"MIN-180"
- },
- {
-  "asm_acc":"GCA_021496805.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329879",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS114"
- },
- {
-  "asm_acc":"GCA_021496825.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329869",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS102"
- },
- {
-  "asm_acc":"GCA_021496845.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329919",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS44"
- },
- {
-  "asm_acc":"GCA_021496865.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329918",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS43"
- },
- {
-  "asm_acc":"GCA_021496885.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355421",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS68"
- },
- {
-  "asm_acc":"GCA_021496905.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355373",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS20"
- },
- {
-  "asm_acc":"GCA_021496945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03329878",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SS111"
- },
- {
-  "asm_acc":"GCA_021496965.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN12355400",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBS47"
- },
- {
-  "asm_acc":"GCA_021655535.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMD00173301",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GCMC97051"
- },
- {
-  "asm_acc":"GCA_025808195.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN31213618",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"SA5087"
- },
- {
-  "asm_acc":"GCA_947313835.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908792",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_029011195.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN33275459",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"VSI63"
- },
- {
-  "asm_acc":"GCA_029011635.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN33275442",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"VSI15"
- },
- {
-  "asm_acc":"GCA_029011675.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN33275441",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"VSI14"
- },
- {
-  "asm_acc":"GCA_029917085.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN34339751",
-  "host":"TILAPIA",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"CS2108"
- },
- {
-  "asm_acc":"GCA_949787155.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908802",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949787715.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908799",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788565.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908800",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788745.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908811",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788775.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908794",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788785.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908797",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788915.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908804",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908806",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908803",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949788935.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908795",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949789875.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908801",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949790125.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908798",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949790945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908809",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949791205.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908808",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949792585.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908793",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_949793775.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908810",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_951392265.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA8908805",
-  "host":"BOVINE",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":null
- },
- {
-  "asm_acc":"GCA_030323365.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN33919071",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Streptococcus agalactiae",
-  "strain":"GBSIR0001"
+  "Streptococcus_agalactiae": "PDG000000089.71",
+  "date": "Wed Jul 12 16:42:33 2023"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_000730215.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02741687",
+  "collection_date": "2010",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NGBS061"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_000730255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02741688",
+  "collection_date": "2012",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NGBS572"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_000782855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03178022",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae CNCTC 10/84",
+  "strain": "CNCTC 10/84"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001026925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329971",
+  "collection_date": "1992",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001190805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02992126",
+  "collection_date": "2011",
+  "host": "TIAPIA",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "HN016"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001190885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02991570",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "H002"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001266635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03108598",
+  "collection_date": "missing",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS85147"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001275545.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04002524",
+  "collection_date": "2015-06-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001448985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04111187",
+  "collection_date": "2015-08-15",
+  "host": "DOG",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS ST-1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001552035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04007140",
+  "collection_date": "2010",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NGBS128"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001592385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03331945",
+  "collection_date": "2008-01-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "CU_GBS_08"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001592425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03331944",
+  "collection_date": "1998-01-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "CU_GBS_98"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001683515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05187216",
+  "collection_date": "2014-11-28",
+  "host": "HOPLOBATRACHUS RUGULOSUS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "FWL1402"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001712835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04007152",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NGBS357"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001729925.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05370985",
+  "collection_date": "2015-06",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "WC1535"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900078265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3888151",
+  "collection_date": "2013",
+  "host": "SHEEP",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_001932715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04376007",
+  "collection_date": "2014-04-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS-M002"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002025005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06445344",
+  "collection_date": "2014-05-13",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "Sag158"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002025025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06329441",
+  "collection_date": "2014-04-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "Sag37"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002073695.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04875580",
+  "collection_date": "2014-10-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "FDAARGOS_254"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384056",
+  "collection_date": "2008",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "CUGBS591"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384208",
+  "collection_date": "2013-09-13",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M50"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384089",
+  "collection_date": "2015-03-31",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M158"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384163",
+  "collection_date": "2012-10-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M29"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384059",
+  "collection_date": "2012-04-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M25"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384054",
+  "collection_date": "2011-04-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M8"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384057",
+  "collection_date": "2011-03-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M6"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384060",
+  "collection_date": "2011-02-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M4"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002197425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05384092",
+  "collection_date": "2015-04-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SG-M163"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002214425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02850626",
+  "collection_date": "2013-05-01",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "C001"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_002289205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07374522",
+  "collection_date": "1992",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "874391"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900474905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3597587",
+  "collection_date": "1978/1980",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NCTC11930"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900475355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3856681",
+  "collection_date": null,
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NCTC8187"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003287995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07178061",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "B509"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003288015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07178060",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "B508"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003288035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07178057",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "B105"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003288055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07178059",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "B507"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003288075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07178058",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "B111"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003319215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09606624",
+  "collection_date": "2016-11",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "S73"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003403115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09789228",
+  "collection_date": "2018-01-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "Sag27"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003812805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10163206",
+  "collection_date": "2016-01-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "FDAARGOS_512"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003939065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09379579",
+  "collection_date": "2009",
+  "host": "OREOCHROMIS NILOTICUS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "TFJ0901"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900636375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3529271",
+  "collection_date": null,
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NCTC8184"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900636885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3881064",
+  "collection_date": "1997",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus urinalis",
+  "strain": "NCTC13766"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900638415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104210798",
+  "collection_date": "1900/2017",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NCTC13949"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_900638495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104224788",
+  "collection_date": "1900/2017",
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NCTC13947"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_003966545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00137662",
+  "collection_date": "2017-03-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "HU-GS5823"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_006716245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09229090",
+  "collection_date": "2016-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "32790-3A"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_006874565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09267180",
+  "collection_date": "1997",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "PLGBS13"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_008693505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056384",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "FDAARGOS_669"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_008693585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056385",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "FDAARGOS_670"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_009930895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08374174",
+  "collection_date": "2016-05-31",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "YZ1605"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_009930915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08374240",
+  "collection_date": "2016-06-07",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "NJ1606"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_013000945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14677105",
+  "collection_date": "2001",
+  "host": "SEABASS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "01173"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_013414325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15246708",
+  "collection_date": "2013-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "S9968"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_013786965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15580042",
+  "collection_date": "2017-08-06",
+  "host": "NEONATES",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BJ01"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_014218075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355362",
+  "collection_date": "1987",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS7"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_014218095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355365",
+  "collection_date": "1989",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS11"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_014218115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355372",
+  "collection_date": "1993",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS19"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_014218135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355381",
+  "collection_date": "1994",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS28"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_014218155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355383",
+  "collection_date": "1995",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS30"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_015221735.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16191206",
+  "collection_date": "1990-07-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae CJB111",
+  "strain": "CJB111"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_019552345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329970",
+  "collection_date": "1997",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS1168"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_012222485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10907844",
+  "collection_date": "2017-12-28",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "Sag153"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021460175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22108510",
+  "collection_date": "2019-06-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "MIN-181"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021460195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22108509",
+  "collection_date": "2019-06-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "MIN-180"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329879",
+  "collection_date": "2007",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS114"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329869",
+  "collection_date": "2006",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS102"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329919",
+  "collection_date": "1999",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS44"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329918",
+  "collection_date": "1998",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS43"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355421",
+  "collection_date": "1993",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS68"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355373",
+  "collection_date": "1993",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS20"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03329878",
+  "collection_date": "2007",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SS111"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021496965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12355400",
+  "collection_date": "1993",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBS47"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_021655535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00173301",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GCMC97051"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_025808195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31213618",
+  "collection_date": "2022-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SA5087"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_947313835.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908792",
+  "collection_date": "2006",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_029011195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33275459",
+  "collection_date": "2021-06-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "VSI63"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_029011635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33275442",
+  "collection_date": "2020-11-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "VSI15"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_029011675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33275441",
+  "collection_date": "2020-11-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "VSI14"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_029917085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34339751",
+  "collection_date": "2021-08-13",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "CS2108"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949787155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908802",
+  "collection_date": "1954",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949787715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908799",
+  "collection_date": "2004",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908800",
+  "collection_date": "2012",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908811",
+  "collection_date": "1964",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908794",
+  "collection_date": "2006",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908797",
+  "collection_date": "2004",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908804",
+  "collection_date": "1970",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908806",
+  "collection_date": "2011",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908803",
+  "collection_date": "2012",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949788935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908795",
+  "collection_date": "2005",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949789875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908801",
+  "collection_date": "1967",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949790125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908798",
+  "collection_date": "2009",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949790945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908809",
+  "collection_date": "2012",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949791205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908808",
+  "collection_date": "1977",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949792585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908793",
+  "collection_date": "2006",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949793775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908810",
+  "collection_date": "2010",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_951392265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908805",
+  "collection_date": "1954",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_030323365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33919071",
+  "collection_date": "2022-10-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "GBSIR0001"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_949787645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8908796",
+  "collection_date": "2005",
+  "host": "BOVINE",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": null
  }
 ]

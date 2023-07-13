@@ -1,6 +1,7 @@
 [
  {
-  "Aeromonas": "PDG000000068.111"
+  "Aeromonas": "PDG000000068.114",
+  "date": "Wed Jul 12 16:01:26 2023"
  },
  {
   "asm_acc": "GCA_000963645.1",
@@ -8,6 +9,7 @@
   "biosample_acc": "SAMN03421355",
   "host": "GRASS CARP",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "AH10"
  },
  {
@@ -16,6 +18,7 @@
   "biosample_acc": "SAMN04266592",
   "host": "CRUCIAN CARP",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "JBN2301"
  },
  {
@@ -24,6 +27,7 @@
   "biosample_acc": "SAMN04404355",
   "host": "FISH",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "D4"
  },
  {
@@ -32,6 +36,7 @@
   "biosample_acc": "SAMN05188441",
   "host": "SINIPERCA CHUATSI",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "GYK1"
  },
  {
@@ -40,6 +45,7 @@
   "biosample_acc": "SAMN03294822",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "AHNIH1"
  },
  {
@@ -48,6 +54,7 @@
   "biosample_acc": "SAMN05590109",
   "host": "CRUCIAN",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "ZYAH72"
  },
  {
@@ -56,6 +63,7 @@
   "biosample_acc": "SAMN05589911",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "ZYAH75"
  },
  {
@@ -64,6 +72,7 @@
   "biosample_acc": "SAMN13567714",
   "host": "LARIMICHTHYS CROCEA",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "HX-3"
  },
  {
@@ -72,6 +81,7 @@
   "biosample_acc": "SAMN14351661",
   "host": "MEGALOBRAMA AMBLYCEPHALA",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "LHW39"
  },
  {
@@ -80,6 +90,7 @@
   "biosample_acc": "SAMD00261012",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Aeromonas hydrophila"
  },
  {
@@ -88,6 +99,7 @@
   "biosample_acc": "SAMN13353934",
   "host": "DENDROCEPHALUS BRASILIENSIS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Brac6"
  },
  {
@@ -96,6 +108,7 @@
   "biosample_acc": "SAMN13545457",
   "host": "OREOCHROMIS NILOTICUS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "OnP3.1"
  },
  {
@@ -104,6 +117,7 @@
   "biosample_acc": "SAMN15184665",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "1706-28330"
  },
  {
@@ -112,6 +126,7 @@
   "biosample_acc": "SAMN21168048",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "71339"
  },
  {
@@ -120,6 +135,7 @@
   "biosample_acc": "SAMN21168046",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "71317"
  },
  {
@@ -128,6 +144,7 @@
   "biosample_acc": "SAMN21168051",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "71453"
  },
  {
@@ -136,6 +153,7 @@
   "biosample_acc": "SAMN21168049",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "71431"
  },
  {
@@ -144,6 +162,7 @@
   "biosample_acc": "SAMN26244239",
   "host": "HYPOSTOMUS PLECOSTOMUS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "LP0103"
  },
  {
@@ -152,6 +171,7 @@
   "biosample_acc": "SAMN26377314",
   "host": "ANGUILLA ROSTRATA",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "AC185"
  },
  {
@@ -160,6 +180,7 @@
   "biosample_acc": "SAMN26377313",
   "host": "CARASSIUS CARASSIUS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "AC133"
  },
  {
@@ -168,6 +189,7 @@
   "biosample_acc": "SAMN13041436",
   "host": "DENDROCEPHALUS BRASILIENSIS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Aer_Brac66"
  },
  {
@@ -176,6 +198,7 @@
   "biosample_acc": "SAMN13041437",
   "host": "PHRACTOCEPHALUS HEMIOLIOPTERUS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Aer_Pi25.1HTAS"
  },
  {
@@ -184,6 +207,7 @@
   "biosample_acc": "SAMN13104751",
   "host": "DENDROCEPHALUS BRASILIENSIS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Aer_Brac14A"
  },
  {
@@ -192,6 +216,7 @@
   "biosample_acc": "SAMN13030278",
   "host": "OREOCHROMIS NILOTICUS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "Aer_OnIF1"
  },
  {
@@ -200,6 +225,7 @@
   "biosample_acc": "SAMN27350375",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Ah2111"
  },
  {
@@ -208,6 +234,7 @@
   "biosample_acc": "SAMN21893820",
   "host": "CHANNEL CATFISH",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "Ah27"
  },
  {
@@ -216,6 +243,7 @@
   "biosample_acc": "SAMN24968113",
   "host": "ZEBRAFISH",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "b2-100"
  },
  {
@@ -224,6 +252,7 @@
   "biosample_acc": "SAMN33179879",
   "host": "AQUATIC ANIMAL",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "516"
  },
  {
@@ -232,6 +261,7 @@
   "biosample_acc": "SAMN33408175",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "K522"
  },
  {
@@ -240,6 +270,7 @@
   "biosample_acc": "SAMN33453547",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "K533"
  },
  {
@@ -248,6 +279,7 @@
   "biosample_acc": "SAMN33550237",
   "host": "AQUATIC ANIMAL",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "516"
  },
  {
@@ -256,6 +288,7 @@
   "biosample_acc": "SAMN33901113",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "YURI 17"
  },
  {
@@ -264,6 +297,7 @@
   "biosample_acc": "SAMN33901112",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "DAMIAN 12594"
  },
  {
@@ -272,6 +306,7 @@
   "biosample_acc": "SAMN33901111",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "DAMIAN 19342"
  },
  {
@@ -280,6 +315,7 @@
   "biosample_acc": "SAMN33901109",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "BOND 14504"
  },
  {
@@ -288,6 +324,7 @@
   "biosample_acc": "SAMN33901110",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
+  "sra_release_date": null,
   "strain": "BOND 19077"
  },
  {
@@ -296,6 +333,7 @@
   "biosample_acc": "SAMN34441011",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
+  "sra_release_date": null,
   "strain": "NN-MR659"
  }
 ]

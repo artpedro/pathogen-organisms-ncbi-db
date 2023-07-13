@@ -1,11 +1,13 @@
 [
  {
-  "Morganella": "PDG000000020.238"
+  "Morganella": "PDG000000020.249",
+  "date": "Wed Jul 12 16:40:56 2023"
  },
  {
   "asm_acc": "GCA_000286435.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603113",
+  "collection_date": "2009-03-18",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii KT",
   "strain": null
@@ -14,6 +16,7 @@
   "asm_acc": "GCA_000783955.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934512",
+  "collection_date": "2013-10-11",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "FDAARGOS_63"
@@ -22,6 +25,7 @@
   "asm_acc": "GCA_001558895.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996316",
+  "collection_date": "2014-06-25",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "FDAARGOS_172"
@@ -30,6 +34,7 @@
   "asm_acc": "GCA_002386305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312409",
+  "collection_date": "2014-07-21",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "FDAARGOS_365"
@@ -38,6 +43,7 @@
   "asm_acc": "GCA_002891475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08335225",
+  "collection_date": "2017-02",
   "host": "TURSIOPS TRUNCATUS",
   "scientific_name": "Morganella morganii",
   "strain": "KC-Tt-01"
@@ -46,6 +52,7 @@
   "asm_acc": "GCA_900478755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2709025",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "NCTC12028"
@@ -54,6 +61,7 @@
   "asm_acc": "GCA_003573445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10031395",
+  "collection_date": "2018-04-28",
   "host": "CROCODILE LIZARD",
   "scientific_name": "Morganella morganii",
   "strain": "DG56-16"
@@ -62,6 +70,7 @@
   "asm_acc": "GCA_003955965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10218950",
+  "collection_date": "2016-01-26",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "L241"
@@ -70,6 +79,7 @@
   "asm_acc": "GCA_010365245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13936254",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "N18-00103"
@@ -78,6 +88,7 @@
   "asm_acc": "GCA_011465095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12769847",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "229813"
@@ -86,6 +97,7 @@
   "asm_acc": "GCA_013378135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11401652",
+  "collection_date": "2016-08-06",
   "host": "MISGURNUS ANGUILLICAUDATUS",
   "scientific_name": "Morganella morganii",
   "strain": "Jiangxi"
@@ -94,6 +106,7 @@
   "asm_acc": "GCA_015698325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16619592",
+  "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "SMM01"
@@ -102,6 +115,7 @@
   "asm_acc": "GCA_016939515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933265",
+  "collection_date": "2018-10-10",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "MM46903"
@@ -110,6 +124,7 @@
   "asm_acc": "GCA_016939575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933275",
+  "collection_date": "2019-01-21",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "MM48659"
@@ -118,6 +133,7 @@
   "asm_acc": "GCA_016939635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933284",
+  "collection_date": "2019-05-15",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "MM50821"
@@ -126,6 +142,7 @@
   "asm_acc": "GCA_018141465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15719828",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "11759"
@@ -134,6 +151,7 @@
   "asm_acc": "GCA_018802405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16622915",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "516602"
@@ -142,6 +160,7 @@
   "asm_acc": "GCA_018802425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623190",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "GN28"
@@ -150,6 +169,7 @@
   "asm_acc": "GCA_018802445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623065",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJG944"
@@ -158,6 +178,7 @@
   "asm_acc": "GCA_018802465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623061",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJG812"
@@ -166,6 +187,7 @@
   "asm_acc": "GCA_018802485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623066",
+  "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJD581"
@@ -174,6 +196,7 @@
   "asm_acc": "GCA_018802505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623064",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJC25"
@@ -182,6 +205,7 @@
   "asm_acc": "GCA_018802525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623062",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "81703"
@@ -190,6 +214,7 @@
   "asm_acc": "GCA_018802545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623059",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "715394"
@@ -198,6 +223,7 @@
   "asm_acc": "GCA_018802565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623063",
+  "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "621164"
@@ -206,6 +232,7 @@
   "asm_acc": "GCA_018802585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623060",
+  "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "12304"
@@ -214,6 +241,7 @@
   "asm_acc": "GCA_020790175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22814155",
+  "collection_date": "2018-12-08",
   "host": "SWINE",
   "scientific_name": "Morganella morganii",
   "strain": "MMAS2018"
@@ -222,6 +250,7 @@
   "asm_acc": "GCA_020911745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19659029",
+  "collection_date": "missing",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "CTX51T"
@@ -230,6 +259,7 @@
   "asm_acc": "GCA_024917155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30502440",
+  "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "K266"
@@ -238,8 +268,18 @@
   "asm_acc": "GCA_030127185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35004663",
+  "collection_date": "2020-12-30",
   "host": "PTYAS MUCOSA",
   "scientific_name": "Morganella morganii",
   "strain": "Sample-M-2023"
+ },
+ {
+  "asm_acc": "GCA_030370735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35741046",
+  "collection_date": "2023-01-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Morganella morganii subsp. morganii",
+  "strain": "QLYYMMQL588"
  }
 ]

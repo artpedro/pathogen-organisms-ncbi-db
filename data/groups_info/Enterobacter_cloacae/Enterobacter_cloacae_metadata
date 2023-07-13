@@ -8,16 +8,16 @@
   "Enterobacter cloacae subsp. cloacae": 1
  },
  "scientific_name": {
-  "Enterobacter cloacae subsp. cloacae": 1,
-  "Enterobacter cloacae": 23
+  "Enterobacter cloacae": 23,
+  "Enterobacter cloacae subsp. cloacae": 1
  },
  "strain": {
   "null": 5
  },
  "hosts": {
-  "HOMO SAPIENS": 21,
-  "PENAEUS VANNAMEI": 1,
   "PIG": 1,
-  "CHICKEN": 1
+  "CHICKEN": 1,
+  "PENAEUS VANNAMEI": 1,
+  "HOMO SAPIENS": 21
  }
 }

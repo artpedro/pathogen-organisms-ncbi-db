@@ -1,58 +1,83 @@
 [
  {
-  "asm_acc":"GCA_001558415.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03996321",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"ATCC 33809"
+  "Vibrio_fluvialis": "PDG000000099.16",
+  "date": "Wed Jul 12 16:42:33 2023"
  },
  {
-  "asm_acc":"GCA_001952955.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06209376",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"12605"
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_001558415.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996321",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "ATCC 33809"
  },
  {
-  "asm_acc":"GCA_002953375.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN03996261",
-  "host":"ENVIRONMENT",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"FDAARGOS_100"
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_001952955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06209376",
+  "collection_date": "2013",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "12605"
  },
  {
-  "asm_acc":"GCA_013181325.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN14968934",
-  "host":"GRACILARIOPSIS LEMANEIFORMIS",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"A8"
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_002953375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03996261",
+  "collection_date": "2004",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "FDAARGOS_100"
  },
  {
-  "asm_acc":"GCA_018140575.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18795813",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"19-VB00936"
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_013181325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14968934",
+  "collection_date": "2018-12-28",
+  "host": "GRACILARIOPSIS LEMANEIFORMIS",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "A8"
  },
  {
-  "asm_acc":"GCA_028898925.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN33268487",
-  "host":"ORATOSQUILLA ORATORIA",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"10M-VF"
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_018140575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18795813",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "19-VB00936"
  },
  {
-  "asm_acc":"GCA_030297535.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMD00603157",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Vibrio fluvialis",
-  "strain":"IDH05335"
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_028898925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33268487",
+  "collection_date": "2021-03-15",
+  "host": "ORATOSQUILLA ORATORIA",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "10M-VF"
+ },
+ {
+  "Vibrio_fluvialis": null,
+  "date": null,
+  "asm_acc": "GCA_030297535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00603157",
+  "collection_date": "2013-05-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "IDH05335"
  }
 ]

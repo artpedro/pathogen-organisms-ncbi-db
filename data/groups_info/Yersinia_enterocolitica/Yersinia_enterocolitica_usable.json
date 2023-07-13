@@ -1,11 +1,13 @@
 [
  {
-  "Yersinia_enterocolitica": "PDG000000087.105"
+  "Yersinia_enterocolitica": "PDG000000087.110",
+  "date": "Wed Jul 12 16:42:31 2023"
  },
  {
   "asm_acc": "GCA_000968115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4532339",
+  "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Yersinia enterocolitica (type O:5) str. YE53/03",
   "strain": "YE53/03"
@@ -14,6 +16,7 @@
   "asm_acc": "GCA_001305635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03490473",
+  "collection_date": "1991",
   "host": "HOMO SAPIENS",
   "scientific_name": "Yersinia enterocolitica",
   "strain": "KNG22703"
@@ -22,6 +25,7 @@
   "asm_acc": "GCA_900635745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2742608",
+  "collection_date": null,
   "host": "NOT AVAILABLE",
   "scientific_name": "Yersinia enterocolitica subsp. enterocolitica",
   "strain": "NCTC13629"
@@ -30,6 +34,7 @@
   "asm_acc": "GCA_900637005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3936789",
+  "collection_date": "1900/2001",
   "host": "HOMO SAPIENS",
   "scientific_name": "Yersinia enterocolitica subsp. palearctica",
   "strain": "NCTC13769"
@@ -38,6 +43,7 @@
   "asm_acc": "GCA_004368055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09641678",
+  "collection_date": "2007",
   "host": "HOMO SAPIENS",
   "scientific_name": "Yersinia enterocolitica subsp. palearctica",
   "strain": "Y1"
@@ -46,6 +52,7 @@
   "asm_acc": "GCA_901472495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2742606",
+  "collection_date": null,
   "host": "NOT AVAILABLE: NOT COLLECTED",
   "scientific_name": "Yersinia enterocolitica subsp. enterocolitica",
   "strain": "NCTC12982"

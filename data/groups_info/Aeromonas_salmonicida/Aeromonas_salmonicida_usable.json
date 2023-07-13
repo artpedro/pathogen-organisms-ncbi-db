@@ -1,6 +1,7 @@
 [
  {
-  "Aeromonas_salmonicida": "PDG000000077.33"
+  "Aeromonas_salmonicida": "PDG000000077.36",
+  "date": "Wed Jul 12 16:03:28 2023"
  },
  {
   "asm_acc": "GCA_001643275.2",
@@ -8,6 +9,7 @@
   "biosample_acc": "SAMN04449844",
   "host": "SALMO SALAR",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
+  "sra_release_date": null,
   "strain": "J223"
  },
  {
@@ -16,6 +18,7 @@
   "biosample_acc": "SAMN07276469",
   "host": "ATLANTIC SALMON",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "S121"
  },
  {
@@ -24,6 +27,7 @@
   "biosample_acc": "SAMN07276873",
   "host": "ATLANTIC SALMON",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "S68"
  },
  {
@@ -32,6 +36,7 @@
   "biosample_acc": "SAMN07276874",
   "host": "ATLANTIC SALMON",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "S44"
  },
  {
@@ -40,6 +45,7 @@
   "biosample_acc": "SAMN05735119",
   "host": "SEBASTES SCHLEGELII",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
+  "sra_release_date": null,
   "strain": "RFAS1"
  },
  {
@@ -48,6 +54,7 @@
   "biosample_acc": "SAMN07410266",
   "host": "MACROBRACHIUM ROSENBERGII",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "A527"
  },
  {
@@ -56,6 +63,7 @@
   "biosample_acc": "SAMN11172869",
   "host": "SALVELINUS FONTINALIS",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
+  "sra_release_date": null,
   "strain": "SHY16-3432"
  },
  {
@@ -64,6 +72,7 @@
   "biosample_acc": "SAMN13518349",
   "host": "SABLEFISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
+  "sra_release_date": null,
   "strain": "J409"
  },
  {
@@ -72,6 +81,7 @@
   "biosample_acc": "SAMN13518350",
   "host": "SABLEFISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
+  "sra_release_date": null,
   "strain": "J410"
  },
  {
@@ -80,6 +90,7 @@
   "biosample_acc": "SAMN14260301",
   "host": "SEBASTES SCHLEGELI",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
+  "sra_release_date": null,
   "strain": "BR19001YR"
  },
  {
@@ -88,6 +99,7 @@
   "biosample_acc": "SAMN14325646",
   "host": "TURBO",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
+  "sra_release_date": null,
   "strain": "RZ6S-1"
  },
  {
@@ -96,6 +108,7 @@
   "biosample_acc": "SAMN14351711",
   "host": "TURBO",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
+  "sra_release_date": null,
   "strain": "RZ6S-1"
  },
  {
@@ -104,6 +117,7 @@
   "biosample_acc": "SAMN32781197",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
+  "sra_release_date": null,
   "strain": "J225"
  },
  {
@@ -112,6 +126,7 @@
   "biosample_acc": "SAMN32781198",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
+  "sra_release_date": null,
   "strain": "J228"
  },
  {
@@ -120,6 +135,7 @@
   "biosample_acc": "SAMN31541907",
   "host": "PIG",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "ZAS"
  },
  {
@@ -128,6 +144,7 @@
   "biosample_acc": "SAMN31541906",
   "host": "COREIUS GUICHENOTI",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "YK"
  },
  {
@@ -136,6 +153,7 @@
   "biosample_acc": "SAMN31541905",
   "host": "COREGONUS PELED",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "BG"
  },
  {
@@ -144,6 +162,7 @@
   "biosample_acc": "SAMN31541903",
   "host": "KAREIUS BICOLORATUS",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "AS1"
  },
  {
@@ -152,6 +171,7 @@
   "biosample_acc": "SAMN31541904",
   "host": "SALMON",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "AS2"
  },
  {
@@ -160,6 +180,7 @@
   "biosample_acc": "SAMN25210568",
   "host": "GRASS CARP",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "ASscau0313"
  },
  {
@@ -168,6 +189,7 @@
   "biosample_acc": "SAMN34178809",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
+  "sra_release_date": null,
   "strain": "JNG"
  }
 ]

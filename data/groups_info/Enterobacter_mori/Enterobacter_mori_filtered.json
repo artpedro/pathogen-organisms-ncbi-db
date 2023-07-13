@@ -1,18 +1,28 @@
 [
  {
-  "asm_acc":"GCA_018638795.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN18011300",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Enterobacter mori",
-  "strain":"08-091"
+  "Enterobacter_mori": "PDG000000110.3",
+  "date": "Wed Jul 12 16:42:32 2023"
  },
  {
-  "asm_acc":"GCA_019203945.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN15184663",
-  "host":"KIWIFRUIT",
-  "scientific_name":"Enterobacter mori",
-  "strain":"CX01"
+  "Enterobacter_mori": null,
+  "date": null,
+  "asm_acc": "GCA_018638795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18011300",
+  "collection_date": "2008-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter mori",
+  "strain": "08-091"
+ },
+ {
+  "Enterobacter_mori": null,
+  "date": null,
+  "asm_acc": "GCA_019203945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15184663",
+  "collection_date": "2018-03-01",
+  "host": "KIWIFRUIT",
+  "scientific_name": "Enterobacter mori",
+  "strain": "CX01"
  }
 ]

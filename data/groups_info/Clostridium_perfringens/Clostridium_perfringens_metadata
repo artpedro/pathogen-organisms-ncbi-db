@@ -7,22 +7,22 @@
  },
  "subsp.": {},
  "scientific_name": {
+  "Clostridium perfringens D": 3,
   "Clostridium perfringens": 16,
-  "Clostridium perfringens B": 2,
   "[Clostridium] innocuum": 3,
-  "Clostridium perfringens D": 3
+  "Clostridium perfringens B": 2
  },
  "strain": {},
  "hosts": {
-  "NOT AVAILABLE": 2,
-  "DOG": 2,
-  "PIG": 2,
-  "HORSE": 1,
-  "YAK": 1,
   "CHICKEN": 1,
+  "DOG": 2,
+  "YAK": 1,
   "RUMINANT": 4,
   "HOMO SAPIENS": 7,
-  "GOAT": 1,
-  "SHEEP": 3
+  "NOT AVAILABLE": 2,
+  "HORSE": 1,
+  "PIG": 2,
+  "SHEEP": 3,
+  "GOAT": 1
  }
 }

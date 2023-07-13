@@ -1,10 +1,15 @@
 [
  {
-  "asm_acc":"GCA_001984825.2",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN06249239",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Enterobacter chengduensis",
-  "strain":"WCHECl-C4 = WCHECh050004"
+  "Enterobacter_chengduensis": "PDG000000118.9",
+  "date": "Wed Jul 12 16:42:32 2023"
+ },
+ {
+  "Enterobacter_chengduensis": null,
+  "asm_acc": "GCA_001984825.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06249239",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter chengduensis",
+  "strain": "WCHECl-C4 = WCHECh050004"
  }
 ]

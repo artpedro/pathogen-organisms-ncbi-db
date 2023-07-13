@@ -1,34 +1,50 @@
 [
  {
-  "asm_acc":"GCA_900324475.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMEA104711314",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Enterobacter bugandensis",
-  "strain":null
+  "Enterobacter_bugandensis": "PDG000000111.12",
+  "date": "Wed Jul 12 16:42:32 2023"
  },
  {
-  "asm_acc":"GCA_004804375.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349924",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Enterobacter bugandensis",
-  "strain":"220"
+  "Enterobacter_bugandensis": null,
+  "date": null,
+  "asm_acc": "GCA_900324475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104711314",
+  "collection_date": "2010-01-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": null
  },
  {
-  "asm_acc":"GCA_004804395.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN11349925",
-  "host":"HOMO SAPIENS",
-  "scientific_name":"Enterobacter bugandensis",
-  "strain":"1367"
+  "Enterobacter_bugandensis": null,
+  "date": null,
+  "asm_acc": "GCA_004804375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349924",
+  "collection_date": "2019-01-15",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "220"
  },
  {
-  "asm_acc":"GCA_023374275.1",
-  "asm_level":"Complete Genome",
-  "biosample_acc":"SAMN27966081",
-  "host":"NOT PROVIDED",
-  "scientific_name":"Enterobacter bugandensis",
-  "strain":"CMCC(B)45301"
+  "Enterobacter_bugandensis": null,
+  "date": null,
+  "asm_acc": "GCA_004804395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11349925",
+  "collection_date": "2011-01-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "1367"
+ },
+ {
+  "Enterobacter_bugandensis": null,
+  "date": null,
+  "asm_acc": "GCA_023374275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27966081",
+  "collection_date": "missing",
+  "host": "NOT PROVIDED",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "CMCC(B)45301"
  }
 ]

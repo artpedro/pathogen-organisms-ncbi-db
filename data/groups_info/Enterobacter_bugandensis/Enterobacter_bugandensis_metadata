@@ -10,7 +10,7 @@
  },
  "strain": {},
  "hosts": {
-  "HOMO SAPIENS": 3,
-  "NOT PROVIDED": 1
+  "NOT PROVIDED": 1,
+  "HOMO SAPIENS": 3
  }
 }
