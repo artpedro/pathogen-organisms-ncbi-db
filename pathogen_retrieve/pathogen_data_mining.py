@@ -256,8 +256,9 @@ class Group():
         horse = 'EQUUS|CABALLUS|EQUINE'
         sheep = 'OVINE|SHEEP|OVIS'
         pig = 'PIG|SWINE|PORCINE|PORK|PIGLET|BOAR'
-        environment = 'ENVIRONMENT|SOIL|HOG|SCROFA|ENVIRONMENTAL|WATER|GRASS' # WATER
+        environment = 'ENVIRONMENT|ENVIROMENT|SOIL|HOG|SCROFA|ENVIRONMENTAL|WATER|GRASS' # WATER
         dog = 'CANIS|LUPUS|CANINE|DOG'
+        error = 'NOT AVAILABLE|NOT COLLECTED|NOT PROVIDED'
     
         if hasattr(self,'usable_df'):
             self.filtered_df = self.usable_df
@@ -281,6 +282,7 @@ class Group():
             return False
         # somente com informações de host disponíveis
         self.filtered_df = self.filtered_df[self.usable_df['host'].notnull()]
+        self.filtered_df = self.filtered_df[self.filtered_df['host'] != 'NOT AVAILABLE']
         if self.filtered_df.empty:
             print(f'{self.name}: Sem informações válidas')
             #os.remove(self.tsv_file)
@@ -295,6 +297,9 @@ class Group():
         # padronizando a coluna host
         self.filtered_df['host'] = self.filtered_df['host'].apply(lambda x:x.upper())
 
+        # FILTRANDO ERROS
+        for var in error.split(sep="|"):
+            self.filtered_df = self.filtered_df[~self.filtered_df['host'].str.contains(var)]
         # FILTRANDO HUMAN
         for var in human.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'HOMO SAPIENS'
@@ -445,7 +450,7 @@ def readSingleData(group="Edwardsiella_tarda"):
     else:
         print('Sem registros úteis')
     
-# Terminar função
+
 def generalMetadata():
     groups = readGroupsNames()
     metadata = {'count':0,'species':{},'hosts':{},'subsp.':{}}
@@ -479,7 +484,7 @@ if __name__ == "__main__":
     minutos = int((end - start) // 60)
     segundos = (end - start) % 60
     print(f'mount runtime: {minutos}:{segundos}')
-
+    '''
     start = time.time()
     readAllData()
     end = time.time()
