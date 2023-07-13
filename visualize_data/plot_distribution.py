@@ -146,9 +146,9 @@ def writeAll():
         species = [plotSingleDistribution(group,'species')]
         hosts = [plotSingleDistribution(group,'hosts')]
 
-        if species:
+        if species == None:
             write_pdf(f"sdis_{group}.pdf",species,path=f'data/groups_info/{group}')
-        if hosts:    
+        if hosts == None:    
             write_pdf(f"hdis_{group}.pdf",hosts,path=f'data/groups_info/{group}')
 
 def writeSingle(group):
@@ -165,3 +165,4 @@ def writeGeneral():
     write_pdf(f"sdis_all.pdf",species,path="data/")
     write_pdf(f"hdis_all.pdf",host,path="data/")
 writeGeneral()
+writeAll()
