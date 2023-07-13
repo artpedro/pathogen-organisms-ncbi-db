@@ -113,4 +113,3 @@ def mount():
     data = getPathogenId(groups)
     print('\nArmazenando informações extraídas na pasta /data/groups')
     writeGroups(data)
-    

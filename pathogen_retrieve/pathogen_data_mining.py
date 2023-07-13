@@ -201,7 +201,7 @@ class Group():
             self.getPatData()
 
         # campos importantes no tsv
-        fields = ['scientific_name','strain','host','asm_level','asm_acc','biosample_acc']
+        fields = ['scientific_name','strain','host','asm_level','asm_acc','biosample_acc','collection_date']
         
         # lendo arquivo .tsv em um dataframe
         df = pd.read_csv(self.tsv_file,sep='\t',usecols=fields)
@@ -237,7 +237,8 @@ class Group():
         with open(self.usable_json_path,'w') as file:
             self.usable_json = self.usable_df.to_json(orient="records",indent=1)
             self.usable_json = js.loads(self.usable_json)
-            self.tag = {self.name:self.pat_id}
+            self.tag = {self.name:self.pat_id,
+                        'date':time.ctime()}
             self.usable_json.insert(0,self.tag)
             self.usable_json = js.dumps(self.usable_json,indent=1)
             file.write(self.usable_json)
@@ -261,8 +262,6 @@ class Group():
         if hasattr(self,'usable_df'):
             self.filtered_df = self.usable_df
             # remove as colunas geradas pela tag
-            self.filtered_df.drop(columns=[f"{self.name}"],inplace=True)
-            self.filtered_df.drop(0,inplace=True)
         else:
             if os.path.exists(self.usable_json_path):
                 self.usable_df = pd.read_json(self.usable_json_path)
@@ -333,9 +332,14 @@ class Group():
         # armazenando o dataframe filtrado em um .json 
         with open(self.filtered_json_path, 'w') as file:
             self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
+            self.filtered_json = js.loads(self.filtered_json)
+            self.tag = {self.name:self.pat_id,
+                        'date':time.ctime()}
+            self.filtered_json.insert(0,self.tag)
+            self.filtered_json = js.dumps(self.filtered_json,indent=1)
             file.write(self.filtered_json)
         return True
-    
+
     def readFilteredTsv(self,filter=True):
         '''
         Extrai informações do .json gerado pelo getUsableTsv() ou filterTsv() (filter = True).
@@ -377,8 +381,6 @@ class Group():
             log.write(content)
     
         
-
-
 def readGroupsNames():
     with open(os.path.normpath("data/groups/groups_name_id.json"),"r") as data:
         groups = js.load(data)
@@ -392,6 +394,7 @@ def mountExample(name="Edwardsiella_tarda"):
     obj = Group(name)
     obj.getPatData()
     obj.getUsableTsv()
+    obj.filterTsv()
     print(f'Grupo {name} montado')
     return obj
 
@@ -405,21 +408,10 @@ def updateExample(name="Edwardsiella_tarda"):
     if obj.checkDataUpdate():
         obj.getPatData()
         obj.getUsableTsv()
+        obj.filterTsv()
         print("Informações atualizadas")
     else:
         print("As informações do registro não precisam ser atualizadas")
-
-
-def mountData():
-    '''
-    Organiza e extrai as informações de todos os grupos patogênicos.
-    '''
-    groups = readGroupsNames()
-    for group in groups:
-        obj = Group(group)
-        if obj.checkDataUpdate():    
-            obj.getUsableTsv()
-
 
 def updateData():
     '''
@@ -431,6 +423,7 @@ def updateData():
         obj = Group(group)
         if obj.checkDataUpdate():
             obj.getUsableTsv()
+            obj.filterTsv()
 
 def readAllData():
     groups = readGroupsNames()
@@ -467,9 +460,6 @@ def generalMetadata():
                     metadata['species'][sp] = data['species'][sp]
                 for sb in data['subsp.']:
                     metadata['subsp.'][sb] = data['subsp.'][sb]
-                        
-
-                
                 for host in data['hosts']:
                     if host in metadata['hosts']:
                         metadata['hosts'][host] += data['hosts'][host]
@@ -482,7 +472,7 @@ def generalMetadata():
 
 
 if __name__ == "__main__":
-    '''start = time.time()
+    start = time.time()
     refresh()
     updateData()
     end = time.time()
@@ -495,15 +485,16 @@ if __name__ == "__main__":
     end = time.time()
     minutos = int((end - start) // 60)
     segundos = int((end - start) % 60)
-    print(f'read runtime: {minutos}:{segundos}')'''
+    print(f'read runtime: {minutos}:{segundos}')
     # readAllData() = 0:50
     # new readAllData() = 0:05
+
     start = time.time()
     generalMetadata()
     end = time.time()
     minutos = int((end - start) // 60)
     segundos = int((end - start) % 60)
-    print(f'read runtime: {minutos}:{segundos}')
+    print(f'generalmetadata runtime: {minutos}:{segundos}')
 
 
 '''
