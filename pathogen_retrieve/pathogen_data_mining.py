@@ -82,10 +82,15 @@ class Group():
             with open(self.filtered_json_path,'r') as log:
                 
                 self.filtered_json = js.load(log)
+
+                # informações filtradas em dataframe
                 self.filtered_df = pd.DataFrame(self.filtered_json)
+        
         if os.path.exists(self.usable_json_path):
             with open(self.usable_json_path,'r') as log:
                 self.usable_json = js.load(log)
+
+                # informações brutas em dataframe
                 self.usable_df = pd.DataFrame(self.usable_json)
                 
 
@@ -142,7 +147,8 @@ class Group():
 
     def checkData(self):
         '''
-        Verifica se o download do arquivo tabular foi realizado com sucesso
+        Verifica se o download do arquivo tabular foi realizado com sucesso,
+        caso ocorra algum erro, a atualização é forçada
         '''
         # lendo o arquivo tabular
         with open(self.tsv_file,'r') as tsv:
@@ -154,14 +160,12 @@ class Group():
                 if hasattr(self,"retry_download"):
                     self.retry_download = self.retry_download + 1
                     if self.retry_download > 2:
-
-                        # atualiza o pat-id e os atributos dependentes dele
+                        # atualiza o pat-id e os atributos dependentes dele forçando a atualização
                         self.pat_id = getSinglePathogenId(self.name)
                         new_id = refreshSingleGroup(self.name)
                         self.pat_id = new_id
                         self.tsv_file = os.path.normpath(f'{self.tsv_path}/{self.name}_{self.pat_id}.tsv')
                         self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
-                    
                     # tenta baixar de novo
                     self.getPatData()
                 else:
@@ -178,13 +182,16 @@ class Group():
 
         Retorna falso se não houver nenhuma
         '''
+
+        # certificando a versão do registro
+
         # verificação se existe um usable_json desatualizado
         # se estiver desatualizado, é encaminhado para o download e a
         # recursivadade é iniciada
         if os.path.exists(self.usable_json_path):
             if hasattr(self,'iter'):
                 print(f'{self.name}: Gerando novo registro')
-            else:
+            else:  
                 with open(self.usable_json_path,'r') as file:
                     data = json.load(file)
                     if data[0][self.name] == self.pat_id:
@@ -256,9 +263,8 @@ class Group():
         horse = 'EQUUS|CABALLUS|EQUINE'
         sheep = 'OVINE|SHEEP|OVIS'
         pig = 'PIG|SWINE|PORCINE|PORK|PIGLET|BOAR'
-        environment = 'ENVIRONMENT|ENVIROMENT|SOIL|HOG|SCROFA|ENVIRONMENTAL|WATER|GRASS' # WATER
+        environment = 'ENVIRONMENT|SOIL|HOG|SCROFA|ENVIRONMENTAL|WATER|GRASS' # WATER
         dog = 'CANIS|LUPUS|CANINE|DOG'
-        error = 'NOT AVAILABLE|NOT COLLECTED|NOT PROVIDED'
     
         if hasattr(self,'usable_df'):
             self.filtered_df = self.usable_df
@@ -274,6 +280,8 @@ class Group():
                 print(f'{self.name}: Sem informações para filtrar')
                 return False
         
+        # segunda verificação de integridade
+        
         # somente genoma completo
         self.filtered_df = self.filtered_df.loc[self.filtered_df['asm_level'] == 'Complete Genome']
         if self.filtered_df.empty:
@@ -282,7 +290,6 @@ class Group():
             return False
         # somente com informações de host disponíveis
         self.filtered_df = self.filtered_df[self.usable_df['host'].notnull()]
-        self.filtered_df = self.filtered_df[self.filtered_df['host'] != 'NOT AVAILABLE']
         if self.filtered_df.empty:
             print(f'{self.name}: Sem informações válidas')
             #os.remove(self.tsv_file)
@@ -293,13 +300,11 @@ class Group():
             print(f'{self.name}: Sem informações válidas')
             #os.remove(self.tsv_file)
             return False
-
         # padronizando a coluna host
         self.filtered_df['host'] = self.filtered_df['host'].apply(lambda x:x.upper())
 
-        # FILTRANDO ERROS
-        for var in error.split(sep="|"):
-            self.filtered_df = self.filtered_df[~self.filtered_df['host'].str.contains(var)]
+        # filtragem
+
         # FILTRANDO HUMAN
         for var in human.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'HOMO SAPIENS'
@@ -309,27 +314,21 @@ class Group():
         # FILTRANDO SHEEP
         for var in sheep.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'SHEEP'
-        
         # FILTRANDO ENVIRONMENT
         for var in environment.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'ENVIRONMENT'
-        
         # FILTRANDO PIG
         for var in pig.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'PIG'
-        
         #FILTRANDO DOG
         for var in dog.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'DOG'
-
         # FILTRANDO CHICKEN
         for var in chicken.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'CHICKEN'
-        
         # FILTRANDO BOVINE
         for var in bovine.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'BOVINE'
-        
         # FILTRANDO FISH
         for var in fish.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'FISH'
@@ -338,6 +337,7 @@ class Group():
         with open(self.filtered_json_path, 'w') as file:
             self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
             self.filtered_json = js.loads(self.filtered_json)
+            # tag para com a data de atualização e o pat_id
             self.tag = {self.name:self.pat_id,
                         'date':time.ctime()}
             self.filtered_json.insert(0,self.tag)
@@ -370,7 +370,7 @@ class Group():
         self.species_dic = {k:self.species.count(k) for k in set(self.species)}
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
         
-        # filtragem inicial - terminar
+        # filtragem inicial dos nomes de espécie
         filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}     
         self.species_fdic = filtered_species
         self.subsp_dic = {" ".join(k.split()[:4]):[j for j in [i.split()[3] for i in self.species if ((len(i.split())>3) and (i.split()[2] == "subsp."))]].count(k.split()[3]) for k in [i for i in self.species_dic if ((len(i.split())>3) and (i.split()[2] == "subsp."))]}
@@ -387,6 +387,9 @@ class Group():
     
         
 def readGroupsNames():
+    '''
+    Lê o nome dos patógenos presentes no Pathogen no NCBI
+    '''
     with open(os.path.normpath("data/groups/groups_name_id.json"),"r") as data:
         groups = js.load(data)
         return groups
@@ -431,6 +434,9 @@ def updateData():
             obj.filterTsv()
 
 def readAllData():
+    '''
+    Lê as informações disponíveis em todos os registros e armazena em metadata
+    '''
     groups = readGroupsNames()
     for group in groups:
         obj = Group(group)
@@ -442,6 +448,10 @@ def readAllData():
             print('Sem registros válidos')
         
 def readSingleData(group="Edwardsiella_tarda"):
+    '''
+    Lê as informações disponíveis do grupo patogênico em "group".
+    default = "Edwardsiella_tarda"
+    '''
     obj = Group(group)
     if obj.getUsableTsv():
         obj.filterTsv()
@@ -450,8 +460,10 @@ def readSingleData(group="Edwardsiella_tarda"):
     else:
         print('Sem registros úteis')
     
-
 def generalMetadata():
+    '''
+    Gera um arquivo metadata com informações de todas os registros com metadata
+    '''
     groups = readGroupsNames()
     metadata = {'count':0,'species':{},'hosts':{},'subsp.':{}}
     for group in groups:
@@ -474,7 +486,7 @@ def generalMetadata():
         info = js.dumps(metadata,indent=1)
         file.write(info)
             
-
+# PRECISA-SE ARRUMAR O FORMATO DO JSON FILTERED
 
 if __name__ == "__main__":
     start = time.time()
@@ -484,7 +496,7 @@ if __name__ == "__main__":
     minutos = int((end - start) // 60)
     segundos = (end - start) % 60
     print(f'mount runtime: {minutos}:{segundos}')
-    '''
+
     start = time.time()
     readAllData()
     end = time.time()
