@@ -1,0 +1,20 @@
+{
+ "group": "Streptococcus_iniae",
+ "count": 9,
+ "species": {
+  "Streptococcus iniae": 9
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Streptococcus iniae": 9
+ },
+ "strain": {},
+ "hosts": {
+  "LATES CALCARIFER": 1,
+  "OREOCHROMIS NILOTICUS": 1,
+  "SELENOTOCA MULTIFASCIATA": 2,
+  "PARALICHTHYS OLIVACEUS": 1,
+  "TRACHINOTUS OVATUS": 2,
+  "TILAPIA": 2
+ }
+}

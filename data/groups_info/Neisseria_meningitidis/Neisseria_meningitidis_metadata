@@ -1,0 +1,21 @@
+{
+ "group": "Neisseria_meningitidis",
+ "count": 104,
+ "species": {
+  "Neisseria meningitidis": 104
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Neisseria meningitidis M7124": 1,
+  "Neisseria meningitidis": 102,
+  "Neisseria meningitidis LNP21362": 1
+ },
+ "strain": {
+  "null": 3
+ },
+ "hosts": {
+  "NOT AVAILABLE": 2,
+  "ENVIRONMENT": 2,
+  "HOMO SAPIENS": 100
+ }
+}

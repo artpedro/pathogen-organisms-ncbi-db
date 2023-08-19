@@ -1,0 +1,339 @@
+[
+ {
+  "Aeromonas_veronii": "PDG000000076.53",
+  "date": "Sat Aug 19 12:48:13 2023"
+ },
+ {
+  "asm_acc": "GCA_000464515.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02471703",
+  "collection_date": "1996-04",
+  "host": "HIRUDO VERBANA",
+  "scientific_name": "Aeromonas veronii Hm21",
+  "strain": "Hm21"
+ },
+ {
+  "asm_acc": "GCA_001593245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04012505",
+  "collection_date": "2013-04-26",
+  "host": "TACHYSURUS FULVIDRACO",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "TH0426"
+ },
+ {
+  "asm_acc": "GCA_002803945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08042684",
+  "collection_date": "2013",
+  "host": "MEGALOBRAMA AMBLYCEPHALA",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "X12"
+ },
+ {
+  "asm_acc": "GCA_002866885.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08281233",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "FC951"
+ },
+ {
+  "asm_acc": "GCA_003491365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08731619",
+  "collection_date": "2017",
+  "host": "DISCUS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "17ISAe"
+ },
+ {
+  "asm_acc": "GCA_008693705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056347",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "FDAARGOS_632"
+ },
+ {
+  "asm_acc": "GCA_009755745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11868773",
+  "collection_date": "2018-11",
+  "host": "ALLIGATOR",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "HX3"
+ },
+ {
+  "asm_acc": "GCA_011045495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10696333",
+  "collection_date": "2017",
+  "host": "FISH",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ZfB1"
+ },
+ {
+  "asm_acc": "GCA_013415825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15395818",
+  "collection_date": "2014-04",
+  "host": "CARP",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "JC529"
+ },
+ {
+  "asm_acc": "GCA_017310275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15184730",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "1708-29120"
+ },
+ {
+  "asm_acc": "GCA_020640955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21168054",
+  "collection_date": "2020-12-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "71506"
+ },
+ {
+  "asm_acc": "GCA_021586915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20667377",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "A29V"
+ },
+ {
+  "asm_acc": "GCA_023100745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27615187",
+  "collection_date": "2021-07-25",
+  "host": "FISH",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "AV040"
+ },
+ {
+  "asm_acc": "GCA_023921405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18498901",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "183026"
+ },
+ {
+  "asm_acc": "GCA_025665435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28748616",
+  "collection_date": "2016-07-15T14:30:04Z",
+  "host": "ODONTOBUTIS OBSCURA",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "jsyz553301"
+ },
+ {
+  "asm_acc": "GCA_026016025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31516430",
+  "collection_date": "2010-08",
+  "host": "FISH",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "C4"
+ },
+ {
+  "asm_acc": "GCA_029633935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24908263",
+  "collection_date": "2019-01-15",
+  "host": "ZEBRAFISH",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "b1-3"
+ },
+ {
+  "asm_acc": "GCA_029773065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901090",
+  "collection_date": "2020-02-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 14430"
+ },
+ {
+  "asm_acc": "GCA_029773085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901093",
+  "collection_date": "2020-11-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 16549"
+ },
+ {
+  "asm_acc": "GCA_029773225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901104",
+  "collection_date": "2022-01-29",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 19953"
+ },
+ {
+  "asm_acc": "GCA_029773245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901085",
+  "collection_date": "2020-08-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "LOID 15995"
+ },
+ {
+  "asm_acc": "GCA_029773265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901100",
+  "collection_date": "2021-08-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 18661"
+ },
+ {
+  "asm_acc": "GCA_029773325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901103",
+  "collection_date": "2021-10-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 19170"
+ },
+ {
+  "asm_acc": "GCA_029773345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901099",
+  "collection_date": "2021-08-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 18644"
+ },
+ {
+  "asm_acc": "GCA_029773365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901094",
+  "collection_date": "2020-11-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 16702"
+ },
+ {
+  "asm_acc": "GCA_029773385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901089",
+  "collection_date": "2020-02-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 14386"
+ },
+ {
+  "asm_acc": "GCA_029773405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901091",
+  "collection_date": "2020-05-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 15110"
+ },
+ {
+  "asm_acc": "GCA_029773425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901097",
+  "collection_date": "2021-06-21",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 18263"
+ },
+ {
+  "asm_acc": "GCA_029773445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901098",
+  "collection_date": "2021-07-14",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 18462"
+ },
+ {
+  "asm_acc": "GCA_029773465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901095",
+  "collection_date": "2021-06-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 18196"
+ },
+ {
+  "asm_acc": "GCA_029773485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901092",
+  "collection_date": "2020-09-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 15694"
+ },
+ {
+  "asm_acc": "GCA_029773505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901096",
+  "collection_date": "2021-06-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 18197"
+ },
+ {
+  "asm_acc": "GCA_029773525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901088",
+  "collection_date": "2019-12-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 14022"
+ },
+ {
+  "asm_acc": "GCA_029773545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901086",
+  "collection_date": "2020-09-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "LOID 16013"
+ },
+ {
+  "asm_acc": "GCA_029773565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33901087",
+  "collection_date": "2019-12-14",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "ANYA 13997"
+ },
+ {
+  "asm_acc": "GCA_030178455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35453523",
+  "collection_date": "2023-05-29",
+  "host": "MICROPTERUS SALMOIDES",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "AV066"
+ },
+ {
+  "asm_acc": "GCA_030609635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32156161",
+  "collection_date": "2021",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "AS1"
+ }
+]

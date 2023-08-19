@@ -1,0 +1,1653 @@
+[
+ {
+  "Enterobacter_hormaechei": "PDG000000105.93",
+  "date": "Sat Aug 19 12:49:00 2023"
+ },
+ {
+  "asm_acc": "GCA_000807405.4",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03067415",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "34978"
+ },
+ {
+  "asm_acc": "GCA_000807425.4",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03067417",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "34998"
+ },
+ {
+  "asm_acc": "GCA_000814125.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03067414",
+  "collection_date": "2009",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "34977"
+ },
+ {
+  "asm_acc": "GCA_000814205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03067416",
+  "collection_date": "2010",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. hormaechei",
+  "strain": "34983"
+ },
+ {
+  "asm_acc": "GCA_000814225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03067418",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "34399"
+ },
+ {
+  "asm_acc": "GCA_001022015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733748",
+  "collection_date": "2011-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "CAV1311"
+ },
+ {
+  "asm_acc": "GCA_001022055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733827",
+  "collection_date": "2012-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "CAV1668"
+ },
+ {
+  "asm_acc": "GCA_001022075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733769",
+  "collection_date": "2011-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "CAV1411"
+ },
+ {
+  "asm_acc": "GCA_001022255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733830",
+  "collection_date": "2012-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "CAV1669"
+ },
+ {
+  "asm_acc": "GCA_001729705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05581749",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. oharae",
+  "strain": "DSM 16687"
+ },
+ {
+  "asm_acc": "GCA_001729725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05581751",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "DSM 16691"
+ },
+ {
+  "asm_acc": "GCA_001729745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05581748",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
+  "strain": "DSM 14563"
+ },
+ {
+  "asm_acc": "GCA_001729785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05581746",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "LMG27195"
+ },
+ {
+  "asm_acc": "GCA_001874505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03733727",
+  "collection_date": "2010-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "CAV1176"
+ },
+ {
+  "asm_acc": "GCA_002237465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06765483",
+  "collection_date": "2015-06-15",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "MS7884A"
+ },
+ {
+  "asm_acc": "GCA_900322715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA104700146",
+  "collection_date": "2015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_003051945.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08027257",
+  "collection_date": "2016-10-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "SCEH020042"
+ },
+ {
+  "asm_acc": "GCA_003186415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05510455",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "234"
+ },
+ {
+  "asm_acc": "GCA_003264955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09425565",
+  "collection_date": "2011-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "20710"
+ },
+ {
+  "asm_acc": "GCA_003382725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09071586",
+  "collection_date": "2016-07-27",
+  "host": "CANINE",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "OSUVMCKPC4-2"
+ },
+ {
+  "asm_acc": "GCA_003408555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04448506",
+  "collection_date": "2013",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2013_1a"
+ },
+ {
+  "asm_acc": "GCA_003408575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04448498",
+  "collection_date": "2015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "N1"
+ },
+ {
+  "asm_acc": "GCA_003408595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04448499",
+  "collection_date": "2015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "A1"
+ },
+ {
+  "asm_acc": "GCA_003428425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08027258",
+  "collection_date": "2016-11-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "WCHEH020038"
+ },
+ {
+  "asm_acc": "GCA_003586025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07988874",
+  "collection_date": "2016-09-09",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "OSUKPC4_L"
+ },
+ {
+  "asm_acc": "GCA_003964795.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10525000",
+  "collection_date": "2018-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "WCHEX045001"
+ },
+ {
+  "asm_acc": "GCA_003965345.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09845189",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "WCHEH090011"
+ },
+ {
+  "asm_acc": "GCA_900635705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA2709017",
+  "collection_date": null,
+  "host": "NOT AVAILABLE",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "NCTC11571"
+ },
+ {
+  "asm_acc": "GCA_004118875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10755318",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "S11_16"
+ },
+ {
+  "asm_acc": "GCA_005217155.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11514785",
+  "collection_date": "2019-04-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "KCJ3K13"
+ },
+ {
+  "asm_acc": "GCA_005217135.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11514786",
+  "collection_date": "2019-03-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "KCJ3K19"
+ },
+ {
+  "asm_acc": "GCA_008505035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12725416",
+  "collection_date": "2019-02-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "EB_P6_L3_02.19"
+ },
+ {
+  "asm_acc": "GCA_008693905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056357",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FDAARGOS_642"
+ },
+ {
+  "asm_acc": "GCA_008931325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12289368",
+  "collection_date": "2013-04-15",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "C44"
+ },
+ {
+  "asm_acc": "GCA_008931405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12289339",
+  "collection_date": "2009-02-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "C15"
+ },
+ {
+  "asm_acc": "GCA_008931585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12289289",
+  "collection_date": "2007-06-28",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "C4"
+ },
+ {
+  "asm_acc": "GCA_008931645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12289303",
+  "collection_date": "2013-04-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "C45"
+ },
+ {
+  "asm_acc": "GCA_008931785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12713636",
+  "collection_date": "2019-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "EB_P9_L5_03.19"
+ },
+ {
+  "asm_acc": "GCA_009497055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13022768",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "AUH-ENM30"
+ },
+ {
+  "asm_acc": "GCA_009728975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13335391",
+  "collection_date": "2018-02-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "E70"
+ },
+ {
+  "asm_acc": "GCA_009738085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10219678",
+  "collection_date": "2016-04-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "L51"
+ },
+ {
+  "asm_acc": "GCA_009834325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10654518",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
+  "strain": "Eh1"
+ },
+ {
+  "asm_acc": "GCA_009930835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07692716",
+  "collection_date": "2013-08-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "BW"
+ },
+ {
+  "asm_acc": "GCA_009930935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08554725",
+  "collection_date": "2014-05-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "BW"
+ },
+ {
+  "asm_acc": "GCA_010319625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00167169",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
+  "strain": "OIPH-N069"
+ },
+ {
+  "asm_acc": "GCA_011044215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14132375",
+  "collection_date": "2007-01-31",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Y233"
+ },
+ {
+  "asm_acc": "GCA_011045335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14142412",
+  "collection_date": "2007-01-31",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Y323"
+ },
+ {
+  "asm_acc": "GCA_011045355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14151378",
+  "collection_date": "2007-01-31",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Y2152"
+ },
+ {
+  "asm_acc": "GCA_012562255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14492121",
+  "collection_date": "2015-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "AMS-38"
+ },
+ {
+  "asm_acc": "GCA_012975085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10107915",
+  "collection_date": "2014-07-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "AKB48"
+ },
+ {
+  "asm_acc": "GCA_013873515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15589926",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ENCL48880"
+ },
+ {
+  "asm_acc": "GCA_013873655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15589925",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ENCL48212"
+ },
+ {
+  "asm_acc": "GCA_013873945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15589938",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ENCL49790"
+ },
+ {
+  "asm_acc": "GCA_014117285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15648651",
+  "collection_date": "2019-08-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ZHH"
+ },
+ {
+  "asm_acc": "GCA_014771415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14450178",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "NJGLYY90-CR"
+ },
+ {
+  "asm_acc": "GCA_015535055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16707732",
+  "collection_date": "2019-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "3804"
+ },
+ {
+  "asm_acc": "GCA_015535675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16233514",
+  "collection_date": "2018-05-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "BD-50-Eh"
+ },
+ {
+  "asm_acc": "GCA_014931695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14828832",
+  "collection_date": "2014-01-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "Ec61"
+ },
+ {
+  "asm_acc": "GCA_016126855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17054651",
+  "collection_date": "2014",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "MSB1_8J"
+ },
+ {
+  "asm_acc": "GCA_016745355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17252997",
+  "collection_date": "2018-04-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "1575"
+ },
+ {
+  "asm_acc": "GCA_016864035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12999969",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "14102KSN"
+ },
+ {
+  "asm_acc": "GCA_016864135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12999974",
+  "collection_date": "2014",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "14280161202"
+ },
+ {
+  "asm_acc": "GCA_016864155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN12999995",
+  "collection_date": "2014",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "14320055602"
+ },
+ {
+  "asm_acc": "GCA_016939555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16933270",
+  "collection_date": "2019-01-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "EC48293"
+ },
+ {
+  "asm_acc": "GCA_017161605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615676",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C034192"
+ },
+ {
+  "asm_acc": "GCA_017161725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615675",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C034177"
+ },
+ {
+  "asm_acc": "GCA_017161745.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615672",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C019072"
+ },
+ {
+  "asm_acc": "GCA_017161765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615668",
+  "collection_date": "2015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C010068"
+ },
+ {
+  "asm_acc": "GCA_017161785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615670",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C017238"
+ },
+ {
+  "asm_acc": "GCA_017161805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615674",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C033144"
+ },
+ {
+  "asm_acc": "GCA_017161825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615673",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C019181"
+ },
+ {
+  "asm_acc": "GCA_017161845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615671",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C017834"
+ },
+ {
+  "asm_acc": "GCA_017161865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN17615669",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "RIVM_C012369"
+ },
+ {
+  "asm_acc": "GCA_017310485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16561277",
+  "collection_date": "2015-08-21",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "IR5283"
+ },
+ {
+  "asm_acc": "GCA_019355415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14142282",
+  "collection_date": "2008-11-14",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "08-175"
+ },
+ {
+  "asm_acc": "GCA_019356035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20299883",
+  "collection_date": "2021-01-20",
+  "host": "DUCK",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "G17"
+ },
+ {
+  "asm_acc": "GCA_019458525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20500401",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ECC59"
+ },
+ {
+  "asm_acc": "GCA_020695365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377434",
+  "collection_date": "2020-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "60214CZ"
+ },
+ {
+  "asm_acc": "GCA_020695485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377432",
+  "collection_date": "2020-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "59732CZ"
+ },
+ {
+  "asm_acc": "GCA_020695585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377429",
+  "collection_date": "2020-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "57816CZ"
+ },
+ {
+  "asm_acc": "GCA_020695605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377422",
+  "collection_date": "2019-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "54569CZ"
+ },
+ {
+  "asm_acc": "GCA_020695685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377414",
+  "collection_date": "2019-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "49589CZ"
+ },
+ {
+  "asm_acc": "GCA_020695705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377412",
+  "collection_date": "2019-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "48947CZ"
+ },
+ {
+  "asm_acc": "GCA_020695725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377411",
+  "collection_date": "2019-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "48411CZ"
+ },
+ {
+  "asm_acc": "GCA_021397695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24341409",
+  "collection_date": "2018-02-28",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "TUECL19001"
+ },
+ {
+  "asm_acc": "GCA_021398115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24425646",
+  "collection_date": "2018-04-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "TUECL19003"
+ },
+ {
+  "asm_acc": "GCA_021491615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24596081",
+  "collection_date": "2021-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FY-1"
+ },
+ {
+  "asm_acc": "GCA_021491635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24596082",
+  "collection_date": "2017-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Y-2"
+ },
+ {
+  "asm_acc": "GCA_021497625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18311225",
+  "collection_date": "2019-05",
+  "host": "SWINE",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "GX4-8L"
+ },
+ {
+  "asm_acc": "GCA_023023665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21379550",
+  "collection_date": "2014-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "14269-yvys"
+ },
+ {
+  "asm_acc": "GCA_023375605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27363748",
+  "collection_date": "2019",
+  "host": "HEALTHY DOG",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "K528"
+ },
+ {
+  "asm_acc": "GCA_023547225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22612719",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Eh60"
+ },
+ {
+  "asm_acc": "GCA_023547485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14943921",
+  "collection_date": "2017-09-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Eh65"
+ },
+ {
+  "asm_acc": "GCA_023734795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490829",
+  "collection_date": "2016-01-13",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80001"
+ },
+ {
+  "asm_acc": "GCA_023734815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490830",
+  "collection_date": "2016-01-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80002"
+ },
+ {
+  "asm_acc": "GCA_023734835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490831",
+  "collection_date": "2016-04-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80003"
+ },
+ {
+  "asm_acc": "GCA_023734855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490832",
+  "collection_date": "2016-04-14",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80004"
+ },
+ {
+  "asm_acc": "GCA_023734875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490833",
+  "collection_date": "2016-01-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80005"
+ },
+ {
+  "asm_acc": "GCA_023734895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490835",
+  "collection_date": "2016-06-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80007"
+ },
+ {
+  "asm_acc": "GCA_023734915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490836",
+  "collection_date": "2016-09-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80008"
+ },
+ {
+  "asm_acc": "GCA_023734935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490837",
+  "collection_date": "2016-10-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80011"
+ },
+ {
+  "asm_acc": "GCA_023734955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490838",
+  "collection_date": "2016-10-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80012"
+ },
+ {
+  "asm_acc": "GCA_023734975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490839",
+  "collection_date": "2016-10-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80013"
+ },
+ {
+  "asm_acc": "GCA_023734995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490840",
+  "collection_date": "2016-10-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80014"
+ },
+ {
+  "asm_acc": "GCA_023735015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490842",
+  "collection_date": "2016-01-14",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80017"
+ },
+ {
+  "asm_acc": "GCA_023735035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490843",
+  "collection_date": "2016-05-29",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80019"
+ },
+ {
+  "asm_acc": "GCA_023735055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490844",
+  "collection_date": "2016-08-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80022"
+ },
+ {
+  "asm_acc": "GCA_023735075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490845",
+  "collection_date": "2015-10-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80023"
+ },
+ {
+  "asm_acc": "GCA_023735155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490846",
+  "collection_date": "2015-11-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80024"
+ },
+ {
+  "asm_acc": "GCA_023735195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490847",
+  "collection_date": "2016-11-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80053"
+ },
+ {
+  "asm_acc": "GCA_023735215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490850",
+  "collection_date": "2015-11-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80056"
+ },
+ {
+  "asm_acc": "GCA_023735235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490852",
+  "collection_date": "2015-10-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80060"
+ },
+ {
+  "asm_acc": "GCA_023735255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490854",
+  "collection_date": "2015-07-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80062"
+ },
+ {
+  "asm_acc": "GCA_023735275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490855",
+  "collection_date": "2014-09-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80064"
+ },
+ {
+  "asm_acc": "GCA_023735295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490856",
+  "collection_date": "2014-01-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80065"
+ },
+ {
+  "asm_acc": "GCA_023735315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490857",
+  "collection_date": "2014-09-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80066"
+ },
+ {
+  "asm_acc": "GCA_023735335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490858",
+  "collection_date": "2014-12-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80067"
+ },
+ {
+  "asm_acc": "GCA_023735355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490860",
+  "collection_date": "2019-12-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80149"
+ },
+ {
+  "asm_acc": "GCA_023735375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490862",
+  "collection_date": "2018-08-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80169"
+ },
+ {
+  "asm_acc": "GCA_023735395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490863",
+  "collection_date": "2018-09-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80181"
+ },
+ {
+  "asm_acc": "GCA_023735435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490867",
+  "collection_date": "2019-10-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80299"
+ },
+ {
+  "asm_acc": "GCA_023735475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490871",
+  "collection_date": "2015-09-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80063"
+ },
+ {
+  "asm_acc": "GCA_023735495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490872",
+  "collection_date": "2014-05-15",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80068"
+ },
+ {
+  "asm_acc": "GCA_023735515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490873",
+  "collection_date": "2019-06-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80144"
+ },
+ {
+  "asm_acc": "GCA_023735535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490874",
+  "collection_date": "2019-06-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80145"
+ },
+ {
+  "asm_acc": "GCA_023735615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490875",
+  "collection_date": "2019-06-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80146"
+ },
+ {
+  "asm_acc": "GCA_023735695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490877",
+  "collection_date": "2019-04-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80151"
+ },
+ {
+  "asm_acc": "GCA_023735715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490878",
+  "collection_date": "2019-04-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80152"
+ },
+ {
+  "asm_acc": "GCA_023735735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490879",
+  "collection_date": "2019-07-29",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80153"
+ },
+ {
+  "asm_acc": "GCA_023735755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490880",
+  "collection_date": "2018-05-21",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80156"
+ },
+ {
+  "asm_acc": "GCA_023735775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490881",
+  "collection_date": "2018-05-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80158"
+ },
+ {
+  "asm_acc": "GCA_023735795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490882",
+  "collection_date": "2018-11-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80178"
+ },
+ {
+  "asm_acc": "GCA_023735815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490883",
+  "collection_date": "2018-11-28",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80182"
+ },
+ {
+  "asm_acc": "GCA_023735835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490884",
+  "collection_date": "2019-06-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80191"
+ },
+ {
+  "asm_acc": "GCA_023735855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490885",
+  "collection_date": "2019-11-14",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80334"
+ },
+ {
+  "asm_acc": "GCA_023735875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490886",
+  "collection_date": "2018-04-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80374"
+ },
+ {
+  "asm_acc": "GCA_023735895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490887",
+  "collection_date": "2018-11-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80375"
+ },
+ {
+  "asm_acc": "GCA_023735915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490888",
+  "collection_date": "2020-02-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80376"
+ },
+ {
+  "asm_acc": "GCA_023735935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490889",
+  "collection_date": "2020-03-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80377"
+ },
+ {
+  "asm_acc": "GCA_023735955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490890",
+  "collection_date": "2020-04-17",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80378"
+ },
+ {
+  "asm_acc": "GCA_023735975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490891",
+  "collection_date": "2020-07-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80380"
+ },
+ {
+  "asm_acc": "GCA_023735995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490892",
+  "collection_date": "2020-08-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80381"
+ },
+ {
+  "asm_acc": "GCA_023736015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490893",
+  "collection_date": "2020-08-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80382"
+ },
+ {
+  "asm_acc": "GCA_023805415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28918927",
+  "collection_date": "2017-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "YQ13422hy"
+ },
+ {
+  "asm_acc": "GCA_023897035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14943915",
+  "collection_date": "2013-05-28",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Eh27"
+ },
+ {
+  "asm_acc": "GCA_024182005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490864",
+  "collection_date": "2019-08-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80199"
+ },
+ {
+  "asm_acc": "GCA_024182025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00490869",
+  "collection_date": "2020-04-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "FUJ80379"
+ },
+ {
+  "asm_acc": "GCA_024585325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28200646",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "va18651"
+ },
+ {
+  "asm_acc": "GCA_024917315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28173991",
+  "collection_date": "2017-12-29",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "1074"
+ },
+ {
+  "asm_acc": "GCA_024917395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28174055",
+  "collection_date": "2019-04-17",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "4285"
+ },
+ {
+  "asm_acc": "GCA_024917635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28174063",
+  "collection_date": "2018-07-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "4453"
+ },
+ {
+  "asm_acc": "GCA_024917775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28173982",
+  "collection_date": "2019-12-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "70"
+ },
+ {
+  "asm_acc": "GCA_024918215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28174038",
+  "collection_date": "2017-10-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "MB4528 Variant"
+ },
+ {
+  "asm_acc": "GCA_024918255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28174037",
+  "collection_date": "2017-10-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ST90"
+ },
+ {
+  "asm_acc": "GCA_024918795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28174019",
+  "collection_date": "2016-12-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "3131"
+ },
+ {
+  "asm_acc": "GCA_025266795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28865091",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. hormaechei",
+  "strain": "ECC33"
+ },
+ {
+  "asm_acc": "GCA_025311535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30695413",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "colR"
+ },
+ {
+  "asm_acc": "GCA_025311555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30695412",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "csa13R"
+ },
+ {
+  "asm_acc": "GCA_025311595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30695411",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
+  "strain": "4236"
+ },
+ {
+  "asm_acc": "GCA_025369895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30506756",
+  "collection_date": "2021-05-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "80014967"
+ },
+ {
+  "asm_acc": "GCA_025398395.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16505100",
+  "collection_date": "2020-02-17",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00376"
+ },
+ {
+  "asm_acc": "GCA_025398715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30655620",
+  "collection_date": "2022-08-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2022CK-00453"
+ },
+ {
+  "asm_acc": "GCA_026015945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31455096",
+  "collection_date": "2017-09-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "ECC2783"
+ },
+ {
+  "asm_acc": "GCA_026109755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27409789",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "HD8642"
+ },
+ {
+  "asm_acc": "GCA_026240655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31691762",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "K432"
+ },
+ {
+  "asm_acc": "GCA_027577865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31152634",
+  "collection_date": "2022-08-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2022CK-00493"
+ },
+ {
+  "asm_acc": "GCA_027595125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28016882",
+  "collection_date": "2012",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "NY0401"
+ },
+ {
+  "asm_acc": "GCA_027886505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907138",
+  "collection_date": "2019-03-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00203"
+ },
+ {
+  "asm_acc": "GCA_027886525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907139",
+  "collection_date": "1929-09-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00204"
+ },
+ {
+  "asm_acc": "GCA_027886545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907137",
+  "collection_date": "2019-06-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00202"
+ },
+ {
+  "asm_acc": "GCA_028622735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32093416",
+  "collection_date": "2022-11-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2022CK-00700"
+ },
+ {
+  "asm_acc": "GCA_028752775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21522362",
+  "collection_date": "2019-03-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "MDCL 3"
+ },
+ {
+  "asm_acc": "GCA_028872235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907159",
+  "collection_date": "2020-06-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00224"
+ },
+ {
+  "asm_acc": "GCA_028891505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907141",
+  "collection_date": "2020-06-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00206"
+ },
+ {
+  "asm_acc": "GCA_028898905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907134",
+  "collection_date": "2020-05-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00199"
+ },
+ {
+  "asm_acc": "GCA_029207635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33277205",
+  "collection_date": "2021-01-01",
+  "host": "TENEBRIO MOLITOR",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "LG3"
+ },
+ {
+  "asm_acc": "GCA_029948145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15907133",
+  "collection_date": "2019-12-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2020CK-00198"
+ },
+ {
+  "asm_acc": "GCA_030062075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26810699",
+  "collection_date": "2021-11-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "CNCI 7"
+ },
+ {
+  "asm_acc": "GCA_030179315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30974105",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2017-45-33"
+ },
+ {
+  "asm_acc": "GCA_030413825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35822989",
+  "collection_date": "2018-01-25",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Eh202_LBHALD"
+ },
+ {
+  "asm_acc": "GCA_030486465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36341330",
+  "collection_date": "2018-04-21",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "Eh8322_LBHALD"
+ },
+ {
+  "asm_acc": "GCA_030717405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36773911",
+  "collection_date": "2019-01-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "MRSN791417"
+ },
+ {
+  "asm_acc": "GCA_030718955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27992995",
+  "collection_date": "2022-04-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2022CK-00285"
+ }
+]

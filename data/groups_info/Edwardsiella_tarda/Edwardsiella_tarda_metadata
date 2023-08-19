@@ -1,0 +1,18 @@
+{
+ "group": "Edwardsiella_tarda",
+ "count": 4,
+ "species": {
+  "Edwardsiella tarda": 4
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Edwardsiella tarda ATCC 15947 = NBRC 105688": 1,
+  "Edwardsiella tarda": 3
+ },
+ "strain": {},
+ "hosts": {
+  "PSEUDORCA CRASSIDENS": 1,
+  "ICTALURUS PUNCTATUS": 2,
+  "HOMO SAPIENS": 1
+ }
+}

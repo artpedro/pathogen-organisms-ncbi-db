@@ -1,0 +1,19 @@
+{
+ "group": "Shewanella_algae",
+ "count": 12,
+ "species": {
+  "Shewanella algae": 12
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Shewanella algae": 12
+ },
+ "strain": {
+  "VGH117": 2
+ },
+ "hosts": {
+  "JANIA SP. (RED ALGA)": 1,
+  "CHICKEN": 1,
+  "HOMO SAPIENS": 10
+ }
+}

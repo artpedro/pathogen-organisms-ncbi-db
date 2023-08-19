@@ -1,0 +1,20 @@
+{
+ "group": "Enterobacter_cloacae",
+ "count": 15,
+ "species": {
+  "Enterobacter cloacae": 15
+ },
+ "subsp.": {
+  "Enterobacter cloacae subsp. cloacae": 2
+ },
+ "scientific_name": {
+  "Enterobacter cloacae": 13,
+  "Enterobacter cloacae subsp. cloacae": 2
+ },
+ "strain": {},
+ "hosts": {
+  "CHICKEN": 1,
+  "PIG": 1,
+  "HOMO SAPIENS": 13
+ }
+}

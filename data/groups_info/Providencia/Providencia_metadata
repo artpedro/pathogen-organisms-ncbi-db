@@ -1,0 +1,37 @@
+{
+ "group": "Providencia",
+ "count": 106,
+ "species": {
+  "Providencia rettgeri": 23,
+  "Providencia alcalifaciens": 10,
+  "Proteus mirabilis": 62,
+  "Providencia stuartii": 11
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Providencia stuartii MRSN 2154": 1,
+  "Providencia stuartii": 10,
+  "Providencia rettgeri": 23,
+  "Proteus mirabilis": 62,
+  "Providencia alcalifaciens": 10
+ },
+ "strain": {
+  "null": 2
+ },
+ "hosts": {
+  "AILUROPODA MELANOLEUCA": 1,
+  "FISH": 2,
+  "PANTHERA TIGRIS AMOYENSIS FACEL": 1,
+  "MALAYAN PANGOLIN": 1,
+  "CACATUA GALERITA": 1,
+  "HOMO SAPIENS": 73,
+  "PIG": 5,
+  "BOVINE": 1,
+  "YAK": 1,
+  "TURTLE": 1,
+  "CARACAL CARACAL": 1,
+  "RHESUS MACAQUES": 1,
+  "DOG": 9,
+  "CHICKEN": 8
+ }
+}

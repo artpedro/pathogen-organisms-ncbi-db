@@ -1,0 +1,105 @@
+[
+ {
+  "Streptococcus_iniae": "PDG000000085.11",
+  "date": "Sat Aug 19 12:52:15 2023"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_001885145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05967356",
+  "collection_date": "2000",
+  "host": "OREOCHROMIS NILOTICUS",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "89353"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_002220115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06909305",
+  "collection_date": "2009-03",
+  "host": "LATES CALCARIFER",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "QMA0248"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_002787125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07962172",
+  "collection_date": "2005",
+  "host": "PARALICHTHYS OLIVACEUS",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "FP5228"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_003589905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10067964",
+  "collection_date": "2006-06",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "GX005"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_003589945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10067963",
+  "collection_date": "2008-08",
+  "host": "TILAPIA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "YM011"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_030020365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34895452",
+  "collection_date": "2022-05-24",
+  "host": "SELENOTOCA MULTIFASCIATA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "DFSM220524"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_030582735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32967000",
+  "collection_date": "2021-10-07",
+  "host": "SELENOTOCA MULTIFASCIATA",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "LSSM211007SI"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_030732225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36835238",
+  "collection_date": "2015-07",
+  "host": "TRACHINOTUS OVATUS",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "BH15-2"
+ },
+ {
+  "Streptococcus_iniae": null,
+  "date": null,
+  "asm_acc": "GCA_030732245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36835239",
+  "collection_date": "2016-07",
+  "host": "TRACHINOTUS OVATUS",
+  "scientific_name": "Streptococcus iniae",
+  "strain": "BH16-24"
+ }
+]

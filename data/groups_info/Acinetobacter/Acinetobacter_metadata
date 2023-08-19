@@ -1,0 +1,42 @@
+{
+ "group": "Acinetobacter",
+ "count": 533,
+ "species": {
+  "Acinetobacter seifertii": 22,
+  "Acinetobacter nosocomialis": 10,
+  "Acinetobacter pittii": 21,
+  "Acinetobacter baumannii": 480
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Acinetobacter baumannii LAC-4": 1,
+  "Acinetobacter seifertii": 22,
+  "Acinetobacter baumannii": 474,
+  "Acinetobacter baumannii ATCC 17978": 1,
+  "Acinetobacter baumannii D1279779": 1,
+  "Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841": 1,
+  "Acinetobacter pittii": 21,
+  "Acinetobacter nosocomialis M2": 1,
+  "Acinetobacter baumannii ACICU": 1,
+  "Acinetobacter baumannii Canada BC-5": 1,
+  "Acinetobacter nosocomialis": 9
+ },
+ "strain": {
+  "04117201": 2,
+  "null": 4,
+  "ATCC 19606": 3,
+  "ATCC 17978": 2
+ },
+ "hosts": {
+  "NOT AVAILABLE": 1,
+  "FISH": 2,
+  "HOMO SAPIENS": 517,
+  "WHITE STORK": 2,
+  "SHEEP": 1,
+  "SORGHUM BICOLOR": 1,
+  "BOVINE": 1,
+  "DOG": 2,
+  "CHICKEN": 5,
+  "ENVIRONMENT": 1
+ }
+}

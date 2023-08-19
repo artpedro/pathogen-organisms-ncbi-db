@@ -1,0 +1,24 @@
+{
+ "group": "Streptococcus_pyogenes",
+ "count": 234,
+ "species": {
+  "Streptococcus pyogenes": 234
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Streptococcus pyogenes MGAS1882": 1,
+  "Streptococcus pyogenes STAB902": 1,
+  "Streptococcus pyogenes Alab49": 1,
+  "Streptococcus pyogenes JRS4": 1,
+  "Streptococcus pyogenes": 229,
+  "Streptococcus pyogenes MGAS15252": 1
+ },
+ "strain": {
+  "5448": 2
+ },
+ "hosts": {
+  "NOT AVAILABLE": 30,
+  "NIST MIXED MICROBIAL RM STRAIN": 1,
+  "HOMO SAPIENS": 203
+ }
+}

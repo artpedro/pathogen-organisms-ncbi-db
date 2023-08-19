@@ -1,0 +1,40 @@
+{
+ "group": "Citrobacter_freundii",
+ "count": 71,
+ "species": {
+  "Citrobacter farmeri": 1,
+  "Citrobacter youngae": 2,
+  "Citrobacter sedlakii": 1,
+  "Citrobacter braakii": 3,
+  "Citrobacter werkmanii": 3,
+  "Citrobacter amalonaticus": 6,
+  "Citrobacter rodentium": 1,
+  "Citrobacter freundii": 44,
+  "Citrobacter koseri": 9,
+  "Citrobacter pasteurii": 1
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Citrobacter farmeri": 1,
+  "Citrobacter youngae": 2,
+  "Citrobacter sedlakii": 1,
+  "Citrobacter braakii": 3,
+  "Citrobacter werkmanii": 3,
+  "Citrobacter amalonaticus": 6,
+  "Citrobacter freundii": 44,
+  "Citrobacter koseri": 9,
+  "Citrobacter pasteurii": 1,
+  "Citrobacter rodentium NBRC 105723 = DSM 16636": 1
+ },
+ "strain": {
+  "null": 8
+ },
+ "hosts": {
+  "HOMO SAPIENS": 64,
+  "RODENT": 1,
+  "PELODISCUS SINENSIS": 1,
+  "MUS MUSCULUS": 1,
+  "CHICKEN": 1,
+  "ENVIRONMENT": 3
+ }
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "Edwardsiella_tarda": "PDG000000081.12",
+  "date": "Sat Aug 19 12:48:47 2023"
+ },
+ {
+  "asm_acc": "GCA_001011055.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN03579666",
+  "collection_date": "1995",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella tarda",
+  "strain": "FL95-01"
+ },
+ {
+  "asm_acc": "GCA_002504285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07695532",
+  "collection_date": "2017-03",
+  "host": "PSEUDORCA CRASSIDENS",
+  "scientific_name": "Edwardsiella tarda",
+  "strain": "KC-Pc-HB1"
+ },
+ {
+  "asm_acc": "GCA_003113495.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08942787",
+  "collection_date": "1959",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Edwardsiella tarda ATCC 15947 = NBRC 105688",
+  "strain": "ATCC 15947"
+ },
+ {
+  "asm_acc": "GCA_003074875.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08939826",
+  "collection_date": "1998",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella tarda",
+  "strain": "AL98-87"
+ }
+]

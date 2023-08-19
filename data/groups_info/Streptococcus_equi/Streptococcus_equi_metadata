@@ -1,0 +1,26 @@
+{
+ "group": "Streptococcus_equi",
+ "count": 23,
+ "species": {
+  "Streptococcus equi": 23
+ },
+ "subsp.": {
+  "Streptococcus equi subsp. zooepidemicus": 19,
+  "Streptococcus equi subsp. equi": 4
+ },
+ "scientific_name": {
+  "Streptococcus equi subsp. zooepidemicus": 18,
+  "Streptococcus equi subsp. equi": 4,
+  "Streptococcus equi subsp. zooepidemicus CY": 1
+ },
+ "strain": {},
+ "hosts": {
+  "HORSE (MARE)": 1,
+  "NOT AVAILABLE": 1,
+  "MARE": 7,
+  "MOUSE": 1,
+  "HOMO SAPIENS": 2,
+  "PIG": 5,
+  "HORSE": 6
+ }
+}

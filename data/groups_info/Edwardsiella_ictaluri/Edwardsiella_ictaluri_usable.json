@@ -1,0 +1,87 @@
+[
+ {
+  "Edwardsiella_ictaluri": "PDG000000079.13",
+  "date": "Sat Aug 19 12:48:45 2023"
+ },
+ {
+  "asm_acc": "GCA_002076875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06637964",
+  "collection_date": "2012",
+  "host": "OREOCHROMIS NILOTICUS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "RUSVM-1"
+ },
+ {
+  "asm_acc": "GCA_003054425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08906337",
+  "collection_date": "2017-04-26",
+  "host": "CATFISH",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "MS-17-156"
+ },
+ {
+  "asm_acc": "GCA_003058405.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08930763",
+  "collection_date": "1997",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "S97-773"
+ },
+ {
+  "asm_acc": "GCA_003074995.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08930813",
+  "collection_date": "2007",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "S07-698"
+ },
+ {
+  "asm_acc": "GCA_025665375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30966624",
+  "collection_date": "2018-08",
+  "host": "TACHYSURUS FULVIDRACO (YELLOW CATFISH)",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "669"
+ },
+ {
+  "asm_acc": "GCA_030297415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611014",
+  "collection_date": "2020-09-06",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "KH20906"
+ },
+ {
+  "asm_acc": "GCA_030297435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611015",
+  "collection_date": "2020-09-21",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "KB20921"
+ },
+ {
+  "asm_acc": "GCA_030297455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611016",
+  "collection_date": "2020-10-10",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "KH201010"
+ },
+ {
+  "asm_acc": "GCA_030347235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11664858",
+  "collection_date": "2013-10-16",
+  "host": "TACHYSURUS FULVIDRACO (YELLOW CATFISH)",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "YCH"
+ }
+]

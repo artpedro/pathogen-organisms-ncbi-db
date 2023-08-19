@@ -1,0 +1,127 @@
+[
+ {
+  "Treponema_pallidum": "PDG000000104.12",
+  "date": "Sat Aug 19 12:52:15 2023"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_005885795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11812273",
+  "collection_date": "2017-05-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "X-4"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_023016345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27502673",
+  "collection_date": "1912-06-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "TpN-CL8"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_023016365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27502672",
+  "collection_date": "1912-06-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "TpN-CL5"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_023016385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27502668",
+  "collection_date": "1912-06-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "TpN-CL1"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_023016405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27502671",
+  "collection_date": "1912-06-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "TpN-CL4"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_023016425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27502670",
+  "collection_date": "1912-06-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "TpN-CL3"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_023016445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27502669",
+  "collection_date": "1912-06-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Treponema pallidum subsp. pallidum",
+  "strain": "TpN-CL2"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_029866565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26521568",
+  "collection_date": "2015-08-28",
+  "host": "PAPIO ANUBIS",
+  "scientific_name": "Treponema pallidum subsp. pertenue",
+  "strain": "19LMF8280815"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_029866585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26521550",
+  "collection_date": "2016-07-09",
+  "host": "CHLOROCEBUS PYGERYTHRUS",
+  "scientific_name": "Treponema pallidum subsp. pertenue",
+  "strain": "6RUM2090716"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_029866705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26521572",
+  "collection_date": "2015-08-29",
+  "host": "PAPIO ANUBIS",
+  "scientific_name": "Treponema pallidum subsp. pertenue",
+  "strain": "22LMF5290815"
+ },
+ {
+  "Treponema_pallidum": null,
+  "date": null,
+  "asm_acc": "GCA_029866725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN26521574",
+  "collection_date": "2015-11-15",
+  "host": "PAPIO ANUBIS",
+  "scientific_name": "Treponema pallidum subsp. pertenue",
+  "strain": "24SNM5151115"
+ }
+]

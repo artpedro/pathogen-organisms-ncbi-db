@@ -1,0 +1,21 @@
+{
+ "group": "Treponema_pallidum",
+ "count": 11,
+ "species": {
+  "Treponema pallidum": 11
+ },
+ "subsp.": {
+  "Treponema pallidum subsp. pertenue": 4,
+  "Treponema pallidum subsp. pallidum": 7
+ },
+ "scientific_name": {
+  "Treponema pallidum subsp. pertenue": 4,
+  "Treponema pallidum subsp. pallidum": 7
+ },
+ "strain": {},
+ "hosts": {
+  "PAPIO ANUBIS": 3,
+  "CHLOROCEBUS PYGERYTHRUS": 1,
+  "HOMO SAPIENS": 7
+ }
+}

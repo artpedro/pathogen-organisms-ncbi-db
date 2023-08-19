@@ -1,0 +1,15 @@
+{
+ "group": "Neisseria_lactamica",
+ "count": 3,
+ "species": {
+  "Neisseria lactamica": 3
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Neisseria lactamica": 3
+ },
+ "strain": {},
+ "hosts": {
+  "HOMO SAPIENS": 3
+ }
+}

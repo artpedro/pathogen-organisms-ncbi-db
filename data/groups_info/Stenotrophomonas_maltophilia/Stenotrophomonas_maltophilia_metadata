@@ -1,0 +1,20 @@
+{
+ "group": "Stenotrophomonas_maltophilia",
+ "count": 18,
+ "species": {
+  "Stenotrophomonas maltophilia": 18
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Stenotrophomonas maltophilia": 18
+ },
+ "strain": {
+  "NCTC10498": 2
+ },
+ "hosts": {
+  "NOT AVAILABLE": 1,
+  "ZEA MAYS": 1,
+  "SEMPERVIVUM TECTORUM": 1,
+  "HOMO SAPIENS": 15
+ }
+}

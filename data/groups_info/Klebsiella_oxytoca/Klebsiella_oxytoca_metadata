@@ -1,0 +1,42 @@
+{
+ "group": "Klebsiella_oxytoca",
+ "count": 80,
+ "species": {
+  "Raoultella ornithinolytica": 9,
+  "Klebsiella michiganensis": 36,
+  "Raoultella terrigena": 2,
+  "Raoultella planticola": 4,
+  "Raoultella electrica": 2,
+  "Klebsiella oxytoca": 27
+ },
+ "subsp.": {},
+ "scientific_name": {
+  "Raoultella ornithinolytica": 9,
+  "Klebsiella michiganensis": 34,
+  "Klebsiella michiganensis HKOPL1": 1,
+  "Raoultella terrigena": 2,
+  "Raoultella planticola": 4,
+  "Raoultella electrica": 2,
+  "Klebsiella oxytoca": 27,
+  "Klebsiella michiganensis E718": 1
+ },
+ "strain": {
+  "null": 8
+ },
+ "hosts": {
+  "USTILAGO MAYDIS YZZF202006": 1,
+  "MORUS ALBA": 1,
+  "NOT AVAILABLE": 3,
+  "PATIENT": 1,
+  "GIANT PANDA": 1,
+  "HOMO SAPIENS": 62,
+  "BACTROCERA DORSALIS": 1,
+  "FEMALE": 1,
+  "SORGHUM BICOLOR": 1,
+  "DONGXIANG WILD RICE": 1,
+  "NOT COLLECTED": 1,
+  "CHICKEN": 2,
+  "ENVIRONMENT": 3,
+  "RECILIA DORSALIS": 1
+ }
+}

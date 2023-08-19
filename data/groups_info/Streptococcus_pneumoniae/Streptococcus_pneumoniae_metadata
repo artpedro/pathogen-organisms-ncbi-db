@@ -1,0 +1,36 @@
+{
+ "group": "Streptococcus_pneumoniae",
+ "count": 136,
+ "species": {
+  "Streptococcus pneumoniae": 117,
+  "Streptococcus mitis": 5,
+  "Streptococcus infantis": 1,
+  "Streptococcus oralis": 13
+ },
+ "subsp.": {
+  "Streptococcus oralis subsp. dentisani": 1,
+  "Streptococcus oralis subsp. tigurinus": 1
+ },
+ "scientific_name": {
+  "Streptococcus infantis": 1,
+  "Streptococcus pneumoniae ST556": 1,
+  "Streptococcus oralis subsp. dentisani": 1,
+  "Streptococcus mitis": 5,
+  "Streptococcus pneumoniae": 112,
+  "Streptococcus oralis ATCC 35037": 1,
+  "Streptococcus oralis subsp. tigurinus": 1,
+  "Streptococcus pneumoniae TCH8431/19A": 1,
+  "Streptococcus pneumoniae TIGR4": 1,
+  "Streptococcus pneumoniae AP200": 1,
+  "Streptococcus pneumoniae gamPNI0373": 1,
+  "Streptococcus oralis": 10
+ },
+ "strain": {
+  "SF100": 2
+ },
+ "hosts": {
+  "NOT AVAILABLE": 3,
+  "RHESUS MONKEY": 2,
+  "HOMO SAPIENS": 131
+ }
+}
