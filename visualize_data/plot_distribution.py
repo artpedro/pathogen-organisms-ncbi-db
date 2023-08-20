@@ -150,6 +150,9 @@ def plotSingleDistribution(name='',key='species',all=False):
         return None
 
 def writeAll():
+    '''
+    Plota a distribuição de todos os grupos e armazena em suas pastas, além de plotar a visão geral
+    '''
     for group in readGroupsNames():
         species = [plotSingleDistribution(group,'species')]
         hosts = [plotSingleDistribution(group,'hosts')]
@@ -159,8 +162,10 @@ def writeAll():
             write_pdf(f"sdis_{group}.pdf",species,path=f'data/plot/{group}')
         if hosts[0] != None:    
             write_pdf(f"hdis_{group}.pdf",hosts,path=f'data/plot/{group}')
+    writeGeneral()
 
 def writeSingle(group):
+    #defasada
     species = [plotSingleDistribution(group,'species')]
     hosts = [plotSingleDistribution(group,'hosts')]
     if species:
@@ -169,6 +174,10 @@ def writeSingle(group):
         write_pdf(f"hdis_{group}.pdf",hosts,path=f'data/plot/{group}')
 
 def writeGeneral():
+    '''
+    Plota uma visão geral da distribuição dos dados.
+    '''
+
     species = [plotSingleDistribution(all=True)]
     host = [plotSingleDistribution(key='hosts',all=True)]
     write_pdf(f"sdis_all.pdf",species,path="data/plot")
