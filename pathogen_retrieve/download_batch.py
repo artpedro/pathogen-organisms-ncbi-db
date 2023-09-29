@@ -68,6 +68,8 @@ def download_batch(batch,path):
     if not os.path.exists(path):
         os.mkdir(path)
     for entry in batch:
+
+        # preciso adicionar um if para não baixar assemblies já baixados, talvez uma nova função
         page = f'{entry[0:3]}/{entry[4:7]}/{entry[7:10]}/{entry[10:13]}'
         genome_url = ftp_url + page
         download(genome_url,'temp')
