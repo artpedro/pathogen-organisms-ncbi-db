@@ -1,7 +1,7 @@
 [
  {
-  "Providencia": "PDG000000021.559",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Providencia": "PDG000000021.581",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Providencia": null,
@@ -442,6 +442,17 @@
   "host": "CHICKEN",
   "scientific_name": "Proteus mirabilis",
   "strain": "JPM24"
+ },
+ {
+  "Providencia": null,
+  "date": null,
+  "asm_acc": "GCA_013256075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15002272",
+  "collection_date": "2017-12",
+  "host": "CHICKEN",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "YPM35"
  },
  {
   "Providencia": null,

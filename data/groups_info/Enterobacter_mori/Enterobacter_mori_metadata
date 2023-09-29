@@ -10,8 +10,8 @@
  },
  "strain": {},
  "hosts": {
+  "HOMO SAPIENS": 1,
   "PARIS POLYPHYLLA": 1,
-  "KIWIFRUIT": 1,
-  "HOMO SAPIENS": 1
+  "KIWIFRUIT": 1
  }
 }

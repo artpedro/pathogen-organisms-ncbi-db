@@ -1,7 +1,7 @@
 [
  {
-  "Staphylococcus_pseudintermedius": "PDG000000042.323",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Staphylococcus_pseudintermedius": "PDG000000042.334",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Staphylococcus_pseudintermedius": null,
@@ -1311,5 +1311,16 @@
   "host": "DOG",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "N9-1"
+ },
+ {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
+  "asm_acc": "GCA_031239735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31222422",
+  "collection_date": "2022-10-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "452964"
  }
 ]

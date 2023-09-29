@@ -1,7 +1,7 @@
 [
  {
-  "Klebsiella": "PDG000000012.1535",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Klebsiella": "PDG000000012.1572",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Klebsiella": null,
@@ -1909,17 +1909,6 @@
  {
   "Klebsiella": null,
   "date": null,
-  "asm_acc": "GCA_002966875.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN08135572",
-  "collection_date": "2016-03-05",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Klebsiella pneumoniae",
-  "strain": "HZW25"
- },
- {
-  "Klebsiella": null,
-  "date": null,
   "asm_acc": "GCA_002967795.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08605586",
@@ -2576,17 +2565,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Klebsiella pneumoniae",
   "strain": "INF078"
- },
- {
-  "Klebsiella": null,
-  "date": null,
-  "asm_acc": "GCA_003660205.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMEA3357202",
-  "collection_date": "2013-11",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Klebsiella pneumoniae",
-  "strain": "INF237"
  },
  {
   "Klebsiella": null,
@@ -19909,7 +19887,7 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33591082",
   "collection_date": "2021",
-  "host": "LITHOBATES CATESBEIANUS",
+  "host": "FISH",
   "scientific_name": "Klebsiella pneumoniae",
   "strain": "NW202109"
  },
@@ -21324,6 +21302,17 @@
  {
   "Klebsiella": null,
   "date": null,
+  "asm_acc": "GCA_030406515.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36017048",
+  "collection_date": "2022",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "Jinyinhai1"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
   "asm_acc": "GCA_030412705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35878170",
@@ -21375,6 +21364,28 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Klebsiella pneumoniae subsp. pneumoniae",
   "strain": "Kp3739_LBHALD"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030442015.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34559500",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "35"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030442105.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34559501",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "36"
  },
  {
   "Klebsiella": null,
@@ -22391,12 +22402,496 @@
  {
   "Klebsiella": null,
   "date": null,
-  "asm_acc": "GCA_029278585.2",
+  "asm_acc": "GCA_026256285.1",
   "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN33678013",
-  "collection_date": "2022-10-01",
+  "biosample_acc": "SAMEA3357130",
+  "collection_date": "2013-09",
   "host": "HOMO SAPIENS",
   "scientific_name": "Klebsiella pneumoniae",
-  "strain": "KC1"
+  "strain": "INF192"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071316",
+  "collection_date": "2016-05-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "505107"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071315",
+  "collection_date": "2014-09-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "489766"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071314",
+  "collection_date": "2015-11-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "352310"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071313",
+  "collection_date": "2014-06-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "25188"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071312",
+  "collection_date": "2017-10-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "582610"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071311",
+  "collection_date": "2016-03-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "474269"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071310",
+  "collection_date": "2012-11-21",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "16006"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071309",
+  "collection_date": "2013-02-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "15056"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071308",
+  "collection_date": "2012-03-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "7835"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071307",
+  "collection_date": "2022-11-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "110821"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071306",
+  "collection_date": "2018-07-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "589394"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071305",
+  "collection_date": "2018-07-15",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "589376"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071304",
+  "collection_date": "2018-06-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "576901"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071303",
+  "collection_date": "2017-07-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "550037"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071302",
+  "collection_date": "2017-12-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "544090"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071301",
+  "collection_date": "2014-12-15",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "517485"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071300",
+  "collection_date": "2015-03-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "489775"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071299",
+  "collection_date": "2017-05-29",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "480738"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071298",
+  "collection_date": "2017-02-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "463908"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071297",
+  "collection_date": "2016-04-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "387608"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071296",
+  "collection_date": "2005-05-23",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "371661"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071295",
+  "collection_date": "2006-08-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "363389"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071294",
+  "collection_date": "2015-07-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "31285"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071293",
+  "collection_date": "2014-05-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "23620"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071292",
+  "collection_date": "2013-02-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "15017"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071291",
+  "collection_date": "2012-11-13",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "13810"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071290",
+  "collection_date": "2012-02-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "13765"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071289",
+  "collection_date": "2012-11-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "12964"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071288",
+  "collection_date": "2006-05-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "5890"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071287",
+  "collection_date": "2005-07-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "5881"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030845975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36071286",
+  "collection_date": "2005-10-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "5764"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030847575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20294572",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP85"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030848965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36946811",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "43"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030863585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29409900",
+  "collection_date": "2021",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "BA32726"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030863985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36794656",
+  "collection_date": "2023-07-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KPLSX"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030866865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36794655",
+  "collection_date": "2023-07-18",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KPLSN"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030931055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37044519",
+  "collection_date": "2019-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella quasipneumoniae subsp. similipneumoniae",
+  "strain": "KQ20605"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_030931735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37044514",
+  "collection_date": "2019-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella quasipneumoniae subsp. similipneumoniae",
+  "strain": "KQ20786"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_031326245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37272497",
+  "collection_date": "2022-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP26"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_031326265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37272496",
+  "collection_date": "2022-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP17"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_031326285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37272498",
+  "collection_date": "2022-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP27"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_031432775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37200066",
+  "collection_date": "2022-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP6"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_031432915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37200059",
+  "collection_date": "2022-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "KP5"
+ },
+ {
+  "Klebsiella": null,
+  "date": null,
+  "asm_acc": "GCA_031885215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37434702",
+  "collection_date": "2020-10-29",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Klebsiella pneumoniae",
+  "strain": "F9"
  }
 ]

@@ -1,17 +1,17 @@
 {
  "group": "Cronobacter",
- "count": 5,
+ "count": 6,
  "species": {
-  "Cronobacter sakazakii": 5
+  "Cronobacter sakazakii": 6
  },
  "subsp.": {},
  "scientific_name": {
-  "Cronobacter sakazakii": 5
+  "Cronobacter sakazakii": 6
  },
  "strain": {},
  "hosts": {
-  "INFANTS": 1,
+  "HOMO SAPIENS": 4,
   "BOVINE": 1,
-  "HOMO SAPIENS": 3
+  "INFANTS": 1
  }
 }

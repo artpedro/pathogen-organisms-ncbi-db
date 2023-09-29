@@ -1,18 +1,19 @@
 {
  "group": "Enterobacter_ludwigii",
- "count": 7,
+ "count": 12,
  "species": {
-  "Enterobacter ludwigii": 7
+  "Enterobacter ludwigii": 12
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterobacter ludwigii": 7
+  "Enterobacter ludwigii": 12
  },
  "strain": {},
  "hosts": {
+  "ZEA MAYS": 1,
   "TOBACCO": 1,
   "STRAWBERRY": 1,
-  "ZEA MAYS": 1,
-  "HOMO SAPIENS": 4
+  "LARUS MICHAHELLIS": 3,
+  "HOMO SAPIENS": 6
  }
 }

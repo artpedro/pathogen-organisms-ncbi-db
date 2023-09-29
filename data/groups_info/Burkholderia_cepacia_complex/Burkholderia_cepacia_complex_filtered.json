@@ -1,7 +1,7 @@
 [
  {
-  "Burkholderia_cepacia_complex": "PDG000000094.51",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Burkholderia_cepacia_complex": "PDG000000094.59",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Burkholderia_cepacia_complex": null,
@@ -981,5 +981,16 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "LMG16232"
+ },
+ {
+  "Burkholderia_cepacia_complex": null,
+  "date": null,
+  "asm_acc": "GCA_030848725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36815367",
+  "collection_date": "2021-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Burkholderia dolosa",
+  "strain": "N149"
  }
 ]

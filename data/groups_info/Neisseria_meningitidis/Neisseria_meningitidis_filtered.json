@@ -1,7 +1,7 @@
 [
  {
-  "Neisseria_meningitidis": "PDG000000097.42",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Neisseria_meningitidis": "PDG000000097.50",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Neisseria_meningitidis": null,
@@ -68,28 +68,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "NM3683"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
-  "asm_acc": "GCA_000800415.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN03022902",
-  "collection_date": "2008",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "M10208"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
-  "asm_acc": "GCA_000816165.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN03201679",
-  "collection_date": "2009",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis LNP21362",
-  "strain": null
  },
  {
   "Neisseria_meningitidis": null,
@@ -875,17 +853,6 @@
  {
   "Neisseria_meningitidis": null,
   "date": null,
-  "asm_acc": "GCA_008329765.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN07137413",
-  "collection_date": "2012",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "12-221"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137416",
@@ -1051,39 +1018,6 @@
  {
   "Neisseria_meningitidis": null,
   "date": null,
-  "asm_acc": "GCA_015679795.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09429010",
-  "collection_date": "2015",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "15-236"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
-  "asm_acc": "GCA_015679815.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09429009",
-  "collection_date": "2015",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "15-215"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
-  "asm_acc": "GCA_015679845.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09429008",
-  "collection_date": "2015",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "15-198"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_015679865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429005",
@@ -1113,17 +1047,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "11-251"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
-  "asm_acc": "GCA_015732685.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09429006",
-  "collection_date": "2015",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "15-123"
  },
  {
   "Neisseria_meningitidis": null,

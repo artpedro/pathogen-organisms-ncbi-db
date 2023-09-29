@@ -1,38 +1,39 @@
 {
  "group": "Pasteurella_multocida",
- "count": 119,
+ "count": 121,
  "species": {
-  "Pasteurella multocida": 119
+  "Pasteurella multocida": 121
  },
  "subsp.": {
-  "Pasteurella multocida subsp. multocida": 6,
+  "Pasteurella multocida subsp. multocida": 5,
   "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. septica": 2
  },
  "scientific_name": {
-  "Pasteurella multocida": 110,
-  "Pasteurella multocida subsp. multocida str. HB03": 1,
+  "Pasteurella multocida": 113,
+  "Pasteurella multocida subsp. multocida": 3,
   "Pasteurella multocida subsp. gallicida": 1,
-  "Pasteurella multocida subsp. multocida": 4,
-  "Pasteurella multocida subsp. septica": 2,
-  "Pasteurella multocida subsp. multocida str. 3480": 1
+  "Pasteurella multocida subsp. multocida str. 3480": 1,
+  "Pasteurella multocida subsp. multocida str. HB03": 1,
+  "Pasteurella multocida subsp. septica": 2
  },
  "strain": {},
  "hosts": {
   "GOOSE": 2,
-  "CAPRA HIRCUS": 1,
-  "RABBIT": 18,
+  "CAT": 1,
+  "ANATIDAE": 1,
+  "RABBIT": 17,
   "ORYCTOLAGUS CUNICULUS": 3,
-  "HOMO SAPIENS": 7,
-  "SHEEP": 12,
   "PIG": 5,
-  "BOVINE": 27,
+  "MARMOTA HIMALAYANA": 2,
+  "SHEEP": 11,
+  "BOVINE": 29,
+  "ENVIRONMENT": 5,
+  "MAMORTA HIMALAYANA": 1,
+  "HOMO SAPIENS": 7,
   "YAK": 2,
   "TURKEY": 4,
-  "ANATIDAE": 1,
-  "CAT": 1,
   "CHICKEN": 30,
-  "ENVIRONMENT": 5,
-  "MARMOTA HIMALAYANA": 1
+  "CAPRA HIRCUS": 1
  }
 }

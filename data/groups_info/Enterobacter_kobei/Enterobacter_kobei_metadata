@@ -1,15 +1,15 @@
 {
  "group": "Enterobacter_kobei",
- "count": 12,
+ "count": 13,
  "species": {
-  "Enterobacter kobei": 12
+  "Enterobacter kobei": 13
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterobacter kobei": 12
+  "Enterobacter kobei": 13
  },
  "strain": {},
  "hosts": {
-  "HOMO SAPIENS": 12
+  "HOMO SAPIENS": 13
  }
 }

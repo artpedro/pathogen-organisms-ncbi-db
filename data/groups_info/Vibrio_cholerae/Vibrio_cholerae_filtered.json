@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_cholerae": "PDG000000055.411",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Vibrio_cholerae": "PDG000000055.433",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Vibrio_cholerae": null,
@@ -13,6 +13,17 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 str. 2010EL-1786",
   "strain": "2010EL-1786"
+ },
+ {
+  "Vibrio_cholerae": null,
+  "date": null,
+  "asm_acc": "GCA_000275645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02470784",
+  "collection_date": "2010-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Vibrio cholerae H1",
+  "strain": "H1"
  },
  {
   "Vibrio_cholerae": null,
@@ -376,17 +387,6 @@
   "host": "MACROBRACHIUM NIPPONENSE",
   "scientific_name": "Vibrio mimicus",
   "strain": "Y4"
- },
- {
-  "Vibrio_cholerae": null,
-  "date": null,
-  "asm_acc": "GCA_019504425.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN19718245",
-  "collection_date": "2018-08-30",
-  "host": "FISH",
-  "scientific_name": "Vibrio cholerae",
-  "strain": "PS-4"
  },
  {
   "Vibrio_cholerae": null,

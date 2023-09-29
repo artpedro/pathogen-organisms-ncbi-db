@@ -1,33 +1,34 @@
 {
  "group": "Aeromonas_salmonicida",
- "count": 21,
+ "count": 22,
  "species": {
-  "Aeromonas salmonicida": 21
+  "Aeromonas salmonicida": 22
  },
  "subsp.": {
-  "Aeromonas salmonicida subsp. salmonicida": 6,
-  "Aeromonas salmonicida subsp. masoucida": 4
+  "Aeromonas salmonicida subsp. masoucida": 5,
+  "Aeromonas salmonicida subsp. salmonicida": 6
  },
  "scientific_name": {
-  "Aeromonas salmonicida subsp. salmonicida": 6,
-  "Aeromonas salmonicida subsp. masoucida": 4,
-  "Aeromonas salmonicida": 11
+  "Aeromonas salmonicida": 11,
+  "Aeromonas salmonicida subsp. masoucida": 5,
+  "Aeromonas salmonicida subsp. salmonicida": 6
  },
  "strain": {
   "RZ6S-1": 2
  },
  "hosts": {
-  "KAREIUS BICOLORATUS": 1,
-  "COREGONUS PELED": 1,
-  "FISH": 9,
+  "MACROBRACHIUM ROSENBERGII": 1,
   "TURBO": 2,
+  "PIG": 1,
+  "FISH": 9,
   "SALMO SALAR": 1,
   "SALVELINUS FONTINALIS": 1,
-  "SEBASTES SCHLEGELII": 1,
-  "PIG": 1,
-  "MACROBRACHIUM ROSENBERGII": 1,
-  "CHICKEN": 1,
+  "COREGONUS PELED": 1,
   "ENVIRONMENT": 1,
-  "SEBASTES SCHLEGELI": 1
+  "SEBASTES SCHLEGELI": 1,
+  "KAREIUS BICOLORATUS": 1,
+  "PROCAMBARUS CLARKII": 1,
+  "SEBASTES SCHLEGELII": 1,
+  "CHICKEN": 1
  }
 }

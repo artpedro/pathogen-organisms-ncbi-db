@@ -1,26 +1,25 @@
 {
  "group": "Streptococcus_suis",
- "count": 98,
+ "count": 99,
  "species": {
-  "Streptococcus suis": 98
+  "Streptococcus suis": 99
  },
  "subsp.": {},
  "scientific_name": {
-  "Streptococcus suis YB51": 1,
-  "Streptococcus suis": 95,
+  "Streptococcus suis": 96,
   "Streptococcus suis 05HAS68": 1,
+  "Streptococcus suis YB51": 1,
   "Streptococcus suis TL13": 1
  },
  "strain": {
   "null": 5
  },
  "hosts": {
-  "HOMO SAPIENS": 22,
-  "TRICHOPODUS PECTORALIS": 1,
-  "LAB": 5,
-  "PIG": 47,
+  "FELIS CATUS": 1,
+  "PIG": 45,
+  "ENVIRONMENT": 25,
   "NOT COLLECTED": 1,
-  "ENVIRONMENT": 21,
-  "FELIS CATUS": 1
+  "LAB": 5,
+  "HOMO SAPIENS": 22
  }
 }

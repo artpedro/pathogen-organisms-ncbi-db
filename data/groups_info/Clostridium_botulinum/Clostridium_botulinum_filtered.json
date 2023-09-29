@@ -1,7 +1,7 @@
 [
  {
-  "Clostridium_botulinum": "PDG000000059.130",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Clostridium_botulinum": "PDG000000059.137",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Clostridium_botulinum": null,
@@ -105,6 +105,17 @@
  {
   "Clostridium_botulinum": null,
   "date": null,
+  "asm_acc": "GCA_017101655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16288621",
+  "collection_date": "2011",
+  "host": "SHEEP",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "3859/11"
+ },
+ {
+  "Clostridium_botulinum": null,
+  "date": null,
   "asm_acc": "GCA_022833145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14278160",
@@ -156,5 +167,16 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridium botulinum",
   "strain": "FE9508BRB"
+ },
+ {
+  "Clostridium_botulinum": null,
+  "date": null,
+  "asm_acc": "GCA_031228685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30265469",
+  "collection_date": "2022-06-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridium botulinum",
+  "strain": "BT-22100019"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Mannheimia_haemolytica": "PDG000000101.12",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Mannheimia_haemolytica": "PDG000000101.16",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Mannheimia_haemolytica": null,
@@ -1029,17 +1029,6 @@
  {
   "Mannheimia_haemolytica": null,
   "date": null,
-  "asm_acc": "GCA_023516295.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN28102262",
-  "collection_date": null,
-  "host": "SHEEP",
-  "scientific_name": "Mannheimia haemolytica",
-  "strain": "NCTC 10208"
- },
- {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102261",
@@ -1124,17 +1113,6 @@
   "host": "BOVINE",
   "scientific_name": "Mannheimia haemolytica",
   "strain": "202699"
- },
- {
-  "Mannheimia_haemolytica": null,
-  "date": null,
-  "asm_acc": "GCA_030370075.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN35798095",
-  "collection_date": "2020",
-  "host": "BOVINE",
-  "scientific_name": "Mannheimia haemolytica",
-  "strain": "200945"
  },
  {
   "Mannheimia_haemolytica": null,

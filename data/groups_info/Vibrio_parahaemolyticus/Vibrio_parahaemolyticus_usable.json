@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_parahaemolyticus": "PDG000000023.746",
-  "date": "Sat Aug 19 12:52:09 2023"
+  "Vibrio_parahaemolyticus": "PDG000000023.773",
+  "date": "Thu Sep 28 23:19:44 2023"
  },
  {
   "asm_acc": "GCA_000430425.1",
@@ -454,15 +454,6 @@
   "strain": "TJ-187"
  },
  {
-  "asm_acc": "GCA_021730045.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN17188294",
-  "collection_date": "2013-07",
-  "host": "PENAEUS VANNAMEI",
-  "scientific_name": "Vibrio parahaemolyticus",
-  "strain": "VP17"
- },
- {
   "asm_acc": "GCA_021730065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188298",
@@ -596,5 +587,68 @@
   "host": "PRAWN",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "RP0132"
+ },
+ {
+  "asm_acc": "GCA_030994145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333288",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "Isc14B"
+ },
+ {
+  "asm_acc": "GCA_030994165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333287",
+  "collection_date": "2021-01",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "BM25"
+ },
+ {
+  "asm_acc": "GCA_030994185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333286",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "Isc7"
+ },
+ {
+  "asm_acc": "GCA_030994225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333284",
+  "collection_date": "2021-01",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "BM24B"
+ },
+ {
+  "asm_acc": "GCA_030994405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333281",
+  "collection_date": "2021-01",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "BM12B"
+ },
+ {
+  "asm_acc": "GCA_030994565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333280",
+  "collection_date": "2021-01",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "BM26A"
+ },
+ {
+  "asm_acc": "GCA_030995125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333275",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio alginolyticus",
+  "strain": "Isc15A"
  }
 ]

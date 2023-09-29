@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_suis": "PDG000000100.21",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Streptococcus_suis": "PDG000000100.30",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Streptococcus_suis": null,
@@ -677,17 +677,6 @@
  {
   "Streptococcus_suis": null,
   "date": null,
-  "asm_acc": "GCA_022354845.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09935028",
-  "collection_date": "2017",
-  "host": "PIG",
-  "scientific_name": "Streptococcus suis",
-  "strain": "SFJ44"
- },
- {
-  "Streptococcus_suis": null,
-  "date": null,
   "asm_acc": "GCA_022964955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363618",
@@ -952,17 +941,6 @@
  {
   "Streptococcus_suis": null,
   "date": null,
-  "asm_acc": "GCA_024583095.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN30065794",
-  "collection_date": null,
-  "host": "PIG",
-  "scientific_name": "Streptococcus suis",
-  "strain": "DNC13"
- },
- {
-  "Streptococcus_suis": null,
-  "date": null,
   "asm_acc": "GCA_024583115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065793",
@@ -1062,17 +1040,6 @@
  {
   "Streptococcus_suis": null,
   "date": null,
-  "asm_acc": "GCA_029203915.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN28462640",
-  "collection_date": "2021-06",
-  "host": "TRICHOPODUS PECTORALIS",
-  "scientific_name": "Streptococcus suis",
-  "strain": "3112"
- },
- {
-  "Streptococcus_suis": null,
-  "date": null,
   "asm_acc": "GCA_029542385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32652950",
@@ -1080,5 +1047,49 @@
   "host": "FELIS CATUS",
   "scientific_name": "Streptococcus suis",
   "strain": "SS/UPM/MY/F001"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_031767395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179825",
+  "collection_date": "2017",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Streptococcus suis",
+  "strain": "NLS50"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_031767605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179828",
+  "collection_date": "2017",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Streptococcus suis",
+  "strain": "NLS40"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_031767625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179832",
+  "collection_date": "2013",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Streptococcus suis",
+  "strain": "1522228"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_031767645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179831",
+  "collection_date": "2013",
+  "host": "ENVIRONMENT",
+  "scientific_name": "Streptococcus suis",
+  "strain": "TMW_SS028"
  }
 ]

@@ -1,26 +1,26 @@
 {
  "group": "Photobacterium_damselae",
- "count": 16,
+ "count": 17,
  "species": {
-  "Photobacterium damselae": 16
+  "Photobacterium damselae": 17
  },
  "subsp.": {
   "Photobacterium damselae subsp. damselae": 11,
-  "Photobacterium damselae subsp. piscicida": 2
+  "Photobacterium damselae subsp. piscicida": 3
  },
  "scientific_name": {
-  "Photobacterium damselae": 3,
   "Photobacterium damselae subsp. damselae": 11,
-  "Photobacterium damselae subsp. piscicida": 2
+  "Photobacterium damselae subsp. piscicida": 3,
+  "Photobacterium damselae": 3
  },
  "strain": {},
  "hosts": {
-  "NEOPHOCAENA ASIAEORIENTALIS": 2,
-  "FISH": 1,
   "DELPHINAPTERUS LEUCAS (BELUGA WHALE)": 1,
-  "SERIOLA LALANDI": 9,
-  "TURBOT": 1,
+  "APOSTICHOPUS JAPONICUS": 1,
+  "FISH": 1,
+  "SERIOLA LALANDI": 10,
   "MORONE CHRYSOPS X MORONE SAXATILIS": 1,
-  "APOSTICHOPUS JAPONICUS": 1
+  "TURBOT": 1,
+  "NEOPHOCAENA ASIAEORIENTALIS": 2
  }
 }

@@ -1,7 +1,7 @@
 [
  {
-  "Stenotrophomonas_maltophilia": "PDG000000093.57",
-  "date": "Sat Aug 19 12:51:38 2023"
+  "Stenotrophomonas_maltophilia": "PDG000000093.69",
+  "date": "Thu Sep 28 23:19:21 2023"
  },
  {
   "asm_acc": "GCA_001274595.1",
@@ -164,5 +164,14 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
   "strain": "454"
+ },
+ {
+  "asm_acc": "GCA_030867045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36999638",
+  "collection_date": "2021",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Stenotrophomonas maltophilia",
+  "strain": "11066"
  }
 ]

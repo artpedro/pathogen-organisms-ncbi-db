@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_agalactiae": "PDG000000089.84",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Streptococcus_agalactiae": "PDG000000089.102",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1124,5 +1124,82 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NEM316"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031202875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29959624",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BCJB4361"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031202895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29959623",
+  "collection_date": "2012",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BCJB3586"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031203395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29959622",
+  "collection_date": "2010",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BCJB3344"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031203445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29959621",
+  "collection_date": "2010",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BCJB3343"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031203465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29959620",
+  "collection_date": "2004",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BCJB2983"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031203715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29959619",
+  "collection_date": "2014",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "BCJB1835"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_031584935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37286898",
+  "collection_date": "2020-03-14",
+  "host": "FISH",
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "Alim_agalac_1000"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Enterobacter_bugandensis": "PDG000000111.15",
-  "date": "Sat Aug 19 12:48:52 2023"
+  "Enterobacter_bugandensis": "PDG000000111.18",
+  "date": "Thu Sep 28 23:17:30 2023"
  },
  {
   "asm_acc": "GCA_900324475.1",
@@ -38,5 +38,32 @@
   "host": "NOT PROVIDED",
   "scientific_name": "Enterobacter bugandensis",
   "strain": "CMCC(B)45301"
+ },
+ {
+  "asm_acc": "GCA_031216605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31713467",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "E105227"
+ },
+ {
+  "asm_acc": "GCA_031218175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31713468",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "E104107"
+ },
+ {
+  "asm_acc": "GCA_031851455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298527",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "31A:C"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Enterobacter_asburiae": "PDG000000106.39",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Enterobacter_asburiae": "PDG000000106.47",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Enterobacter_asburiae": null,
@@ -200,5 +200,38 @@
   "host": "RICE",
   "scientific_name": "Enterobacter asburiae",
   "strain": "RG1"
+ },
+ {
+  "Enterobacter_asburiae": null,
+  "date": null,
+  "asm_acc": "GCA_031851415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298529",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "10A:C"
+ },
+ {
+  "Enterobacter_asburiae": null,
+  "date": null,
+  "asm_acc": "GCA_031851475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298526",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "42A:C"
+ },
+ {
+  "Enterobacter_asburiae": null,
+  "date": null,
+  "asm_acc": "GCA_031851495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298525",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "30A:C"
  }
 ]

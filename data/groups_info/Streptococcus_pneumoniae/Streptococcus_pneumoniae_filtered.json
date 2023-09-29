@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_pneumoniae": "PDG000000074.183",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Streptococcus_pneumoniae": "PDG000000074.208",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -46,6 +46,17 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Streptococcus pneumoniae gamPNI0373",
   "strain": "gamPNI0373"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_000348705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02436861",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus pneumoniae PCS8235",
+  "strain": "PCS8235"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -354,17 +365,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "M26368"
- },
- {
-  "Streptococcus_pneumoniae": null,
-  "date": null,
-  "asm_acc": "GCA_003354825.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN08323709",
-  "collection_date": "2017-10",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Streptococcus pneumoniae",
-  "strain": "SPN XDR SMC1710-32"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -805,17 +805,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SCAID PHRX1-2021"
- },
- {
-  "Streptococcus_pneumoniae": null,
-  "date": null,
-  "asm_acc": "GCA_020008085.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN14609417",
-  "collection_date": "2012-05",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Streptococcus pneumoniae",
-  "strain": "B1900"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1480,23 +1469,12 @@
  {
   "Streptococcus_pneumoniae": null,
   "date": null,
-  "asm_acc": "GCA_030717745.1",
+  "asm_acc": "GCA_031191225.1",
   "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN36839341",
-  "collection_date": "2012-05-29",
-  "host": "RHESUS MONKEY",
-  "scientific_name": "Streptococcus pneumoniae",
-  "strain": "H1900"
- },
- {
-  "Streptococcus_pneumoniae": null,
-  "date": null,
-  "asm_acc": "GCA_030717785.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN36840776",
-  "collection_date": "2012-05-29",
-  "host": "RHESUS MONKEY",
-  "scientific_name": "Streptococcus pneumoniae",
-  "strain": "L1900"
+  "biosample_acc": "SAMN37162771",
+  "collection_date": "2023-02-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus mitis",
+  "strain": "LMG 14557"
  }
 ]

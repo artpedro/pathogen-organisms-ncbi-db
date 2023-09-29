@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_pyogenes": "PDG000000090.75",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Streptococcus_pyogenes": "PDG000000090.94",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -35,6 +35,17 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Streptococcus pyogenes Alab49",
   "strain": "Alab49"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_000275625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN02471172",
+  "collection_date": "2011",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus pyogenes HKU QMH11M0907901",
+  "strain": "HKU QMH11M0907901"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -167,17 +178,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "HKU488"
- },
- {
-  "Streptococcus_pyogenes": null,
-  "date": null,
-  "asm_acc": "GCA_001535565.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN04419117",
-  "collection_date": "2012",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Streptococcus pyogenes",
-  "strain": "MEW123"
  },
  {
   "Streptococcus_pyogenes": null,

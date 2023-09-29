@@ -2,25 +2,25 @@
  "group": "Elizabethkingia",
  "count": 60,
  "species": {
-  "Elizabethkingia meningoseptica": 6,
-  "Elizabethkingia anophelis": 54
+  "Elizabethkingia anophelis": 54,
+  "Elizabethkingia meningoseptica": 6
  },
  "subsp.": {},
  "scientific_name": {
-  "Elizabethkingia anophelis NUHP1": 1,
-  "Elizabethkingia meningoseptica": 6,
+  "Elizabethkingia anophelis": 51,
   "Elizabethkingia anophelis R26": 1,
+  "Elizabethkingia meningoseptica": 6,
   "Elizabethkingia anophelis Ag1": 1,
-  "Elizabethkingia anophelis": 51
+  "Elizabethkingia anophelis NUHP1": 1
  },
  "strain": {},
  "hosts": {
-  "ZEA MAYS": 1,
-  "LITHOBATES CATESBEIANUS": 1,
-  "HOMO SAPIENS": 53,
   "ANOPHELES GAMBIAE LAB COLONY": 1,
+  "ZEA MAYS": 1,
   "ANOPHELES GAMBIAE": 1,
+  "LITHOBATES CATESBEIANUS": 1,
+  "ANOPHELES SINENSIS": 2,
   "NOT COLLECTED": 1,
-  "ANOPHELES SINENSIS": 2
+  "HOMO SAPIENS": 53
  }
 }

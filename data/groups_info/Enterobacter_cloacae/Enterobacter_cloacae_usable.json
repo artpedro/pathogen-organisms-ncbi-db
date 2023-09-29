@@ -1,7 +1,7 @@
 [
  {
-  "Enterobacter_cloacae": "PDG000000028.906",
-  "date": "Sat Aug 19 12:48:57 2023"
+  "Enterobacter_cloacae": "PDG000000028.924",
+  "date": "Thu Sep 28 23:17:32 2023"
  },
  {
   "asm_acc": "GCA_002303275.1",
@@ -137,5 +137,14 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae subsp. cloacae",
   "strain": "Ecc8276_LB-HALD"
+ },
+ {
+  "asm_acc": "GCA_031851625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298531",
+  "collection_date": "2018-10-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter cloacae",
+  "strain": "99183042147"
  }
 ]

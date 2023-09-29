@@ -1,7 +1,7 @@
 [
  {
-  "Pseudomonas_putida": "PDG000000075.89",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Pseudomonas_putida": "PDG000000075.96",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Pseudomonas_putida": null,
@@ -149,7 +149,7 @@
  {
   "Pseudomonas_putida": null,
   "date": null,
-  "asm_acc": "GCA_026898135.1",
+  "asm_acc": "GCA_026898135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32091923",
   "collection_date": "2021",
@@ -189,5 +189,16 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
   "strain": "MRSN365855"
+ },
+ {
+  "Pseudomonas_putida": null,
+  "date": null,
+  "asm_acc": "GCA_031844645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37319580",
+  "collection_date": "2020-10-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas putida",
+  "strain": "L2890"
  }
 ]

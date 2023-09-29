@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_suis": "PDG000000100.21",
-  "date": "Sat Aug 19 12:51:56 2023"
+  "Streptococcus_suis": "PDG000000100.30",
+  "date": "Thu Sep 28 23:19:34 2023"
  },
  {
   "asm_acc": "GCA_000390245.1",
@@ -553,15 +553,6 @@
   "strain": "LSM157"
  },
  {
-  "asm_acc": "GCA_022354845.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09935028",
-  "collection_date": "2017",
-  "host": "PIG",
-  "scientific_name": "Streptococcus suis",
-  "strain": "SFJ44"
- },
- {
   "asm_acc": "GCA_022964955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363618",
@@ -778,15 +769,6 @@
   "strain": "DNC15"
  },
  {
-  "asm_acc": "GCA_024583095.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN30065794",
-  "collection_date": null,
-  "host": "PIG",
-  "scientific_name": "Streptococcus suis",
-  "strain": "DNC13"
- },
- {
   "asm_acc": "GCA_024583115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065793",
@@ -868,15 +850,6 @@
   "strain": "WUSS351"
  },
  {
-  "asm_acc": "GCA_029203915.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN28462640",
-  "collection_date": "2021-06",
-  "host": "TRICHOPODUS PECTORALIS",
-  "scientific_name": "Streptococcus suis",
-  "strain": "3112"
- },
- {
   "asm_acc": "GCA_029542385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32652950",
@@ -884,5 +857,41 @@
   "host": "FELIS CATUS",
   "scientific_name": "Streptococcus suis",
   "strain": "SS/UPM/MY/F001"
+ },
+ {
+  "asm_acc": "GCA_031767395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179825",
+  "collection_date": "2017",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "NLS50"
+ },
+ {
+  "asm_acc": "GCA_031767605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179828",
+  "collection_date": "2017",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "NLS40"
+ },
+ {
+  "asm_acc": "GCA_031767625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179832",
+  "collection_date": "2013",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "1522228"
+ },
+ {
+  "asm_acc": "GCA_031767645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37179831",
+  "collection_date": "2013",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "TMW_SS028"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Salmonella": "PDG000000002.2731",
-  "date": "Sat Aug 19 12:51:22 2023"
+  "Salmonella": "PDG000000002.2776",
+  "date": "Thu Sep 28 23:19:09 2023"
  },
  {
   "asm_acc": "GCA_000027025.1",
@@ -1525,15 +1525,6 @@
   "strain": "CFSAN067216"
  },
  {
-  "asm_acc": "GCA_003994575.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN10638899",
-  "collection_date": "2018-02-19",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Salmonella enterica subsp. enterica serovar Mikawasima",
-  "strain": "RSE15"
- },
- {
   "asm_acc": "GCA_003994635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10638893",
@@ -2317,15 +2308,6 @@
   "strain": "Sal-5364"
  },
  {
-  "asm_acc": "GCA_006364755.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN11056480",
-  "collection_date": null,
-  "host": "NIST MIXED MICROBIAL RM STRAIN",
-  "scientific_name": "Salmonella enterica",
-  "strain": "FDAARGOS_765"
- },
- {
   "asm_acc": "GCA_006365335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056483",
@@ -2549,15 +2531,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Salmonella enterica subsp. enterica serovar Heidelberg str. 41578",
   "strain": "41578"
- },
- {
-  "asm_acc": "GCA_009648815.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN01933113",
-  "collection_date": "1986",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Salmonella enterica subsp. houtenae str. CFSAN000552",
-  "strain": "SGSC 3086"
  },
  {
   "asm_acc": "GCA_009648835.1",
@@ -2810,6 +2783,24 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
   "strain": "NCCP 16207"
+ },
+ {
+  "asm_acc": "GCA_009930575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11565619",
+  "collection_date": "2016-07-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica",
+  "strain": "16E080"
+ },
+ {
+  "asm_acc": "GCA_009930675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11565614",
+  "collection_date": "2015-10-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica",
+  "strain": "15E434"
  },
  {
   "asm_acc": "GCA_010919335.1",
@@ -3253,15 +3244,6 @@
   "strain": "R17.2117"
  },
  {
-  "asm_acc": "GCA_015223545.3",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN16514989",
-  "collection_date": "2017-07",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Salmonella enterica subsp. enterica serovar Bareilly",
-  "strain": "FC745"
- },
- {
   "asm_acc": "GCA_015240635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16552335",
@@ -3422,15 +3404,6 @@
   "host": "AVIAN",
   "scientific_name": "Salmonella enterica subsp. enterica",
   "strain": "Se32"
- },
- {
-  "asm_acc": "GCA_016638585.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN17169725",
-  "collection_date": "2018",
-  "host": "AVIAN",
-  "scientific_name": "Salmonella enterica subsp. enterica",
-  "strain": "Se13"
  },
  {
   "asm_acc": "GCA_016653555.1",
@@ -3782,24 +3755,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Salmonella enterica subsp. enterica serovar Paratyphi B str. CFSAN000540",
   "strain": "SGSC 2238"
- },
- {
-  "asm_acc": "GCA_019222725.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN17315332",
-  "collection_date": "2013-03-01",
-  "host": "GALLUS GALLUS",
-  "scientific_name": "Salmonella enterica subsp. diarizonae",
-  "strain": "LHICA_D1"
- },
- {
-  "asm_acc": "GCA_019334505.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN20181734",
-  "collection_date": "2015-11-01",
-  "host": "GALLUS GALLUS",
-  "scientific_name": "Salmonella enterica subsp. arizonae",
-  "strain": "LHICA_AZ23"
  },
  {
   "asm_acc": "GCA_019339425.1",
@@ -4691,15 +4646,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Salmonella enterica",
   "strain": "805"
- },
- {
-  "asm_acc": "GCA_022559405.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN15941599",
-  "collection_date": "2019-08",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Salmonella enterica",
-  "strain": "770"
  },
  {
   "asm_acc": "GCA_022559425.1",
@@ -6824,5 +6770,266 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Salmonella enterica subsp. enterica",
   "strain": "4_29_19"
+ },
+ {
+  "asm_acc": "GCA_030867525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24255019",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica",
+  "strain": "AUSMDU00036192"
+ },
+ {
+  "asm_acc": "GCA_030913595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37070677",
+  "collection_date": "2023-02-07",
+  "host": "BROILER CHICKEN",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "Z1323CSL0015"
+ },
+ {
+  "asm_acc": "GCA_030913615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37071417",
+  "collection_date": "2023-04-28",
+  "host": "PIG",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "Z1323SSL0063"
+ },
+ {
+  "asm_acc": "GCA_030979995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37105856",
+  "collection_date": "missing",
+  "host": "NOT COLLECTED",
+  "scientific_name": "Salmonella enterica",
+  "strain": "TC-177"
+ },
+ {
+  "asm_acc": "GCA_031035935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16789119",
+  "collection_date": "1999-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "C18"
+ },
+ {
+  "asm_acc": "GCA_031036275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807074",
+  "collection_date": "2010-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "175 ARN"
+ },
+ {
+  "asm_acc": "GCA_031036295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807073",
+  "collection_date": "2008-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "172"
+ },
+ {
+  "asm_acc": "GCA_031036315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807072",
+  "collection_date": "2006-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "171"
+ },
+ {
+  "asm_acc": "GCA_031036335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807071",
+  "collection_date": "2000-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "151-ARN"
+ },
+ {
+  "asm_acc": "GCA_031036455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807070",
+  "collection_date": "2000-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "C7"
+ },
+ {
+  "asm_acc": "GCA_031036675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807069",
+  "collection_date": "2017-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "RG21060838"
+ },
+ {
+  "asm_acc": "GCA_031036835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807067",
+  "collection_date": "2015-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "1-E6"
+ },
+ {
+  "asm_acc": "GCA_031037015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807091",
+  "collection_date": "2019-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0189"
+ },
+ {
+  "asm_acc": "GCA_031038275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807075",
+  "collection_date": "2010-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "178"
+ },
+ {
+  "asm_acc": "GCA_031038815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807090",
+  "collection_date": "2019-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0182"
+ },
+ {
+  "asm_acc": "GCA_031038915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807089",
+  "collection_date": "2019-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0180"
+ },
+ {
+  "asm_acc": "GCA_031038935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807088",
+  "collection_date": "2019-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0164"
+ },
+ {
+  "asm_acc": "GCA_031038955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807087",
+  "collection_date": "2019-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0163"
+ },
+ {
+  "asm_acc": "GCA_031038975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807086",
+  "collection_date": "2019-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0159"
+ },
+ {
+  "asm_acc": "GCA_031038995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807085",
+  "collection_date": "2019-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0153"
+ },
+ {
+  "asm_acc": "GCA_031039015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807083",
+  "collection_date": "2019-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0144"
+ },
+ {
+  "asm_acc": "GCA_031039035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807082",
+  "collection_date": "2019-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0143"
+ },
+ {
+  "asm_acc": "GCA_031039055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807081",
+  "collection_date": "2019-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0083"
+ },
+ {
+  "asm_acc": "GCA_031039175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807080",
+  "collection_date": "2019-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0080"
+ },
+ {
+  "asm_acc": "GCA_031039375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807079",
+  "collection_date": "2019-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0077"
+ },
+ {
+  "asm_acc": "GCA_031039535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807078",
+  "collection_date": "2019-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0075"
+ },
+ {
+  "asm_acc": "GCA_031039735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807077",
+  "collection_date": "2018-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0058"
+ },
+ {
+  "asm_acc": "GCA_031039875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16807076",
+  "collection_date": "2018-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica",
+  "strain": "SENT0044"
+ },
+ {
+  "asm_acc": "GCA_031188765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37160125",
+  "collection_date": "2007",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica serovar Enteritidis",
+  "strain": "SA608"
  }
 ]

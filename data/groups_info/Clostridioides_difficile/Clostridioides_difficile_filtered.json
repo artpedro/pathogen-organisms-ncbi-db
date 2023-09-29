@@ -1,7 +1,7 @@
 [
  {
-  "Clostridioides_difficile": "PDG000000045.543",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Clostridioides_difficile": "PDG000000045.556",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Clostridioides_difficile": null,
@@ -1003,5 +1003,38 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Clostridioides difficile",
   "strain": "P4D3A1-1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_951803555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA113563167",
+  "collection_date": "2016-11",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridioides difficile",
+  "strain": null
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_963426535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA114332805",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridioides difficile",
+  "strain": "L-TCD-01"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_031359815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33402601",
+  "collection_date": "2005",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Clostridioides difficile",
+  "strain": "M7404"
  }
 ]

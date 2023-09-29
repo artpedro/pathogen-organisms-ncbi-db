@@ -1,7 +1,7 @@
 [
  {
-  "Aeromonas_salmonicida": "PDG000000077.36",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Aeromonas_salmonicida": "PDG000000077.42",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Aeromonas_salmonicida": null,
@@ -233,5 +233,16 @@
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
   "strain": "JNG"
+ },
+ {
+  "Aeromonas_salmonicida": null,
+  "date": null,
+  "asm_acc": "GCA_031233635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30009789",
+  "collection_date": "2022-03-03",
+  "host": "PROCAMBARUS CLARKII",
+  "scientific_name": "Aeromonas salmonicida subsp. masoucida",
+  "strain": "wx3-1"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Acinetobacter": "PDG000000010.1047",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Acinetobacter": "PDG000000010.1078",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Acinetobacter": null,
@@ -2173,6 +2173,39 @@
  {
   "Acinetobacter": null,
   "date": null,
+  "asm_acc": "GCA_014717695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092247",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS80"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014717935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092244",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS74"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014718155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092245",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS78"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
   "asm_acc": "GCA_014718355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092243",
@@ -2180,6 +2213,28 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Acinetobacter seifertii",
   "strain": "AS73"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014718755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092241",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS71"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014718955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092240",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS70"
  },
  {
   "Acinetobacter": null,
@@ -2206,6 +2261,17 @@
  {
   "Acinetobacter": null,
   "date": null,
+  "asm_acc": "GCA_014719655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092237",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS61"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
   "asm_acc": "GCA_014719835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092236",
@@ -2224,6 +2290,17 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Acinetobacter seifertii",
   "strain": "AS59"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014720295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092234",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS58"
  },
  {
   "Acinetobacter": null,
@@ -2316,6 +2393,28 @@
  {
   "Acinetobacter": null,
   "date": null,
+  "asm_acc": "GCA_014722275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092222",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS34"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014722535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092221",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS33"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
   "asm_acc": "GCA_014722775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092220",
@@ -2349,6 +2448,17 @@
  {
   "Acinetobacter": null,
   "date": null,
+  "asm_acc": "GCA_014723075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092217",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS24"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
   "asm_acc": "GCA_014723095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092215",
@@ -2356,6 +2466,17 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Acinetobacter seifertii",
   "strain": "AS17"
+ },
+ {
+  "Acinetobacter": null,
+  "date": null,
+  "asm_acc": "GCA_014723115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16092216",
+  "collection_date": "2010/2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Acinetobacter seifertii",
+  "strain": "AS23"
  },
  {
   "Acinetobacter": null,

@@ -1,7 +1,7 @@
 [
  {
-  "Campylobacter": "PDG000000003.1997",
-  "date": "Sat Aug 19 12:48:27 2023"
+  "Campylobacter": "PDG000000003.2031",
+  "date": "Thu Sep 28 23:17:14 2023"
  },
  {
   "asm_acc": "GCA_000025425.1",
@@ -2918,14 +2918,5 @@
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus subsp. venerealis bv. intermedius",
   "strain": "CFV924"
- },
- {
-  "asm_acc": "GCA_030736775.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN33677864",
-  "collection_date": "2021-07-13",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Campylobacter jejuni",
-  "strain": "PS_38_2021"
  }
 ]

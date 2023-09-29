@@ -1,7 +1,7 @@
 [
  {
-  "Serratia": "PDG000000016.521",
-  "date": "Sat Aug 19 12:51:24 2023"
+  "Serratia": "PDG000000016.541",
+  "date": "Thu Sep 28 23:19:10 2023"
  },
  {
   "asm_acc": "GCA_000214235.1",
@@ -38,6 +38,15 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Serratia marcescens",
   "strain": "CAV1492"
+ },
+ {
+  "asm_acc": "GCA_001280365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04029108",
+  "collection_date": "2013",
+  "host": "SOLANUM NIGRUM",
+  "scientific_name": "Serratia marcescens",
+  "strain": "RSC-14"
  },
  {
   "asm_acc": "GCA_001294565.1",
@@ -92,6 +101,15 @@
   "host": "SOLANUM TUBEROSUM L. CV. CILENA",
   "scientific_name": "Serratia plymuthica",
   "strain": "3Re4-18"
+ },
+ {
+  "asm_acc": "GCA_002220515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06164057",
+  "collection_date": "2014-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "UMH2"
  },
  {
   "asm_acc": "GCA_002220535.1",
@@ -157,6 +175,15 @@
   "strain": "UMH3"
  },
  {
+  "asm_acc": "GCA_002220675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06164060",
+  "collection_date": "2013-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "UMH6"
+ },
+ {
   "asm_acc": "GCA_002220695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06164064",
@@ -164,6 +191,15 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Serratia marcescens",
   "strain": "UMH10"
+ },
+ {
+  "asm_acc": "GCA_002220715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN06164061",
+  "collection_date": "2013-09",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "UMH7"
  },
  {
   "asm_acc": "GCA_002588845.1",
@@ -256,6 +292,15 @@
   "strain": "WVU-004"
  },
  {
+  "asm_acc": "GCA_006711245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11894224",
+  "collection_date": "2019-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "WVU-006"
+ },
+ {
   "asm_acc": "GCA_006711405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11894225",
@@ -263,6 +308,15 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Serratia marcescens",
   "strain": "WVU-007"
+ },
+ {
+  "asm_acc": "GCA_006716725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11894227",
+  "collection_date": "2019-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "WVU-009"
  },
  {
   "asm_acc": "GCA_006716825.1",
@@ -326,6 +380,15 @@
   "host": "APHIS FABAE",
   "scientific_name": "Serratia symbiotica",
   "strain": "24.1"
+ },
+ {
+  "asm_acc": "GCA_009909345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN13840998",
+  "collection_date": "2019-02-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "4201"
  },
  {
   "asm_acc": "GCA_009909365.1",
@@ -481,6 +544,87 @@
   "strain": "R28"
  },
  {
+  "asm_acc": "GCA_020886895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00389786",
+  "collection_date": "2018-07-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "Serratia marcescens SL267"
+ },
+ {
+  "asm_acc": "GCA_905232425.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7962734",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905232415.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7962736",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905232465.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7962735",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905233025.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7962811",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905330265.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8065715",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905330385.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8065730",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905330515.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8065742",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_905330555.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA8065745",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": null
+ },
+ {
   "asm_acc": "GCA_021398895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24372403",
@@ -571,6 +715,15 @@
   "strain": "Pl-LLN"
  },
  {
+  "asm_acc": "GCA_946409225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201007",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1039"
+ },
+ {
   "asm_acc": "GCA_025960205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31424710",
@@ -578,6 +731,105 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Serratia marcescens",
   "strain": "SARVS06"
+ },
+ {
+  "asm_acc": "GCA_946406265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201010",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1043"
+ },
+ {
+  "asm_acc": "GCA_946406225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201012",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1046"
+ },
+ {
+  "asm_acc": "GCA_946414065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201013",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1044"
+ },
+ {
+  "asm_acc": "GCA_946404695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201014",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1045"
+ },
+ {
+  "asm_acc": "GCA_946406635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201015",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1048"
+ },
+ {
+  "asm_acc": "GCA_946415285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201017",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1050"
+ },
+ {
+  "asm_acc": "GCA_946413195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201019",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1051"
+ },
+ {
+  "asm_acc": "GCA_946411625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201021",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1052"
+ },
+ {
+  "asm_acc": "GCA_946406125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201022",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1054"
+ },
+ {
+  "asm_acc": "GCA_946411905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201026",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1058"
+ },
+ {
+  "asm_acc": "GCA_946404965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA13201030",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Serratia marcescens",
+  "strain": "SJC1062"
  },
  {
   "asm_acc": "GCA_030758555.1",

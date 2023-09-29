@@ -1,7 +1,7 @@
 [
  {
-  "Neisseria_gonorrhoeae": "PDG000000032.347",
-  "date": "Sat Aug 19 12:50:24 2023"
+  "Neisseria_gonorrhoeae": "PDG000000032.352",
+  "date": "Thu Sep 28 23:18:32 2023"
  },
  {
   "asm_acc": "GCA_001661085.1",
@@ -245,15 +245,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ1711654"
- },
- {
-  "asm_acc": "GCA_007107365.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN12252303",
-  "collection_date": "2018-07",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria gonorrhoeae",
-  "strain": "NJ189125"
  },
  {
   "asm_acc": "GCA_009650075.1",

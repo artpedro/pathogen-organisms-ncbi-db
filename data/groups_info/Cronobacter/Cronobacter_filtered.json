@@ -1,7 +1,7 @@
 [
  {
-  "Cronobacter": "PDG000000043.199",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Cronobacter": "PDG000000043.208",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Cronobacter": null,
@@ -57,5 +57,16 @@
   "host": "BOVINE",
   "scientific_name": "Cronobacter sakazakii",
   "strain": "USDA-ARS-USMARC-54664"
+ },
+ {
+  "Cronobacter": null,
+  "date": null,
+  "asm_acc": "GCA_031213335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34121859",
+  "collection_date": "2019-05-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Cronobacter sakazakii",
+  "strain": "GZfs"
  }
 ]

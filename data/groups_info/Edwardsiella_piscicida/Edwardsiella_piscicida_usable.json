@@ -1,7 +1,7 @@
 [
  {
-  "Edwardsiella_piscicida": "PDG000000080.21",
-  "date": "Sat Aug 19 12:48:46 2023"
+  "Edwardsiella_piscicida": "PDG000000080.24",
+  "date": "Thu Sep 28 23:17:25 2023"
  },
  {
   "asm_acc": "GCA_001729265.2",
@@ -20,6 +20,15 @@
   "host": "ICTALURUS PUNCTATUS",
   "scientific_name": "Edwardsiella piscicida",
   "strain": "LADL97-168"
+ },
+ {
+  "asm_acc": "GCA_003112995.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08938382",
+  "collection_date": "1999",
+  "host": "ICTALURUS PUNCTATUS",
+  "scientific_name": "Edwardsiella piscicida",
+  "strain": "LADL99-462"
  },
  {
   "asm_acc": "GCA_003113095.2",

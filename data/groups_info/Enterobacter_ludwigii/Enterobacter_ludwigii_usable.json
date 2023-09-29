@@ -1,7 +1,7 @@
 [
  {
-  "Enterobacter_ludwigii": "PDG000000109.29",
-  "date": "Sat Aug 19 12:49:03 2023"
+  "Enterobacter_ludwigii": "PDG000000109.36",
+  "date": "Thu Sep 28 23:17:37 2023"
  },
  {
   "asm_acc": "GCA_001750725.1",
@@ -65,5 +65,50 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter ludwigii",
   "strain": "2023CK-00067"
+ },
+ {
+  "asm_acc": "GCA_031851395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298530",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "93A:C"
+ },
+ {
+  "asm_acc": "GCA_031851435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298528",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "09A:C"
+ },
+ {
+  "asm_acc": "GCA_031851515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298523",
+  "collection_date": "2022-05-31",
+  "host": "LARUS MICHAHELLIS",
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "51A:C"
+ },
+ {
+  "asm_acc": "GCA_031851585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298533",
+  "collection_date": "2020-09-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "99202522619"
+ },
+ {
+  "asm_acc": "GCA_031851605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298532",
+  "collection_date": "2020-09-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "99202523580"
  }
 ]

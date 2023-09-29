@@ -1,26 +1,26 @@
 {
  "group": "Pseudomonas_putida",
- "count": 17,
+ "count": 18,
  "species": {
-  "Pseudomonas putida": 17
+  "Pseudomonas putida": 18
  },
  "subsp.": {},
  "scientific_name": {
-  "Pseudomonas putida": 16,
+  "Pseudomonas putida": 17,
   "Pseudomonas putida HB3267": 1
  },
  "strain": {},
  "hosts": {
-  "DIOSCOREA SANSIBARENSIS": 1,
-  "NOT AVAILABLE": 1,
-  "TOMATO PLANT": 1,
+  "PYRUS COMMUNIS 'WILLIAMS'": 1,
   "ZEA MAYS": 1,
-  "UROCHLOA REPTANS": 1,
-  "PISTACIA CHINENSIS BUNGE": 1,
+  "NOT AVAILABLE": 1,
   "STRAWBERRY": 1,
-  "HOMO SAPIENS": 6,
+  "PISTACIA CHINENSIS BUNGE": 1,
   "MEDICAGO SATIVA": 1,
+  "DIOSCOREA SANSIBARENSIS": 1,
+  "TOMATO PLANT": 1,
   "NOT COLLECTED": 2,
-  "PYRUS COMMUNIS 'WILLIAMS'": 1
+  "HOMO SAPIENS": 7,
+  "UROCHLOA REPTANS": 1
  }
 }

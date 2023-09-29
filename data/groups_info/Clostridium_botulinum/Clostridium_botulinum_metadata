@@ -1,20 +1,21 @@
 {
  "group": "Clostridium_botulinum",
- "count": 14,
+ "count": 16,
  "species": {
   "Clostridium novyi": 1,
-  "Clostridium botulinum": 13
+  "Clostridium botulinum": 15
  },
  "subsp.": {},
  "scientific_name": {
   "Clostridium novyi": 1,
-  "Clostridium botulinum": 13
+  "Clostridium botulinum": 15
  },
  "strain": {},
  "hosts": {
-  "CHICKEN": 1,
   "PIG": 1,
+  "CHICKEN": 1,
+  "SHEEP": 1,
   "MINK": 1,
-  "HOMO SAPIENS": 11
+  "HOMO SAPIENS": 12
  }
 }

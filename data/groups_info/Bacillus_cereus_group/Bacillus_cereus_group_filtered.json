@@ -1,7 +1,7 @@
 [
  {
-  "Bacillus_cereus_group": "PDG000000088.198",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Bacillus_cereus_group": "PDG000000088.221",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Bacillus_cereus_group": null,
@@ -926,5 +926,60 @@
   "host": "COPRINUS COMATUS",
   "scientific_name": "Bacillus thuringiensis",
   "strain": "L1"
+ },
+ {
+  "Bacillus_cereus_group": null,
+  "date": null,
+  "asm_acc": "GCA_031169915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37105265",
+  "collection_date": "1983-12-08",
+  "host": "TENEBRIO MOLITOR",
+  "scientific_name": "Bacillus thuringiensis serovar tenebrionis",
+  "strain": "BI 256-82"
+ },
+ {
+  "Bacillus_cereus_group": null,
+  "date": null,
+  "asm_acc": "GCA_031170655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37105266",
+  "collection_date": "1992-12-07",
+  "host": "TENEBRIO MOLITOR",
+  "scientific_name": "Bacillus thuringiensis serovar tenebrionis",
+  "strain": "ten BI 256-82"
+ },
+ {
+  "Bacillus_cereus_group": null,
+  "date": null,
+  "asm_acc": "GCA_031171585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37105267",
+  "collection_date": "1990-06-27",
+  "host": "TENEBRIO MOLITOR",
+  "scientific_name": "Bacillus thuringiensis serovar tenebrionis",
+  "strain": "ten BI 256-82/CM3"
+ },
+ {
+  "Bacillus_cereus_group": null,
+  "date": null,
+  "asm_acc": "GCA_031216075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN24582794",
+  "collection_date": "2014-06-01",
+  "host": "MORINGA OLEIFERA",
+  "scientific_name": "Bacillus cereus",
+  "strain": "MO2"
+ },
+ {
+  "Bacillus_cereus_group": null,
+  "date": null,
+  "asm_acc": "GCA_032145515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36942558",
+  "collection_date": "2022",
+  "host": "PLANT",
+  "scientific_name": "Bacillus cereus",
+  "strain": "B126_1"
  }
 ]

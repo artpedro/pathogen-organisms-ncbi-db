@@ -1,19 +1,19 @@
 {
  "group": "Neisseria_gonorrhoeae",
- "count": 128,
+ "count": 127,
  "species": {
-  "Neisseria gonorrhoeae": 128
+  "Neisseria gonorrhoeae": 127
  },
  "subsp.": {},
  "scientific_name": {
-  "Neisseria gonorrhoeae": 127,
+  "Neisseria gonorrhoeae": 126,
   "Neisseria gonorrhoeae NG-k51.05": 1
  },
  "strain": {
-  "10562": 2,
-  "10531": 2
+  "10531": 2,
+  "10562": 2
  },
  "hosts": {
-  "HOMO SAPIENS": 128
+  "HOMO SAPIENS": 127
  }
 }

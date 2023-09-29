@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_fluvialis": "PDG000000099.27",
-  "date": "Sat Aug 19 12:52:03 2023"
+  "Vibrio_fluvialis": "PDG000000099.38",
+  "date": "Thu Sep 28 23:19:40 2023"
  },
  {
   "asm_acc": "GCA_001558415.2",
@@ -65,5 +65,14 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio fluvialis",
   "strain": "IDH05335"
+ },
+ {
+  "asm_acc": "GCA_030994065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333290",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio fluvialis",
+  "strain": "Isc7A"
  }
 ]

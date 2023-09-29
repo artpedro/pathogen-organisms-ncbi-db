@@ -1,7 +1,7 @@
 [
  {
-  "Mycobacterium_tuberculosis": "PDG000000034.293",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Mycobacterium_tuberculosis": "PDG000000034.306",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3449,17 +3449,6 @@
  {
   "Mycobacterium_tuberculosis": null,
   "date": null,
-  "asm_acc": "GCA_030569575.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN36419390",
-  "collection_date": "2021",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Mycobacterium tuberculosis",
-  "strain": "MTb-Oman-3214168"
- },
- {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030570275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419385",
@@ -3511,5 +3500,60 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-32193"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_030866945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36998973",
+  "collection_date": "2005",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "AST-T3"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_030866965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36998974",
+  "collection_date": "2004",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "AST-T4"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_030866985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36998975",
+  "collection_date": "2004",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "AST-T5"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_030867005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36998976",
+  "collection_date": "2004",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "AST-T6"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_030867025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36998977",
+  "collection_date": "2006",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "AST-T7"
  }
 ]

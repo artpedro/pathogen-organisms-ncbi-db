@@ -1,7 +1,7 @@
 [
  {
-  "Enterococcus_faecium": "PDG000000071.428",
-  "date": "Sat Aug 19 12:49:16 2023"
+  "Enterococcus_faecium": "PDG000000071.446",
+  "date": "Thu Sep 28 23:17:46 2023"
  },
  {
   "asm_acc": "GCA_000174395.2",
@@ -1865,6 +1865,33 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterococcus faecium",
   "strain": "ENCfa-68"
+ },
+ {
+  "asm_acc": "GCA_025800545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31247869",
+  "collection_date": "2020-10",
+  "host": "PIG",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "ATF64"
+ },
+ {
+  "asm_acc": "GCA_025800625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31247870",
+  "collection_date": "2020-10",
+  "host": "PIG",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "BTF71-1"
+ },
+ {
+  "asm_acc": "GCA_025800645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31247871",
+  "collection_date": "2020-10",
+  "host": "PIG",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "IC25"
  },
  {
   "asm_acc": "GCA_026073115.1",

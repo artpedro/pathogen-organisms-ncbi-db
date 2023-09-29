@@ -3,20 +3,20 @@
  "count": 7,
  "species": {
   "Corynebacterium striatum": 3,
-  "Corynebacterium aurimucosum": 1,
+  "Corynebacterium singulare": 1,
   "Corynebacterium minutissimum": 2,
-  "Corynebacterium singulare": 1
+  "Corynebacterium aurimucosum": 1
  },
  "subsp.": {},
  "scientific_name": {
   "Corynebacterium striatum": 3,
-  "Corynebacterium aurimucosum": 1,
+  "Corynebacterium singulare": 1,
   "Corynebacterium minutissimum": 2,
-  "Corynebacterium singulare": 1
+  "Corynebacterium aurimucosum": 1
  },
  "strain": {},
  "hosts": {
-  "NEOPHOCAENA ASIAEORIENTALIS": 1,
-  "HOMO SAPIENS": 6
+  "HOMO SAPIENS": 6,
+  "NEOPHOCAENA ASIAEORIENTALIS": 1
  }
 }

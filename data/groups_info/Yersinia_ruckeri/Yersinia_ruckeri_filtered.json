@@ -1,7 +1,7 @@
 [
  {
-  "Yersinia_ruckeri": "PDG000000086.16",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Yersinia_ruckeri": "PDG000000086.18",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Yersinia_ruckeri": null,
@@ -255,5 +255,16 @@
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10571"
+ },
+ {
+  "Yersinia_ruckeri": null,
+  "date": null,
+  "asm_acc": "GCA_031192345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37120472",
+  "collection_date": "2022-04-16",
+  "host": "ICTALURUS FURCATUS",
+  "scientific_name": "Yersinia ruckeri",
+  "strain": "Barren Creek"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Morganella": "PDG000000020.255",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Morganella": "PDG000000020.265",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Morganella": null,
@@ -354,5 +354,16 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Morganella morganii",
   "strain": "2022CK-00284"
+ },
+ {
+  "Morganella": null,
+  "date": null,
+  "asm_acc": "GCA_031851815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37356954",
+  "collection_date": "2018",
+  "host": "BOVINE",
+  "scientific_name": "Morganella morganii",
+  "strain": "SDTA-1"
  }
 ]

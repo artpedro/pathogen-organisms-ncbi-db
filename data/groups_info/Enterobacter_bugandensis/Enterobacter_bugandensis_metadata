@@ -1,16 +1,17 @@
 {
  "group": "Enterobacter_bugandensis",
- "count": 4,
+ "count": 7,
  "species": {
-  "Enterobacter bugandensis": 4
+  "Enterobacter bugandensis": 7
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterobacter bugandensis": 4
+  "Enterobacter bugandensis": 7
  },
  "strain": {},
  "hosts": {
-  "NOT PROVIDED": 1,
-  "HOMO SAPIENS": 3
+  "HOMO SAPIENS": 5,
+  "LARUS MICHAHELLIS": 1,
+  "NOT PROVIDED": 1
  }
 }

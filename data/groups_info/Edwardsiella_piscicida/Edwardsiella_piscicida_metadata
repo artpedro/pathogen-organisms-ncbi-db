@@ -1,20 +1,20 @@
 {
  "group": "Edwardsiella_piscicida",
- "count": 15,
+ "count": 16,
  "species": {
-  "Edwardsiella piscicida": 15
+  "Edwardsiella piscicida": 16
  },
  "subsp.": {},
  "scientific_name": {
-  "Edwardsiella piscicida": 15
+  "Edwardsiella piscicida": 16
  },
  "strain": {},
  "hosts": {
+  "PARALICHTHYS OLIVACEUS": 1,
+  "ICTALURUS PUNCTATUS": 8,
   "ANGUILLA JAPONICA": 1,
   "FISH": 3,
-  "PARALICHTHYS OLIVACEUS": 1,
-  "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)": 2,
   "TILAPIA": 1,
-  "ICTALURUS PUNCTATUS": 7
+  "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)": 2
  }
 }

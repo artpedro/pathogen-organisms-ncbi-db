@@ -1,7 +1,7 @@
 [
  {
-  "Citrobacter_freundii": "PDG000000039.642",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Citrobacter_freundii": "PDG000000039.663",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Citrobacter_freundii": null,
@@ -662,17 +662,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Citrobacter freundii",
   "strain": "CFSAN077772"
- },
- {
-  "Citrobacter_freundii": null,
-  "date": null,
-  "asm_acc": "GCA_027595105.2",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN28016853",
-  "collection_date": "2014",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Citrobacter freundii",
-  "strain": "NY2385"
  },
  {
   "Citrobacter_freundii": null,

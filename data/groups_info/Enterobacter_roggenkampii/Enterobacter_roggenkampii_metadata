@@ -10,11 +10,11 @@
  },
  "strain": {},
  "hosts": {
-  "SUGARCANE": 1,
   "MORUS ALBA VAR. ATROPURPUREA": 1,
   "OSTEOGLOSSUM BICIRRHOSUM": 1,
-  "HOMO SAPIENS": 13,
   "HEALTHY CAT": 2,
-  "ENVIRONMENT": 1
+  "SUGARCANE": 1,
+  "ENVIRONMENT": 1,
+  "HOMO SAPIENS": 13
  }
 }

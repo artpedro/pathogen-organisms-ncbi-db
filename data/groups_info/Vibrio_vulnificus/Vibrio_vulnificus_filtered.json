@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_vulnificus": "PDG000000058.207",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Vibrio_vulnificus": "PDG000000058.223",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Vibrio_vulnificus": null,
@@ -145,5 +145,16 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV2018"
+ },
+ {
+  "Vibrio_vulnificus": null,
+  "date": null,
+  "asm_acc": "GCA_031883075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37345416",
+  "collection_date": "2023-04",
+  "host": "ANGUILLA BICOLOR",
+  "scientific_name": "Vibrio vulnificus",
+  "strain": "GCU-01"
  }
 ]

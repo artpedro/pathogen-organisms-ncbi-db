@@ -1,7 +1,7 @@
 [
  {
-  "Enterococcus_faecalis": "PDG000000072.385",
-  "date": "Sat Aug 19 12:52:14 2023"
+  "Enterococcus_faecalis": "PDG000000072.399",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1652,5 +1652,38 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC13"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_031186115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37158604",
+  "collection_date": "2022-07-23",
+  "host": "PIG",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF4A2234"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_031206965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30050173",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "N775_PC7"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_031208705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30050172",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "N775_PC2"
  }
 ]

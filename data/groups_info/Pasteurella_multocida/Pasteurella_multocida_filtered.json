@@ -1,7 +1,7 @@
 [
  {
-  "Pasteurella_multocida": "PDG000000102.25",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Pasteurella_multocida": "PDG000000102.34",
+  "date": "Thu Sep 28 23:25:53 2023"
  },
  {
   "Pasteurella_multocida": null,
@@ -457,17 +457,6 @@
  {
   "Pasteurella_multocida": null,
   "date": null,
-  "asm_acc": "GCA_006232065.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN11049962",
-  "collection_date": "2018-10-06",
-  "host": "SHEEP",
-  "scientific_name": "Pasteurella multocida subsp. multocida",
-  "strain": "HN02"
- },
- {
-  "Pasteurella_multocida": null,
-  "date": null,
   "asm_acc": "GCA_006232125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11040711",
@@ -728,17 +717,6 @@
   "host": "BOVINE",
   "scientific_name": "Pasteurella multocida",
   "strain": "17BRD-035"
- },
- {
-  "Pasteurella_multocida": null,
-  "date": null,
-  "asm_acc": "GCA_020221775.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN21591049",
-  "collection_date": "2020-07",
-  "host": "RABBIT",
-  "scientific_name": "Pasteurella multocida",
-  "strain": "s4"
  },
  {
   "Pasteurella_multocida": null,
@@ -1311,5 +1289,49 @@
   "host": "ENVIRONMENT",
   "scientific_name": "Pasteurella multocida",
   "strain": "P030653/1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_030846735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36892110",
+  "collection_date": "1970",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "P1933"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_031432935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37266154",
+  "collection_date": "2022-10-25",
+  "host": "BOVINE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "sample-B"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_031463095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37223740",
+  "collection_date": "2021-04",
+  "host": "MARMOTA HIMALAYANA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "AKS2021-HT3"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_031583005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37274988",
+  "collection_date": "2022-05",
+  "host": "MAMORTA HIMALAYANA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "AKS2022-HT5"
  }
 ]

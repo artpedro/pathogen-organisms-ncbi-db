@@ -1,7 +1,7 @@
 [
  {
-  "Photobacterium_damselae": "PDG000000065.52",
-  "date": "Sat Aug 19 12:50:35 2023"
+  "Photobacterium_damselae": "PDG000000065.56",
+  "date": "Thu Sep 28 23:18:38 2023"
  },
  {
   "asm_acc": "GCA_002142615.1",
@@ -38,6 +38,15 @@
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "KC-Na-NB1"
+ },
+ {
+  "asm_acc": "GCA_014775675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16091814",
+  "collection_date": "2016",
+  "host": "SERIOLA LALANDI",
+  "scientific_name": "Photobacterium damselae subsp. piscicida",
+  "strain": "AS-16-0540-1"
  },
  {
   "asm_acc": "GCA_014775695.1",

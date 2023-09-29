@@ -1,7 +1,7 @@
 [
  {
-  "Staphylococcus_aureus": "PDG000000073.536",
-  "date": "Sat Aug 19 12:52:15 2023"
+  "Staphylococcus_aureus": "PDG000000073.568",
+  "date": "Thu Sep 28 23:25:54 2023"
  },
  {
   "Staphylococcus_aureus": null,
@@ -618,17 +618,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Staphylococcus aureus",
   "strain": "XQ"
- },
- {
-  "Staphylococcus_aureus": null,
-  "date": null,
-  "asm_acc": "GCA_001456215.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN03145755",
-  "collection_date": "2012-07-05",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Staphylococcus aureus",
-  "strain": null
  },
  {
   "Staphylococcus_aureus": null,
@@ -15314,5 +15303,104 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Staphylococcus aureus",
   "strain": "UNC_SA44"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_951217025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA112966053",
+  "collection_date": "2022-02-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "Sa_BGR_NF1"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031190615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37160977",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "SA191"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031326145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37262252",
+  "collection_date": "2015-07-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "JH4322"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031583105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37344193",
+  "collection_date": "2022-10",
+  "host": "-",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "4233"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031826655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37234480",
+  "collection_date": "2020-12-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "KNIH_6268"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031826815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37234479",
+  "collection_date": "2019-05-27",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "KNIH_5844"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031826835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37234478",
+  "collection_date": "2018-10-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "KNIH_5618"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031878535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36942769",
+  "collection_date": "2022",
+  "host": "PLANT",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "SA73_2"
+ },
+ {
+  "Staphylococcus_aureus": null,
+  "date": null,
+  "asm_acc": "GCA_031879475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36942925",
+  "collection_date": "2022",
+  "host": "PLANT",
+  "scientific_name": "Staphylococcus aureus",
+  "strain": "SA85_2"
  }
 ]
