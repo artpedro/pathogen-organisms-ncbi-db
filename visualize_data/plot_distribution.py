@@ -156,8 +156,6 @@ def writeAll():
     for group in readGroupsNames():
         species = [plotSingleDistribution(group,'species')]
         hosts = [plotSingleDistribution(group,'hosts')]
-        print(species, group)
-        print(hosts, group)
         if species[0] != None:
             write_pdf(f"sdis_{group}.pdf",species,path=f'data/plot/{group}')
         if hosts[0] != None:    
