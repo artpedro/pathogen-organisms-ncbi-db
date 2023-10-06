@@ -10,7 +10,7 @@
  },
  "strain": {},
  "hosts": {
-  "FLOWER": 1,
-  "NOT AVAILABLE": 1
+  "NOT AVAILABLE": 1,
+  "FLOWER": 1
  }
 }

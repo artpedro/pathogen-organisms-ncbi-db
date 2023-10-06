@@ -6,15 +6,15 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Edwardsiella tarda": 6,
-  "Edwardsiella tarda ATCC 15947 = NBRC 105688": 1
+  "Edwardsiella tarda ATCC 15947 = NBRC 105688": 1,
+  "Edwardsiella tarda": 6
  },
  "strain": {},
  "hosts": {
-  "ICTALURUS PUNCTATUS": 3,
   "OREOCHROMIS NILOTICUS": 1,
-  "PSEUDORCA CRASSIDENS": 1,
+  "ICTALURUS PUNCTATUS": 3,
+  "HOMO SAPIENS": 1,
   "MORONE CHRYSOPS X MORONE SAXATILIS": 1,
-  "HOMO SAPIENS": 1
+  "PSEUDORCA CRASSIDENS": 1
  }
 }

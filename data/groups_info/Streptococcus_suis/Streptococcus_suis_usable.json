@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_suis": "PDG000000100.30",
-  "date": "Thu Sep 28 23:19:34 2023"
+  "Streptococcus_suis": "PDG000000100.32",
+  "date": "Fri Oct  6 18:51:18 2023"
  },
  {
   "asm_acc": "GCA_000390245.1",
@@ -893,5 +893,68 @@
   "host": "SUS SCROFA DOMESTICUS",
   "scientific_name": "Streptococcus suis",
   "strain": "TMW_SS028"
+ },
+ {
+  "asm_acc": "GCA_032147025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410677",
+  "collection_date": "2010-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "ID32563"
+ },
+ {
+  "asm_acc": "GCA_032147105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410676",
+  "collection_date": "2007-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "ID24665"
+ },
+ {
+  "asm_acc": "GCA_032230435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410680",
+  "collection_date": "2008-05",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "ID26102"
+ },
+ {
+  "asm_acc": "GCA_032230945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410679",
+  "collection_date": "2011-05",
+  "host": "SUS SCROFA DOMESTICUS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "ID34567"
+ },
+ {
+  "asm_acc": "GCA_032230965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410678",
+  "collection_date": "2014-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "ID48908"
+ },
+ {
+  "asm_acc": "GCA_032230985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410675",
+  "collection_date": "2014-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "1652329"
+ },
+ {
+  "asm_acc": "GCA_032231005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37410674",
+  "collection_date": "2014-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "1547095"
  }
 ]

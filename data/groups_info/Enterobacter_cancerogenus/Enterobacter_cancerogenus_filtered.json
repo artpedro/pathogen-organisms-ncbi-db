@@ -1,28 +1,26 @@
 [
  {
-  "Enterobacter_cancerogenus": "PDG000000107.7",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Enterobacter_cancerogenus": "PDG000000107.9",
+  "date": "Fri Oct  6 18:49:11 2023"
  },
  {
-  "Enterobacter_cancerogenus": null,
-  "date": null,
   "asm_acc": "GCA_002850575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08107552",
   "collection_date": "2015-09",
   "host": "GALLERIA MELLONELLA",
   "scientific_name": "Enterobacter cancerogenus",
-  "strain": "CR-Eb1"
+  "strain": "CR-Eb1",
+  "fasta": "data/groups_info/Enterobacter_cancerogenus/GCA_002850575.1"
  },
  {
-  "Enterobacter_cancerogenus": null,
-  "date": null,
   "asm_acc": "GCA_019880465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16176831",
   "collection_date": "2019-05-30",
   "host": "HELICOVERPA ARMIGERA",
   "scientific_name": "Enterobacter cancerogenus",
-  "strain": "HAEC1"
+  "strain": "HAEC1",
+  "fasta": "data/groups_info/Enterobacter_cancerogenus/GCA_019880465.1"
  }
 ]

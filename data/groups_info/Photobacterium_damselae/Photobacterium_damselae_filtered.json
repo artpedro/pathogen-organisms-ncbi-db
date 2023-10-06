@@ -1,193 +1,176 @@
 [
  {
   "Photobacterium_damselae": "PDG000000065.56",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:50:21 2023"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_002142615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909323",
   "collection_date": "2017-01",
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "KC-Na-1"
+  "strain": "KC-Na-1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_002142615.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_002356235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00078763",
   "collection_date": null,
   "host": "MORONE CHRYSOPS X MORONE SAXATILIS",
   "scientific_name": "Photobacterium damselae subsp. piscicida",
-  "strain": "91-197"
+  "strain": "91-197",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_002356235.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_003130755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06075355",
   "collection_date": "2015-11-05",
   "host": "TURBOT",
   "scientific_name": "Photobacterium damselae",
-  "strain": "Phdp Wu-1"
+  "strain": "Phdp Wu-1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_003130755.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_004135105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10797285",
   "collection_date": "2017-01",
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "KC-Na-NB1"
+  "strain": "KC-Na-NB1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_004135105.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_014775675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16091814",
   "collection_date": "2016",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. piscicida",
-  "strain": "AS-16-0540-1"
+  "strain": "AS-16-0540-1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_014775675.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_014775695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16091815",
   "collection_date": "2016",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. piscicida",
-  "strain": "AS-16-0555-7"
+  "strain": "AS-16-0555-7",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_014775695.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_014930975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16393141",
   "collection_date": "2020-08",
   "host": "DELPHINAPTERUS LEUCAS (BELUGA WHALE)",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "KC-Dl-1"
+  "strain": "KC-Dl-1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_014930975.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021765875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287396",
   "collection_date": "2010",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "CSP DAM2"
+  "strain": "CSP DAM2",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021765875.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021766015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287395",
   "collection_date": "2010",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "CSP DAM1"
+  "strain": "CSP DAM1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021766015.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021768305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16481684",
   "collection_date": "2016",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "AS-16-0963-3"
+  "strain": "AS-16-0963-3",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768305.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021768345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287401",
   "collection_date": "2016",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "AS-16-0963-1"
+  "strain": "AS-16-0963-1",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768345.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021768365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287400",
   "collection_date": "2015",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "AS-15-3942-9"
+  "strain": "AS-15-3942-9",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768365.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021768385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287399",
   "collection_date": "2015",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "AS-15-3942-8"
+  "strain": "AS-15-3942-8",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768385.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021768405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287398",
   "collection_date": "2015",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "AS-15-3942-7"
+  "strain": "AS-15-3942-7",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768405.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_021768425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287397",
   "collection_date": "2015",
   "host": "SERIOLA LALANDI",
   "scientific_name": "Photobacterium damselae subsp. damselae",
-  "strain": "AS-15-0759-2"
+  "strain": "AS-15-0759-2",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768425.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_023973125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29203666",
   "collection_date": "2022-04",
   "host": "APOSTICHOPUS JAPONICUS",
   "scientific_name": "Photobacterium damselae",
-  "strain": "XP-11"
+  "strain": "XP-11",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_023973125.1"
  },
  {
-  "Photobacterium_damselae": null,
-  "date": null,
   "asm_acc": "GCA_030169005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19700963",
   "collection_date": "2020-08-11",
   "host": "FISH",
   "scientific_name": "Photobacterium damselae",
-  "strain": "Pdd2008"
+  "strain": "Pdd2008",
+  "fasta": "data/groups_info/Photobacterium_damselae/GCA_030169005.1"
  }
 ]

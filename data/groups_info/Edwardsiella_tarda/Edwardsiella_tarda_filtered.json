@@ -1,83 +1,76 @@
 [
  {
   "Edwardsiella_tarda": "PDG000000081.13",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:49:07 2023"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_001011055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03579666",
   "collection_date": "1995",
   "host": "ICTALURUS PUNCTATUS",
   "scientific_name": "Edwardsiella tarda",
-  "strain": "FL95-01"
+  "strain": "FL95-01",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_001011055.2"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_002504285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07695532",
   "collection_date": "2017-03",
   "host": "PSEUDORCA CRASSIDENS",
   "scientific_name": "Edwardsiella tarda",
-  "strain": "KC-Pc-HB1"
+  "strain": "KC-Pc-HB1",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_002504285.1"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_003113435.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939836",
   "collection_date": "1988",
   "host": "MORONE CHRYSOPS X MORONE SAXATILIS",
   "scientific_name": "Edwardsiella tarda",
-  "strain": "LADL88-209"
+  "strain": "LADL88-209",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113435.3"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_003113455.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939843",
   "collection_date": "1999",
   "host": "OREOCHROMIS NILOTICUS",
   "scientific_name": "Edwardsiella tarda",
-  "strain": "LADL99-302"
+  "strain": "LADL99-302",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113455.3"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_003113475.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939844",
   "collection_date": "2004",
   "host": "ICTALURUS PUNCTATUS",
   "scientific_name": "Edwardsiella tarda",
-  "strain": "RE-04"
+  "strain": "RE-04",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113475.3"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_003113495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08942787",
   "collection_date": "1959",
   "host": "HOMO SAPIENS",
   "scientific_name": "Edwardsiella tarda ATCC 15947 = NBRC 105688",
-  "strain": "ATCC 15947"
+  "strain": "ATCC 15947",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113495.2"
  },
  {
-  "Edwardsiella_tarda": null,
-  "date": null,
   "asm_acc": "GCA_003074875.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939826",
   "collection_date": "1998",
   "host": "ICTALURUS PUNCTATUS",
   "scientific_name": "Edwardsiella tarda",
-  "strain": "AL98-87"
+  "strain": "AL98-87",
+  "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003074875.2"
  }
 ]

@@ -1,17 +1,16 @@
 [
  {
   "Neisseria_polysaccharea": "PDG000000096.8",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:50:20 2023"
  },
  {
-  "Neisseria_polysaccharea": null,
-  "date": null,
   "asm_acc": "GCA_003355195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704642",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Neisseria polysaccharea",
-  "strain": "M18661"
+  "strain": "M18661",
+  "fasta": "data/groups_info/Neisseria_polysaccharea/GCA_003355195.1"
  }
 ]

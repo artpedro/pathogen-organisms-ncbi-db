@@ -12,10 +12,10 @@
  },
  "strain": {},
  "hosts": {
+  "MINK": 1,
+  "HOMO SAPIENS": 12,
   "PIG": 1,
   "CHICKEN": 1,
-  "SHEEP": 1,
-  "MINK": 1,
-  "HOMO SAPIENS": 12
+  "SHEEP": 1
  }
 }

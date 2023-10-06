@@ -1,248 +1,226 @@
 [
  {
-  "Aeromonas_salmonicida": "PDG000000077.42",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Aeromonas_salmonicida": "PDG000000077.43",
+  "date": "Fri Oct  6 18:48:41 2023"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_001643275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04449844",
   "collection_date": "1999",
   "host": "SALMO SALAR",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
-  "strain": "J223"
+  "strain": "J223",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_001643275.2"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002214245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276469",
   "collection_date": "2015-08",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "S121"
+  "strain": "S121",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_002214245.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002214265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276873",
   "collection_date": "2015-01",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "S68"
+  "strain": "S68",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_002214265.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002214305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276874",
   "collection_date": "2014-12",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "S44"
+  "strain": "S44",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_002214305.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002313065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05735119",
   "collection_date": "2009-09-16",
   "host": "SEBASTES SCHLEGELII",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
-  "strain": "RFAS1"
+  "strain": "RFAS1",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_002313065.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002764135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07410266",
   "collection_date": "2007-05-29",
   "host": "MACROBRACHIUM ROSENBERGII",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "A527"
+  "strain": "A527",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_002764135.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_008370735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11172869",
   "collection_date": "2016",
   "host": "SALVELINUS FONTINALIS",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
-  "strain": "SHY16-3432"
+  "strain": "SHY16-3432",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_008370735.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_009858115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13518349",
   "collection_date": "2018",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
-  "strain": "J409"
+  "strain": "J409",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_009858115.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_009858135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13518350",
   "collection_date": "2018",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
-  "strain": "J410"
+  "strain": "J410",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_009858135.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_014872735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260301",
   "collection_date": "2018-02-21",
   "host": "SEBASTES SCHLEGELI",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
-  "strain": "BR19001YR"
+  "strain": "BR19001YR",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_014872735.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_019443805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14325646",
   "collection_date": "2016-12",
   "host": "TURBO",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
-  "strain": "RZ6S-1"
+  "strain": "RZ6S-1",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_019443805.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_019443825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14351711",
   "collection_date": "2016-12",
   "host": "TURBO",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
-  "strain": "RZ6S-1"
+  "strain": "RZ6S-1",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_019443825.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_027947655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781197",
   "collection_date": "2017-01",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
-  "strain": "J225"
+  "strain": "J225",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_027947655.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_027947675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781198",
   "collection_date": "2017-01",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
-  "strain": "J228"
+  "strain": "J228",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_027947675.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028355815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541907",
   "collection_date": "2016-10",
   "host": "PIG",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "ZAS"
+  "strain": "ZAS",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_028355815.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028355995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541906",
   "collection_date": "2012-04",
   "host": "CHICKEN",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "YK"
+  "strain": "YK",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_028355995.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028356175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541905",
   "collection_date": "2013-10",
   "host": "COREGONUS PELED",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "BG"
+  "strain": "BG",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_028356175.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028356375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541903",
   "collection_date": "2013-07",
   "host": "KAREIUS BICOLORATUS",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "AS1"
+  "strain": "AS1",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_028356375.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028358575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541904",
   "collection_date": "2016-12",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "AS2"
+  "strain": "AS2",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_028358575.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_029541925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25210568",
   "collection_date": "2019-03",
   "host": "ENVIRONMENT",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "ASscau0313"
+  "strain": "ASscau0313",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_029541925.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_029854275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34178809",
   "collection_date": "2018-02-28",
   "host": "FISH",
   "scientific_name": "Aeromonas salmonicida",
-  "strain": "JNG"
+  "strain": "JNG",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_029854275.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_031233635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30009789",
   "collection_date": "2022-03-03",
   "host": "PROCAMBARUS CLARKII",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
-  "strain": "wx3-1"
+  "strain": "wx3-1",
+  "fasta": "data/groups_info/Aeromonas_salmonicida/GCA_031233635.1"
  }
 ]

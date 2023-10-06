@@ -1,149 +1,146 @@
 [
  {
-  "Enterobacter_kobei": "PDG000000108.46",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Enterobacter_kobei": "PDG000000108.49",
+  "date": "Fri Oct  6 18:49:17 2023"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_001729765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581747",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "DSM 13645"
+  "strain": "DSM 13645",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_001729765.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_003665375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08027255",
   "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "WCHEK045523"
+  "strain": "WCHEK045523",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_003665375.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_008365235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12648938",
   "collection_date": "2019-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "EB_P8_L5_01.19"
+  "strain": "EB_P8_L5_01.19",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_008365235.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_008931545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289356",
   "collection_date": "2009-03-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "C16"
+  "strain": "C16",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_008931545.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_014041955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15594913",
   "collection_date": "2019-12-14",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "IB2020"
+  "strain": "IB2020",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_014041955.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_022559745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23139065",
   "collection_date": "2020",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "6"
+  "strain": "6",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_022559745.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_023023125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379554",
   "collection_date": "2011-09",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "11778-yvys"
+  "strain": "11778-yvys",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_023023125.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_023023705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379548",
   "collection_date": "2012-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "12379-yvys"
+  "strain": "12379-yvys",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_023023705.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_023333675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379547",
   "collection_date": "2011-09",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "11743-yvys"
+  "strain": "11743-yvys",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_023333675.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_023547315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22612881",
   "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "Ek72"
+  "strain": "Ek72",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_023547315.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_023558885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28416108",
   "collection_date": "2021",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "C210239"
+  "strain": "C210239",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_023558885.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_027595935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387637",
   "collection_date": "2017-07-29",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "S18_CRE18"
+  "strain": "S18_CRE18",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_027595935.1"
  },
  {
-  "Enterobacter_kobei": null,
-  "date": null,
   "asm_acc": "GCA_031201845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27926465",
   "collection_date": "2021-06-19",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter kobei",
-  "strain": "EC1382"
+  "strain": "EC1382",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_031201845.1"
+ },
+ {
+  "asm_acc": "GCA_032248775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37475543",
+  "collection_date": "2021-09",
+  "host": "CHICKEN",
+  "scientific_name": "Enterobacter kobei",
+  "strain": "DW108",
+  "fasta": "data/groups_info/Enterobacter_kobei/GCA_032248775.1"
  }
 ]

@@ -1,204 +1,186 @@
 [
  {
   "Pseudomonas_putida": "PDG000000075.96",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "date": "Fri Oct  6 18:50:30 2023"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_000325725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604102",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida HB3267",
-  "strain": "PC9"
+  "strain": "PC9",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_000325725.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_001636055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03765648",
   "collection_date": "2014-11-01",
   "host": "PISTACIA CHINENSIS BUNGE",
   "scientific_name": "Pseudomonas putida",
-  "strain": "PC2"
+  "strain": "PC2",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_001636055.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_001886975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05715224",
   "collection_date": "2011-10-11",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "PP112420"
+  "strain": "PP112420",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_001886975.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_002025705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130965",
   "collection_date": "2012-12",
   "host": "ZEA MAYS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "AA7"
+  "strain": "AA7",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_002025705.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_003228315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09229081",
   "collection_date": "2012-06-20",
   "host": "STRAWBERRY",
   "scientific_name": "Pseudomonas putida",
-  "strain": "JBC17"
+  "strain": "JBC17",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_003228315.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_900636645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3711446",
   "collection_date": "1900/2007",
   "host": "NOT AVAILABLE",
   "scientific_name": "Pseudomonas putida",
-  "strain": "NCTC13186"
+  "strain": "NCTC13186",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_900636645.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_005080685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11380143",
   "collection_date": "1985-04",
   "host": "PYRUS COMMUNIS 'WILLIAMS'",
   "scientific_name": "Pseudomonas putida",
-  "strain": "1290"
+  "strain": "1290",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_005080685.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_009883635.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08376583",
   "collection_date": "2016-07-01",
   "host": "MEDICAGO SATIVA",
   "scientific_name": "Pseudomonas putida",
-  "strain": "W5"
+  "strain": "W5",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_009883635.2"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_013305625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13107355",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "NY5709"
+  "strain": "NY5709",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_013305625.2"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_016406145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17103323",
   "collection_date": "2019-02-05",
   "host": "UROCHLOA REPTANS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "BR-PH17"
+  "strain": "BR-PH17",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_016406145.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_024125675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29335958",
   "collection_date": "2005-12",
   "host": "TOMATO PLANT",
   "scientific_name": "Pseudomonas putida",
-  "strain": "PCL1760"
+  "strain": "PCL1760",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_024125675.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_025905425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31266696",
   "collection_date": "2021",
   "host": "NOT COLLECTED",
   "scientific_name": "Pseudomonas putida",
-  "strain": "SEH01"
+  "strain": "SEH01",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_025905425.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_025905485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31269035",
   "collection_date": "2021",
   "host": "NOT COLLECTED",
   "scientific_name": "Pseudomonas putida",
-  "strain": "QH1"
+  "strain": "QH1",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_025905485.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_026898135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32091923",
   "collection_date": "2021",
   "host": "DIOSCOREA SANSIBARENSIS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "GMI12077"
+  "strain": "GMI12077",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_026898135.2"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_027595085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016848",
   "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "NY4811"
+  "strain": "NY4811",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_027595085.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_029590515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33792085",
   "collection_date": "2022-03",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "AHSWHJXPP1"
+  "strain": "AHSWHJXPP1",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_029590515.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_030717425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36811527",
   "collection_date": "2016-01-27",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "MRSN365855"
+  "strain": "MRSN365855",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_030717425.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_031844645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37319580",
   "collection_date": "2020-10-16",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas putida",
-  "strain": "L2890"
+  "strain": "L2890",
+  "fasta": "data/groups_info/Pseudomonas_putida/GCA_031844645.1"
  }
 ]

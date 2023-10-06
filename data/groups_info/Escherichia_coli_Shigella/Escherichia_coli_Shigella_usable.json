@@ -1,7 +1,7 @@
 [
  {
-  "Escherichia_coli_Shigella": "PDG000000004.4043",
-  "date": "Thu Sep 28 23:18:04 2023"
+  "Escherichia_coli_Shigella": "PDG000000004.4061",
+  "date": "Fri Oct  6 18:49:45 2023"
  },
  {
   "asm_acc": "GCA_000008865.2",
@@ -20459,5 +20459,203 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Escherichia coli",
   "strain": "4809"
+ },
+ {
+  "asm_acc": "GCA_032229265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36947641",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "19213"
+ },
+ {
+  "asm_acc": "GCA_032292885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528247",
+  "collection_date": "2015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli AZ1114"
+ },
+ {
+  "asm_acc": "GCA_032293625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528254",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC16639"
+ },
+ {
+  "asm_acc": "GCA_032294365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528251",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC16256"
+ },
+ {
+  "asm_acc": "GCA_032295145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528253",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC16611"
+ },
+ {
+  "asm_acc": "GCA_032295845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528252",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC16409"
+ },
+ {
+  "asm_acc": "GCA_032296485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528250",
+  "collection_date": "2016",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC16019"
+ },
+ {
+  "asm_acc": "GCA_032297255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528249",
+  "collection_date": "2012",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC12401"
+ },
+ {
+  "asm_acc": "GCA_032298115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37528248",
+  "collection_date": "2012",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "Escherichia coli EC12011"
+ },
+ {
+  "asm_acc": "GCA_032300135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37300944",
+  "collection_date": "2021-06-14",
+  "host": "FOOD",
+  "scientific_name": "Escherichia coli",
+  "strain": "OHT76-1"
+ },
+ {
+  "asm_acc": "GCA_032345195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529180",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "isolateI"
+ },
+ {
+  "asm_acc": "GCA_032351055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529175",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "isolateD"
+ },
+ {
+  "asm_acc": "GCA_032354275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529172",
+  "collection_date": "2015",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "isolateA"
+ },
+ {
+  "asm_acc": "GCA_032357325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33392683",
+  "collection_date": null,
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Shigella dysenteriae",
+  "strain": "SC595"
+ },
+ {
+  "asm_acc": "GCA_032359195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33389351",
+  "collection_date": "2018",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli O121",
+  "strain": "201805972"
+ },
+ {
+  "asm_acc": "GCA_032361125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33372272",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "201908119"
+ },
+ {
+  "asm_acc": "GCA_032362635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33361582",
+  "collection_date": "1956",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Shigella boydii",
+  "strain": "CIP 56-18"
+ },
+ {
+  "asm_acc": "GCA_032363495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33336696",
+  "collection_date": "1952",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Shigella dysenteriae",
+  "strain": "NCDC 599-52"
+ },
+ {
+  "asm_acc": "GCA_032365155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35083897",
+  "collection_date": "1997-05-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "TW10573"
+ },
+ {
+  "asm_acc": "GCA_032366635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35083899",
+  "collection_date": "1996-07-24",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "TW10690"
+ },
+ {
+  "asm_acc": "GCA_032367395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35084061",
+  "collection_date": "1997-01-21",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli TW14425",
+  "strain": "TW14425"
+ },
+ {
+  "asm_acc": "GCA_032368225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35084059",
+  "collection_date": "1997-06-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia coli",
+  "strain": "TW10828"
  }
 ]

@@ -1,138 +1,126 @@
 [
  {
   "Shewanella_algae": "PDG000000084.18",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "date": "Fri Oct  6 18:50:54 2023"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_009846595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13381879",
   "collection_date": "2018-07-01",
   "host": "CHICKEN",
   "scientific_name": "Shewanella algae",
-  "strain": "18064-CSB-B-B"
+  "strain": "18064-CSB-B-B",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_009846595.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_014702225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08166472",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "VGH117"
+  "strain": "VGH117",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_014702225.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_009183365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11083189",
   "collection_date": "1990",
   "host": "JANIA SP. (RED ALGA)",
   "scientific_name": "Shewanella algae",
-  "strain": "CECT-5071"
+  "strain": "CECT-5071",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_009183365.2"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284628",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM4442"
+  "strain": "TUM4442",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670545.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284637",
   "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM17378"
+  "strain": "TUM17378",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670585.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284638",
   "collection_date": "2014",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM17379"
+  "strain": "TUM17379",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670605.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284639",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM17382"
+  "strain": "TUM17382",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670625.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284640",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM17383"
+  "strain": "TUM17383",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670645.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284641",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM17384"
+  "strain": "TUM17384",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670665.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_019670685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284642",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "TUM17386"
+  "strain": "TUM17386",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_019670685.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_025643615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09988152",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "VGH117"
+  "strain": "VGH117",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_025643615.1"
  },
  {
-  "Shewanella_algae": null,
-  "date": null,
   "asm_acc": "GCA_026013945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31456038",
   "collection_date": "2022-09-02",
   "host": "HOMO SAPIENS",
   "scientific_name": "Shewanella algae",
-  "strain": "B2215466"
+  "strain": "B2215466",
+  "fasta": "data/groups_info/Shewanella_algae/GCA_026013945.1"
  }
 ]

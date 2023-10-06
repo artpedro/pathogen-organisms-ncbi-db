@@ -1,7 +1,7 @@
 [
  {
-  "Enterobacter_hormaechei": "PDG000000105.118",
-  "date": "Thu Sep 28 23:17:35 2023"
+  "Enterobacter_hormaechei": "PDG000000105.124",
+  "date": "Fri Oct  6 18:49:16 2023"
  },
  {
   "asm_acc": "GCA_000807405.4",
@@ -2009,5 +2009,68 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_17"
+ },
+ {
+  "asm_acc": "GCA_032202365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35394395",
+  "collection_date": "2020-06-17",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Ehh_12"
+ },
+ {
+  "asm_acc": "GCA_032202545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35394393",
+  "collection_date": "2019-12-30",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Ehh_10"
+ },
+ {
+  "asm_acc": "GCA_032202685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35394390",
+  "collection_date": "2019-12-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Ehh_7"
+ },
+ {
+  "asm_acc": "GCA_032202905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35394407",
+  "collection_date": "2021-12-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "Ehh_18"
+ },
+ {
+  "asm_acc": "GCA_032298955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37300945",
+  "collection_date": "2021-11-08",
+  "host": "FOOD",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "OHT403-4"
+ },
+ {
+  "asm_acc": "GCA_032302155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37527804",
+  "collection_date": "2020",
+  "host": "HORSE",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "IMT49658-1"
+ },
+ {
+  "asm_acc": "GCA_032351815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529174",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "isolateC"
  }
 ]

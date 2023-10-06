@@ -1,38 +1,38 @@
 {
  "group": "Enterococcus_faecalis",
- "count": 153,
+ "count": 152,
  "species": {
-  "Enterococcus faecalis": 153
+  "Enterococcus faecalis": 152
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterococcus faecalis R712": 1,
-  "Enterococcus faecalis": 149,
   "Enterococcus faecalis DENG1": 1,
   "Enterococcus faecalis D32": 1,
-  "Enterococcus faecalis EnGen0107": 1
+  "Enterococcus faecalis": 148,
+  "Enterococcus faecalis EnGen0107": 1,
+  "Enterococcus faecalis R712": 1
  },
  "strain": {
   "null": 6
  },
  "hosts": {
-  "GOOSE": 1,
-  "TILAPIA (OREOCHROMIS NILOTICUS)": 1,
-  "RHODNIUS PROLIXUS": 1,
-  "UNDARIA PINNATIFIDA": 1,
-  "NOT AVAILABLE": 1,
-  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
-  "FAECES": 1,
-  "PIG": 12,
-  "CHICKEN": 5,
-  "FISH": 1,
-  "MUS MUSCULUS": 2,
-  "THE STATE KEY LABORATORY BREEDING BASE OF BASIC SCIENCE OF STOMATOLOGY": 1,
-  "BOVINE": 12,
   "GOAT": 1,
   "ENVIRONMENT": 2,
-  "HOMO SAPIENS": 108,
+  "GOOSE": 1,
+  "UNDARIA PINNATIFIDA": 1,
+  "FISH": 1,
+  "NOT AVAILABLE": 1,
+  "HOMO SAPIENS": 107,
+  "PIG": 12,
+  "RHODNIUS PROLIXUS": 1,
   "CAMEL": 1,
-  "NOT AVAILABLE: NOT COLLECTED": 1
+  "TILAPIA (OREOCHROMIS NILOTICUS)": 1,
+  "NOT AVAILABLE: NOT COLLECTED": 1,
+  "FAECES": 1,
+  "THE STATE KEY LABORATORY BREEDING BASE OF BASIC SCIENCE OF STOMATOLOGY": 1,
+  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
+  "CHICKEN": 5,
+  "MUS MUSCULUS": 2,
+  "BOVINE": 12
  }
 }

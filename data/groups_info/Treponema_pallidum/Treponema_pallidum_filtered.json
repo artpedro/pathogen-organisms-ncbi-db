@@ -1,127 +1,116 @@
 [
  {
   "Treponema_pallidum": "PDG000000104.13",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "date": "Fri Oct  6 18:51:25 2023"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_005885795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11812273",
   "collection_date": "2017-05-22",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "X-4"
+  "strain": "X-4",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_005885795.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_023016345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502673",
   "collection_date": "1912-06-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "TpN-CL8"
+  "strain": "TpN-CL8",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016345.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_023016365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502672",
   "collection_date": "1912-06-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "TpN-CL5"
+  "strain": "TpN-CL5",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016365.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_023016385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502668",
   "collection_date": "1912-06-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "TpN-CL1"
+  "strain": "TpN-CL1",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016385.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_023016405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502671",
   "collection_date": "1912-06-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "TpN-CL4"
+  "strain": "TpN-CL4",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016405.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_023016425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502670",
   "collection_date": "1912-06-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "TpN-CL3"
+  "strain": "TpN-CL3",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016425.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_023016445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502669",
   "collection_date": "1912-06-30",
   "host": "HOMO SAPIENS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
-  "strain": "TpN-CL2"
+  "strain": "TpN-CL2",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016445.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_029866565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521568",
   "collection_date": "2015-08-28",
   "host": "PAPIO ANUBIS",
   "scientific_name": "Treponema pallidum subsp. pertenue",
-  "strain": "19LMF8280815"
+  "strain": "19LMF8280815",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866565.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_029866585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521550",
   "collection_date": "2016-07-09",
   "host": "CHLOROCEBUS PYGERYTHRUS",
   "scientific_name": "Treponema pallidum subsp. pertenue",
-  "strain": "6RUM2090716"
+  "strain": "6RUM2090716",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866585.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_029866705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521572",
   "collection_date": "2015-08-29",
   "host": "PAPIO ANUBIS",
   "scientific_name": "Treponema pallidum subsp. pertenue",
-  "strain": "22LMF5290815"
+  "strain": "22LMF5290815",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866705.1"
  },
  {
-  "Treponema_pallidum": null,
-  "date": null,
   "asm_acc": "GCA_029866725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521574",
   "collection_date": "2015-11-15",
   "host": "PAPIO ANUBIS",
   "scientific_name": "Treponema pallidum subsp. pertenue",
-  "strain": "24SNM5151115"
+  "strain": "24SNM5151115",
+  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866725.1"
  }
 ]

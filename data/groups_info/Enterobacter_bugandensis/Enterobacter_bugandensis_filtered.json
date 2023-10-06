@@ -1,83 +1,76 @@
 [
  {
-  "Enterobacter_bugandensis": "PDG000000111.18",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Enterobacter_bugandensis": "PDG000000111.19",
+  "date": "Fri Oct  6 18:49:10 2023"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_900324475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104711314",
   "collection_date": "2010-01-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": null
+  "strain": null,
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_900324475.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_004804375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349924",
   "collection_date": "2019-01-15",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": "220"
+  "strain": "220",
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_004804375.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_004804395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349925",
   "collection_date": "2011-01-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": "1367"
+  "strain": "1367",
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_004804395.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_023374275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27966081",
   "collection_date": "missing",
   "host": "NOT PROVIDED",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": "CMCC(B)45301"
+  "strain": "CMCC(B)45301",
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_023374275.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_031216605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31713467",
   "collection_date": "2011",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": "E105227"
+  "strain": "E105227",
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_031216605.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_031218175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31713468",
   "collection_date": "2011",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": "E104107"
+  "strain": "E104107",
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_031218175.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_031851455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298527",
   "collection_date": "2022-05-31",
   "host": "LARUS MICHAHELLIS",
   "scientific_name": "Enterobacter bugandensis",
-  "strain": "31A:C"
+  "strain": "31A:C",
+  "fasta": "data/groups_info/Enterobacter_bugandensis/GCA_031851455.1"
  }
 ]

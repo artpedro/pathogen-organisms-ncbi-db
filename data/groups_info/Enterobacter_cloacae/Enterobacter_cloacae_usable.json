@@ -1,7 +1,7 @@
 [
  {
-  "Enterobacter_cloacae": "PDG000000028.924",
-  "date": "Thu Sep 28 23:17:32 2023"
+  "Enterobacter_cloacae": "PDG000000028.929",
+  "date": "Fri Oct  6 18:49:14 2023"
  },
  {
   "asm_acc": "GCA_002303275.1",
@@ -146,5 +146,23 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter cloacae",
   "strain": "99183042147"
+ },
+ {
+  "asm_acc": "GCA_032349915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529177",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter cloacae",
+  "strain": "isolateF"
+ },
+ {
+  "asm_acc": "GCA_032352615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529173",
+  "collection_date": "2017",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter cloacae",
+  "strain": "isolateB"
  }
 ]

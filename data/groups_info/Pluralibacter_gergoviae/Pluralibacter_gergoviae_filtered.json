@@ -1,17 +1,16 @@
 [
  {
   "Pluralibacter_gergoviae": "PDG000000092.27",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:50:23 2023"
  },
  {
-  "Pluralibacter_gergoviae": null,
-  "date": null,
   "asm_acc": "GCA_003019925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05004741",
   "collection_date": "2014-07-21",
   "host": "HOMO SAPIENS",
   "scientific_name": "Pluralibacter gergoviae",
-  "strain": "FDAARGOS_186"
+  "strain": "FDAARGOS_186",
+  "fasta": "data/groups_info/Pluralibacter_gergoviae/GCA_003019925.1"
  }
 ]

@@ -1,237 +1,226 @@
 [
  {
-  "Enterobacter_asburiae": "PDG000000106.47",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Enterobacter_asburiae": "PDG000000106.48",
+  "date": "Fri Oct  6 18:49:09 2023"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_001022095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733641",
   "collection_date": "2008-03",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "CAV1043"
+  "strain": "CAV1043",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_001022095.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_001521715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03742638",
   "collection_date": "2014-12-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "ATCC 35953"
+  "strain": "ATCC 35953",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_001521715.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_007035645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00166948",
   "collection_date": "2018-08",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "1808-013"
+  "strain": "1808-013",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_007035645.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_011396735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00197875",
   "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "A2563"
+  "strain": "A2563",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_011396735.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_015168595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16515958",
   "collection_date": "2019-11",
   "host": "RICE",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "SD4L"
+  "strain": "SD4L",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_015168595.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_017347425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00282211",
   "collection_date": "2015",
   "host": "FELIS CATUS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "En30"
+  "strain": "En30",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_017347425.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_019973695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00268104",
   "collection_date": "2019",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "Ent261"
+  "strain": "Ent261",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_019973695.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_022570715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26527994",
   "collection_date": "2019-06-19",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "5549"
+  "strain": "5549",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_022570715.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023023045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379558",
   "collection_date": "2016-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "161373-yvys"
+  "strain": "161373-yvys",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_023023045.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023023145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379553",
   "collection_date": "2019-07",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "AR2284-yvys"
+  "strain": "AR2284-yvys",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_023023145.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023023265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379552",
   "collection_date": "2018-04",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "AR0468-yvys"
+  "strain": "AR0468-yvys",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_023023265.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023101705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379551",
   "collection_date": "2016-07",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "16773-yvys"
+  "strain": "16773-yvys",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_023101705.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_024599655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29928038",
   "collection_date": "2020",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "R_A5.MM"
+  "strain": "R_A5.MM",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_024599655.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_024917675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174002",
   "collection_date": "2016-09-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "2497"
+  "strain": "2497",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_024917675.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_027595525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387623",
   "collection_date": "2017-01-24",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "S3_CRE3"
+  "strain": "S3_CRE3",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_027595525.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_028622135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32733969",
   "collection_date": "2022-11-16",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "2022CK-00757"
+  "strain": "2022CK-00757",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_028622135.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_030179805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974111",
   "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "2017-45-80"
+  "strain": "2017-45-80",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_030179805.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_030406145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35981008",
   "collection_date": "2020-06",
   "host": "RICE",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "RG1"
+  "strain": "RG1",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_030406145.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_031851415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298529",
   "collection_date": "2022-05-31",
   "host": "LARUS MICHAHELLIS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "10A:C"
+  "strain": "10A:C",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_031851415.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_031851475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298526",
   "collection_date": "2022-05-31",
   "host": "LARUS MICHAHELLIS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "42A:C"
+  "strain": "42A:C",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_031851475.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_031851495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298525",
   "collection_date": "2022-05-31",
   "host": "LARUS MICHAHELLIS",
   "scientific_name": "Enterobacter asburiae",
-  "strain": "30A:C"
+  "strain": "30A:C",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_031851495.1"
+ },
+ {
+  "asm_acc": "GCA_032301015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37542530",
+  "collection_date": "2022-03-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "FAHZZU5722",
+  "fasta": "data/groups_info/Enterobacter_asburiae/GCA_032301015.1"
  }
 ]

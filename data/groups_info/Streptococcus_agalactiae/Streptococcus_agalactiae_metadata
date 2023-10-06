@@ -17,17 +17,17 @@
   "null": 20
  },
  "hosts": {
+  "TIAPIA": 1,
   "DOG": 1,
-  "NOT AVAILABLE": 5,
   "OREOCHROMIS NILOTICUS": 1,
-  "SEABASS": 1,
   "FISH": 1,
-  "HOPLOBATRACHUS RUGULOSUS": 1,
-  "SHEEP": 1,
-  "TILAPIA": 3,
-  "BOVINE": 22,
-  "NEONATES": 1,
+  "NOT AVAILABLE": 5,
   "HOMO SAPIENS": 71,
-  "TIAPIA": 1
+  "NEONATES": 1,
+  "TILAPIA": 3,
+  "SHEEP": 1,
+  "SEABASS": 1,
+  "HOPLOBATRACHUS RUGULOSUS": 1,
+  "BOVINE": 22
  }
 }

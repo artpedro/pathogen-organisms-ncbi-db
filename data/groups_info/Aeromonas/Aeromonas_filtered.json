@@ -1,413 +1,376 @@
 [
  {
-  "Aeromonas": "PDG000000068.120",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Aeromonas": "PDG000000068.121",
+  "date": "Fri Oct  6 18:48:40 2023"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_000963645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03421355",
   "collection_date": "2011",
   "host": "ENVIRONMENT",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "AH10"
+  "strain": "AH10",
+  "fasta": "data/groups_info/Aeromonas/GCA_000963645.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001455365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04266592",
   "collection_date": "2009-07",
   "host": "FISH",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "JBN2301"
+  "strain": "JBN2301",
+  "fasta": "data/groups_info/Aeromonas/GCA_001455365.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001518775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04404355",
   "collection_date": "2012",
   "host": "FISH",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "D4"
+  "strain": "D4",
+  "fasta": "data/groups_info/Aeromonas/GCA_001518775.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001683535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188441",
   "collection_date": "2001-03",
   "host": "SINIPERCA CHUATSI",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "GYK1"
+  "strain": "GYK1",
+  "fasta": "data/groups_info/Aeromonas/GCA_001683535.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001687125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03294822",
   "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "AHNIH1"
+  "strain": "AHNIH1",
+  "fasta": "data/groups_info/Aeromonas/GCA_001687125.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_003491225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05590109",
   "collection_date": "2015",
   "host": "CRUCIAN",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "ZYAH72"
+  "strain": "ZYAH72",
+  "fasta": "data/groups_info/Aeromonas/GCA_003491225.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_003491245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05589911",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "ZYAH75"
+  "strain": "ZYAH75",
+  "fasta": "data/groups_info/Aeromonas/GCA_003491245.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_009791455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13567714",
   "collection_date": "2019-05",
   "host": "LARIMICHTHYS CROCEA",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "HX-3"
+  "strain": "HX-3",
+  "fasta": "data/groups_info/Aeromonas/GCA_009791455.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_011602425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14351661",
   "collection_date": "2013-09-01",
   "host": "MEGALOBRAMA AMBLYCEPHALA",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "LHW39"
+  "strain": "LHW39",
+  "fasta": "data/groups_info/Aeromonas/GCA_011602425.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_016592295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00261012",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Aeromonas hydrophila"
+  "strain": "Aeromonas hydrophila",
+  "fasta": "data/groups_info/Aeromonas/GCA_016592295.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_017310195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13353934",
   "collection_date": "2010-08",
   "host": "DENDROCEPHALUS BRASILIENSIS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Brac6"
+  "strain": "Brac6",
+  "fasta": "data/groups_info/Aeromonas/GCA_017310195.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_017310215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13545457",
   "collection_date": "2010-08",
   "host": "OREOCHROMIS NILOTICUS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "OnP3.1"
+  "strain": "OnP3.1",
+  "fasta": "data/groups_info/Aeromonas/GCA_017310215.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_017310235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15184665",
   "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "1706-28330"
+  "strain": "1706-28330",
+  "fasta": "data/groups_info/Aeromonas/GCA_017310235.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168048",
   "collection_date": "2020-06-15",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "71339"
+  "strain": "71339",
+  "fasta": "data/groups_info/Aeromonas/GCA_020405365.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168046",
   "collection_date": "2020-06-05",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "71317"
+  "strain": "71317",
+  "fasta": "data/groups_info/Aeromonas/GCA_020405385.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168051",
   "collection_date": "2020-10-14",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "71453"
+  "strain": "71453",
+  "fasta": "data/groups_info/Aeromonas/GCA_020405305.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168049",
   "collection_date": "2020-08-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "71431"
+  "strain": "71431",
+  "fasta": "data/groups_info/Aeromonas/GCA_020405345.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022557195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26244239",
   "collection_date": "2021-12-07",
   "host": "HYPOSTOMUS PLECOSTOMUS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "LP0103"
+  "strain": "LP0103",
+  "fasta": "data/groups_info/Aeromonas/GCA_022557195.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022631175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26377314",
   "collection_date": "2012",
   "host": "ANGUILLA ROSTRATA",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "AC185"
+  "strain": "AC185",
+  "fasta": "data/groups_info/Aeromonas/GCA_022631175.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022631195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26377313",
   "collection_date": "2008",
   "host": "CARASSIUS CARASSIUS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "AC133"
+  "strain": "AC133",
+  "fasta": "data/groups_info/Aeromonas/GCA_022631195.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022700815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13041436",
   "collection_date": "2010-08",
   "host": "DENDROCEPHALUS BRASILIENSIS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Aer_Brac66"
+  "strain": "Aer_Brac66",
+  "fasta": "data/groups_info/Aeromonas/GCA_022700815.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022700835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13041437",
   "collection_date": "2009-08",
   "host": "PHRACTOCEPHALUS HEMIOLIOPTERUS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Aer_Pi25.1HTAS"
+  "strain": "Aer_Pi25.1HTAS",
+  "fasta": "data/groups_info/Aeromonas/GCA_022700835.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022700855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13104751",
   "collection_date": "2010-08",
   "host": "DENDROCEPHALUS BRASILIENSIS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Aer_Brac14A"
+  "strain": "Aer_Brac14A",
+  "fasta": "data/groups_info/Aeromonas/GCA_022700855.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022703095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13030278",
   "collection_date": "2010-08",
   "host": "OREOCHROMIS NILOTICUS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "Aer_OnIF1"
+  "strain": "Aer_OnIF1",
+  "fasta": "data/groups_info/Aeromonas/GCA_022703095.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022982835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27350375",
   "collection_date": "2021-11-03",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Ah2111"
+  "strain": "Ah2111",
+  "fasta": "data/groups_info/Aeromonas/GCA_022982835.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_023823085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21893820",
   "collection_date": "2018-10-12",
   "host": "FISH",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "Ah27"
+  "strain": "Ah27",
+  "fasta": "data/groups_info/Aeromonas/GCA_023823085.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_023920205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24968113",
   "collection_date": "2019-01-15",
   "host": "FISH",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "b2-100"
+  "strain": "b2-100",
+  "fasta": "data/groups_info/Aeromonas/GCA_023920205.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_028621795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33179879",
   "collection_date": "2020-10-30",
   "host": "FISH",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "516"
+  "strain": "516",
+  "fasta": "data/groups_info/Aeromonas/GCA_028621795.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_028994095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33408175",
   "collection_date": "2020",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "K522"
+  "strain": "K522",
+  "fasta": "data/groups_info/Aeromonas/GCA_028994095.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029025785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33453547",
   "collection_date": "2021",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "K533"
+  "strain": "K533",
+  "fasta": "data/groups_info/Aeromonas/GCA_029025785.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029320915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33550237",
   "collection_date": "2020-10-30",
   "host": "FISH",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "516"
+  "strain": "516",
+  "fasta": "data/groups_info/Aeromonas/GCA_029320915.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901113",
   "collection_date": "2021-01-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "YURI 17"
+  "strain": "YURI 17",
+  "fasta": "data/groups_info/Aeromonas/GCA_029773045.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901112",
   "collection_date": "2019-06-20",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "DAMIAN 12594"
+  "strain": "DAMIAN 12594",
+  "fasta": "data/groups_info/Aeromonas/GCA_029773005.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901111",
   "collection_date": "2021-11-11",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "DAMIAN 19342"
+  "strain": "DAMIAN 19342",
+  "fasta": "data/groups_info/Aeromonas/GCA_029773105.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901109",
   "collection_date": "2020-02-27",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "BOND 14504"
+  "strain": "BOND 14504",
+  "fasta": "data/groups_info/Aeromonas/GCA_029773285.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901110",
   "collection_date": "2021-10-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas dhakensis",
-  "strain": "BOND 19077"
+  "strain": "BOND 19077",
+  "fasta": "data/groups_info/Aeromonas/GCA_029773305.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029962325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34441011",
   "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Aeromonas hydrophila",
-  "strain": "NN-MR659"
+  "strain": "NN-MR659",
+  "fasta": "data/groups_info/Aeromonas/GCA_029962325.1"
  }
 ]

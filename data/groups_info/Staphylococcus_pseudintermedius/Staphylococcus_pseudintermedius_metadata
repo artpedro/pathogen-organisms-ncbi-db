@@ -13,10 +13,10 @@
  },
  "strain": {},
  "hosts": {
-  "FELIS CATUS": 1,
   "DOG": 107,
   "DOLPHIN": 1,
   "HOMO SAPIENS": 5,
-  "CAMEL": 6
+  "CAMEL": 6,
+  "FELIS CATUS": 1
  }
 }

@@ -1,39 +1,36 @@
 [
  {
   "Enterobacter_mori": "PDG000000110.6",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:49:19 2023"
  },
  {
-  "Enterobacter_mori": null,
-  "date": null,
   "asm_acc": "GCA_018638795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18011300",
   "collection_date": "2008-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterobacter mori",
-  "strain": "08-091"
+  "strain": "08-091",
+  "fasta": "data/groups_info/Enterobacter_mori/GCA_018638795.1"
  },
  {
-  "Enterobacter_mori": null,
-  "date": null,
   "asm_acc": "GCA_019203945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15184663",
   "collection_date": "2018-03-01",
   "host": "KIWIFRUIT",
   "scientific_name": "Enterobacter mori",
-  "strain": "CX01"
+  "strain": "CX01",
+  "fasta": "data/groups_info/Enterobacter_mori/GCA_019203945.1"
  },
  {
-  "Enterobacter_mori": null,
-  "date": null,
   "asm_acc": "GCA_030544955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33277635",
   "collection_date": "2022-11",
   "host": "PARIS POLYPHYLLA",
   "scientific_name": "Enterobacter mori",
-  "strain": "LgD10"
+  "strain": "LgD10",
+  "fasta": "data/groups_info/Enterobacter_mori/GCA_030544955.1"
  }
 ]

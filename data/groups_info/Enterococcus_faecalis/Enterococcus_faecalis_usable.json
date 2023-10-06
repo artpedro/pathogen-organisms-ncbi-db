@@ -1,7 +1,7 @@
 [
  {
-  "Enterococcus_faecalis": "PDG000000072.399",
-  "date": "Thu Sep 28 23:17:42 2023"
+  "Enterococcus_faecalis": "PDG000000072.404",
+  "date": "Fri Oct  6 18:49:25 2023"
  },
  {
   "asm_acc": "GCA_000281195.1",
@@ -704,15 +704,6 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "SJ82"
- },
- {
-  "asm_acc": "GCA_025957845.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN31342477",
-  "collection_date": "2021-05-12",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus faecalis",
-  "strain": "BE70"
  },
  {
   "asm_acc": "GCA_025957925.1",

@@ -1,7 +1,7 @@
 [
  {
-  "Pseudomonas_aeruginosa": "PDG000000036.948",
-  "date": "Thu Sep 28 23:18:45 2023"
+  "Pseudomonas_aeruginosa": "PDG000000036.955",
+  "date": "Fri Oct  6 18:50:28 2023"
  },
  {
   "asm_acc": "GCA_000359505.1",
@@ -5591,5 +5591,59 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Pseudomonas aeruginosa",
   "strain": "ZYPA187"
+ },
+ {
+  "asm_acc": "GCA_032231025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37404417",
+  "collection_date": "2019-01",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "Paer3771"
+ },
+ {
+  "asm_acc": "GCA_032231045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37404410",
+  "collection_date": "2018-06",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "Paer3554"
+ },
+ {
+  "asm_acc": "GCA_032231085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37404367",
+  "collection_date": "2011-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "Paer2090"
+ },
+ {
+  "asm_acc": "GCA_032231105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37404386",
+  "collection_date": "2016-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "Paer3125"
+ },
+ {
+  "asm_acc": "GCA_032252955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37492478",
+  "collection_date": "2022-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "PARM_L1"
+ },
+ {
+  "asm_acc": "GCA_032252975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37493051",
+  "collection_date": "2022-07",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "PARM_Z1"
  }
 ]

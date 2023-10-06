@@ -8,24 +8,24 @@
  "subsp.": {},
  "scientific_name": {
   "Enterococcus faecium": 343,
-  "Enterococcus hirae": 11,
-  "Enterococcus faecium DO": 1
+  "Enterococcus faecium DO": 1,
+  "Enterococcus hirae": 11
  },
  "strain": {
   "null": 59
  },
  "hosts": {
-  "DOG": 1,
-  "NOT AVAILABLE": 2,
-  "PIG": 9,
-  "CHICKEN": 1,
-  "MOSCHUS BEREZOVSKII": 1,
-  "OREOCHROMIS NILOTICUS": 1,
-  "MUS MUSCULUS": 1,
-  "FOOD": 1,
-  "APIS MELLIFERA": 1,
-  "BOVINE": 14,
   "ENVIRONMENT": 5,
-  "HOMO SAPIENS": 318
+  "DOG": 1,
+  "FOOD": 1,
+  "OREOCHROMIS NILOTICUS": 1,
+  "NOT AVAILABLE": 2,
+  "MOSCHUS BEREZOVSKII": 1,
+  "HOMO SAPIENS": 318,
+  "PIG": 9,
+  "APIS MELLIFERA": 1,
+  "CHICKEN": 1,
+  "MUS MUSCULUS": 1,
+  "BOVINE": 14
  }
 }

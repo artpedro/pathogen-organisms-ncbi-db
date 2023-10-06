@@ -1,105 +1,96 @@
 [
  {
   "Edwardsiella_ictaluri": "PDG000000079.13",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:49:06 2023"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_002076875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06637964",
   "collection_date": "2012",
   "host": "OREOCHROMIS NILOTICUS",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "RUSVM-1"
+  "strain": "RUSVM-1",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_002076875.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_003054425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08906337",
   "collection_date": "2017-04-26",
   "host": "FISH",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "MS-17-156"
+  "strain": "MS-17-156",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_003054425.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_003058405.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930763",
   "collection_date": "1997",
   "host": "ICTALURUS PUNCTATUS",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "S97-773"
+  "strain": "S97-773",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_003058405.2"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_003074995.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930813",
   "collection_date": "2007",
   "host": "ICTALURUS PUNCTATUS",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "S07-698"
+  "strain": "S07-698",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_003074995.2"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_025665375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30966624",
   "collection_date": "2018-08",
   "host": "FISH",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "669"
+  "strain": "669",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_025665375.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611014",
   "collection_date": "2020-09-06",
   "host": "PLECOGLOSSUS ALTIVELIS",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "KH20906"
+  "strain": "KH20906",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030297415.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611015",
   "collection_date": "2020-09-21",
   "host": "PLECOGLOSSUS ALTIVELIS",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "KB20921"
+  "strain": "KB20921",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030297435.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611016",
   "collection_date": "2020-10-10",
   "host": "PLECOGLOSSUS ALTIVELIS",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "KH201010"
+  "strain": "KH201010",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030297455.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030347235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11664858",
   "collection_date": "2013-10-16",
   "host": "FISH",
   "scientific_name": "Edwardsiella ictaluri",
-  "strain": "YCH"
+  "strain": "YCH",
+  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030347235.1"
  }
 ]

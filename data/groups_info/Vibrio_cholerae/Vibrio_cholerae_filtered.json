@@ -1,457 +1,416 @@
 [
  {
-  "Vibrio_cholerae": "PDG000000055.433",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "Vibrio_cholerae": "PDG000000055.440",
+  "date": "Fri Oct  6 18:51:28 2023"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_000166455.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00765529",
   "collection_date": "2010",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 str. 2010EL-1786",
-  "strain": "2010EL-1786"
+  "strain": "2010EL-1786",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000166455.2"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_000275645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470784",
   "collection_date": "2010-10",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae H1",
-  "strain": "H1"
+  "strain": "H1",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000275645.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_000765415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02741837",
   "collection_date": "2012",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": null
+  "strain": null,
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000765415.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_000963555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02928187",
   "collection_date": "2005-09",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
-  "strain": "FJ147"
+  "strain": "FJ147",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000963555.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_001250235.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA889328",
   "collection_date": "1971",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "A19"
+  "strain": "A19",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_001250235.2"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_001558475.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996328",
   "collection_date": null,
   "host": "ENVIRONMENT",
   "scientific_name": "Vibrio mimicus",
-  "strain": "FDAARGOS_112"
+  "strain": "FDAARGOS_112",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_001558475.2"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_001767355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05356867",
   "collection_date": "2013-08-26",
   "host": "FISH",
   "scientific_name": "Vibrio mimicus",
-  "strain": "SCCF01"
+  "strain": "SCCF01",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_001767355.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_002073335.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875560",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "FDAARGOS_223"
+  "strain": "FDAARGOS_223",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002073335.2"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_002313005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04045282",
   "collection_date": "2006-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "ICDC-VC661"
+  "strain": "ICDC-VC661",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002313005.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_002749635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07821484",
   "collection_date": "1978",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "E7946"
+  "strain": "E7946",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002749635.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_900185995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104115281",
   "collection_date": "2016",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": null
+  "strain": null,
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900185995.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_002892855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08323859",
   "collection_date": "1992",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "A1552"
+  "strain": "A1552",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002892855.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_002946655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08472240",
   "collection_date": "2014-01-08",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
-  "strain": "HC1037"
+  "strain": "HC1037",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002946655.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_002997215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07974340",
   "collection_date": "1992",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "A1552"
+  "strain": "A1552",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002997215.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_003063785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08822914",
   "collection_date": "1975",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "N16961"
+  "strain": "N16961",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003063785.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_900324445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374366",
   "collection_date": "2014",
   "host": "NOT AVAILABLE",
   "scientific_name": "Vibrio cholerae",
-  "strain": "4295STDY6534216"
+  "strain": "4295STDY6534216",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324445.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_900324425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374367",
   "collection_date": "2013",
   "host": "NOT AVAILABLE",
   "scientific_name": "Vibrio cholerae",
-  "strain": "4295STDY6534232"
+  "strain": "4295STDY6534232",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324425.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_900324455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374368",
   "collection_date": "2014",
   "host": "NOT AVAILABLE",
   "scientific_name": "Vibrio cholerae",
-  "strain": "4295STDY6534248"
+  "strain": "4295STDY6534248",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324455.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_003097695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08896638",
   "collection_date": "1992",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "A1552"
+  "strain": "A1552",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003097695.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_003574155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00118470",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "V060002"
+  "strain": "V060002",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003574155.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_003591575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07684567",
   "collection_date": "2017-01-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "FORC_073"
+  "strain": "FORC_073",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003591575.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_004117115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08384473",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "FORC_076"
+  "strain": "FORC_076",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_004117115.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_009799825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13613314",
   "collection_date": "2015",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": null
+  "strain": null,
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_009799825.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_900324435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374365",
   "collection_date": "2013",
   "host": "NOT AVAILABLE",
   "scientific_name": "Vibrio cholerae",
-  "strain": "4295STDY6534200"
+  "strain": "4295STDY6534200",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324435.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_013085075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734987",
   "collection_date": "1991",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae C6706",
-  "strain": "C6706"
+  "strain": "C6706",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085075.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_013085105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734988",
   "collection_date": "1991",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
-  "strain": "C6709"
+  "strain": "C6709",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085105.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_013085125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734999",
   "collection_date": "1976",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
-  "strain": "P27459"
+  "strain": "P27459",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085125.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_013085145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13735001",
   "collection_date": "2011",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
-  "strain": "DRC-193A"
+  "strain": "DRC-193A",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085145.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_013085165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734989",
   "collection_date": "1978",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
-  "strain": "E7946"
+  "strain": "E7946",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085165.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_013462495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11604374",
   "collection_date": "2001-01-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "VC1374"
+  "strain": "VC1374",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013462495.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_015168795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483972",
   "collection_date": "2016-06-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "VC_hf7"
+  "strain": "VC_hf7",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_015168795.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_017948285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18636297",
   "collection_date": "1992-01-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "A1552"
+  "strain": "A1552",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_017948285.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_017948345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18642716",
   "collection_date": "1993-01-01",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae MO10",
-  "strain": "MO10"
+  "strain": "MO10",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_017948345.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_018336415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13736322",
   "collection_date": "1965",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae O37",
-  "strain": "ATCC 25872"
+  "strain": "ATCC 25872",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_018336415.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_019048845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19795481",
   "collection_date": "2020-06-17",
   "host": "MACROBRACHIUM NIPPONENSE",
   "scientific_name": "Vibrio mimicus",
-  "strain": "Y4"
+  "strain": "Y4",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_019048845.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_021431945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24501422",
   "collection_date": "2018-07",
   "host": "MACROBRACHIUM ROSENBERGII",
   "scientific_name": "Vibrio cholerae",
-  "strain": "GXFL1-4"
+  "strain": "GXFL1-4",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_021431945.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_024734685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30329103",
   "collection_date": "2022-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "N1252"
+  "strain": "N1252",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_024734685.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_937000115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9995352",
   "collection_date": "2018-08-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "CNRVC190247"
+  "strain": "CNRVC190247",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_937000115.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_937000105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9995373",
   "collection_date": "2019-03-22",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "CNRVC190243"
+  "strain": "CNRVC190243",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_937000105.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_030062725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18296291",
   "collection_date": "2010",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio cholerae",
-  "strain": "MS84A"
+  "strain": "MS84A",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_030062725.1"
  },
  {
-  "Vibrio_cholerae": null,
-  "date": null,
   "asm_acc": "GCA_030580635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36294848",
   "collection_date": "2023-05-08",
   "host": "FISH",
   "scientific_name": "Vibrio metoecus",
-  "strain": "ZF102"
+  "strain": "ZF102",
+  "fasta": "data/groups_info/Vibrio_cholerae/GCA_030580635.1"
  }
 ]

@@ -1,61 +1,56 @@
 [
  {
-  "Listeria_innocua": "PDG000000091.77",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Listeria_innocua": "PDG000000091.79",
+  "date": "Fri Oct  6 18:50:06 2023"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_017363615.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10869157",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Listeria innocua",
-  "strain": "2010L-2059"
+  "strain": "2010L-2059",
+  "fasta": "data/groups_info/Listeria_innocua/GCA_017363615.2"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_004636665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761682",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Listeria innocua",
-  "strain": "F6217"
+  "strain": "F6217",
+  "fasta": "data/groups_info/Listeria_innocua/GCA_004636665.2"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_004636605.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761736",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Listeria innocua",
-  "strain": "2010L-1951"
+  "strain": "2010L-1951",
+  "fasta": "data/groups_info/Listeria_innocua/GCA_004636605.2"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_024721545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941775",
   "collection_date": "missing",
   "host": "NOT AVAILABLE",
   "scientific_name": "Listeria innocua",
-  "strain": "2012L-5520"
+  "strain": "2012L-5520",
+  "fasta": "data/groups_info/Listeria_innocua/GCA_024721545.1"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_024721565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941777",
   "collection_date": null,
   "host": "BOVINE",
   "scientific_name": "Listeria innocua",
-  "strain": "F4078"
+  "strain": "F4078",
+  "fasta": "data/groups_info/Listeria_innocua/GCA_024721565.1"
  }
 ]

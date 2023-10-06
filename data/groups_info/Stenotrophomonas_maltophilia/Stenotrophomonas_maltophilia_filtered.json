@@ -1,215 +1,196 @@
 [
  {
-  "Stenotrophomonas_maltophilia": "PDG000000093.69",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "Stenotrophomonas_maltophilia": "PDG000000093.71",
+  "date": "Fri Oct  6 18:51:07 2023"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_001274595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03389650",
   "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "ISMMS3"
+  "strain": "ISMMS3",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_001274595.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_002025605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130959",
   "collection_date": "2012-12",
   "host": "ZEA MAYS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "AA1"
+  "strain": "AA1",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_002025605.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_002208885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173338",
   "collection_date": "2015-01-13",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "FDAARGOS_325"
+  "strain": "FDAARGOS_325",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_002208885.2"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_900186865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4076705",
   "collection_date": "1900/1961",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "NCTC10257"
+  "strain": "NCTC10257",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900186865.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_002951115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996266",
   "collection_date": "2013-11-03",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "FDAARGOS_92"
+  "strain": "FDAARGOS_92",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_002951115.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_900475405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3856672",
   "collection_date": "1900/1961",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "NCTC10258"
+  "strain": "NCTC10258",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900475405.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_900475685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956094",
   "collection_date": "1957",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "NCTC10498"
+  "strain": "NCTC10498",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900475685.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_003812985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163201",
   "collection_date": "2015-12-27",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "FDAARGOS_507"
+  "strain": "FDAARGOS_507",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_003812985.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_900636655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3724090",
   "collection_date": "1900/2007",
   "host": "NOT AVAILABLE",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "NCTC13014"
+  "strain": "NCTC13014",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900636655.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_007833655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09665072",
   "collection_date": "2013",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "SM 866"
+  "strain": "SM 866",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_007833655.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_008693985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056364",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "FDAARGOS_649"
+  "strain": "FDAARGOS_649",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_008693985.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_011386925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14206046",
   "collection_date": "2016-10-23",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "NCTC10498"
+  "strain": "NCTC10498",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_011386925.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_012971765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12500624",
   "collection_date": "2011",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "CF13"
+  "strain": "CF13",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_012971765.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_023702495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28867336",
   "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "142"
+  "strain": "142",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_023702495.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_024734725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30333624",
   "collection_date": "2022-04",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "SCAID WND1-2022 (370)"
+  "strain": "SCAID WND1-2022 (370)",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_024734725.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_025642255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30996861",
   "collection_date": "2021-05-16",
   "host": "SEMPERVIVUM TECTORUM",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "SG.Y2"
+  "strain": "SG.Y2",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_025642255.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_026428295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09720998",
   "collection_date": "2017-09-21",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "CYZ"
+  "strain": "CYZ",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_026428295.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_027594805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23434718",
   "collection_date": "missing",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "454"
+  "strain": "454",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_027594805.1"
  },
  {
-  "Stenotrophomonas_maltophilia": null,
-  "date": null,
   "asm_acc": "GCA_030867045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36999638",
   "collection_date": "2021",
   "host": "HOMO SAPIENS",
   "scientific_name": "Stenotrophomonas maltophilia",
-  "strain": "11066"
+  "strain": "11066",
+  "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_030867045.1"
  }
 ]

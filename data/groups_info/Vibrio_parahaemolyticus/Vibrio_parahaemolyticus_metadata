@@ -2,39 +2,39 @@
  "group": "Vibrio_parahaemolyticus",
  "count": 72,
  "species": {
-  "Vibrio parahaemolyticus": 49,
   "Vibrio diabolicus": 3,
-  "Vibrio alginolyticus": 20
+  "Vibrio alginolyticus": 20,
+  "Vibrio parahaemolyticus": 49
  },
  "subsp.": {},
  "scientific_name": {
   "Vibrio parahaemolyticus O1:K33 str. CDC_K4557": 1,
-  "Vibrio parahaemolyticus": 47,
   "Vibrio diabolicus": 3,
   "Vibrio alginolyticus": 20,
-  "Vibrio parahaemolyticus 10329": 1
+  "Vibrio parahaemolyticus 10329": 1,
+  "Vibrio parahaemolyticus": 47
  },
  "strain": {
   "MAVP-Q": 2,
   "null": 3
  },
  "hosts": {
-  "SHRIMP": 1,
-  "PRAWN": 1,
-  "LUTJANUS ERYTHROPTERUS": 1,
-  "SHRIMPS": 1,
-  "FINESPOTTED FLOUNDER": 1,
-  "FISH": 1,
-  "PENAEUS VANNAMEI (WHITELEG SHRIMP)": 1,
-  "N": 1,
-  "EPINEPHELUS COIOIDES": 1,
-  "PENAEUS JAPONICUS": 2,
-  "PENAEUS MONODON": 1,
   "ENVIRONMENT": 5,
+  "EPINEPHELUS COIOIDES": 1,
+  "PRAWN": 1,
+  "FISH": 1,
+  "N": 1,
+  "LUTJANUS ERYTHROPTERUS": 1,
+  "HOMO SAPIENS": 14,
+  "NOT COLLECTED": 1,
+  "FINESPOTTED FLOUNDER": 1,
+  "PENAEUS JAPONICUS": 2,
   "ANADARA TUBERCULOSA": 7,
   "PENAEUS VANNAMEI": 24,
-  "NOT COLLECTED": 1,
-  "HOMO SAPIENS": 14,
-  "SYNGNATHUS TYPHLE": 9
+  "SYNGNATHUS TYPHLE": 9,
+  "SHRIMP": 1,
+  "PENAEUS MONODON": 1,
+  "PENAEUS VANNAMEI (WHITELEG SHRIMP)": 1,
+  "SHRIMPS": 1
  }
 }

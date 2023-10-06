@@ -1,7 +1,7 @@
 [
  {
-  "Citrobacter_freundii": "PDG000000039.663",
-  "date": "Thu Sep 28 23:17:17 2023"
+  "Citrobacter_freundii": "PDG000000039.670",
+  "date": "Fri Oct  6 18:48:58 2023"
  },
  {
   "asm_acc": "GCA_001022155.1",
@@ -632,5 +632,41 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Citrobacter freundii",
   "strain": "2022CK-00286"
+ },
+ {
+  "asm_acc": "GCA_032345935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529179",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "isolateH"
+ },
+ {
+  "asm_acc": "GCA_032346775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529178",
+  "collection_date": "2019",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "isolateG"
+ },
+ {
+  "asm_acc": "GCA_032347795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37529183",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "isolateL"
+ },
+ {
+  "asm_acc": "GCA_032375065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37553760",
+  "collection_date": "2022-11-16",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Citrobacter freundii",
+  "strain": "202212"
  }
 ]

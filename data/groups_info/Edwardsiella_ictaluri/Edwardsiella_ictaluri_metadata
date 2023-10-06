@@ -10,9 +10,9 @@
  },
  "strain": {},
  "hosts": {
-  "OREOCHROMIS NILOTICUS": 1,
-  "ICTALURUS PUNCTATUS": 2,
   "PLECOGLOSSUS ALTIVELIS": 3,
-  "FISH": 3
+  "OREOCHROMIS NILOTICUS": 1,
+  "FISH": 3,
+  "ICTALURUS PUNCTATUS": 2
  }
 }

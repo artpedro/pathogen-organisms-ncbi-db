@@ -1,94 +1,86 @@
 [
  {
   "Flavobacterium_psychrophilum": "PDG000000078.17",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "date": "Fri Oct  6 18:49:46 2023"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_000754365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290989",
   "collection_date": "2008",
   "host": "ONCORHYNCHUS MYKISS (RAINBOW TROUT)",
   "scientific_name": "Flavobacterium psychrophilum FPG101",
-  "strain": "FPG101"
+  "strain": "FPG101",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_000754365.1"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_000754405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290988",
   "collection_date": null,
   "host": "FISH",
   "scientific_name": "Flavobacterium psychrophilum FPG3",
-  "strain": "FPG3"
+  "strain": "FPG3",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_000754405.1"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_009730675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13381501",
   "collection_date": "2016",
   "host": "ONCORHYNCHUS MYKISS",
   "scientific_name": "Flavobacterium psychrophilum",
-  "strain": "CN6"
+  "strain": "CN6",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_009730675.1"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_013343175.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11356335",
   "collection_date": "2017",
   "host": "RAINBOW TROUT",
   "scientific_name": "Flavobacterium psychrophilum",
-  "strain": "FPS-S6"
+  "strain": "FPS-S6",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_013343175.2"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_013343195.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11356336",
   "collection_date": "2016",
   "host": "RAINBOW TROUT",
   "scientific_name": "Flavobacterium psychrophilum",
-  "strain": "160401-1/5N"
+  "strain": "160401-1/5N",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_013343195.3"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_016803475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15518435",
   "collection_date": "2017",
   "host": "RAINBOW TROUT",
   "scientific_name": "Flavobacterium psychrophilum",
-  "strain": "FPS-R7"
+  "strain": "FPS-R7",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_016803475.1"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_019774575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20804763",
   "collection_date": "2020",
   "host": "THYMALLUS THYMALLUS",
   "scientific_name": "Flavobacterium psychrophilum",
-  "strain": "CN46"
+  "strain": "CN46",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_019774575.1"
  },
  {
-  "Flavobacterium_psychrophilum": null,
-  "date": null,
   "asm_acc": "GCA_019774595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20804762",
   "collection_date": "2020",
   "host": "ONCORHYNCHUS MYKISS",
   "scientific_name": "Flavobacterium psychrophilum",
-  "strain": "CN38"
+  "strain": "CN38",
+  "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_019774595.1"
  }
 ]

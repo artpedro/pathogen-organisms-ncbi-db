@@ -1,72 +1,66 @@
 [
  {
-  "Cronobacter": "PDG000000043.208",
-  "date": "Thu Sep 28 23:25:53 2023"
+  "Cronobacter": "PDG000000043.209",
+  "date": "Fri Oct  6 18:49:05 2023"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_000982825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03371468",
   "collection_date": "1970",
   "host": "INFANTS",
   "scientific_name": "Cronobacter sakazakii",
-  "strain": "ATCC 29544"
+  "strain": "ATCC 29544",
+  "fasta": "data/groups_info/Cronobacter/GCA_000982825.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_003516125.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07540307",
   "collection_date": "2016-01-12",
   "host": "HOMO SAPIENS",
   "scientific_name": "Cronobacter sakazakii",
-  "strain": "CS-931"
+  "strain": "CS-931",
+  "fasta": "data/groups_info/Cronobacter/GCA_003516125.3"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_013425995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15493123",
   "collection_date": "2017-07-03",
   "host": "HOMO SAPIENS",
   "scientific_name": "Cronobacter sakazakii",
-  "strain": "5563_17"
+  "strain": "5563_17",
+  "fasta": "data/groups_info/Cronobacter/GCA_013425995.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_022648965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26420280",
   "collection_date": "2010",
   "host": "HOMO SAPIENS",
   "scientific_name": "Cronobacter sakazakii",
-  "strain": "70402496"
+  "strain": "70402496",
+  "fasta": "data/groups_info/Cronobacter/GCA_022648965.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_025200595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30466962",
   "collection_date": "2013-10-11",
   "host": "BOVINE",
   "scientific_name": "Cronobacter sakazakii",
-  "strain": "USDA-ARS-USMARC-54664"
+  "strain": "USDA-ARS-USMARC-54664",
+  "fasta": "data/groups_info/Cronobacter/GCA_025200595.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_031213335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34121859",
   "collection_date": "2019-05-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Cronobacter sakazakii",
-  "strain": "GZfs"
+  "strain": "GZfs",
+  "fasta": "data/groups_info/Cronobacter/GCA_031213335.1"
  }
 ]

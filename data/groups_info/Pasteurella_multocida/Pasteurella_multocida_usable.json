@@ -1,7 +1,7 @@
 [
  {
-  "Pasteurella_multocida": "PDG000000102.34",
-  "date": "Thu Sep 28 23:18:37 2023"
+  "Pasteurella_multocida": "PDG000000102.36",
+  "date": "Fri Oct  6 18:50:21 2023"
  },
  {
   "asm_acc": "GCA_000259545.1",
@@ -1091,5 +1091,23 @@
   "host": "MAMORTA HIMALAYANA",
   "scientific_name": "Pasteurella multocida",
   "strain": "AKS2022-HT5"
+ },
+ {
+  "asm_acc": "GCA_032259785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37474557",
+  "collection_date": "2010",
+  "host": "SUS SCROFA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "102426"
+ },
+ {
+  "asm_acc": "GCA_032260685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37474556",
+  "collection_date": "2008",
+  "host": "SUS SCROFA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "80176"
  }
 ]

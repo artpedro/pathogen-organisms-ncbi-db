@@ -1,270 +1,246 @@
 [
  {
   "Yersinia_ruckeri": "PDG000000086.18",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "date": "Fri Oct  6 18:51:37 2023"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_000964565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03421018",
   "collection_date": "1974",
   "host": "ONCORHYNCHUS TSHAWYTSCHA",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "Big Creek 74"
+  "strain": "Big Creek 74",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_000964565.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_002192595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03287980",
   "collection_date": "2014",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "QMA0440"
+  "strain": "QMA0440",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_002192595.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_002442495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07594326",
   "collection_date": "1987-02",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NHV_3758"
+  "strain": "NHV_3758",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_002442495.2"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_023212385.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982389",
   "collection_date": "2017-06-06",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-11050"
+  "strain": "NVI-11050",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212385.2"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_023212425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982385",
   "collection_date": "2015-10-30",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-10587"
+  "strain": "NVI-10587",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212425.2"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_023212445.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982383",
   "collection_date": "2014-08-12",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-9681"
+  "strain": "NVI-9681",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212445.2"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_023212565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982378",
   "collection_date": "1987",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-492"
+  "strain": "NVI-492",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212565.2"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_023212585.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23150584",
   "collection_date": "2016-09-26",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-10705"
+  "strain": "NVI-10705",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212585.2"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879013",
   "collection_date": "2012",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-8524"
+  "strain": "NVI-8524",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435115.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879012",
   "collection_date": "2011",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-8270"
+  "strain": "NVI-8270",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435135.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879011",
   "collection_date": "1986",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-701"
+  "strain": "NVI-701",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435155.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879010",
   "collection_date": "2008",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-6614"
+  "strain": "NVI-6614",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435175.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879009",
   "collection_date": "2004",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-5089"
+  "strain": "NVI-5089",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435195.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879008",
   "collection_date": "2003",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-4840"
+  "strain": "NVI-4840",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435215.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879007",
   "collection_date": "2002",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-4570"
+  "strain": "NVI-4570",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435235.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879006",
   "collection_date": "2002",
   "host": "ONCORHYNCHUS MYKISS",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-4479"
+  "strain": "NVI-4479",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435255.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879005",
   "collection_date": "1987",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-1292"
+  "strain": "NVI-1292",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435275.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879004",
   "collection_date": "1987",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-1176"
+  "strain": "NVI-1176",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435295.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879003",
   "collection_date": "2018",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-11294"
+  "strain": "NVI-11294",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435315.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879002",
   "collection_date": "2018",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-11267"
+  "strain": "NVI-11267",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435335.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879001",
   "collection_date": "2017",
   "host": "BIOFILM",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-11073"
+  "strain": "NVI-11073",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435495.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879000",
   "collection_date": "2017",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-11065"
+  "strain": "NVI-11065",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435655.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_026435835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28878999",
   "collection_date": "2016",
   "host": "SALMO SALAR",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "NVI-10571"
+  "strain": "NVI-10571",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435835.1"
  },
  {
-  "Yersinia_ruckeri": null,
-  "date": null,
   "asm_acc": "GCA_031192345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37120472",
   "collection_date": "2022-04-16",
   "host": "ICTALURUS FURCATUS",
   "scientific_name": "Yersinia ruckeri",
-  "strain": "Barren Creek"
+  "strain": "Barren Creek",
+  "fasta": "data/groups_info/Yersinia_ruckeri/GCA_031192345.1"
  }
 ]

@@ -1,160 +1,146 @@
 [
  {
-  "Vibrio_vulnificus": "PDG000000058.223",
-  "date": "Thu Sep 28 23:25:54 2023"
+  "Vibrio_vulnificus": "PDG000000058.226",
+  "date": "Fri Oct  6 18:51:35 2023"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_000746665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03009989",
   "collection_date": "2004",
   "host": "OREOCHROMIS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "93U204"
+  "strain": "93U204",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_000746665.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_001433435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03174938",
   "collection_date": "2008",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FORC_009"
+  "strain": "FORC_009",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001433435.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_001558515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996334",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FDAARGOS_119"
+  "strain": "FDAARGOS_119",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001558515.2"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_001653775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03764475",
   "collection_date": "2009-07-31",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FORC_016"
+  "strain": "FORC_016",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001653775.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_001675245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03956906",
   "collection_date": "2014-09-18",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FORC_017"
+  "strain": "FORC_017",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001675245.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_002204915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05196200",
   "collection_date": null,
   "host": "MYA ARENARIA OONOGAI MAKIYAMA",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FORC_037"
+  "strain": "FORC_037",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_002204915.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_002215135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04457466",
   "collection_date": "1990",
   "host": "ANGUILLA ANGUILLA",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "CECT 4999"
+  "strain": "CECT 4999",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_002215135.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_002850455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06237111",
   "collection_date": "2014-07-17",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "VV2014DJH"
+  "strain": "VV2014DJH",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_002850455.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_004319645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563567",
   "collection_date": "2017",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FORC_077"
+  "strain": "FORC_077",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_004319645.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_008693685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056378",
   "collection_date": null,
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "FDAARGOS_663"
+  "strain": "FDAARGOS_663",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_008693685.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_014107515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12816916",
   "collection_date": "2018-08-06",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "Vv180806"
+  "strain": "Vv180806",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_014107515.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_025994915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00506751",
   "collection_date": "2020-02-03",
   "host": "SHRIMP",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "VV20-8B-2"
+  "strain": "VV20-8B-2",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_025994915.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_030220165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35548064",
   "collection_date": "2018",
   "host": "HOMO SAPIENS",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "VV2018"
+  "strain": "VV2018",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_030220165.1"
  },
  {
-  "Vibrio_vulnificus": null,
-  "date": null,
   "asm_acc": "GCA_031883075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37345416",
   "collection_date": "2023-04",
   "host": "ANGUILLA BICOLOR",
   "scientific_name": "Vibrio vulnificus",
-  "strain": "GCU-01"
+  "strain": "GCU-01",
+  "fasta": "data/groups_info/Vibrio_vulnificus/GCA_031883075.1"
  }
 ]

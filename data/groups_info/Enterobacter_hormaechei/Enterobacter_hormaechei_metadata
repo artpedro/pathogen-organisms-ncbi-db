@@ -1,34 +1,36 @@
 {
  "group": "Enterobacter_hormaechei",
- "count": 223,
+ "count": 230,
  "species": {
-  "Enterobacter hormaechei": 223
+  "Enterobacter hormaechei": 230
  },
  "subsp.": {
+  "Enterobacter hormaechei subsp. xiangfangensis": 12,
+  "Enterobacter hormaechei subsp. hoffmannii": 3,
   "Enterobacter hormaechei subsp. hormaechei": 2,
   "Enterobacter hormaechei subsp. steigerwaltii": 10,
-  "Enterobacter hormaechei subsp. oharae": 1,
-  "Enterobacter hormaechei subsp. hoffmannii": 3,
-  "Enterobacter hormaechei subsp. xiangfangensis": 12
+  "Enterobacter hormaechei subsp. oharae": 1
  },
  "scientific_name": {
+  "Enterobacter hormaechei subsp. xiangfangensis": 12,
+  "Enterobacter hormaechei subsp. hoffmannii": 3,
+  "Enterobacter hormaechei": 202,
   "Enterobacter hormaechei subsp. hormaechei": 2,
   "Enterobacter hormaechei subsp. steigerwaltii": 10,
-  "Enterobacter hormaechei subsp. oharae": 1,
-  "Enterobacter hormaechei": 195,
-  "Enterobacter hormaechei subsp. hoffmannii": 3,
-  "Enterobacter hormaechei subsp. xiangfangensis": 12
+  "Enterobacter hormaechei subsp. oharae": 1
  },
  "strain": {
   "BW": 2
  },
  "hosts": {
-  "CAT": 6,
-  "TENEBRIO MOLITOR": 1,
   "DOG": 12,
+  "FOOD": 1,
+  "HORSE": 1,
   "NOT AVAILABLE": 1,
+  "HOMO SAPIENS": 206,
   "PIG": 1,
+  "TENEBRIO MOLITOR": 1,
   "CHICKEN": 1,
-  "HOMO SAPIENS": 201
+  "CAT": 6
  }
 }
