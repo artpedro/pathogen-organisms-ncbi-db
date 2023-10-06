@@ -80,7 +80,6 @@ class Group():
         # e armazenado-as
         if os.path.exists(self.filtered_json_path):
             with open(self.filtered_json_path,'r') as log:
-                
                 self.filtered_json = js.load(log)
 
                 # informações filtradas em dataframe
@@ -332,15 +331,20 @@ class Group():
         # FILTRANDO FISH
         for var in fish.split(sep="|"):
             self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'FISH'
-    
+
+        # adicionando caminho para o arquivo fasta em data
+
         # armazenando o dataframe filtrado em um .json 
         with open(self.filtered_json_path, 'w') as file:
             self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
             self.filtered_json = js.loads(self.filtered_json)
+            for entry in self.filtered_json:
+                entry['fasta'] = os.path.normpath(f"data/groups_info/{self.name}/{entry['asm_acc']}")
             # tag para com a data de atualização e o pat_id
             self.tag = {self.name:self.pat_id,
                         'date':time.ctime()}
             self.filtered_json.insert(0,self.tag)
+            
             self.filtered_json = js.dumps(self.filtered_json,indent=1)
             file.write(self.filtered_json)
         return True
@@ -489,6 +493,10 @@ def generalMetadata():
 # PRECISA-SE ARRUMAR O FORMATO DO JSON FILTERED
 
 if __name__ == "__main__":
+    for i in readGroupsNames():
+        print(i)
+        mountExample(i)
+'''
     start = time.time()
     refresh()
     updateData()
@@ -512,29 +520,5 @@ if __name__ == "__main__":
     minutos = int((end - start) // 60)
     segundos = int((end - start) % 60)
     print(f'generalmetadata runtime: {minutos}:{segundos}')
-
-
 '''
-with open("data/groups/groups_name_id.json","r") as file:
-    names = js.load(file)
-    total_count = 0
-    all_count = {}
-    all_hosts = set()
-
-    for name in names.keys():
-        a = Group(name)
-        if a.checkDataUpdate():       
-            a.getPatData()
-        if not a.readFilteredTsv():
-            a.getUsableTsv()
-            a.readFilteredTsv()    
-        total_count = total_count + a.count
-        all_count[a.name] = [a.count, a.species, a.hosts]
-        all_hosts.update(a.hosts)
-    for i in all_count:
-        print(f'{i}: {all_count[i][0]} entradas\n\nEspécies presentes: {all_count[i][1]}\n\nHospedeiros presentes: {all_count[i][2]}\n\n-----------------------------------------------------------------\n')
-    print(f'total: {total_count} entradas')
-
-    print(all_hosts)
-    print(len(all_hosts))
-'''
+    
