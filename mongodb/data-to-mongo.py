@@ -15,62 +15,96 @@ def readGroupsNames():
         groups = js.load(data)
         return groups
 
-def groups_version_to_mongo(client):
-
+def DELETE_ALL():
     db = client["pathogen_db"]
     col = db["groups_versions"]
+    col.delete_many({})
 
+    col = db["groups_info"]
+    col.delete_many({})
+
+    col = db["all_groups_data"]
+    col.delete_many({})
+
+    
+
+def groups_version_to_mongo(client):
+
+    # acessando a coleção de versoes no banco de dados
+    db = client["pathogen_db"]
+    col = db["groups_versions"]
+    cur = col.find({})
+    # armazenando quais grupos já estão no banco de dados
+    log = {}
+    for i in cur:
+        log[i['group']] = i['pathogen_id'];
+        print(i);
+    
+    
+    # recuperando as versões de data
     with open('data/groups/groups_name_id.json','r') as json:
         versions = js.load(json)
 
-    data = []
+    # atualizando ou adicionando versões
     for group,id in versions.items():
-        data.append({'group':group,'pathogen_id':id})
+        if (group not in log) or (log[group] != id):
+            entry = {'group':group,'pathogen_id':id}
+            col.update_one({'group':group},{"$set":entry},upsert=True)
     
-    col.insert_many(data)
     
 
 def groups_info_to_mongo(client):
     # em desenvolvimento
 
     db = client["pathogen_db"]
-    col = db["groups_data"]
+    col = db["all_groups_data"]
+    cur = col.find({})
 
+    # armazenando quais grupos já estão no banco de dados
+    log = []
+    for i in cur:
+        log.append(i['asm_acc'])
+
+    # para cada grupo
+    for group in readGroupsNames():
+        
+        # checando se existe informação sobre
+        if os.path.exists(f'data/groups_info/{group}/{group}_filtered.json'):
+
+            # carregando informação
+            with open(f'data/groups_info/{group}/{group}_filtered.json','r') as json:
+                info = js.load(json)
+
+            # para cada entrada de patogêno
+            for entry in info:
+                if len(entry) == 2:
+                    continue
+                entry['group'] = group
+
+                # se o acesso ao assembly dessa entrada não estiver no banco, adiciona-lo
+                if entry['asm_acc'] not in log:
+                    col.update_one({'asm_acc':entry['asm_acc']},{'$set':entry},upsert=True)
+                    print(f"{entry['asm_acc']} added to mongo")
+
+def force_info_to_mongo(client):
+    # igual a anterior, mas não checa se já está no banco, só substitui
+
+    db = client["pathogen_db"]
+    col = db["all_groups_data"]
+    cur = col.find({})
+    
     for group in readGroupsNames():
         
         if os.path.exists(f'data/groups_info/{group}/{group}_filtered.json'):
-            
+
             with open(f'data/groups_info/{group}/{group}_filtered.json','r') as json:
                 info = js.load(json)
-            
-            data = []
-            idx = 0
+
             for entry in info:
-                if idx == 0:
-                    idx += 1
-                    #ignorando primeiro elemento de tag
+                if len(entry) == 2:
                     continue
-
-                # por enquanto !!!
-                entry.pop('date')
-
-                for key in entry:
-                    if entry[key] == None:
-                        entry[key] = key
-                print(entry)
-'''            
-with open(f'data/groups_info/Edwardsiella_tarda/Edwardsiella_tarda_filtered.json','r') as json:
-    info = js.load(json)
-    data = []
-    idx = 0
-    for entry in info:
-        entry.pop('date')
-        if idx == 0:
-            idx += 1
-            #ignorando primeiro elemento de tag
-            continue    
-        for key in entry:
-            if entry[key] == None:
-        print(entry)
-print(info)
-'''
+                entry['group'] = group
+                col.update_one({'asm_acc':entry['asm_acc']},{'$set':entry},upsert=True)
+                print(f"{entry['asm_acc']} added to mongo")
+ 
+force_info_to_mongo(client)
