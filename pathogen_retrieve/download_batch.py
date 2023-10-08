@@ -67,8 +67,11 @@ def download_batch(batch,path):
 
     if not os.path.exists(path):
         os.mkdir(path)
-    for entry in batch:
 
+    files_in_folder = os.listdir(path)
+    for entry in batch:
+        if entry+".fna.gz" in files_in_folder:
+            continue
         # preciso adicionar um if para não baixar assemblies já baixados, talvez uma nova função
         page = f'{entry[0:3]}/{entry[4:7]}/{entry[7:10]}/{entry[10:13]}'
         genome_url = ftp_url + page
@@ -102,3 +105,4 @@ def download_all():
     for name in names:
         download_group(name)
 
+download_group("Streptococcus_pneumoniae")
