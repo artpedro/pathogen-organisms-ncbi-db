@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_parahaemolyticus": "PDG000000023.779",
-  "date": "Fri Oct  6 18:51:33 2023"
+  "Vibrio_parahaemolyticus": "PDG000000023.780",
+  "date": "Sat Oct  7 20:57:33 2023"
  },
  {
   "asm_acc": "GCA_000430425.1",
@@ -650,5 +650,32 @@
   "host": "ANADARA TUBERCULOSA",
   "scientific_name": "Vibrio alginolyticus",
   "strain": "Isc15A"
+ },
+ {
+  "asm_acc": "GCA_030998145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333283",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "Isc4A"
+ },
+ {
+  "asm_acc": "GCA_030991365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333292",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio alginolyticus",
+  "strain": "Isc1B"
+ },
+ {
+  "asm_acc": "GCA_030991385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29333291",
+  "collection_date": "2021-10",
+  "host": "ANADARA TUBERCULOSA",
+  "scientific_name": "Vibrio alginolyticus",
+  "strain": "Isc25B"
  }
 ]
