@@ -7,6 +7,9 @@ import sys
 from tqdm import tqdm
 import time
 from groups_name_id import *
+import warnings
+
+warnings.filterwarnings('ignore')
 
 # funções utilizadas para baixar os registros do ncbi
 def download(url: str, fname: str):
@@ -493,32 +496,31 @@ def generalMetadata():
 # PRECISA-SE ARRUMAR O FORMATO DO JSON FILTERED
 
 if __name__ == "__main__":
-    for i in readGroupsNames():
-        print(i)
-        mountExample(i)
-'''
+    
+    print("Refreshing data...")
     start = time.time()
     refresh()
     updateData()
     end = time.time()
     minutos = int((end - start) // 60)
     segundos = (end - start) % 60
-    print(f'mount runtime: {minutos}:{segundos}')
+    #print(f'mount runtime: {minutos}:{segundos}')
 
+    print("Reading data...")
     start = time.time()
     readAllData()
     end = time.time()
     minutos = int((end - start) // 60)
     segundos = int((end - start) % 60)
-    print(f'read runtime: {minutos}:{segundos}')
+    #print(f'read runtime: {minutos}:{segundos}')
     # readAllData() = 0:50
     # new readAllData() = 0:05
 
+    print("Generating metadata...")
     start = time.time()
     generalMetadata()
     end = time.time()
     minutos = int((end - start) // 60)
     segundos = int((end - start) % 60)
-    print(f'generalmetadata runtime: {minutos}:{segundos}')
-'''
+    #print(f'generalmetadata runtime: {minutos}:{segundos}')
     
