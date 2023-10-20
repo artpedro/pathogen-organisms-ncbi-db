@@ -1,9 +1,11 @@
 [
  {
-  "Campylobacter": "PDG000000003.2040",
-  "date": "Sat Oct  7 20:52:50 2023"
+  "Campylobacter": "PDG000000003.2049",
+  "date": "Thu Oct 19 21:32:30 2023"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000025425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603425",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000025425.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000430385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02179883",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000430385.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000466075.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603726",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000466075.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000466105.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603724",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000466105.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000466065.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603725",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000466065.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000468915.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603723",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000468915.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000494775.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603390",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000494775.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000583755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02743856",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000583755.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000583775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02743855",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000583775.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000583795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02743854",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000583795.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000466925.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02298816",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000466925.3"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000737085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02864993",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000737085.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000759575.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03077634",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000759575.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000814265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02689633",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000814265.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000835285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03216760",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000835285.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000835305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03216761",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000835305.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000835345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03216762",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000835345.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000835365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03216759",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000835365.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_000954195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03381357",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_000954195.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001190745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03862076",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001190745.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001190755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737995",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001190755.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001298465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03342362",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001298465.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001299565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03652757",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001299565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001299595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03652743",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001299595.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001412295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03838469",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001412295.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246034",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506185.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246003",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246049",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246051",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506245.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246026",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506265.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246036",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506285.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246041",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506305.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246015",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506345.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246039",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506365.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246009",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506385.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246018",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506405.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246050",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506425.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246030",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506445.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246045",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506465.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246047",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506485.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246044",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506505.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246046",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506525.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246024",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506545.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246022",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246012",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506585.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246013",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506605.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246052",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506625.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246057",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246043",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506665.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246053",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506685.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246035",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506705.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246008",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506725.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246016",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506745.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246028",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506765.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246020",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506785.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246042",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506805.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246027",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506825.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246038",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506845.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246055",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506865.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246017",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506885.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246023",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506905.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246054",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506925.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246048",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506945.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246019",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506965.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001506985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246021",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001506985.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246007",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507005.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246033",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507025.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246037",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507045.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246031",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507065.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246004",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507085.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246056",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507105.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246010",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507125.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246025",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507145.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246040",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507165.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246011",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507185.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246014",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246029",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246032",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507245.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001507265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03246006",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001507265.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001563565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04455262",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001563565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001587015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04545450",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001587015.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001587035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04545451",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001587035.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001643955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737973",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001643955.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001643975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737974",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001643975.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001643995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737975",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001643995.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001686885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04505906",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001686885.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001687475.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04544305",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001687475.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_001767215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05830826",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_001767215.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002021925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737982",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002021925.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002021945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737983",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002021945.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002021965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737984",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002021965.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002021985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737985",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002021985.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002022005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737986",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002022005.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002080395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737972",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002080395.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002139935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737977",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002139935.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002209005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875588",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002209005.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002209025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875589",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002209025.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002209045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875591",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002209045.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002214785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05411282",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002214785.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002224325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07357094",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002224325.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002224385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07357174",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002224385.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002238335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737963",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002238335.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002587105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312466",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002587105.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002587225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312465",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002587225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_002973655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08618845",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_002973655.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07160232",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048375.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048615.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042471",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048615.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048595.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042497",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048595.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048695.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042488",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048695.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048675.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042482",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048675.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048775.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042499",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048775.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048835.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042490",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048835.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048875.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042489",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048875.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003048685.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042483",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003048685.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900475265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3672890",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900475265.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900475935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4063018",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900475935.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831970",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368045.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831978",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368065.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831969",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368085.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831994",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368105.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831976",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368125.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831983",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368145.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831985",
@@ -1234,6 +1480,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368165.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831988",
@@ -1244,6 +1492,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368185.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831990",
@@ -1254,6 +1504,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831991",
@@ -1264,6 +1516,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003368245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831989",
@@ -1274,6 +1528,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003368245.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003574945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10034081",
@@ -1284,6 +1540,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003574945.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900637395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4030738",
@@ -1294,6 +1552,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900637395.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900637885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA48403168",
@@ -1304,6 +1564,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900637885.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167179",
@@ -1314,6 +1576,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638165.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167178",
@@ -1324,6 +1588,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638175.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167180",
@@ -1334,6 +1600,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638185.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167187",
@@ -1344,6 +1612,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638195.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167185",
@@ -1354,6 +1624,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167186",
@@ -1364,6 +1636,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167192",
@@ -1374,6 +1648,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638235.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167203",
@@ -1384,6 +1660,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638285.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167213",
@@ -1394,6 +1672,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638335.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104210759",
@@ -1404,6 +1684,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638365.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900638675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307708",
@@ -1414,6 +1696,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900638675.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003971585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08687180",
@@ -1424,6 +1708,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003971585.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_003999645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06339750",
@@ -1434,6 +1720,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_003999645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_900699785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535847",
@@ -1444,6 +1732,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_900699785.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_004924295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10101901",
@@ -1454,6 +1744,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_004924295.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_007431745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11336895",
@@ -1464,6 +1756,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_007431745.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_007723545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12256997",
@@ -1474,6 +1768,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_007723545.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_009730395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056450",
@@ -1484,6 +1780,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_009730395.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_010232325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11316573",
@@ -1494,6 +1792,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_010232325.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011600845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976980",
@@ -1504,6 +1804,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011600845.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011600855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976976",
@@ -1514,6 +1816,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011600855.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011600955.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976982",
@@ -1524,6 +1828,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011600955.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011600945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976978",
@@ -1534,6 +1840,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011600945.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011601005.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976979",
@@ -1544,6 +1852,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011601005.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011600995.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976977",
@@ -1554,6 +1864,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011600995.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_011601375.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13976981",
@@ -1564,6 +1876,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_011601375.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656972",
@@ -1574,6 +1888,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923625.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656970",
@@ -1584,6 +1900,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656959",
@@ -1594,6 +1912,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923665.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656984",
@@ -1604,6 +1924,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923685.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656979",
@@ -1614,6 +1936,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923705.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656900",
@@ -1624,6 +1948,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923725.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012923745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13656872",
@@ -1634,6 +1960,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012923745.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_012889875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11487379",
@@ -1644,6 +1972,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_012889875.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_004803775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737981",
@@ -1654,6 +1984,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_004803775.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_004803795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737987",
@@ -1664,6 +1996,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_004803795.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_004803815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03737988",
@@ -1674,6 +2008,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_004803815.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013201895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10884419",
@@ -1684,6 +2020,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013201895.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013201645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10884418",
@@ -1694,6 +2032,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013201645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013372165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09274393",
@@ -1704,6 +2044,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013372165.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013389555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15351903",
@@ -1714,6 +2056,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013389555.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013389575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15351901",
@@ -1724,6 +2068,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013389575.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013393785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11415929",
@@ -1734,6 +2080,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013393785.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013393805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11415912",
@@ -1744,6 +2092,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013393805.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013465595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15508151",
@@ -1754,6 +2104,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013465595.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013465795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15508152",
@@ -1764,6 +2116,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013465795.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013466015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15508154",
@@ -1774,6 +2128,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013466015.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_013466235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15508153",
@@ -1784,6 +2140,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_013466235.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014151305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690939",
@@ -1794,6 +2152,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014151305.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014151465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690933",
@@ -1804,6 +2164,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014151465.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014151665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690932",
@@ -1814,6 +2176,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014151665.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014151825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690931",
@@ -1824,6 +2188,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014151825.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014151925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690930",
@@ -1834,6 +2200,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014151925.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014152105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690929",
@@ -1844,6 +2212,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014152105.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014152305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690928",
@@ -1854,6 +2224,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014152305.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014152385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690927",
@@ -1864,6 +2236,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014152385.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014152565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15690924",
@@ -1874,6 +2248,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014152565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014906165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08031525",
@@ -1884,6 +2260,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014906165.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014906185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08031447",
@@ -1894,6 +2272,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014906185.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014906205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08031524",
@@ -1904,6 +2284,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014906205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_015679945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05908162",
@@ -1914,6 +2296,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_015679945.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_015679965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05908145",
@@ -1924,6 +2308,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_015679965.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_015679985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05908159",
@@ -1934,6 +2320,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_015679985.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_015680005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05908158",
@@ -1944,6 +2332,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_015680005.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_015680025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05908146",
@@ -1954,6 +2344,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_015680025.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_015774875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16960974",
@@ -1964,6 +2356,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_015774875.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014931075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387700",
@@ -1974,6 +2368,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014931075.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014931115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15354339",
@@ -1984,6 +2380,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014931115.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014931135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387699",
@@ -1994,6 +2392,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014931135.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014931195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15354327",
@@ -2004,6 +2404,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014931195.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014931235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15354326",
@@ -2014,6 +2416,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014931235.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014931055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387701",
@@ -2024,6 +2428,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014931055.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_016406645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14615035",
@@ -2034,6 +2440,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_016406645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017351955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08987256",
@@ -2044,6 +2452,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017351955.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017352015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08987254",
@@ -2054,6 +2464,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017352015.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004777",
@@ -2064,6 +2476,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356685.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004779",
@@ -2074,6 +2488,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356745.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004780",
@@ -2084,6 +2500,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356765.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004781",
@@ -2094,6 +2512,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356785.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004773",
@@ -2104,6 +2524,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356805.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004782",
@@ -2114,6 +2536,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356825.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004783",
@@ -2124,6 +2548,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356845.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004775",
@@ -2134,6 +2560,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356865.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004776",
@@ -2144,6 +2572,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356885.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004785",
@@ -2154,6 +2584,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356905.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05871074",
@@ -2164,6 +2596,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356925.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004774",
@@ -2174,6 +2608,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356945.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017356965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004784",
@@ -2184,6 +2620,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017356965.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017357025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15004778",
@@ -2194,6 +2632,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017357025.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017357085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05871073",
@@ -2204,6 +2644,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017357085.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017896385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18438628",
@@ -2214,6 +2656,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017896385.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_017896405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18438775",
@@ -2224,6 +2668,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_017896405.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156770",
@@ -2234,6 +2680,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885125.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156909",
@@ -2244,6 +2692,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885145.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156961",
@@ -2254,6 +2704,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885165.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156968",
@@ -2264,6 +2716,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885185.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156890",
@@ -2274,6 +2728,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156789",
@@ -2284,6 +2740,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_018885245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156991",
@@ -2294,6 +2752,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_018885245.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_019056415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156779",
@@ -2304,6 +2764,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_019056415.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_019056455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15156978",
@@ -2314,6 +2776,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_019056455.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_912579705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8911315",
@@ -2324,6 +2788,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_912579705.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_912579715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8911316",
@@ -2334,6 +2800,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_912579715.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_019967875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21240411",
@@ -2344,6 +2812,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_019967875.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_916098265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9957328",
@@ -2354,6 +2824,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_916098265.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_916098255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9957327",
@@ -2364,6 +2836,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_916098255.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020143085.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14648956",
@@ -2374,6 +2848,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020143085.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020718705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668676",
@@ -2384,6 +2860,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020718705.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020718885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668674",
@@ -2394,6 +2872,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020718885.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668675",
@@ -2404,6 +2884,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719015.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668668",
@@ -2414,6 +2896,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719145.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668669",
@@ -2424,6 +2908,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719285.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668672",
@@ -2434,6 +2920,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719435.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668673",
@@ -2444,6 +2932,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668671",
@@ -2454,6 +2944,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719705.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020719855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668667",
@@ -2464,6 +2956,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020719855.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020720025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668670",
@@ -2474,6 +2968,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020720025.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020720295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668664",
@@ -2484,6 +2980,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020720295.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020720445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668665",
@@ -2494,6 +2992,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020720445.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_020720575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22668663",
@@ -2504,6 +3004,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_020720575.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024181745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08945459",
@@ -2514,6 +3016,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024181745.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491644",
@@ -2524,6 +3028,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347875.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491646",
@@ -2534,6 +3040,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347895.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491647",
@@ -2544,6 +3052,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347915.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491650",
@@ -2554,6 +3064,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347935.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491657",
@@ -2564,6 +3076,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347955.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491659",
@@ -2574,6 +3088,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347975.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024347995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491660",
@@ -2584,6 +3100,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024347995.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491662",
@@ -2594,6 +3112,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348015.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491663",
@@ -2604,6 +3124,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348035.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491665",
@@ -2614,6 +3136,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348055.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491669",
@@ -2624,6 +3148,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348075.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491671",
@@ -2634,6 +3160,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348095.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491676",
@@ -2644,6 +3172,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348115.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491680",
@@ -2654,6 +3184,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348135.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491690",
@@ -2664,6 +3196,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348245.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491691",
@@ -2674,6 +3208,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348345.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491699",
@@ -2684,6 +3220,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348485.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491700",
@@ -2694,6 +3232,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491702",
@@ -2704,6 +3244,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348765.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024348925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491708",
@@ -2714,6 +3256,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024348925.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491710",
@@ -2724,6 +3268,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349045.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491737",
@@ -2734,6 +3280,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349225.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491738",
@@ -2744,6 +3292,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349385.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491739",
@@ -2754,6 +3304,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349505.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491740",
@@ -2764,6 +3316,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349525.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491742",
@@ -2774,6 +3328,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349545.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491744",
@@ -2784,6 +3340,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491751",
@@ -2794,6 +3352,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349585.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491752",
@@ -2804,6 +3364,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349605.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491754",
@@ -2814,6 +3376,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349625.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491755",
@@ -2824,6 +3388,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_024349665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00491757",
@@ -2834,6 +3400,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_024349665.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025135795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831973",
@@ -2844,6 +3412,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025135795.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025215645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831981",
@@ -2854,6 +3424,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025215645.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831965",
@@ -2864,6 +3436,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232125.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831967",
@@ -2874,6 +3448,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232205.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831987",
@@ -2884,6 +3460,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232235.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831971",
@@ -2894,6 +3472,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232255.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831980",
@@ -2904,6 +3484,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232275.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831974",
@@ -2914,6 +3496,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232295.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831966",
@@ -2924,6 +3508,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232315.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831992",
@@ -2934,6 +3520,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232335.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831964",
@@ -2944,6 +3532,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232355.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831986",
@@ -2954,6 +3544,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232495.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831984",
@@ -2964,6 +3556,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232515.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831968",
@@ -2974,6 +3568,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232535.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831982",
@@ -2984,6 +3580,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232555.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831993",
@@ -2994,6 +3592,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232575.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831975",
@@ -3004,6 +3604,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232595.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831972",
@@ -3014,6 +3616,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232615.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831977",
@@ -3024,6 +3628,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232635.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025232655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831979",
@@ -3034,6 +3640,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025232655.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_025908295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31167590",
@@ -3044,6 +3652,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_025908295.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_029542565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13684191",
@@ -3054,6 +3664,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_029542565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_949282055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112658473",
@@ -3064,6 +3676,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_949282055.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_949282045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112658472",
@@ -3074,6 +3688,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_949282045.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_949281945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112658474",
@@ -3084,6 +3700,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_949281945.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_949282005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112658475",
@@ -3094,6 +3712,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_949282005.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_949282065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112658476",
@@ -3104,6 +3724,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_949282065.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_949282015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112658477",
@@ -3114,6 +3736,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_949282015.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024727",
@@ -3124,6 +3748,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035245.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024726",
@@ -3134,6 +3760,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035265.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024725",
@@ -3144,6 +3772,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035285.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024724",
@@ -3154,6 +3784,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035305.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024723",
@@ -3164,6 +3796,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035325.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024722",
@@ -3174,6 +3808,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035345.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030035405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35024719",
@@ -3184,6 +3820,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030035405.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014622945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13684156",
@@ -3194,6 +3832,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014622945.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_014622925.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13684357",
@@ -3204,6 +3844,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_014622925.2"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030544545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16744839",
@@ -3214,6 +3856,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030544545.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030544565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16744837",
@@ -3224,6 +3868,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030544565.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030544585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16744836",
@@ -3234,6 +3880,8 @@
   "fasta": "data/groups_info/Campylobacter/GCA_030544585.1"
  },
  {
+  "Campylobacter": null,
+  "date": null,
   "asm_acc": "GCA_030544605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16744835",
@@ -3242,5 +3890,29 @@
   "scientific_name": "Campylobacter fetus subsp. venerealis bv. intermedius",
   "strain": "CFV924",
   "fasta": "data/groups_info/Campylobacter/GCA_030544605.1"
+ },
+ {
+  "Campylobacter": null,
+  "date": null,
+  "asm_acc": "GCA_032594815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29446663",
+  "collection_date": "2009-07/2018-12",
+  "host": "SHEEP",
+  "scientific_name": "Campylobacter fetus subsp. fetus",
+  "strain": "M20-04752-1B",
+  "fasta": "data/groups_info/Campylobacter/GCA_032594815.1"
+ },
+ {
+  "Campylobacter": null,
+  "date": null,
+  "asm_acc": "GCA_032594895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29446662",
+  "collection_date": "2009-07/2018-12",
+  "host": "SHEEP",
+  "scientific_name": "Campylobacter fetus subsp. fetus",
+  "strain": "M20-08756-1A",
+  "fasta": "data/groups_info/Campylobacter/GCA_032594895.1"
  }
 ]

@@ -1,9 +1,11 @@
 [
  {
   "Neisseria_polysaccharea": "PDG000000096.8",
-  "date": "Sat Oct  7 20:55:14 2023"
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Neisseria_polysaccharea": null,
+  "date": null,
   "asm_acc": "GCA_003355195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704642",

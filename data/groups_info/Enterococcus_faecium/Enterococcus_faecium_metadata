@@ -2,30 +2,30 @@
  "group": "Enterococcus_faecium",
  "count": 355,
  "species": {
-  "Enterococcus faecium": 344,
-  "Enterococcus hirae": 11
+  "Enterococcus hirae": 11,
+  "Enterococcus faecium": 344
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterococcus faecium": 343,
   "Enterococcus faecium DO": 1,
-  "Enterococcus hirae": 11
+  "Enterococcus hirae": 11,
+  "Enterococcus faecium": 343
  },
  "strain": {
   "null": 59
  },
  "hosts": {
-  "ENVIRONMENT": 5,
-  "DOG": 1,
-  "FOOD": 1,
   "OREOCHROMIS NILOTICUS": 1,
-  "NOT AVAILABLE": 2,
-  "MOSCHUS BEREZOVSKII": 1,
-  "HOMO SAPIENS": 318,
-  "PIG": 9,
   "APIS MELLIFERA": 1,
+  "ENVIRONMENT": 5,
+  "FOOD": 1,
+  "MOSCHUS BEREZOVSKII": 1,
   "CHICKEN": 1,
   "MUS MUSCULUS": 1,
-  "BOVINE": 14
+  "NOT AVAILABLE": 2,
+  "DOG": 1,
+  "HOMO SAPIENS": 318,
+  "BOVINE": 14,
+  "PIG": 9
  }
 }

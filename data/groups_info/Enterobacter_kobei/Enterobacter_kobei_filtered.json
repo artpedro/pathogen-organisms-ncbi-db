@@ -1,9 +1,11 @@
 [
  {
-  "Enterobacter_kobei": "PDG000000108.49",
-  "date": "Sat Oct  7 20:53:27 2023"
+  "Enterobacter_kobei": "PDG000000108.52",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_001729765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581747",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_001729765.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_003665375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08027255",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_003665375.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_008365235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12648938",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_008365235.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_008931545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289356",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_008931545.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_014041955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15594913",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_014041955.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_022559745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23139065",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_022559745.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_023023125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379554",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_023023125.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_023023705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379548",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_023023705.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_023333675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379547",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_023333675.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_023547315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22612881",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_023547315.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_023558885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28416108",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_023558885.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_027595935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387637",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_027595935.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_031201845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27926465",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Enterobacter_kobei/GCA_031201845.1"
  },
  {
+  "Enterobacter_kobei": null,
+  "date": null,
   "asm_acc": "GCA_032248775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37475543",

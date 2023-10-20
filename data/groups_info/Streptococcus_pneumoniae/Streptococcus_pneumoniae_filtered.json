@@ -1,9 +1,11 @@
 [
  {
-  "Streptococcus_pneumoniae": "PDG000000074.213",
-  "date": "Sat Oct  7 20:57:03 2023"
+  "Streptococcus_pneumoniae": "PDG000000074.221",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_000196595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00002223",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000196595.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_000146975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603428",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000146975.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_000251085.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604071",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000251085.2"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_000299015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02299431",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000299015.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_000348705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02436861",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000348705.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_000722765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02836939",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000722765.2"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001095405.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1463109",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001095405.3"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001281025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03263069",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001281025.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001560895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04461788",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001560895.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001896045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05981365",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001896045.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001896065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06009945",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001896065.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001896085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06009955",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001896085.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001902455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06109026",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001902455.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_001983955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06179980",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001983955.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_002356415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00078884",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002356415.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_002357995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00073590",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002357995.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_002386345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312411",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002386345.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_002813535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08105887",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002813535.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_002813955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06166933",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002813955.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_002947575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08501023",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002947575.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003003495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04093378",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003003495.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900476505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042952",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476505.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900476445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042953",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476445.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900476455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042955",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476455.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900476465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042956",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476465.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900476475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4469815",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476475.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900475515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3649044",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900475515.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900475305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3714884",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900475305.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900475805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956100",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900475805.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003351525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704656",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351525.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003351645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704646",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351645.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003351705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704657",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351705.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003351725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704658",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351725.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003609935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00096762",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003609935.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900636585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3679170",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900636585.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900637025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3936797",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900637025.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003966485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137665",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003966485.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003966505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137664",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003966505.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003966525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137663",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003966525.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003967155.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00110695",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003967155.2"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_003994915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06233407",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003994915.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900618545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092020",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618545.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900618555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092021",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618555.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900618575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092023",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618575.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900618585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092024",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618585.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_004291255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10908922",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_004291255.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900692935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3431333",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900692935.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900693025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3713867",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900693025.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900693055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3714487",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900693055.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900693075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3714520",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900693075.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900795205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104035599",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900795205.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_900622505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092022",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900622505.2"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_007475365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10534501",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_007475365.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_008253725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11338705",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_008253725.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_009664475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191652",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_009664475.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_011694695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14380576",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_011694695.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_013047165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14779717",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_013047165.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_013305725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11382546",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_013305725.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015838875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321470",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015838875.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015839035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321471",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839035.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015839235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321472",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839235.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015839415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321473",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839415.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015839575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321474",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839575.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015839775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321476",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839775.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015839915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321477",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839915.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_015840115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321475",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015840115.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_016549395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17082796",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_016549395.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_016658865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17258151",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_016658865.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_016888845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07428910",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_016888845.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_017569245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17602804",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_017569245.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_018336875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15858987",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_018336875.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_019334565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20209571",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_019334565.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_019915285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982453",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_019915285.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_021497885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13440953",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_021497885.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_021497945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13440952",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_021497945.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_021497965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13440951",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_021497965.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734535",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068225.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734537",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068245.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734517",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068265.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734516",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068285.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734515",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068405.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734514",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068525.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734513",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068645.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734512",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068765.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022068885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734511",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068885.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734533",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069005.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734532",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069085.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734531",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069205.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734530",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069325.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734529",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069445.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734528",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069485.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734527",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069505.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734526",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069545.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734510",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069645.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734525",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069785.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022069905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734523",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069905.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734522",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070005.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734520",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070225.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734518",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070425.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734509",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070465.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734540",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070485.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734536",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070505.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734539",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070545.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022070565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734538",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070565.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022075545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734563",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022075545.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022075645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734565",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022075645.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022075745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734562",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022075745.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647280",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318385.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647361",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318405.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647548",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318425.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647626",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318445.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647706",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318465.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647831",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318485.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647838",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318505.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647902",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318525.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022318545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647378",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318545.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_930986525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4657913",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_930986525.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022558605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783364",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022558605.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_022749195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06040933",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022749195.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_023611505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28592655",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_023611505.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_024089335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24060681",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_024089335.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_024089355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24060680",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_024089355.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_024399415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09081250",
@@ -1234,6 +1480,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_024399415.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_025136435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16580452",
@@ -1244,6 +1492,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_025136435.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_025643295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25149806",
@@ -1254,6 +1504,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_025643295.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_025643315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25149807",
@@ -1264,6 +1516,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_025643315.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_027563115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27647185",
@@ -1274,6 +1528,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027563115.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_027943765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453553",
@@ -1284,6 +1540,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943765.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_027943785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453554",
@@ -1294,6 +1552,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943785.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_027943805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453556",
@@ -1304,6 +1564,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943805.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_027943825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453558",
@@ -1314,6 +1576,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943825.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_027943845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453552",
@@ -1324,6 +1588,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943845.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_030028375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35018717",
@@ -1334,6 +1600,8 @@
   "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_030028375.1"
  },
  {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
   "asm_acc": "GCA_031191225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37162771",

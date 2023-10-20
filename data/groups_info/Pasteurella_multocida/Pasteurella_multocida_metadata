@@ -1,39 +1,39 @@
 {
  "group": "Pasteurella_multocida",
- "count": 123,
+ "count": 125,
  "species": {
-  "Pasteurella multocida": 123
+  "Pasteurella multocida": 125
  },
  "subsp.": {
-  "Pasteurella multocida subsp. septica": 2,
   "Pasteurella multocida subsp. multocida": 5,
-  "Pasteurella multocida subsp. gallicida": 1
+  "Pasteurella multocida subsp. gallicida": 1,
+  "Pasteurella multocida subsp. septica": 2
  },
  "scientific_name": {
-  "Pasteurella multocida subsp. septica": 2,
-  "Pasteurella multocida subsp. multocida str. HB03": 1,
   "Pasteurella multocida subsp. multocida str. 3480": 1,
   "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. multocida": 3,
-  "Pasteurella multocida": 115
+  "Pasteurella multocida subsp. septica": 2,
+  "Pasteurella multocida subsp. multocida str. HB03": 1,
+  "Pasteurella multocida": 117
  },
  "strain": {},
  "hosts": {
   "RABBIT": 17,
-  "ENVIRONMENT": 7,
+  "TURKEY": 4,
   "GOOSE": 2,
-  "ANATIDAE": 1,
-  "ORYCTOLAGUS CUNICULUS": 3,
-  "CAT": 1,
   "MAMORTA HIMALAYANA": 1,
-  "HOMO SAPIENS": 7,
-  "PIG": 5,
-  "CAPRA HIRCUS": 1,
-  "CHICKEN": 30,
-  "SHEEP": 11,
-  "YAK": 2,
+  "ENVIRONMENT": 7,
+  "ANATIDAE": 1,
   "MARMOTA HIMALAYANA": 2,
+  "CAT": 1,
+  "CAPRA HIRCUS": 1,
+  "CHICKEN": 32,
+  "ORYCTOLAGUS CUNICULUS": 3,
+  "HOMO SAPIENS": 7,
+  "SHEEP": 11,
   "BOVINE": 29,
-  "TURKEY": 4
+  "YAK": 2,
+  "PIG": 5
  }
 }

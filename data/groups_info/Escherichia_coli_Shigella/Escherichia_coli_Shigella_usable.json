@@ -1,7 +1,7 @@
 [
  {
-  "Escherichia_coli_Shigella": "PDG000000004.4063",
-  "date": "Sat Oct  7 20:54:23 2023"
+  "Escherichia_coli_Shigella": "PDG000000004.4086",
+  "date": "Thu Oct 19 21:09:55 2023"
  },
  {
   "asm_acc": "GCA_000008865.2",
@@ -20659,12 +20659,12 @@
   "strain": "TW10828"
  },
  {
-  "asm_acc": "GCA_030995285.1",
+  "asm_acc": "GCA_032680885.1",
   "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN32339850",
-  "collection_date": "2019-08-06",
-  "host": "DOG",
-  "scientific_name": "Escherichia coli",
-  "strain": "CUVET19-1637"
+  "biosample_acc": "SAMN37691477",
+  "collection_date": "2014",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Escherichia albertii",
+  "strain": "ESA302"
  }
 ]

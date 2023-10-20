@@ -6,20 +6,20 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Streptococcus suis YB51": 1,
-  "Streptococcus suis 05HAS68": 1,
+  "Streptococcus suis": 103,
   "Streptococcus suis TL13": 1,
-  "Streptococcus suis": 103
+  "Streptococcus suis 05HAS68": 1,
+  "Streptococcus suis YB51": 1
  },
  "strain": {
   "null": 5
  },
  "hosts": {
   "ENVIRONMENT": 27,
-  "HOMO SAPIENS": 27,
   "NOT COLLECTED": 1,
-  "PIG": 45,
+  "HOMO SAPIENS": 27,
   "LAB": 5,
+  "PIG": 45,
   "FELIS CATUS": 1
  }
 }

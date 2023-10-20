@@ -10,8 +10,8 @@
  },
  "strain": {},
  "hosts": {
-  "NOT PROVIDED": 1,
   "HOMO SAPIENS": 5,
-  "LARUS MICHAHELLIS": 1
+  "LARUS MICHAHELLIS": 1,
+  "NOT PROVIDED": 1
  }
 }

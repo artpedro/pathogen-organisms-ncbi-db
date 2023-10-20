@@ -1,9 +1,11 @@
 [
  {
-  "Streptococcus_pyogenes": "PDG000000090.99",
-  "date": "Sat Oct  7 20:57:11 2023"
+  "Streptococcus_pyogenes": "PDG000000090.107",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000250925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603945",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000250925.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000250905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603944",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000250905.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000230295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603353",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000230295.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000275625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02471172",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000275625.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000732425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081524",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000732425.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000756485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02800743",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000756485.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000767505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02644974",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000767505.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000772185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02980885",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000772185.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000772245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02649402",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000772245.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_000993765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716635",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000993765.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001014285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03610013",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001014285.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001014305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03610015",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001014305.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001020185.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733610",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001020185.2"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001021955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02866032",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001021955.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001023495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03418291",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001023495.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001051095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03846812",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001051095.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001559175.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996295",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001559175.2"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001620285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04334485",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001620285.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001635895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03792044",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001635895.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001635935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03775331",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001635935.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001635975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03161558",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001635975.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001638845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04625972",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001638845.2"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_001678885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03418290",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001678885.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002055535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2479569",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002055535.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002163545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04500791",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002163545.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002236855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06435541",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002236855.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002236875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06434935",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002236875.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002238295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06473357",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002238295.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002238315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06554460",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002238315.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002355175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00000355",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002355175.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002557755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07757765",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002557755.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_002844355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07174848",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002844355.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003025365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08793275",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003025365.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003203475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08569881",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003203475.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3539724",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474645.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542433",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474795.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542440",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474815.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542441",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474765.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542442",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474955.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542444",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474825.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542447",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474745.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542449",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474775.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542450",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474835.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572417",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474965.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572419",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474855.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572427",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474885.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572429",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474935.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572431",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474915.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572435",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474925.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594343",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474995.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594345",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474975.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594346",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474845.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594347",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474865.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594349",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475005.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594351",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475135.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594352",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475155.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594357",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475035.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594360",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475105.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597579",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474455.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597580",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474945.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900474895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597589",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474895.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3614262",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475115.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3632058",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475085.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3632069",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475075.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3649042",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475165.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3662931",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475565.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3662934",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475335.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3662939",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475175.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3729940",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475425.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871782",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475615.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871783",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475455.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871791",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475475.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871794",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475495.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3879489",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475525.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3879490",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475705.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3881058",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475645.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923596",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475955.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956097",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475925.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956099",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475785.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4012328",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475765.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017720",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475875.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017721",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900476015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4364215",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900476015.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4557824",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475795.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA53411668",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475465.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA53413168",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475485.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900475865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA53434918",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475865.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003352145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08714459",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003352145.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003609955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00084336",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003609955.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003640605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04230441",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003640605.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003698205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09284928",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003698205.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003812645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163229",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003812645.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003812725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163208",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003812725.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003814365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10416086",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003814365.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_003814385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10416088",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003814385.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900608505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4805863",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900608505.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900636485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3632070",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900636485.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900636725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3729937",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900636725.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004010855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555909",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004010855.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004010875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556030",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004010875.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004028355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08915690",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004028355.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004123995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172638",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004123995.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004124015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172691",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124015.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004124075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172674",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124075.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004124115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172651",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124115.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004124135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172669",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124135.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004135875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10397505",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004135875.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900619585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096233",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619585.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900619595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096234",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619595.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900619605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096235",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619605.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900619615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096236",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619615.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_900619625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096237",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619625.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004153945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555653",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004153945.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004153965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555729",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004153965.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004153985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555548",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004153985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555522",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154005.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563099",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154025.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563018",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154045.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562978",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154065.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562542",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154085.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562482",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154105.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562467",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154125.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562449",
@@ -1234,6 +1480,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154145.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556433",
@@ -1244,6 +1492,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154165.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556272",
@@ -1254,6 +1504,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154185.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556245",
@@ -1264,6 +1516,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154205.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556197",
@@ -1274,6 +1528,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154225.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556190",
@@ -1284,6 +1540,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154245.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556116",
@@ -1294,6 +1552,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154265.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555801",
@@ -1304,6 +1564,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154285.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555796",
@@ -1314,6 +1576,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154305.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562766",
@@ -1324,6 +1588,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154325.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556297",
@@ -1334,6 +1600,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154345.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556024",
@@ -1344,6 +1612,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154365.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555770",
@@ -1354,6 +1624,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154385.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004154405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555766",
@@ -1364,6 +1636,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154405.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_004193935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09867132",
@@ -1374,6 +1648,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004193935.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005160445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793328",
@@ -1384,6 +1660,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160445.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005160565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793327",
@@ -1394,6 +1672,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160565.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005160785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793326",
@@ -1404,6 +1684,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160785.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005160925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793324",
@@ -1414,6 +1696,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160925.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005161125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793323",
@@ -1424,6 +1708,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161125.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005161325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793319",
@@ -1434,6 +1720,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161325.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005161465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793317",
@@ -1444,6 +1732,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161465.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005161605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793316",
@@ -1454,6 +1744,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161605.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005161825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793314",
@@ -1464,6 +1756,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161825.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005161985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793311",
@@ -1474,6 +1768,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005162245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793307",
@@ -1484,6 +1780,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162245.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005162405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793305",
@@ -1494,6 +1792,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162405.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005162565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793306",
@@ -1504,6 +1804,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162565.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005162725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793304",
@@ -1514,6 +1816,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162725.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005162865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793303",
@@ -1524,6 +1828,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162865.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005163085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793302",
@@ -1534,6 +1840,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163085.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005163245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793300",
@@ -1544,6 +1852,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163245.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005163385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793325",
@@ -1554,6 +1864,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163385.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005163565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793322",
@@ -1564,6 +1876,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163565.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005163705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793321",
@@ -1574,6 +1888,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163705.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005163865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793320",
@@ -1584,6 +1900,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163865.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005164025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793318",
@@ -1594,6 +1912,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164025.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005164305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793315",
@@ -1604,6 +1924,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164305.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005164585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793313",
@@ -1614,6 +1936,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164585.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005164705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793312",
@@ -1624,6 +1948,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164705.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005164885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793310",
@@ -1634,6 +1960,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164885.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005165045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793309",
@@ -1644,6 +1972,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005165045.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005165265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793301",
@@ -1654,6 +1984,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005165265.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005165385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793299",
@@ -1664,6 +1996,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005165385.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_005222545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793308",
@@ -1674,6 +2008,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005222545.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_901472475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3222082",
@@ -1684,6 +2020,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_901472475.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_901482645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597581",
@@ -1694,6 +2032,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_901482645.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_006364235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056489",
@@ -1704,6 +2044,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_006364235.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_008694005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056383",
@@ -1714,6 +2056,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_008694005.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_009664495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191653",
@@ -1724,6 +2068,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009664495.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_009738475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11029189",
@@ -1734,6 +2080,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009738475.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_009738495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11032819",
@@ -1744,6 +2092,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009738495.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_009832845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13632409",
@@ -1754,6 +2104,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009832845.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_011290565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260617",
@@ -1764,6 +2116,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_011290565.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_012572265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12657656",
@@ -1774,6 +2128,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_012572265.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_013306985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14547667",
@@ -1784,6 +2140,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_013306985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014191695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238717",
@@ -1794,6 +2152,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014191695.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014191835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238718",
@@ -1804,6 +2164,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014191835.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014192005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238719",
@@ -1814,6 +2176,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014192005.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014192175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238720",
@@ -1824,6 +2188,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014192175.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014218015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12251806",
@@ -1834,6 +2200,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014218015.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014495925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964725",
@@ -1844,6 +2212,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495925.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014495945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964727",
@@ -1854,6 +2224,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495945.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014495965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964728",
@@ -1864,6 +2236,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495965.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_014495985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964726",
@@ -1874,6 +2248,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_016126835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17054563",
@@ -1884,6 +2260,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016126835.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_016549335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17141635",
@@ -1894,6 +2272,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016549335.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_016549355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17141633",
@@ -1904,6 +2284,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016549355.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_016549375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17141634",
@@ -1914,6 +2296,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016549375.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_017638465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18435893",
@@ -1924,6 +2308,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_017638465.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_018140985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14162572",
@@ -1934,6 +2320,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_018140985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235221",
@@ -1944,6 +2332,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342845.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235203",
@@ -1954,6 +2344,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342865.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235194",
@@ -1964,6 +2356,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342885.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234637",
@@ -1974,6 +2368,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342905.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234614",
@@ -1984,6 +2380,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342925.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234602",
@@ -1994,6 +2392,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342945.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234593",
@@ -2004,6 +2404,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342965.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019342985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234553",
@@ -2014,6 +2416,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342985.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019343005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234551",
@@ -2024,6 +2428,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343005.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019343025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234519",
@@ -2034,6 +2440,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343025.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019343045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234475",
@@ -2044,6 +2452,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343045.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019343065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234425",
@@ -2054,6 +2464,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343065.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019343085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234404",
@@ -2064,6 +2476,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343085.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_019448315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235217",
@@ -2074,6 +2488,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019448315.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020826915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824172",
@@ -2084,6 +2500,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826915.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020826935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824171",
@@ -2094,6 +2512,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826935.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020826955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824170",
@@ -2104,6 +2524,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826955.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020826975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824169",
@@ -2114,6 +2536,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826975.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020826995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824167",
@@ -2124,6 +2548,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826995.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824166",
@@ -2134,6 +2560,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827015.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824165",
@@ -2144,6 +2572,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827035.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824164",
@@ -2154,6 +2584,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827055.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824163",
@@ -2164,6 +2596,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827075.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824162",
@@ -2174,6 +2608,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827095.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824161",
@@ -2184,6 +2620,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827115.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_020827135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824160",
@@ -2194,6 +2632,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827135.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_017132795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18034722",
@@ -2204,6 +2644,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_017132795.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_022494495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18523098",
@@ -2214,6 +2656,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_022494495.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_023278205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17127784",
@@ -2224,6 +2668,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_023278205.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_023380045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28104815",
@@ -2234,6 +2680,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_023380045.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_028370195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783177",
@@ -2244,6 +2692,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370195.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_028370215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783176",
@@ -2254,6 +2704,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370215.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_028370235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783175",
@@ -2264,6 +2716,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370235.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_028370255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783174",
@@ -2274,6 +2728,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370255.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_028370275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783173",
@@ -2284,6 +2740,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370275.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_028370295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783172",
@@ -2294,6 +2752,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370295.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_029280505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33693461",
@@ -2304,6 +2764,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029280505.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_029280565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33693473",
@@ -2314,6 +2776,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029280565.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_029280585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33709030",
@@ -2324,6 +2788,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029280585.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_029323775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33707422",
@@ -2334,6 +2800,8 @@
   "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029323775.1"
  },
  {
+  "Streptococcus_pyogenes": null,
+  "date": null,
   "asm_acc": "GCA_029637645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34032715",

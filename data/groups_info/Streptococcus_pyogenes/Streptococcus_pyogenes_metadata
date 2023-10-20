@@ -6,20 +6,20 @@
  },
  "subsp.": {},
  "scientific_name": {
-  "Streptococcus pyogenes Alab49": 1,
-  "Streptococcus pyogenes MGAS15252": 1,
-  "Streptococcus pyogenes STAB902": 1,
-  "Streptococcus pyogenes MGAS1882": 1,
-  "Streptococcus pyogenes JRS4": 1,
   "Streptococcus pyogenes": 228,
-  "Streptococcus pyogenes HKU QMH11M0907901": 1
+  "Streptococcus pyogenes MGAS1882": 1,
+  "Streptococcus pyogenes Alab49": 1,
+  "Streptococcus pyogenes JRS4": 1,
+  "Streptococcus pyogenes MGAS15252": 1,
+  "Streptococcus pyogenes HKU QMH11M0907901": 1,
+  "Streptococcus pyogenes STAB902": 1
  },
  "strain": {
   "5448": 2
  },
  "hosts": {
+  "HOMO SAPIENS": 203,
   "NOT AVAILABLE": 30,
-  "NIST MIXED MICROBIAL RM STRAIN": 1,
-  "HOMO SAPIENS": 203
+  "NIST MIXED MICROBIAL RM STRAIN": 1
  }
 }

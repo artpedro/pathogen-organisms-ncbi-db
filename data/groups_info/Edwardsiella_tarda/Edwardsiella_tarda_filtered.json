@@ -1,9 +1,11 @@
 [
  {
   "Edwardsiella_tarda": "PDG000000081.13",
-  "date": "Sat Oct  7 20:53:15 2023"
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_001011055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03579666",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Edwardsiella_tarda/GCA_001011055.2"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_002504285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07695532",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Edwardsiella_tarda/GCA_002504285.1"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_003113435.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939836",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113435.3"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_003113455.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939843",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113455.3"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_003113475.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939844",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113475.3"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_003113495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08942787",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Edwardsiella_tarda/GCA_003113495.2"
  },
  {
+  "Edwardsiella_tarda": null,
+  "date": null,
   "asm_acc": "GCA_003074875.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939826",

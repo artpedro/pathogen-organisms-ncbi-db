@@ -1,9 +1,11 @@
 [
  {
-  "Enterococcus_faecium": "PDG000000071.451",
-  "date": "Sat Oct  7 20:53:39 2023"
+  "Enterococcus_faecium": "PDG000000071.454",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_000174395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00002237",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_000174395.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001298485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04009964",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001298485.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001518735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04418075",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001518735.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001587115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03339922",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001587115.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001750885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04045274",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001750885.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001886635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06019998",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001886635.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001895905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06018903",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001895905.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001953235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988631",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001953235.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001953255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988627",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001953255.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002007625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06186500",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002007625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002024245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06463381",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002024245.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002025045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06472830",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002025045.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002025065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06472829",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002025065.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_900092475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4067785",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_900092475.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001720945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988632",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001720945.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001721065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988624",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001721065.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_001721905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988630",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_001721905.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002278015.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875571",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002278015.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002334625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07638053",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002334625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002442955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06006823",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002442955.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002761255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933399",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002761255.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002761275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933400",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002761275.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002777275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933398",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002777275.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002831505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08102921",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002831505.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679728",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679729",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848645.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679731",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848665.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679730",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848685.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679734",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848705.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679733",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848725.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002848745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679732",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002848745.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002850515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07211315",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002850515.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002973755.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08093650",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002973755.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_002983785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173336",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_002983785.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003020685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628413",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003020685.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003020705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628411",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003020705.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003020725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628410",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003020725.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003020745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628409",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003020745.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003020765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628412",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003020765.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003071425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06621458",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003071425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003071445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06621457",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003071445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_003957785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10273305",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_003957785.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_900636615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3679192",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_900636615.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_900637035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4557825",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_900637035.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_900683475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3614259",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_900683475.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_004332055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08689723",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_004332055.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005166365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10697318",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005166365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005517315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11490474",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005517315.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005576735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11633508",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005576735.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005886545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10863479",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005886545.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005886655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10863491",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005886655.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005886715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10863492",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005886715.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_005952885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11848047",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_005952885.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_006007925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11890391",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_006007925.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_006280355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11942429",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_006280355.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_006337045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11952093",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_006337045.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_006337145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11960005",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_006337145.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_006351785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11974796",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_006351785.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_006575625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12141647",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_006575625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_007917035.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12138936",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_007917035.3"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_007917315.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12138986",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_007917315.3"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_008000855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12530214",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_008000855.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_008728455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12818007",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_008728455.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_008728475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12818041",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_008728475.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_009036045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12828129",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_009036045.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_009697285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13283502",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_009697285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_009734005.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10867607",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_009734005.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_009938075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11269520",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_009938075.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_009938285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00202474",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_009938285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_010120755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10867605",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_010120755.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_011745645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12688234",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_011745645.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012932975.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675398",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012932975.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012932985.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675394",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012932985.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675393",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933055.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933075.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675395",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933075.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933165.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675388",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933165.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933195.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675386",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933195.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675385",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933245.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675384",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933265.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933285.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675381",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933285.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933295.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675383",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933295.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_012933345.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675380",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_012933345.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_013201055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14969421",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_013201055.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_013391145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15223909",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_013391145.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_013391165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15223908",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_013391165.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_013391185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15223907",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_013391185.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_013391205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15223906",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_013391205.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_014218175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12405821",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_014218175.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_014490015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15643623",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_014490015.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_014874615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287686",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_014874615.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_015325925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566652",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_015325925.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_015476295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566645",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_015476295.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_015999405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566671",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_015999405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_015999425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566664",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_015999425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_015999605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17012772",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_015999605.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016126675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038066",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016126675.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038086",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406345.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038078",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038079",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406385.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038081",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038084",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038071",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038075",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406465.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038069",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406485.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038085",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406505.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038083",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406525.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038077",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406545.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038080",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406565.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038089",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406585.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016406605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038088",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016406605.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038090",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415025.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038093",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415105.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038091",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038094",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415325.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038095",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415345.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038100",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038098",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415385.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038103",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038104",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038102",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038101",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415465.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038111",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415485.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038106",
@@ -1234,6 +1480,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415505.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038105",
@@ -1244,6 +1492,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415545.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016415565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038107",
@@ -1254,6 +1504,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016415565.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_016864255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12930511",
@@ -1264,6 +1516,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_016864255.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017584065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566637",
@@ -1274,6 +1528,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017584065.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017603725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18353823",
@@ -1284,6 +1540,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017603725.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017815655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533867",
@@ -1294,6 +1552,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017815655.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017815675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533866",
@@ -1304,6 +1564,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017815675.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017815695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533868",
@@ -1314,6 +1576,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017815695.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017897965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533763",
@@ -1324,6 +1588,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017897965.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017898005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533757",
@@ -1334,6 +1600,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017898005.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_017898025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533778",
@@ -1344,6 +1612,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_017898025.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018219285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16327791",
@@ -1354,6 +1624,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018219285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018219325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16327730",
@@ -1364,6 +1636,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018219325.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_907165365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659956",
@@ -1374,6 +1648,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_907165365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_907176135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659929",
@@ -1384,6 +1660,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_907176135.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_907176815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659991",
@@ -1394,6 +1672,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_907176815.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_907177285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659977",
@@ -1404,6 +1684,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_907177285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018516845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988100",
@@ -1414,6 +1696,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018516845.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018516925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988099",
@@ -1424,6 +1708,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018516925.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018517045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988094",
@@ -1434,6 +1720,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018517045.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018517065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988093",
@@ -1444,6 +1732,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018517065.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018517085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988092",
@@ -1454,6 +1744,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018517085.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018517105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988091",
@@ -1464,6 +1756,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018517105.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_018517185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988095",
@@ -1474,6 +1768,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_018517185.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_019356355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20255402",
@@ -1484,6 +1780,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_019356355.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_907163255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520472",
@@ -1494,6 +1792,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_907163255.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_907163315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520473",
@@ -1504,6 +1804,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_907163315.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_019977495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00324535",
@@ -1514,6 +1816,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_019977495.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_019977575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00324536",
@@ -1524,6 +1828,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_019977575.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_020091325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21438094",
@@ -1534,6 +1840,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_020091325.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_020162155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5367970",
@@ -1544,6 +1852,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_020162155.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_020162175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5367917",
@@ -1554,6 +1864,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_020162175.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_020221735.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21850488",
@@ -1564,6 +1876,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_020221735.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_020736585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22627481",
@@ -1574,6 +1888,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_020736585.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_020736625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22627489",
@@ -1584,6 +1900,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_020736625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_021172105.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23500290",
@@ -1594,6 +1912,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_021172105.3"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_021228615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23828484",
@@ -1604,6 +1924,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_021228615.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_021398505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21240068",
@@ -1614,6 +1936,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_021398505.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_021560195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25039860",
@@ -1624,6 +1948,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_021560195.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_021713095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25134383",
@@ -1634,6 +1960,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_021713095.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_021899455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25260013",
@@ -1644,6 +1972,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_021899455.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022647825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573784",
@@ -1654,6 +1984,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022647825.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022647945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573783",
@@ -1664,6 +1996,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022647945.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022648125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573782",
@@ -1674,6 +2008,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022648125.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022691445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26026626",
@@ -1684,6 +2020,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022691445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022699225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754680",
@@ -1694,6 +2032,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022699225.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022699545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754766",
@@ -1704,6 +2044,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022699545.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022699565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754719",
@@ -1714,6 +2056,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022699565.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022749455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26755017",
@@ -1724,6 +2068,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022749455.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16442613",
@@ -1734,6 +2080,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811085.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483167",
@@ -1744,6 +2092,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811125.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483166",
@@ -1754,6 +2104,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811145.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483165",
@@ -1764,6 +2116,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811165.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483164",
@@ -1774,6 +2128,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811185.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483163",
@@ -1784,6 +2140,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811205.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483162",
@@ -1794,6 +2152,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811225.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483161",
@@ -1804,6 +2164,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811245.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483160",
@@ -1814,6 +2176,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811265.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483159",
@@ -1824,6 +2188,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483158",
@@ -1834,6 +2200,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811305.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483157",
@@ -1844,6 +2212,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811325.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483156",
@@ -1854,6 +2224,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811345.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483155",
@@ -1864,6 +2236,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483154",
@@ -1874,6 +2248,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811385.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483153",
@@ -1884,6 +2260,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483152",
@@ -1894,6 +2272,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483151",
@@ -1904,6 +2284,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_022811465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483150",
@@ -1914,6 +2296,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_022811465.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023204955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27725314",
@@ -1924,6 +2308,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023204955.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023204975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27728132",
@@ -1934,6 +2320,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023204975.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424489",
@@ -1944,6 +2332,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375205.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424486",
@@ -1954,6 +2344,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375225.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424744",
@@ -1964,6 +2356,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375345.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424743",
@@ -1974,6 +2368,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424742",
@@ -1984,6 +2380,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375385.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424741",
@@ -1994,6 +2392,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424740",
@@ -2004,6 +2404,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424739",
@@ -2014,6 +2416,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023373765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26687403",
@@ -2024,6 +2428,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023373765.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424493",
@@ -2034,6 +2440,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375155.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424492",
@@ -2044,6 +2452,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375175.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023375305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424747",
@@ -2054,6 +2464,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023375305.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023658035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15486631",
@@ -2064,6 +2476,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023658035.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_024665675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29862207",
@@ -2074,6 +2488,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_024665675.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_025800545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31247869",
@@ -2084,6 +2500,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_025800545.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_025800625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31247870",
@@ -2094,6 +2512,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_025800625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_025800645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31247871",
@@ -2104,6 +2524,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_025800645.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466802",
@@ -2114,6 +2536,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073115.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466807",
@@ -2124,6 +2548,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073415.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466808",
@@ -2134,6 +2560,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073435.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466809",
@@ -2144,6 +2572,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073455.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466815",
@@ -2154,6 +2584,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466816",
@@ -2164,6 +2596,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073735.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026073915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466817",
@@ -2174,6 +2608,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026073915.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023182815.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27545022",
@@ -2184,6 +2620,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023182815.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_023182835.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27545023",
@@ -2194,6 +2632,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_023182835.2"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_026409165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31742645",
@@ -2204,6 +2644,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_026409165.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_027286245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32302292",
@@ -2214,6 +2656,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_027286245.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424535",
@@ -2224,6 +2668,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335205.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424529",
@@ -2234,6 +2680,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335225.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424534",
@@ -2244,6 +2692,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335245.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424533",
@@ -2254,6 +2704,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335265.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424532",
@@ -2264,6 +2716,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335465.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424531",
@@ -2274,6 +2728,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335485.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424528",
@@ -2284,6 +2740,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335525.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424527",
@@ -2294,6 +2752,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335565.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424526",
@@ -2304,6 +2764,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335585.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424525",
@@ -2314,6 +2776,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335605.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_028335625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424524",
@@ -2324,6 +2788,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_028335625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030064735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31265469",
@@ -2334,6 +2800,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030064735.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030316155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35725530",
@@ -2344,6 +2812,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030316155.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030406065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35654454",
@@ -2354,6 +2824,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030406065.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030581675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718359",
@@ -2364,6 +2836,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030581675.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030581775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718851",
@@ -2374,6 +2848,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030581775.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030581795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718850",
@@ -2384,6 +2860,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030581795.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707033",
@@ -2394,6 +2872,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584205.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706935",
@@ -2404,6 +2884,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584225.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707092",
@@ -2414,6 +2896,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584245.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707139",
@@ -2424,6 +2908,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584265.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707497",
@@ -2434,6 +2920,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707202",
@@ -2444,6 +2932,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584305.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707533",
@@ -2454,6 +2944,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584325.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707500",
@@ -2464,6 +2956,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584345.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707534",
@@ -2474,6 +2968,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707548",
@@ -2484,6 +2980,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584385.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707724",
@@ -2494,6 +2992,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707778",
@@ -2504,6 +3004,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584425.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707781",
@@ -2514,6 +3016,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584445.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707726",
@@ -2524,6 +3028,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584465.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707779",
@@ -2534,6 +3040,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584485.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707727",
@@ -2544,6 +3052,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584505.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707789",
@@ -2554,6 +3064,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584525.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707535",
@@ -2564,6 +3076,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584545.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36717994",
@@ -2574,6 +3088,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584585.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718889",
@@ -2584,6 +3100,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584605.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706633",
@@ -2594,6 +3112,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584625.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706933",
@@ -2604,6 +3124,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584645.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706555",
@@ -2614,6 +3136,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584665.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030584685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707809",
@@ -2624,6 +3148,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030584685.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030643745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12282898",
@@ -2634,6 +3160,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030643745.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030644745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36717978",
@@ -2644,6 +3172,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030644745.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030644765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718214",
@@ -2654,6 +3184,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030644765.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030644785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718008",
@@ -2664,6 +3196,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030644785.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030644805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718216",
@@ -2674,6 +3208,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030644805.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030644825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718321",
@@ -2684,6 +3220,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030644825.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719344",
@@ -2694,6 +3232,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656695.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719123",
@@ -2704,6 +3244,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656715.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718962",
@@ -2714,6 +3256,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656735.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719180",
@@ -2724,6 +3268,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656755.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719124",
@@ -2734,6 +3280,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656775.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719288",
@@ -2744,6 +3292,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656795.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719126",
@@ -2754,6 +3304,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656815.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719128",
@@ -2764,6 +3316,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656835.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719299",
@@ -2774,6 +3328,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656855.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719345",
@@ -2784,6 +3340,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656895.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719477",
@@ -2794,6 +3352,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656915.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719463",
@@ -2804,6 +3364,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656935.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719475",
@@ -2814,6 +3376,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656955.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719331",
@@ -2824,6 +3388,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656975.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030656995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719324",
@@ -2834,6 +3400,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030656995.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719392",
@@ -2844,6 +3412,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657015.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719343",
@@ -2854,6 +3424,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657035.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734991",
@@ -2864,6 +3436,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657055.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735063",
@@ -2874,6 +3448,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657075.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735064",
@@ -2884,6 +3460,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657095.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735231",
@@ -2894,6 +3472,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657115.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735165",
@@ -2904,6 +3484,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657135.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736016",
@@ -2914,6 +3496,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657155.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719514",
@@ -2924,6 +3508,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657175.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719515",
@@ -2934,6 +3520,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657195.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719516",
@@ -2944,6 +3532,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657215.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719542",
@@ -2954,6 +3544,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657235.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733584",
@@ -2964,6 +3556,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657255.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733603",
@@ -2974,6 +3568,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657275.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733911",
@@ -2984,6 +3580,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657295.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030657315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733916",
@@ -2994,6 +3592,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030657315.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734007",
@@ -3004,6 +3604,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664785.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733917",
@@ -3014,6 +3616,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664805.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734045",
@@ -3024,6 +3628,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664825.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734084",
@@ -3034,6 +3640,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664845.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734958",
@@ -3044,6 +3652,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664865.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734979",
@@ -3054,6 +3664,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664885.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734992",
@@ -3064,6 +3676,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664905.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734957",
@@ -3074,6 +3688,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664925.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734955",
@@ -3084,6 +3700,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664945.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734981",
@@ -3094,6 +3712,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664965.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030664985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734980",
@@ -3104,6 +3724,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030664985.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734083",
@@ -3114,6 +3736,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665005.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734085",
@@ -3124,6 +3748,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665025.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734607",
@@ -3134,6 +3760,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665045.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734082",
@@ -3144,6 +3772,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665065.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735062",
@@ -3154,6 +3784,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665085.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735061",
@@ -3164,6 +3796,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665105.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735493",
@@ -3174,6 +3808,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665125.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735490",
@@ -3184,6 +3820,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665145.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735492",
@@ -3194,6 +3832,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665165.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735668",
@@ -3204,6 +3844,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665185.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735720",
@@ -3214,6 +3856,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665205.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735736",
@@ -3224,6 +3868,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665225.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735723",
@@ -3234,6 +3880,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665245.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735739",
@@ -3244,6 +3892,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665265.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735770",
@@ -3254,6 +3904,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665285.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736014",
@@ -3264,6 +3916,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665305.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735722",
@@ -3274,6 +3928,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665325.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736015",
@@ -3284,6 +3940,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665345.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736061",
@@ -3294,6 +3952,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665365.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736157",
@@ -3304,6 +3964,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665385.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030665405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736064",
@@ -3314,6 +3976,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030665405.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759114",
@@ -3324,6 +3988,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685595.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719504",
@@ -3334,6 +4000,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685655.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759130",
@@ -3344,6 +4012,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685675.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759137",
@@ -3354,6 +4024,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685695.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759202",
@@ -3364,6 +4036,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685715.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759180",
@@ -3374,6 +4048,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685735.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760078",
@@ -3384,6 +4060,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685755.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760079",
@@ -3394,6 +4072,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685775.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760034",
@@ -3404,6 +4084,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685795.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759472",
@@ -3414,6 +4096,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685815.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760037",
@@ -3424,6 +4108,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685835.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760080",
@@ -3434,6 +4120,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685855.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759106",
@@ -3444,6 +4132,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685875.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759107",
@@ -3454,6 +4144,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685895.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759127",
@@ -3464,6 +4156,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685915.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759128",
@@ -3474,6 +4168,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685935.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759157",
@@ -3484,6 +4180,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685955.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759156",
@@ -3494,6 +4192,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685975.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030685995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759117",
@@ -3504,6 +4204,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030685995.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030686015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759150",
@@ -3514,6 +4216,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030686015.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030686035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759155",
@@ -3524,6 +4228,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030686035.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030686055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759179",
@@ -3534,6 +4240,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030686055.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030686075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760081",
@@ -3544,6 +4252,8 @@
   "fasta": "data/groups_info/Enterococcus_faecium/GCA_030686075.1"
  },
  {
+  "Enterococcus_faecium": null,
+  "date": null,
   "asm_acc": "GCA_030686095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760082",

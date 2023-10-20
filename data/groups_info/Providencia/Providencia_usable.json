@@ -1,7 +1,7 @@
 [
  {
-  "Providencia": "PDG000000021.589",
-  "date": "Sat Oct  7 20:55:23 2023"
+  "Providencia": "PDG000000021.595",
+  "date": "Thu Oct 19 21:10:40 2023"
  },
  {
   "asm_acc": "GCA_000259175.1",
@@ -965,5 +965,14 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Proteus mirabilis",
   "strain": "2022CK-00288"
+ },
+ {
+  "asm_acc": "GCA_032761195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37729294",
+  "collection_date": "2017-01-03",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Proteus mirabilis",
+  "strain": "PM1"
  }
 ]

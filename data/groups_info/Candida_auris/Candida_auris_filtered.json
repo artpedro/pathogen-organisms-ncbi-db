@@ -1,9 +1,11 @@
 [
  {
-  "Candida_auris": "PDG000000067.146",
-  "date": "Sat Oct  7 20:52:55 2023"
+  "Candida_auris": "PDG000000067.148",
+  "date": "Thu Oct 19 21:32:30 2023"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_008275145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05379621",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_008275145.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_003013715.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05379608",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_003013715.2"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_014217455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12083544",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_014217455.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_014673535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15723399",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_014673535.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016495645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10139530",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016495645.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016495665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13294127",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016495665.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016495685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13354598",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016495685.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016772135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05379594",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016772135.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016772175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15834475",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016772175.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016772195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10141991",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016772195.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016772215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13294188",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016772215.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016772235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13294125",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016772235.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_016809505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11570381",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_016809505.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589312",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039235.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589304",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039275.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589303",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039295.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589311",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039315.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589310",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039335.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589309",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039355.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589302",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039375.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589298",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039395.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589308",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039415.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589305",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039435.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589307",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039455.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589296",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039475.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589306",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039495.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589297",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039515.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589300",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039535.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589301",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039555.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589294",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039575.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589284",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039595.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589293",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039615.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589291",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039635.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589299",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039655.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589295",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039675.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589292",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039695.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589289",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039715.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589287",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039735.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589288",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039755.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019039775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589285",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019039775.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_019332045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589290",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_019332045.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_031357565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35371556",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_031357565.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_031357835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35371586",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Candida_auris/GCA_031357835.1"
  },
  {
+  "Candida_auris": null,
+  "date": null,
   "asm_acc": "GCA_031359945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35359859",
@@ -442,5 +530,29 @@
   "scientific_name": "[Candida] auris",
   "strain": "B11103",
   "fasta": "data/groups_info/Candida_auris/GCA_031359945.1"
+ },
+ {
+  "Candida_auris": null,
+  "date": null,
+  "asm_acc": "GCA_032714025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36753179",
+  "collection_date": "2022-07-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "F1580",
+  "fasta": "data/groups_info/Candida_auris/GCA_032714025.1"
+ },
+ {
+  "Candida_auris": null,
+  "date": null,
+  "asm_acc": "GCA_032715285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36753178",
+  "collection_date": "2023-04-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "F3485",
+  "fasta": "data/groups_info/Candida_auris/GCA_032715285.1"
  }
 ]

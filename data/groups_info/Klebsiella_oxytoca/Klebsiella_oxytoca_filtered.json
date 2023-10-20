@@ -1,9 +1,11 @@
 [
  {
-  "Klebsiella_oxytoca": "PDG000000030.657",
-  "date": "Sat Oct  7 20:54:45 2023"
+  "Klebsiella_oxytoca": "PDG000000030.666",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_000276705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603642",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_000276705.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_000632415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081460",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_000632415.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_000783935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934513",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_000783935.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_001022115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733750",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_001022115.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_001022295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733663",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_001022295.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_001870185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733631",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_001870185.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_002214825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909736",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_002214825.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_002216835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07315162",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_002216835.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_002290285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07551913",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_002290285.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_002984395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173348",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_002984395.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_003812925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163176",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_003812925.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_900635105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3251432",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_900635105.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_900636985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923594",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_900636985.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_900635915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3251450",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_900635915.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_008694045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12780943",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_008694045.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_008931605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289379",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_008931605.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_009930855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07411959",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_009930855.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_010093005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13911826",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_010093005.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_011149255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14258453",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_011149255.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_013425975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15425329",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_013425975.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_013457615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13520756",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_013457615.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_013457875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13520757",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_013457875.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_013462275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11603266",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_013462275.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_014050515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12648330",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_014050515.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_014217275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15755083",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_014217275.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_015139575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00196009",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_015139575.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_904863345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3357409",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_904863345.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_015571975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16304043",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_015571975.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_015999385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16931445",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_015999385.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_016618215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16233476",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_016618215.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_016903415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357476",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_016903415.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_016903715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357474",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_016903715.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_016903975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357475",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_016903975.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_016904515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357473",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_016904515.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_016918825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357478",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_016918825.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_017310465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16561276",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_017310465.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_017348855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18138829",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_017348855.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_017639895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18395722",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_017639895.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_017815775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14585699",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_017815775.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_017968865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18675296",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_017968865.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_018604105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19186367",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_018604105.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_018966505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19652012",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_018966505.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_019803065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20153793",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_019803065.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905232115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7962775",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905232115.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905322525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065686",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905322525.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905329555.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065822",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905329555.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905330835.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065780",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905330835.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905330865.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065781",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905330865.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905333885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158457",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905333885.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_905338025.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158514",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_905338025.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021228695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23286118",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021228695.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021228755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23286126",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021228755.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021228855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23799016",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021228855.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021228995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23798052",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021228995.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021391575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24290086",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021391575.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021398915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24372405",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021398915.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_021496525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15079954",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_021496525.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_022163245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25236446",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_022163245.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_022343245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21892164",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_022343245.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_022343265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21906695",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_022343265.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_022569835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26455295",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_022569835.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_022605305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26549876",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_022605305.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_022869885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163261",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_022869885.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_023093835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26455257",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_023093835.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_024225115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29499319",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_024225115.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_024917295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174081",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_024917295.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_026967695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152638",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_026967695.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_025676565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31261055",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_025676565.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_025579125.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152639",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_025579125.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_027577885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152637",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_027577885.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_027595545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387624",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_027595545.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_027627785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28911479",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_027627785.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_027921545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765424",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_027921545.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_027945215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32737190",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_027945215.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_028736015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907150",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_028736015.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_029027885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28515549",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_029027885.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_029635815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32289991",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_029635815.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_030253455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33658283",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_030253455.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_030343625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35742518",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_030343625.2"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_030389145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35711604",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Klebsiella_oxytoca/GCA_030389145.1"
  },
  {
+  "Klebsiella_oxytoca": null,
+  "date": null,
   "asm_acc": "GCA_030717685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36757208",

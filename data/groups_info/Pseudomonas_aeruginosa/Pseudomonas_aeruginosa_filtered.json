@@ -1,9 +1,11 @@
 [
  {
-  "Pseudomonas_aeruginosa": "PDG000000036.956",
-  "date": "Sat Oct  7 20:55:31 2023"
+  "Pseudomonas_aeruginosa": "PDG000000036.966",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000359505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603669",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000359505.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000496455.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02383553",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000496455.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000510305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02415141",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000510305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000763245.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02947975",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000763245.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000816985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02673269",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000816985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000829255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00019082",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000829255.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000829275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00018700",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000829275.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_000829885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02732380",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_000829885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001077475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03852256",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001077475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001447845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04284690",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001447845.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001482325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04351367",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001482325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001515845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894350",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001515845.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001515915.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894349",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001515915.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894348",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894347",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516165.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894346",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516165.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516185.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894345",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516185.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894344",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516205.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516225.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894343",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516225.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894358",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516245.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894357",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516305.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894355",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516305.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894354",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516325.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894353",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894352",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516365.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001516385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894351",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001516385.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001518975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04158502",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001518975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001542795.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894342",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001542795.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001542835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894359",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001542835.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001547955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00020552",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001547955.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001548135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00027370",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001548135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001548335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00042491",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001548335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001594325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894356",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001594325.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001618925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04589231",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001618925.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001679685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05006707",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001679685.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001687285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03774891",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001687285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001721745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04910034",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001721745.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001721765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04910045",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001721765.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001721785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04910066",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001721785.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001721805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04914381",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001721805.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001721825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04914475",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001721825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001721845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04914479",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001721845.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001722025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04910061",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001722025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001722045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04914386",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001722045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001792835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04455104",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001792835.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001792855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04455156",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001792855.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001792875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04455162",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001792875.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001870265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04455155",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001870265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001900265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03940420",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001900265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_001632245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04893615",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_001632245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002075065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04452263",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002075065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002085605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05583819",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002085605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002085755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06349407",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002085755.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002104595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06689795",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002104595.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002104615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06689794",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002104615.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900069025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3484633",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900069025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002192475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05020323",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002192475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002192495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05020321",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002192495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900185255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104083446",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900185255.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002205335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05020322",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002205335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002205355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05020324",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002205355.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002205375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05020326",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002205375.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002208645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05020325",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002208645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002215345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05773092",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002215345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002411865.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07692776",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002411865.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002442855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04452273",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002442855.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002753655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07831757",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002753655.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002812825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08101547",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002812825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002812845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08101546",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002812845.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002812865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08101545",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002812865.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002812885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08101544",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002812885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002812905.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08101543",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002812905.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002812925.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08101542",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002812925.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_002946935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02887043",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_002946935.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003028335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08776459",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003028335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003052005.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08866462",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003052005.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003194245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07602569",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003194245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003206535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08954392",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003206535.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003319235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08102919",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003319235.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003332705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08435059",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003332705.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003369735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09469733",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003369735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003369755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09469732",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003369755.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003369775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09469677",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003369775.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003408495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09469727",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003408495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003411785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09831360",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003411785.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003429185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09831327",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003429185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003429205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09831332",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003429205.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003433235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07958398",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003433235.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003626935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10135988",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003626935.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003641125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163255",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003641125.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003716765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10187562",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003716765.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003798105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10374626",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003798105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003798125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10374624",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003798125.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003798145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10374625",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003798145.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003812165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163227",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003812165.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003812885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163195",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003812885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003812905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163177",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003812905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003813005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163199",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003813005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003813025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163194",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003813025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916038",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916049",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618255.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916061",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916059",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618275.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916069",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916108",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618315.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916107",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916113",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900618335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4916123",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900618335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003950015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10503341",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003950015.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003950255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10526368",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003950255.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003952325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10579150",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003952325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003957825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10449072",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003957825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900636735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3856675",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900636735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900636755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3856677",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900636755.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900636975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923580",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900636975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_900637045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4007823",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_900637045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_003991465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10525987",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_003991465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_004010895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07256503",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_004010895.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_004193735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10880118",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_004193735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_004291075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09407355",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_004291075.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_004355125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11087507",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_004355125.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_004355145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11087508",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_004355145.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_005305005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11388516",
@@ -1234,6 +1480,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_005305005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_006364735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056482",
@@ -1244,6 +1492,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_006364735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_006364795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10346774",
@@ -1254,6 +1504,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_006364795.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_006704595.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12162657",
@@ -1264,6 +1516,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_006704595.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_007559065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12306201",
@@ -1274,6 +1528,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_007559065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_007559085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12305659",
@@ -1284,6 +1540,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_007559085.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_007559105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12306195",
@@ -1294,6 +1552,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_007559105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_007559125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12306121",
@@ -1304,6 +1564,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_007559125.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_902172305.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1695737",
@@ -1314,6 +1576,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_902172305.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_007833895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11836198",
@@ -1324,6 +1588,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_007833895.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_008195485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12634799",
@@ -1334,6 +1600,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_008195485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_008245185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12368444",
@@ -1344,6 +1612,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_008245185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_008705235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12561707",
@@ -1354,6 +1624,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_008705235.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009497675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07709120",
@@ -1364,6 +1636,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009497675.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009662315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13182580",
@@ -1374,6 +1648,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009662315.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009664165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12307670",
@@ -1384,6 +1660,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009664165.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009676765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13267614",
@@ -1394,6 +1672,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009676765.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009676785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13267615",
@@ -1404,6 +1684,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009676785.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009720405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07424174",
@@ -1414,6 +1696,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009720405.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009720425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07424172",
@@ -1424,6 +1708,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009720425.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009867055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08730588",
@@ -1434,6 +1720,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009867055.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_009905195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13611833",
@@ -1444,6 +1732,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_009905195.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_902703185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6246860",
@@ -1454,6 +1744,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_902703185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_902703195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6246861",
@@ -1464,6 +1756,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_902703195.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_902703215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6246859",
@@ -1474,6 +1768,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_902703215.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_011045375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14129756",
@@ -1484,6 +1780,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_011045375.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_011106815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12911489",
@@ -1494,6 +1792,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_011106815.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_011466835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13226654",
@@ -1504,6 +1804,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_011466835.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_012276675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13451386",
@@ -1514,6 +1816,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_012276675.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013201095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14970707",
@@ -1524,6 +1828,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013201095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013201115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14970706",
@@ -1534,6 +1840,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013201115.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013255565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14986373",
@@ -1544,6 +1852,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013255565.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013260445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15013515",
@@ -1554,6 +1864,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013260445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013305645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13107356",
@@ -1564,6 +1876,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013305645.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013341295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10697223",
@@ -1574,6 +1888,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013341295.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013341315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10697224",
@@ -1584,6 +1900,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013341315.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271780",
@@ -1594,6 +1912,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343315.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271777",
@@ -1604,6 +1924,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271775",
@@ -1614,6 +1936,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343355.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271773",
@@ -1624,6 +1948,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343375.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271772",
@@ -1634,6 +1960,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343395.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271770",
@@ -1644,6 +1972,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343415.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271769",
@@ -1654,6 +1984,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343435.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271767",
@@ -1664,6 +1996,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343455.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271766",
@@ -1674,6 +2008,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271764",
@@ -1684,6 +2020,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271763",
@@ -1694,6 +2032,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343515.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271762",
@@ -1704,6 +2044,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343535.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271760",
@@ -1714,6 +2056,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343555.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013343575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14271758",
@@ -1724,6 +2068,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013343575.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013347245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15084586",
@@ -1734,6 +2080,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013347245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013376775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15336737",
@@ -1744,6 +2092,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013376775.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013393665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13419003",
@@ -1754,6 +2104,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013393665.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013393685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13419538",
@@ -1764,6 +2116,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013393685.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013393705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13419547",
@@ -1774,6 +2128,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013393705.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013394455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13419548",
@@ -1784,6 +2140,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013394455.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013394475.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13419657",
@@ -1794,6 +2152,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013394475.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013395035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15347006",
@@ -1804,6 +2164,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013395035.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013467585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15347007",
@@ -1814,6 +2176,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013467585.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_013467605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15346999",
@@ -1824,6 +2188,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_013467605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_014155905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15732853",
@@ -1834,6 +2200,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_014155905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_014217315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15755534",
@@ -1844,6 +2212,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_014217315.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_014467035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15860813",
@@ -1854,6 +2224,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_014467035.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_014490645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10290269",
@@ -1864,6 +2236,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_014490645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_904866275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3357502",
@@ -1874,6 +2248,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_904866275.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_905071885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3357500",
@@ -1884,6 +2260,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_905071885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_015697465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783930",
@@ -1894,6 +2272,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_015697465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_015697605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783929",
@@ -1904,6 +2284,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_015697605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_015697645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783928",
@@ -1914,6 +2296,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_015697645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_015697665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783927",
@@ -1924,6 +2308,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_015697665.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_015832055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16965915",
@@ -1934,6 +2320,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_015832055.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_015832075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16965916",
@@ -1944,6 +2332,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_015832075.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_014930935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16393143",
@@ -1954,6 +2344,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_014930935.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016064595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15950776",
@@ -1964,6 +2356,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016064595.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016134915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15166411",
@@ -1974,6 +2368,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016134915.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016584725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15770402",
@@ -1984,6 +2380,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016584725.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016743115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17266662",
@@ -1994,6 +2392,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016743115.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016745115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15165965",
@@ -2004,6 +2404,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016745115.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016745135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15214140",
@@ -2014,6 +2416,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016745135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016745155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15214164",
@@ -2024,6 +2428,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016745155.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016745175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15214166",
@@ -2034,6 +2440,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016745175.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016745195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15834152",
@@ -2044,6 +2452,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016745195.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016811975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17575725",
@@ -2054,6 +2464,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016811975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016864415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05383898",
@@ -2064,6 +2476,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016864415.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016922515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864806",
@@ -2074,6 +2488,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016922515.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016923395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864764",
@@ -2084,6 +2500,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016923395.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016924475.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864736",
@@ -2094,6 +2512,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016924475.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016924585.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864728",
@@ -2104,6 +2524,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016924585.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016925455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17915141",
@@ -2114,6 +2536,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016925455.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016925475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17915152",
@@ -2124,6 +2548,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016925475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_017378395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18237805",
@@ -2134,6 +2560,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_017378395.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_017378475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18237922",
@@ -2144,6 +2572,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_017378475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018138045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18738583",
@@ -2154,6 +2584,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018138045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018138065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18738584",
@@ -2164,6 +2596,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018138065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018141565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16881673",
@@ -2174,6 +2608,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018141565.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018141625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17065252",
@@ -2184,6 +2620,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018141625.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018141645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17065268",
@@ -2194,6 +2632,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018141645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018279245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16132411",
@@ -2204,6 +2644,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018279245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018279265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16132401",
@@ -2214,6 +2656,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018279265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018279285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16132400",
@@ -2224,6 +2668,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018279285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018279305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16132399",
@@ -2234,6 +2680,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018279305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018448985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19136540",
@@ -2244,6 +2692,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018448985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_018598285.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19287564",
@@ -2254,6 +2704,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_018598285.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019364615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14889916",
@@ -2264,6 +2716,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019364615.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019378915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20179392",
@@ -2274,6 +2728,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019378915.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019379355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20342957",
@@ -2284,6 +2740,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019379355.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019434075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20362540",
@@ -2294,6 +2752,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019434075.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019434095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20362539",
@@ -2304,6 +2764,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019434095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019434135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20362536",
@@ -2314,6 +2776,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019434135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019434155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20362537",
@@ -2324,6 +2788,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019434155.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019434235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20299242",
@@ -2334,6 +2800,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019434235.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019443665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16982406",
@@ -2344,6 +2812,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019443665.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019466095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20519545",
@@ -2354,6 +2824,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019466095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019710495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20702951",
@@ -2364,6 +2836,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019710495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019711215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20692924",
@@ -2374,6 +2848,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019711215.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019720855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20822586",
@@ -2384,6 +2860,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019720855.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019720875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20821254",
@@ -2394,6 +2872,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019720875.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019738995.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20703519",
@@ -2404,6 +2884,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019738995.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656078",
@@ -2414,6 +2896,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656077",
@@ -2424,6 +2908,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656075",
@@ -2434,6 +2920,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656076",
@@ -2444,6 +2932,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656074",
@@ -2454,6 +2944,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656073",
@@ -2464,6 +2956,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16656072",
@@ -2474,6 +2968,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857365.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950575",
@@ -2484,6 +2980,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857405.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950574",
@@ -2494,6 +2992,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857425.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950573",
@@ -2504,6 +3004,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950572",
@@ -2514,6 +3016,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950571",
@@ -2524,6 +3028,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950570",
@@ -2534,6 +3040,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857505.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950569",
@@ -2544,6 +3052,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857525.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950568",
@@ -2554,6 +3064,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857545.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950567",
@@ -2564,6 +3076,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857565.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950566",
@@ -2574,6 +3088,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857585.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950565",
@@ -2584,6 +3100,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950564",
@@ -2594,6 +3112,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857625.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019857645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19950563",
@@ -2604,6 +3124,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019857645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019915445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982451",
@@ -2614,6 +3136,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019915445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019915465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982450",
@@ -2624,6 +3148,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019915465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_019915485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982452",
@@ -2634,6 +3160,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_019915485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_020771675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22573149",
@@ -2644,6 +3172,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_020771675.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_020771755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22573148",
@@ -2654,6 +3184,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_020771755.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_020990445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23245613",
@@ -2664,6 +3196,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_020990445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_020990465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23245687",
@@ -2674,6 +3208,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_020990465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_020990485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23245698",
@@ -2684,6 +3220,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_020990485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166255.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605137",
@@ -2694,6 +3232,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166255.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605136",
@@ -2704,6 +3244,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166275.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166295.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605135",
@@ -2714,6 +3256,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166295.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166315.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605134",
@@ -2724,6 +3268,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166315.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166335.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605133",
@@ -2734,6 +3280,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166335.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166355.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605132",
@@ -2744,6 +3292,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166355.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021166375.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23605131",
@@ -2754,6 +3304,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021166375.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021266605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24059709",
@@ -2764,6 +3316,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021266605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021378395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14750015",
@@ -2774,6 +3328,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021378395.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021398755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24425653",
@@ -2784,6 +3340,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021398755.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021184245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23672503",
@@ -2794,6 +3352,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021184245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021184265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23672582",
@@ -2804,6 +3364,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021184265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021460035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22108528",
@@ -2814,6 +3376,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021460035.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15195796",
@@ -2824,6 +3388,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15195814",
@@ -2834,6 +3400,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15195942",
@@ -2844,6 +3412,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497345.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15195943",
@@ -2854,6 +3424,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497345.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15195944",
@@ -2864,6 +3436,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497365.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15196021",
@@ -2874,6 +3448,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497385.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15196025",
@@ -2884,6 +3460,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497405.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15196026",
@@ -2894,6 +3472,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497425.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021497445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15196027",
@@ -2904,6 +3484,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021497445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17318937",
@@ -2914,6 +3496,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513295.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234657",
@@ -2924,6 +3508,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513375.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234656",
@@ -2934,6 +3520,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513395.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234653",
@@ -2944,6 +3532,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513415.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234662",
@@ -2954,6 +3544,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513435.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234655",
@@ -2964,6 +3556,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513455.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234654",
@@ -2974,6 +3568,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234661",
@@ -2984,6 +3580,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234658",
@@ -2994,6 +3592,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513515.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234660",
@@ -3004,6 +3604,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513535.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234659",
@@ -3014,6 +3616,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513555.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234652",
@@ -3024,6 +3628,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513575.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234650",
@@ -3034,6 +3640,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513595.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234649",
@@ -3044,6 +3652,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513615.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234648",
@@ -3054,6 +3664,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513635.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021513675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13234651",
@@ -3064,6 +3676,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021513675.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022213165.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25688706",
@@ -3074,6 +3688,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022213165.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022559545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20458429",
@@ -3084,6 +3700,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022559545.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022637915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26564916",
@@ -3094,6 +3712,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022637915.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022638055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26565086",
@@ -3104,6 +3724,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022638055.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022638175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26565131",
@@ -3114,6 +3736,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022638175.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022649105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26565087",
@@ -3124,6 +3748,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022649105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022649245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26565253",
@@ -3134,6 +3760,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022649245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022670795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26650298",
@@ -3144,6 +3772,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022670795.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022699485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26741374",
@@ -3154,6 +3784,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022699485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022699505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26741367",
@@ -3164,6 +3796,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022699505.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022699525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26741403",
@@ -3174,6 +3808,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022699525.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022700635.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15963197",
@@ -3184,6 +3820,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022700635.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13781155",
@@ -3194,6 +3832,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443711",
@@ -3204,6 +3844,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810865.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443710",
@@ -3214,6 +3856,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443708",
@@ -3224,6 +3868,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443707",
@@ -3234,6 +3880,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810925.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443705",
@@ -3244,6 +3892,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810945.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443706",
@@ -3254,6 +3904,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810965.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022810985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443702",
@@ -3264,6 +3916,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022810985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022811005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443704",
@@ -3274,6 +3928,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022811005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022811025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443703",
@@ -3284,6 +3940,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022811025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022811045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443700",
@@ -3294,6 +3952,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022811045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022811065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443701",
@@ -3304,6 +3964,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022811065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_022811805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16443709",
@@ -3314,6 +3976,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_022811805.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023066825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24579863",
@@ -3324,6 +3988,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023066825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023066845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24579862",
@@ -3334,6 +4000,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023066845.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023066865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24579861",
@@ -3344,6 +4012,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023066865.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023093935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27570671",
@@ -3354,6 +4024,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023093935.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023093975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27570673",
@@ -3364,6 +4036,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023093975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023101265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27554290",
@@ -3374,6 +4048,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023101265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023101285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27554289",
@@ -3384,6 +4060,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023101285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023520735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28206123",
@@ -3394,6 +4072,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023520735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023571485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553478",
@@ -3404,6 +4084,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023571485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023612335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16675406",
@@ -3414,6 +4096,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023612335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023822305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25582457",
@@ -3424,6 +4108,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023822305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024089375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27737213",
@@ -3434,6 +4120,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024089375.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024089395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27737212",
@@ -3444,6 +4132,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024089395.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024126335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27739533",
@@ -3454,6 +4144,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024126335.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024126355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27739534",
@@ -3464,6 +4156,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024126355.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024266915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28550649",
@@ -3474,6 +4168,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024266915.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024266935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28550875",
@@ -3484,6 +4180,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024266935.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024300845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27119722",
@@ -3494,6 +4192,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024300845.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024584495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30074508",
@@ -3504,6 +4204,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024584495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024652945.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30160590",
@@ -3514,6 +4216,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024652945.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024734795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30333621",
@@ -3524,6 +4228,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024734795.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024734815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30333620",
@@ -3534,6 +4240,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024734815.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024803805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27066003",
@@ -3544,6 +4252,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024803805.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024972855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29843201",
@@ -3554,6 +4264,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024972855.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025079255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27687876",
@@ -3564,6 +4276,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025079255.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025398075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30819582",
@@ -3574,6 +4288,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025398075.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025398095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30820550",
@@ -3584,6 +4300,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025398095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025398115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30820551",
@@ -3594,6 +4312,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025398115.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025398135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30820558",
@@ -3604,6 +4324,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025398135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025398835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30863685",
@@ -3614,6 +4336,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025398835.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025452135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30711086",
@@ -3624,6 +4348,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025452135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025723085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22773561",
@@ -3634,6 +4360,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025723085.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025736955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24562915",
@@ -3644,6 +4372,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025736955.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025736975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24562916",
@@ -3654,6 +4384,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025736975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025790885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14792039",
@@ -3664,6 +4396,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025790885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025908315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31018892",
@@ -3674,6 +4408,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025908315.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_026625905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31815321",
@@ -3684,6 +4420,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_026625905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_026636135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31867617",
@@ -3694,6 +4432,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_026636135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_026636195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31815323",
@@ -3704,6 +4444,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_026636195.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_026870135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32079354",
@@ -3714,6 +4456,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_026870135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027359235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32299599",
@@ -3724,6 +4468,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027359235.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438087",
@@ -3734,6 +4480,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570415.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438092",
@@ -3744,6 +4492,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570435.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438094",
@@ -3754,6 +4504,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570455.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438089",
@@ -3764,6 +4516,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438091",
@@ -3774,6 +4528,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438093",
@@ -3784,6 +4540,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570515.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438096",
@@ -3794,6 +4552,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570535.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438097",
@@ -3804,6 +4564,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570555.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438098",
@@ -3814,6 +4576,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570575.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438099",
@@ -3824,6 +4588,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570595.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438100",
@@ -3834,6 +4600,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570615.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438101",
@@ -3844,6 +4612,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570635.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438102",
@@ -3854,6 +4624,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570655.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438104",
@@ -3864,6 +4636,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570675.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438105",
@@ -3874,6 +4648,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570715.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438107",
@@ -3884,6 +4660,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438108",
@@ -3894,6 +4672,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570755.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438110",
@@ -3904,6 +4684,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570775.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438111",
@@ -3914,6 +4696,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570795.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438114",
@@ -3924,6 +4708,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570815.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438117",
@@ -3934,6 +4720,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570835.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438118",
@@ -3944,6 +4732,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570855.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438119",
@@ -3954,6 +4744,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570875.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438122",
@@ -3964,6 +4756,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570895.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438138",
@@ -3974,6 +4768,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570915.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438136",
@@ -3984,6 +4780,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570935.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438140",
@@ -3994,6 +4792,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570955.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438141",
@@ -4004,6 +4804,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027570995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438124",
@@ -4014,6 +4816,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027570995.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438127",
@@ -4024,6 +4828,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571015.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438128",
@@ -4034,6 +4840,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571035.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438109",
@@ -4044,6 +4852,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571055.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438115",
@@ -4054,6 +4864,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571075.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438120",
@@ -4064,6 +4876,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438121",
@@ -4074,6 +4888,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571115.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438129",
@@ -4084,6 +4900,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438125",
@@ -4094,6 +4912,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571155.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438130",
@@ -4104,6 +4924,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571175.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438132",
@@ -4114,6 +4936,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571195.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438137",
@@ -4124,6 +4948,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571215.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438086",
@@ -4134,6 +4960,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438133",
@@ -4144,6 +4972,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438135",
@@ -4154,6 +4984,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438139",
@@ -4164,6 +4996,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027571365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30438123",
@@ -4174,6 +5008,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027571365.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027594685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31002545",
@@ -4184,6 +5020,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027594685.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027594965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27964220",
@@ -4194,6 +5032,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027594965.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027594985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016686",
@@ -4204,6 +5044,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027594985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027595005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016687",
@@ -4214,6 +5056,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027595005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_027595025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016697",
@@ -4224,6 +5068,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_027595025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028403965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874240",
@@ -4234,6 +5080,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028403965.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028403985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874244",
@@ -4244,6 +5092,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028403985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028404005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874242",
@@ -4254,6 +5104,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028404005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028404025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874249",
@@ -4264,6 +5116,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028404025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028404045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874241",
@@ -4274,6 +5128,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028404045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028404065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874243",
@@ -4284,6 +5140,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028404065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028404085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874245",
@@ -4294,6 +5152,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028404085.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028404105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32874250",
@@ -4304,6 +5164,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028404105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028595525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32292837",
@@ -4314,6 +5176,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028595525.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028595865.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32292824",
@@ -4324,6 +5188,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028595865.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313527",
@@ -4334,6 +5200,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607125.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313526",
@@ -4344,6 +5212,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607145.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313525",
@@ -4354,6 +5224,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607165.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313523",
@@ -4364,6 +5236,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313519",
@@ -4374,6 +5248,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607205.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313518",
@@ -4384,6 +5260,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607225.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313517",
@@ -4394,6 +5272,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313516",
@@ -4404,6 +5284,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313515",
@@ -4414,6 +5296,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313513",
@@ -4424,6 +5308,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313509",
@@ -4434,6 +5320,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313508",
@@ -4444,6 +5332,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607365.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028607385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313507",
@@ -4454,6 +5344,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028607385.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313505",
@@ -4464,6 +5356,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313504",
@@ -4474,6 +5368,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608505.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313502",
@@ -4484,6 +5380,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608525.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313499",
@@ -4494,6 +5392,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608565.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313498",
@@ -4504,6 +5404,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608585.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313496",
@@ -4514,6 +5416,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313495",
@@ -4524,6 +5428,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608625.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313494",
@@ -4534,6 +5440,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313493",
@@ -4544,6 +5452,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608665.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313492",
@@ -4554,6 +5464,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608685.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313491",
@@ -4564,6 +5476,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608705.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313485",
@@ -4574,6 +5488,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608725.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313484",
@@ -4584,6 +5500,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608745.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313483",
@@ -4594,6 +5512,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608765.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313482",
@@ -4604,6 +5524,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608785.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313481",
@@ -4614,6 +5536,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608805.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313480",
@@ -4624,6 +5548,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313478",
@@ -4634,6 +5560,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608845.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631058",
@@ -4644,6 +5572,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608865.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631057",
@@ -4654,6 +5584,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631056",
@@ -4664,6 +5596,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631055",
@@ -4674,6 +5608,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608925.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631053",
@@ -4684,6 +5620,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608945.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631052",
@@ -4694,6 +5632,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608965.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028608985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631051",
@@ -4704,6 +5644,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028608985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631050",
@@ -4714,6 +5656,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631046",
@@ -4724,6 +5668,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631045",
@@ -4734,6 +5680,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631044",
@@ -4744,6 +5692,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631043",
@@ -4754,6 +5704,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609085.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631042",
@@ -4764,6 +5716,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631041",
@@ -4774,6 +5728,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609125.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631040",
@@ -4784,6 +5740,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609145.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631038",
@@ -4794,6 +5752,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631037",
@@ -4804,6 +5764,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609205.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631036",
@@ -4814,6 +5776,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609225.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631033",
@@ -4824,6 +5788,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313530",
@@ -4834,6 +5800,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631032",
@@ -4844,6 +5812,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631031",
@@ -4854,6 +5824,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631028",
@@ -4864,6 +5836,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631027",
@@ -4874,6 +5848,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631026",
@@ -4884,6 +5860,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609365.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19313529",
@@ -4894,6 +5872,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609385.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631025",
@@ -4904,6 +5884,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609405.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631024",
@@ -4914,6 +5896,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609425.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631023",
@@ -4924,6 +5908,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631021",
@@ -4934,6 +5920,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631020",
@@ -4944,6 +5932,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631019",
@@ -4954,6 +5944,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609505.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631018",
@@ -4964,6 +5956,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609525.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631016",
@@ -4974,6 +5968,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609545.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631015",
@@ -4984,6 +5980,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609565.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631014",
@@ -4994,6 +5992,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609585.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631011",
@@ -5004,6 +6004,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631010",
@@ -5014,6 +6016,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631009",
@@ -5024,6 +6028,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609925.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631006",
@@ -5034,6 +6040,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609945.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631004",
@@ -5044,6 +6052,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609965.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028609985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631003",
@@ -5054,6 +6064,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028609985.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631001",
@@ -5064,6 +6076,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610005.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631000",
@@ -5074,6 +6088,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18630999",
@@ -5084,6 +6100,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18630998",
@@ -5094,6 +6112,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610065.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18630995",
@@ -5104,6 +6124,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18630992",
@@ -5114,6 +6136,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610145.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18630991",
@@ -5124,6 +6148,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610165.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18630990",
@@ -5134,6 +6160,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028610205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18631022",
@@ -5144,6 +6172,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028610205.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028622015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33193898",
@@ -5154,6 +6184,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028622015.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028622895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32733991",
@@ -5164,6 +6196,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028622895.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028743595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33246675",
@@ -5174,6 +6208,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028743595.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028751785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17508957",
@@ -5184,6 +6220,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028751785.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029856995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342292",
@@ -5194,6 +6232,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029856995.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029857015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342298",
@@ -5204,6 +6244,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029857015.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029916825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33834002",
@@ -5214,6 +6256,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029916825.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029958385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34403540",
@@ -5224,6 +6268,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029958385.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20344479",
@@ -5234,6 +6280,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961245.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20344477",
@@ -5244,6 +6292,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20344481",
@@ -5254,6 +6304,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961285.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20344478",
@@ -5264,6 +6316,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20344482",
@@ -5274,6 +6328,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20674995",
@@ -5284,6 +6340,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961345.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20675023",
@@ -5294,6 +6352,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961385.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20675025",
@@ -5304,6 +6364,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961405.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493821",
@@ -5314,6 +6376,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961425.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493842",
@@ -5324,6 +6388,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22334930",
@@ -5334,6 +6400,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961465.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22933764",
@@ -5344,6 +6412,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22334977",
@@ -5354,6 +6424,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961505.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907120",
@@ -5364,6 +6436,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961525.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907155",
@@ -5374,6 +6448,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961545.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907153",
@@ -5384,6 +6460,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961565.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907152",
@@ -5394,6 +6472,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961585.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24965767",
@@ -5404,6 +6484,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961605.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25755503",
@@ -5414,6 +6496,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961625.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26028538",
@@ -5424,6 +6508,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029961665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20960115",
@@ -5434,6 +6520,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029961665.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029962145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16822477",
@@ -5444,6 +6532,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029962145.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029962165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25755502",
@@ -5454,6 +6544,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029962165.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029962185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26564915",
@@ -5464,6 +6556,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029962185.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_029962205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23286170",
@@ -5474,6 +6568,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_029962205.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_025580225.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152632",
@@ -5484,6 +6580,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_025580225.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_023615765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28788565",
@@ -5494,6 +6592,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_023615765.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030034615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33446046",
@@ -5504,6 +6604,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030034615.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030034635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33446047",
@@ -5514,6 +6616,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030034635.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030034655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33446052",
@@ -5524,6 +6628,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030034655.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030034675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33446053",
@@ -5534,6 +6640,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030034675.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_024922265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30655618",
@@ -5544,6 +6652,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_024922265.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_951691365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA113485042",
@@ -5554,6 +6664,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_951691365.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004147",
@@ -5564,6 +6676,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121855.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004167",
@@ -5574,6 +6688,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121875.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004177",
@@ -5584,6 +6700,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121895.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004186",
@@ -5594,6 +6712,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121915.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004303",
@@ -5604,6 +6724,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121935.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004304",
@@ -5614,6 +6736,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121955.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004302",
@@ -5624,6 +6748,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121975.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030121995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004215",
@@ -5634,6 +6760,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030121995.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004419",
@@ -5644,6 +6772,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122015.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004420",
@@ -5654,6 +6784,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122035.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004425",
@@ -5664,6 +6796,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122055.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004476",
@@ -5674,6 +6808,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122075.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004767",
@@ -5684,6 +6820,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004775",
@@ -5694,6 +6832,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122115.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28004808",
@@ -5704,6 +6844,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122135.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030122155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28005019",
@@ -5714,6 +6856,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030122155.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_951802375.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA113485043",
@@ -5724,6 +6868,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_951802375.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021644505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493832",
@@ -5734,6 +6880,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021644505.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021660815.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19952165",
@@ -5744,6 +6892,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021660815.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021644425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21924083",
@@ -5754,6 +6904,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021644425.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021645445.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20960116",
@@ -5764,6 +6916,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021645445.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021669535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907129",
@@ -5774,6 +6928,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021669535.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021645325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493905",
@@ -5784,6 +6940,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021645325.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_951805275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA113485044",
@@ -5794,6 +6952,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_951805275.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030179725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974118",
@@ -5804,6 +6964,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030179725.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030179745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974115",
@@ -5814,6 +6976,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030179745.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021601685.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24144973",
@@ -5824,6 +6988,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021601685.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030253475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33329571",
@@ -5834,6 +7000,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030253475.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030316095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35722428",
@@ -5844,6 +7012,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030316095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030368495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34393026",
@@ -5854,6 +7024,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030368495.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_016924255.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864754",
@@ -5864,6 +7036,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_016924255.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030413195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35084065",
@@ -5874,6 +7048,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030413195.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030436095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36292208",
@@ -5884,6 +7060,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030436095.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030444495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36290998",
@@ -5894,6 +7072,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030444495.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030489625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36345607",
@@ -5904,6 +7084,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030489625.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030489645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36345843",
@@ -5914,6 +7096,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030489645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030490735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36346258",
@@ -5924,6 +7108,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030490735.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030505595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36408992",
@@ -5934,6 +7120,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030505595.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030563585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36704194",
@@ -5944,6 +7132,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030563585.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030563765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36704195",
@@ -5954,6 +7144,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030563765.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030564045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36704193",
@@ -5964,6 +7156,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030564045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_028366415.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32978019",
@@ -5974,6 +7168,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_028366415.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030758435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36919166",
@@ -5984,6 +7180,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030758435.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021664795.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18313855",
@@ -5994,6 +7192,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021664795.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021661615.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317583",
@@ -6004,6 +7204,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021661615.2"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021661655.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317582",
@@ -6014,6 +7216,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021661655.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021666875.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16822479",
@@ -6024,6 +7228,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021666875.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021601745.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24144990",
@@ -6034,6 +7240,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021601745.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_021601605.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24145079",
@@ -6044,6 +7252,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_021601605.3"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030866885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36795974",
@@ -6054,6 +7264,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030866885.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030866905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36795973",
@@ -6064,6 +7276,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030866905.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030866925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36795972",
@@ -6074,6 +7288,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030866925.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030908425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37016131",
@@ -6084,6 +7300,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030908425.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_030908445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37016128",
@@ -6094,6 +7312,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_030908445.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031211485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33818149",
@@ -6104,6 +7324,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031211485.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031212645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33819801",
@@ -6114,6 +7336,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031212645.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031218375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33819876",
@@ -6124,6 +7348,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031218375.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031219395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33819968",
@@ -6134,6 +7360,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031219395.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031220265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33820238",
@@ -6144,6 +7372,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031220265.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031221745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33821273",
@@ -6154,6 +7384,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031221745.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031222225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33821385",
@@ -6164,6 +7396,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031222225.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031223175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33822888",
@@ -6174,6 +7408,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031223175.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031224255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33825348",
@@ -6184,6 +7420,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031224255.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031224875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33826223",
@@ -6194,6 +7432,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031224875.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031326305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37159814",
@@ -6204,6 +7444,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031326305.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_031326325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37157008",
@@ -6214,6 +7456,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_031326325.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_032231025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37404417",
@@ -6224,6 +7468,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032231025.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_032231045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37404410",
@@ -6234,6 +7480,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032231045.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_032231085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37404367",
@@ -6244,6 +7492,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032231085.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_032231105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37404386",
@@ -6254,6 +7504,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032231105.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_032252955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37492478",
@@ -6264,6 +7516,8 @@
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032252955.1"
  },
  {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
   "asm_acc": "GCA_032252975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37493051",
@@ -6272,5 +7526,65 @@
   "scientific_name": "Pseudomonas aeruginosa",
   "strain": "PARM_Z1",
   "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032252975.1"
+ },
+ {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
+  "asm_acc": "GCA_032463705.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37501216",
+  "collection_date": "2023-09-22",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "R18-20",
+  "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032463705.1"
+ },
+ {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
+  "asm_acc": "GCA_032598925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34473594",
+  "collection_date": "2014",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "NY3649",
+  "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032598925.1"
+ },
+ {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
+  "asm_acc": "GCA_032696765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30521252",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "2718",
+  "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032696765.1"
+ },
+ {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
+  "asm_acc": "GCA_032699645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30521439",
+  "collection_date": "2020",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "8247",
+  "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032699645.1"
+ },
+ {
+  "Pseudomonas_aeruginosa": null,
+  "date": null,
+  "asm_acc": "GCA_032761935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37730772",
+  "collection_date": "2022-12-02",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Pseudomonas aeruginosa",
+  "strain": "XM8",
+  "fasta": "data/groups_info/Pseudomonas_aeruginosa/GCA_032761935.1"
  }
 ]

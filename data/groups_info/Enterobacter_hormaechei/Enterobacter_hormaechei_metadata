@@ -5,32 +5,32 @@
   "Enterobacter hormaechei": 230
  },
  "subsp.": {
-  "Enterobacter hormaechei subsp. xiangfangensis": 12,
-  "Enterobacter hormaechei subsp. hoffmannii": 3,
-  "Enterobacter hormaechei subsp. hormaechei": 2,
   "Enterobacter hormaechei subsp. steigerwaltii": 10,
-  "Enterobacter hormaechei subsp. oharae": 1
+  "Enterobacter hormaechei subsp. oharae": 1,
+  "Enterobacter hormaechei subsp. xiangfangensis": 12,
+  "Enterobacter hormaechei subsp. hormaechei": 2,
+  "Enterobacter hormaechei subsp. hoffmannii": 3
  },
  "scientific_name": {
-  "Enterobacter hormaechei subsp. xiangfangensis": 12,
-  "Enterobacter hormaechei subsp. hoffmannii": 3,
-  "Enterobacter hormaechei": 202,
-  "Enterobacter hormaechei subsp. hormaechei": 2,
   "Enterobacter hormaechei subsp. steigerwaltii": 10,
-  "Enterobacter hormaechei subsp. oharae": 1
+  "Enterobacter hormaechei subsp. oharae": 1,
+  "Enterobacter hormaechei": 202,
+  "Enterobacter hormaechei subsp. xiangfangensis": 12,
+  "Enterobacter hormaechei subsp. hormaechei": 2,
+  "Enterobacter hormaechei subsp. hoffmannii": 3
  },
  "strain": {
   "BW": 2
  },
  "hosts": {
-  "DOG": 12,
-  "FOOD": 1,
   "HORSE": 1,
-  "NOT AVAILABLE": 1,
-  "HOMO SAPIENS": 206,
-  "PIG": 1,
   "TENEBRIO MOLITOR": 1,
+  "FOOD": 1,
+  "CAT": 6,
   "CHICKEN": 1,
-  "CAT": 6
+  "NOT AVAILABLE": 1,
+  "DOG": 12,
+  "HOMO SAPIENS": 206,
+  "PIG": 1
  }
 }

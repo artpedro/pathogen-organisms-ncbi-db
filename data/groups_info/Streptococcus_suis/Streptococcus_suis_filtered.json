@@ -1,9 +1,11 @@
 [
  {
-  "Streptococcus_suis": "PDG000000100.32",
-  "date": "Sat Oct  7 20:57:12 2023"
+  "Streptococcus_suis": "PDG000000100.34",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_000390245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603120",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_000390245.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_000471985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603121",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_000471985.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_000168355.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02469350",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_000168355.3"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_000993745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02691834",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_000993745.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_001272635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03652427",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_001272635.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_001572685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04156190",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_001572685.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_001610935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04044079",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_001610935.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_001640765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04884928",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_001640765.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_001721625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05567566",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_001721625.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_001936415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06187704",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_001936415.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002111405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06765615",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002111405.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002189695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05231907",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002189695.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002285535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04956488",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002285535.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002688665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07807405",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002688665.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002736265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07807408",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002736265.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002803825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08040402",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002803825.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_002812525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08102920",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_002812525.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_003144175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09080446",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_003144175.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_900475585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3861961",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_900475585.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_003285225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05912964",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_003285225.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_003285245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05912965",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_003285245.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_003288175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07764633",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_003288175.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_003352205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09460429",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_003352205.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_003352225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09460428",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_003352225.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_901543625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3649032",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_901543625.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_007724845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12347734",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_007724845.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_902702765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227227",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_902702765.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_902702745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227225",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_902702745.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_902702755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227224",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_902702755.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_902702785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227226",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_902702785.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_902702775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227228",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_902702775.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_013488085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09210932",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_013488085.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_013488105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237933",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_013488105.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_013488125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237935",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_013488125.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_013488145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237990",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_013488145.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_013488165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09210929",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_013488165.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_013488185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237991",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_013488185.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_014192345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238721",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_014192345.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_014192525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238722",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_014192525.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_014874555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13648692",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_014874555.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_015908885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16966886",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_015908885.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_016774475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17277757",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_016774475.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_016887735.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17277758",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_016887735.2"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_017372155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18202284",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_017372155.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_018885285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19600291",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_018885285.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019297755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20090113",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019297755.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955369",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856275.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955368",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856315.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955373",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856355.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955372",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856375.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955374",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856395.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955371",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856415.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019856475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955370",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019856475.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_019967855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21240299",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_019967855.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_020462325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18029937",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_020462325.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_020541945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439333",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_020541945.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_020541965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439331",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_020541965.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_020542025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439327",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_020542025.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_020542045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439326",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_020542045.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_021729385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25220527",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_021729385.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_021729405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25212000",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_021729405.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_022964955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363618",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_022964955.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_023023005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27395176",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_023023005.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401318",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206595.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401320",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206615.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401323",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206635.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401322",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206655.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401321",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206675.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401328",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206695.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401325",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206715.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401324",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206735.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024206755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401332",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024206755.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024220075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14932458",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024220075.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024220115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14932654",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024220115.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024498155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29862018",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024498155.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024582755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29938211",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024582755.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024582915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065799",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024582915.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024582935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065803",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024582935.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024582955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065801",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024582955.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024582975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065802",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024582975.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024582995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065800",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024582995.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024583015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065797",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024583015.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024583035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065798",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024583035.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024583055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065796",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024583055.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024583075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065795",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024583075.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024583115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065793",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024583115.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_024583135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065792",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_024583135.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_025946865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277174",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_025946865.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_025946885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277175",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_025946885.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_025946905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277172",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_025946905.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_025946925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277173",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_025946925.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_025946945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277171",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_025946945.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_025980045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29861932",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_025980045.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_004843685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11431856",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_004843685.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_029542385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32652950",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_029542385.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_031767395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179825",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_031767395.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_031767605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179828",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_031767605.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_031767625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179832",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_031767625.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_031767645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179831",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_031767645.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032147025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410677",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_032147025.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032147105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410676",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_032147105.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032230435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410680",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_032230435.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032230945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410679",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_032230945.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032230965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410678",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_032230965.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032230985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410675",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Streptococcus_suis/GCA_032230985.1"
  },
  {
+  "Streptococcus_suis": null,
+  "date": null,
   "asm_acc": "GCA_032231005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410674",

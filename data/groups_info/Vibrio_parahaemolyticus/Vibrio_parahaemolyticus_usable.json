@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_parahaemolyticus": "PDG000000023.780",
-  "date": "Sat Oct  7 20:57:33 2023"
+  "Vibrio_parahaemolyticus": "PDG000000023.784",
+  "date": "Thu Oct 19 21:12:01 2023"
  },
  {
   "asm_acc": "GCA_000430425.1",
@@ -677,5 +677,14 @@
   "host": "ANADARA TUBERCULOSA",
   "scientific_name": "Vibrio alginolyticus",
   "strain": "Isc25B"
+ },
+ {
+  "asm_acc": "GCA_032463505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37503413",
+  "collection_date": "2021-12-25",
+  "host": "APOSTICHOPUS JAPONICUS",
+  "scientific_name": "Vibrio alginolyticus",
+  "strain": "S10"
  }
 ]

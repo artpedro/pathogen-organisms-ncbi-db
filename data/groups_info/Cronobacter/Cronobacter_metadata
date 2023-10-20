@@ -11,7 +11,7 @@
  "strain": {},
  "hosts": {
   "HOMO SAPIENS": 4,
-  "INFANTS": 1,
-  "BOVINE": 1
+  "BOVINE": 1,
+  "INFANTS": 1
  }
 }

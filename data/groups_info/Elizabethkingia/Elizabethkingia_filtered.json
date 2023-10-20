@@ -1,9 +1,11 @@
 [
  {
   "Elizabethkingia": "PDG000000014.136",
-  "date": "Sat Oct  7 20:53:16 2023"
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_000240095.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470679",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_000240095.3"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_000495935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470988",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_000495935.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_001596175.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04567744",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_001596175.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_001618465.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04590540",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_001618465.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_001618505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04567738",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_001618505.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_001618545.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04567745",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_001618545.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002022025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04254539",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002022025.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002022065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05273152",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002022065.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002022105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05281841",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002022105.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002022145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05281842",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002022145.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002023235.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04482265",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002023235.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002023665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470677",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002023665.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002022045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05255122",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002022045.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002022085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05277779",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002022085.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002024825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04482309",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002024825.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002277995.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875535",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002277995.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002310515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07625922",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002310515.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002310535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07625921",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002310535.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002887275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04254555",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002887275.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002951395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996277",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002951395.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_002951455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996278",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_002951455.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_900475375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3643315",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_900475375.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_009697265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13281618",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_009697265.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_009810215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00195183",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_009810215.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_011612125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14310234",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_011612125.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_014702245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08166467",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_014702245.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_016838625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17717915",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_016838625.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_022221405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866467",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_022221405.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_022221425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866466",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_022221425.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_022221445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866465",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_022221445.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_022221465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866464",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_022221465.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_022221485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866463",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_022221485.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_022221505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866462",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_022221505.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192332",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205085.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192331",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205105.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192330",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205125.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192329",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205145.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192328",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205165.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192327",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205185.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192326",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205425.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192325",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205445.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192323",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205465.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192324",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205485.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192322",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205505.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192321",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205525.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192320",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205545.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192319",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205565.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192317",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205585.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192316",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205605.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192315",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205625.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024205645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192318",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024205645.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_025449135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30929146",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_025449135.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_023092945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27739174",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_023092945.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_024123775.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29473046",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_024123775.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_029873315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31358076",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_029873315.1"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_927611585.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA12009938",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_927611585.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_927611535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA12009940",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_927611535.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_927611525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA12009939",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_927611525.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_951394135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112835271",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Elizabethkingia/GCA_951394135.2"
  },
  {
+  "Elizabethkingia": null,
+  "date": null,
   "asm_acc": "GCA_028898485.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33554414",

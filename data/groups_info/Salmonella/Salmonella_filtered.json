@@ -1,9 +1,11 @@
 [
  {
-  "Salmonella": "PDG000000002.2787",
-  "date": "Sat Oct  7 20:56:23 2023"
+  "Salmonella": "PDG000000002.2801",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000027025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2272777",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000027025.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000245535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603101",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000245535.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000252875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604223",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000252875.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000258365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603149",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000258365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000238455.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00754299",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000238455.3"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000272715.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01765627",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000272715.4"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000272735.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805325",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000272735.4"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000272755.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01765628",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000272755.4"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000272775.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01813481",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000272775.4"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000272895.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01813482",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000272895.3"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000280315.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01041143",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000280315.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000329365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01041170",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000329365.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000330485.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805317",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000330485.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000341425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01832085",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000341425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000442415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02297856",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000442415.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000430105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01088008",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000430105.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000483715.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02415193",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000483715.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000486165.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805318",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000486165.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000486445.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805326",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000486445.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000486765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805327",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000486765.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000486815.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805331",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000486815.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000487035.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805332",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000487035.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000505365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02383555",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000505365.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000505705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933202",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000505705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000612325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02712059",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000612325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384167",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623275.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384166",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384164",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384163",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384162",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384161",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000623455.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384169",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000623455.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000626175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384160",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000626175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000626375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02384168",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000626375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000636135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02692256",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000636135.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000698515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991042",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000698515.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000783815.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934521",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000783815.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000818075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02909989",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000818075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000818115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03076563",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000818115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000953495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3106395",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000953495.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000973665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716891",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000973665.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000973685.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716903",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000973685.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000988525.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716852",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000988525.3"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_000993725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03568791",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_000993725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001006525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03653812",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001006525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001122625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2145578",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001122625.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001134605.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1964467",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001134605.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001148305.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2072647",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001148305.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001173525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2158835",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001173525.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001188125.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03255434",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001188125.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001293505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03795193",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001293505.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001302605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03765654",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001302605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001305815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03959817",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001305815.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001305835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03959818",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001305835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001360555.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2058419",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001360555.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001409135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1904377",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001409135.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001409155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2336231",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001409155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001409175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2336232",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001409175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001409195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1904401",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001409195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001441225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04156727",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001441225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001448485.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03485833",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001448485.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001448665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03470707",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001448665.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001448705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03470763",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001448705.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001457675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2517359",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001457675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001576255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03795199",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001576255.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001576275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03798428",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001576275.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001577505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04296382",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001577505.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001620115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716853",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001620115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001620135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716855",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001620135.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001620155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716860",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001620155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001620205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716850",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001620205.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001620225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716848",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001620225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623545.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716849",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623545.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716851",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623585.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716856",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623625.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716858",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623665.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716880",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716867",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716861",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623745.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716863",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623745.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716878",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623775.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716871",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623765.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716877",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716865",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623825.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001623845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716869",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001623845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001628755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03371466",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001628755.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001629755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03371464",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001629755.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001629775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03371465",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001629775.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001689935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04334633",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001689935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001690005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04334629",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001690005.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001690055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05263553",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001690055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001692495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05277890",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001692495.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001692535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04334642",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001692535.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001692635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04334640",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001692635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001705055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03896006",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001705055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001729225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05356919",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001729225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001887015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05832872",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001887015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001922165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03744300",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001922165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001931555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04285042",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001931555.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001952995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05915911",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001952995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001953675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05915913",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001953675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001953695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05915912",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001953695.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001972545.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05414469",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001972545.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001972625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05414461",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001972625.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001973275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05414452",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001973275.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001973785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05414408",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001973785.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_001989635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06185755",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_001989635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_900185485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104109193",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_900185485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002208965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173325",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002208965.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002209205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173326",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002209205.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002209225.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173334",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002209225.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002265865.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07163935",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002265865.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002266085.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07163940",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002266085.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002266205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07163931",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002266205.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002266325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07163933",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002266325.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002313085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05756207",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002313085.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002386165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312412",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002386165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002386325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312417",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002386325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002504105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07334225",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002504105.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716872",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716873",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716875",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716882",
@@ -1234,6 +1480,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761395.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716884",
@@ -1244,6 +1492,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761415.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716885",
@@ -1254,6 +1504,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761435.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716887",
@@ -1264,6 +1516,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716888",
@@ -1274,6 +1528,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761475.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002761495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716889",
@@ -1284,6 +1540,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002761495.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002762135.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07945789",
@@ -1294,6 +1552,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002762135.3"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002794415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07633032",
@@ -1304,6 +1564,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002794415.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002813935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06161238",
@@ -1314,6 +1576,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002813935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002946375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08470240",
@@ -1324,6 +1588,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002946375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002982095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06311389",
@@ -1334,6 +1600,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002982095.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002983965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173333",
@@ -1344,6 +1612,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002983965.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002984035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173332",
@@ -1354,6 +1624,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002984035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_002984285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173330",
@@ -1364,6 +1636,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_002984285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003031835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06660623",
@@ -1374,6 +1648,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003031835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003052785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08903186",
@@ -1384,6 +1660,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003052785.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003054535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716886",
@@ -1394,6 +1672,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003054535.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003071485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716890",
@@ -1404,6 +1684,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003071485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003073575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00710627",
@@ -1414,6 +1696,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003073575.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003177235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09245755",
@@ -1424,6 +1708,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003177235.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003177255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09245760",
@@ -1434,6 +1720,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003177255.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003181075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09245756",
@@ -1444,6 +1732,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003181075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003181155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09245758",
@@ -1454,6 +1744,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003181155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003184325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08768800",
@@ -1464,6 +1756,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003184325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003231095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09373897",
@@ -1474,6 +1768,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003231095.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_900477905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017717",
@@ -1484,6 +1780,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_900477905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_900477895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017719",
@@ -1494,6 +1792,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_900477895.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_900478065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4028451",
@@ -1504,6 +1804,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_900478065.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003347075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04849646",
@@ -1514,6 +1816,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003347075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003429365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07580859",
@@ -1524,6 +1828,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003429365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003429425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07663062",
@@ -1534,6 +1840,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003429425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003429445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07663064",
@@ -1544,6 +1852,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003429445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003429465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07507058",
@@ -1554,6 +1864,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003429465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003515965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07604329",
@@ -1564,6 +1876,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003515965.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003589825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08868707",
@@ -1574,6 +1888,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003589825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003589845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08868685",
@@ -1584,6 +1900,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003589845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003589865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08868674",
@@ -1594,6 +1912,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003589865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003590695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09791879",
@@ -1604,6 +1924,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003590695.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003595645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09791878",
@@ -1614,6 +1936,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003595645.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003590755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09791864",
@@ -1624,6 +1948,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003590755.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003691385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10250222",
@@ -1634,6 +1960,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003691385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003710185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10272908",
@@ -1644,6 +1972,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003710185.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003856755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08098100",
@@ -1654,6 +1984,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003856755.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003971525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09741727",
@@ -1664,6 +1996,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003971525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003986635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08737531",
@@ -1674,6 +2008,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003986635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003986655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08737533",
@@ -1684,6 +2020,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003986655.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003986675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08274661",
@@ -1694,6 +2032,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003986675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003994635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10638893",
@@ -1704,6 +2044,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003994635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003994655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10638888",
@@ -1714,6 +2056,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003994655.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003999215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08277293",
@@ -1724,6 +2068,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003999215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004022525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10716141",
@@ -1734,6 +2080,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004022525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004126495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10441277",
@@ -1744,6 +2092,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004126495.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004135835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08449845",
@@ -1754,6 +2104,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004135835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716901",
@@ -1764,6 +2116,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716894",
@@ -1774,6 +2128,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716895",
@@ -1784,6 +2140,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716896",
@@ -1794,6 +2152,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136095.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716905",
@@ -1804,6 +2164,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716897",
@@ -1814,6 +2176,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136135.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716898",
@@ -1824,6 +2188,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716906",
@@ -1834,6 +2200,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004136335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09630442",
@@ -1844,6 +2212,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004136335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324035.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759461",
@@ -1854,6 +2224,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324035.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324015.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759463",
@@ -1864,6 +2236,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324015.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759459",
@@ -1874,6 +2248,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324045.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324095.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759458",
@@ -1884,6 +2260,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324095.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324145.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759452",
@@ -1894,6 +2272,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324145.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324125.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759456",
@@ -1904,6 +2284,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324125.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759455",
@@ -1914,6 +2296,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324135.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759457",
@@ -1924,6 +2308,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324115.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759464",
@@ -1934,6 +2320,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324245.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759454",
@@ -1944,6 +2332,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324275.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004324315.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759453",
@@ -1954,6 +2344,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004324315.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004328785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716883",
@@ -1964,6 +2356,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004328785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004328805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716893",
@@ -1974,6 +2368,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004328805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004337745.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759460",
@@ -1984,6 +2380,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004337745.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004337735.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09759468",
@@ -1994,6 +2392,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004337735.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004358925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11129919",
@@ -2004,6 +2404,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004358925.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004768605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06030139",
@@ -2014,6 +2416,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004768605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004768645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06030204",
@@ -2024,6 +2428,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004768645.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004792435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333145",
@@ -2034,6 +2440,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004792435.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004792455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333163",
@@ -2044,6 +2452,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004792455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004798745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06030177",
@@ -2054,6 +2464,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004798745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942244",
@@ -2064,6 +2476,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942296",
@@ -2074,6 +2488,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942233",
@@ -2084,6 +2500,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847565.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942313",
@@ -2094,6 +2512,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847585.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942268",
@@ -2104,6 +2524,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942246",
@@ -2114,6 +2536,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847625.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942253",
@@ -2124,6 +2548,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004847885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942254",
@@ -2134,6 +2560,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004847885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004848145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01942300",
@@ -2144,6 +2572,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004848145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004848405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991048",
@@ -2154,6 +2584,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004848405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004848545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991046",
@@ -2164,6 +2596,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004848545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004848685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991047",
@@ -2174,6 +2608,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004848685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004848885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991044",
@@ -2184,6 +2620,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004848885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333141",
@@ -2194,6 +2632,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333140",
@@ -2204,6 +2644,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333143",
@@ -2214,6 +2656,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919185.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333142",
@@ -2224,6 +2668,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919205.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333149",
@@ -2234,6 +2680,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333155",
@@ -2244,6 +2692,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919265.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333144",
@@ -2254,6 +2704,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333146",
@@ -2264,6 +2716,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333152",
@@ -2274,6 +2728,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333154",
@@ -2284,6 +2740,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333158",
@@ -2294,6 +2752,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333160",
@@ -2304,6 +2764,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333162",
@@ -2314,6 +2776,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333164",
@@ -2324,6 +2788,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333165",
@@ -2334,6 +2800,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004919465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333166",
@@ -2344,6 +2812,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004919465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004923395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11445819",
@@ -2354,6 +2824,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004923395.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004923415.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11445820",
@@ -2364,6 +2836,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004923415.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004941405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333167",
@@ -2374,6 +2848,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004941405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005094845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333157",
@@ -2384,6 +2860,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005094845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005144925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333147",
@@ -2394,6 +2872,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005144925.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005144945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333150",
@@ -2404,6 +2884,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005144945.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005144985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333156",
@@ -2414,6 +2896,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005144985.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005160365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333161",
@@ -2424,6 +2908,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005160365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005160405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333170",
@@ -2434,6 +2920,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005160405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005166225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08944422",
@@ -2444,6 +2932,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005166225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005222465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08903161",
@@ -2454,6 +2944,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005222465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005537135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06030095",
@@ -2464,6 +2956,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005537135.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005537375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333169",
@@ -2474,6 +2968,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005537375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005844025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11665396",
@@ -2484,6 +2980,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005844025.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005885835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11792777",
@@ -2494,6 +2992,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005885835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005885855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11787767",
@@ -2504,6 +3004,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005885855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005885875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11787765",
@@ -2514,6 +3016,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005885875.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005885895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11787766",
@@ -2524,6 +3028,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005885895.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005885935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11786967",
@@ -2534,6 +3040,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005885935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005890095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06030081",
@@ -2544,6 +3052,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005890095.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_005954705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10833328",
@@ -2554,6 +3064,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_005954705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006228345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11353131",
@@ -2564,6 +3076,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006228345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006365335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056483",
@@ -2574,6 +3088,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006365335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006384195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09302771",
@@ -2584,6 +3100,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006384195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006385115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10833329",
@@ -2594,6 +3112,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006385115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006461325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12070264",
@@ -2604,6 +3124,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006461325.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006516995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11979405",
@@ -2614,6 +3136,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006516995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006517015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11979404",
@@ -2624,6 +3148,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006517015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006517035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11979402",
@@ -2634,6 +3160,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006517035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006517055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11979403",
@@ -2644,6 +3172,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006517055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006517075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11979401",
@@ -2654,6 +3184,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006517075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006969245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09519168",
@@ -2664,6 +3196,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006969245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_008386295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12715008",
@@ -2674,6 +3208,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_008386295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_008705215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12774580",
@@ -2684,6 +3220,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_008705215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_008807355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12608379",
@@ -2694,6 +3232,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_008807355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_008931225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10914546",
@@ -2704,6 +3244,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_008931225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_008931245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10914547",
@@ -2714,6 +3256,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_008931245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009017295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333153",
@@ -2724,6 +3268,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009017295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009017315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333171",
@@ -2734,6 +3280,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009017315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009017335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11333159",
@@ -2744,6 +3292,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009017335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009387895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13031564",
@@ -2754,6 +3304,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009387895.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009388185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13031563",
@@ -2764,6 +3316,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009388185.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009497835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10076456",
@@ -2774,6 +3328,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009497835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009497855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10076455",
@@ -2784,6 +3340,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009497855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009648735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991047",
@@ -2794,6 +3352,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009648735.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009648755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991044",
@@ -2804,6 +3364,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009648755.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009648795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01088008",
@@ -2814,6 +3376,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009648795.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009648835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991042",
@@ -2824,6 +3388,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009648835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009650055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05589873",
@@ -2834,6 +3400,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009650055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191649",
@@ -2844,6 +3412,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664555.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191648",
@@ -2854,6 +3424,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664575.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191647",
@@ -2864,6 +3436,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664595.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191642",
@@ -2874,6 +3448,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664615.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191646",
@@ -2884,6 +3460,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191645",
@@ -2894,6 +3472,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664655.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191644",
@@ -2904,6 +3484,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664795.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009664895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191643",
@@ -2914,6 +3496,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009664895.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009667855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04364135",
@@ -2924,6 +3508,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009667855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009729895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056425",
@@ -2934,6 +3520,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009729895.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009729915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056423",
@@ -2944,6 +3532,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009729915.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009729935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056422",
@@ -2954,6 +3544,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009729935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009729955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056403",
@@ -2964,6 +3556,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009729955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009729975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056402",
@@ -2974,6 +3568,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009729975.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009730015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056427",
@@ -2984,6 +3580,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009730015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009734305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13219579",
@@ -2994,6 +3592,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009734305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009756455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10953951",
@@ -3004,6 +3604,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009756455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009756475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10953956",
@@ -3014,6 +3616,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009756475.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009756515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10953952",
@@ -3024,6 +3628,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009756515.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009756555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10953953",
@@ -3034,6 +3640,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009756555.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009756585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10953954",
@@ -3044,6 +3652,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009756585.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009756605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10953955",
@@ -3054,6 +3664,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009756605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009806735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13509270",
@@ -3064,6 +3676,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009806735.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009857075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08775946",
@@ -3074,6 +3688,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009857075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009884355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12340930",
@@ -3084,6 +3700,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009884355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009884375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12340931",
@@ -3094,6 +3712,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009884375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009930575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11565619",
@@ -3104,6 +3724,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009930575.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009930675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11565614",
@@ -3114,6 +3736,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009930675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_010919335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13850655",
@@ -3124,6 +3748,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_010919335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011304815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10076457",
@@ -3134,6 +3760,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011304815.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011465695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074770",
@@ -3144,6 +3772,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011465695.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011465815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074771",
@@ -3154,6 +3784,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011465815.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011465945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074786",
@@ -3164,6 +3796,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011465945.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011466455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074785",
@@ -3174,6 +3808,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011466455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011466595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074794",
@@ -3184,6 +3820,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011466595.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011466775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074806",
@@ -3194,6 +3832,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011466775.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_011466815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13074811",
@@ -3204,6 +3844,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_011466815.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012049805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450174",
@@ -3214,6 +3856,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012049805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012050025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450162",
@@ -3224,6 +3868,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012050025.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012050205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450173",
@@ -3234,6 +3880,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012050205.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012050385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450171",
@@ -3244,6 +3892,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012050385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012050525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450172",
@@ -3254,6 +3904,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012050525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012050745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450170",
@@ -3264,6 +3916,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012050745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012050905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450169",
@@ -3274,6 +3928,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012050905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012051085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450168",
@@ -3284,6 +3940,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012051085.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012051245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450167",
@@ -3294,6 +3952,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012051245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012051385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450166",
@@ -3304,6 +3964,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012051385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012051625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450165",
@@ -3314,6 +3976,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012051625.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012052085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450160",
@@ -3324,6 +3988,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012052085.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012052225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450161",
@@ -3334,6 +4000,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012052225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012052445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450159",
@@ -3344,6 +4012,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012052445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012052605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450154",
@@ -3354,6 +4024,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012052605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012052805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450157",
@@ -3364,6 +4036,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012052805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012052965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450158",
@@ -3374,6 +4048,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012052965.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012053145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450156",
@@ -3384,6 +4060,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012053145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012053325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450155",
@@ -3394,6 +4072,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012053325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012053525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450153",
@@ -3404,6 +4084,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012053525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012053905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450151",
@@ -3414,6 +4096,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012053905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012054045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450152",
@@ -3424,6 +4108,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012054045.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012530215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14088120",
@@ -3434,6 +4120,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012530215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012530335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14088117",
@@ -3444,6 +4132,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012530335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_012558165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00168438",
@@ -3454,6 +4144,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_012558165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_013328855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15099378",
@@ -3464,6 +4156,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_013328855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_013344545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00168437",
@@ -3474,6 +4168,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_013344545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_013415925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15471789",
@@ -3484,6 +4180,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_013415925.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_903992995.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5976334",
@@ -3494,6 +4192,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_903992995.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014250355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15796617",
@@ -3504,6 +4204,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014250355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014394985.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15903639",
@@ -3514,6 +4216,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014394985.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014521465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15891899",
@@ -3524,6 +4228,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014521465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014805785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15944967",
@@ -3534,6 +4240,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014805785.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014840915.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15944976",
@@ -3544,6 +4252,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014840915.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014858545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11546982",
@@ -3554,6 +4264,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014858545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_014858565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11546980",
@@ -3564,6 +4276,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_014858565.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_903989485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5976334",
@@ -3574,6 +4288,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_903989485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015074885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16450742",
@@ -3584,6 +4300,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015074885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015074905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16450741",
@@ -3594,6 +4312,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015074905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015159575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10425333",
@@ -3604,6 +4324,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015159575.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015240635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16552335",
@@ -3614,6 +4336,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015240635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015240855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16552336",
@@ -3624,6 +4348,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015240855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015240995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16552337",
@@ -3634,6 +4360,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015240995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015241115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16552338",
@@ -3644,6 +4372,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015241115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015475615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14111682",
@@ -3654,6 +4384,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015475615.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015565735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16707726",
@@ -3664,6 +4396,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015565735.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015697745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15962528",
@@ -3674,6 +4408,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015697745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015697765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15962527",
@@ -3684,6 +4420,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015697765.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015697785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15962525",
@@ -3694,6 +4432,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015697785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015697805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15962524",
@@ -3704,6 +4444,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015697805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015697825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15962523",
@@ -3714,6 +4456,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015697825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015708295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10425354",
@@ -3724,6 +4468,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015708295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015732575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15962526",
@@ -3734,6 +4480,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015732575.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016025375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10425280",
@@ -3744,6 +4492,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016025375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016025395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16987172",
@@ -3754,6 +4504,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016025395.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016025415.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16987173",
@@ -3764,6 +4516,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016025415.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016071195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15897436",
@@ -3774,6 +4528,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016071195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016638525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17169750",
@@ -3784,6 +4540,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016638525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016653555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17169784",
@@ -3794,6 +4552,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016653555.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016864955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14150057",
@@ -3804,6 +4564,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016864955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016903075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17734270",
@@ -3814,6 +4576,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016903075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_010004265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08732049",
@@ -3824,6 +4588,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_010004265.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_008111065.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03478587",
@@ -3834,6 +4600,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_008111065.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_017094605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16551963",
@@ -3844,6 +4612,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_017094605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_017893505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14111684",
@@ -3854,6 +4624,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_017893505.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00991058",
@@ -3864,6 +4636,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933185",
@@ -3874,6 +4648,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338415.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01087967",
@@ -3884,6 +4660,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338435.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02415193",
@@ -3894,6 +4672,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805327",
@@ -3904,6 +4684,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338495.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933115",
@@ -3914,6 +4696,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338515.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805318",
@@ -3924,6 +4708,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338535.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933088",
@@ -3934,6 +4720,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338555.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933147",
@@ -3944,6 +4732,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933123",
@@ -3954,6 +4744,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933111",
@@ -3964,6 +4756,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338695.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933087",
@@ -3974,6 +4768,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338715.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933107",
@@ -3984,6 +4780,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338795.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018338835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933084",
@@ -3994,6 +4792,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018338835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03165679",
@@ -4004,6 +4804,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03165677",
@@ -4014,6 +4816,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02383572",
@@ -4024,6 +4828,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339495.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02383574",
@@ -4034,6 +4840,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339815.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02383571",
@@ -4044,6 +4852,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01805330",
@@ -4054,6 +4864,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339875.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018339975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01823752",
@@ -4064,6 +4876,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018339975.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018340055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01832085",
@@ -4074,6 +4888,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018340055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018340215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03165658",
@@ -4084,6 +4900,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018340215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018340235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03165657",
@@ -4094,6 +4912,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018340235.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018340485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03275161",
@@ -4104,6 +4924,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018340485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_018340565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10588566",
@@ -4114,6 +4936,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_018340565.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_907163145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520469",
@@ -4124,6 +4948,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_907163145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_907163175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520468",
@@ -4134,6 +4960,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_907163175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_907163245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520470",
@@ -4144,6 +4972,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_907163245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_010732035.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933101",
@@ -4154,6 +4984,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_010732035.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006519455.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933105",
@@ -4164,6 +4996,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006519455.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_003869075.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01933104",
@@ -4174,6 +5008,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_003869075.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019339425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17316236",
@@ -4184,6 +5020,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019339425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019339445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17315640",
@@ -4194,6 +5032,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019339445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019339465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17316108",
@@ -4204,6 +5044,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019339465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019339485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17315977",
@@ -4214,6 +5056,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019339485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019426245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12082795",
@@ -4224,6 +5068,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019426245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019645915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20695325",
@@ -4234,6 +5080,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019645915.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00097512",
@@ -4244,6 +5092,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00097506",
@@ -4254,6 +5104,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00097511",
@@ -4264,6 +5116,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670185.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00097514",
@@ -4274,6 +5128,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670205.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00097500",
@@ -4284,6 +5140,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00097501",
@@ -4294,6 +5152,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234580",
@@ -4304,6 +5164,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670265.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234603",
@@ -4314,6 +5176,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234616",
@@ -4324,6 +5188,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234630",
@@ -4334,6 +5200,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234645",
@@ -4344,6 +5212,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234655",
@@ -4354,6 +5224,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234670",
@@ -4364,6 +5236,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234679",
@@ -4374,6 +5248,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234684",
@@ -4384,6 +5260,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234738",
@@ -4394,6 +5272,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019670465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00234746",
@@ -4404,6 +5284,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019670465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019710375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20692191",
@@ -4414,6 +5296,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019710375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019710395.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20693596",
@@ -4424,6 +5308,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019710395.3"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019890995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21035574",
@@ -4434,6 +5320,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019890995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019931635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21166609",
@@ -4444,6 +5332,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019931635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_007424245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10907658",
@@ -4454,6 +5344,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_007424245.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020691705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22488162",
@@ -4464,6 +5356,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020691705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020691725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22488165",
@@ -4474,6 +5368,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020691725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446318",
@@ -4484,6 +5380,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714645.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446302",
@@ -4494,6 +5392,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446300",
@@ -4504,6 +5404,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446319",
@@ -4514,6 +5416,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446317",
@@ -4524,6 +5428,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446315",
@@ -4534,6 +5440,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714765.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446316",
@@ -4544,6 +5452,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446314",
@@ -4554,6 +5464,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446301",
@@ -4564,6 +5476,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446313",
@@ -4574,6 +5488,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446297",
@@ -4584,6 +5500,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446299",
@@ -4594,6 +5512,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446312",
@@ -4604,6 +5524,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020714925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446298",
@@ -4614,6 +5536,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020714925.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446311",
@@ -4624,6 +5548,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715045.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446310",
@@ -4634,6 +5560,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446308",
@@ -4644,6 +5572,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446309",
@@ -4654,6 +5584,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715265.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446307",
@@ -4664,6 +5596,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446306",
@@ -4674,6 +5608,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446305",
@@ -4684,6 +5620,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446304",
@@ -4694,6 +5632,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446303",
@@ -4704,6 +5644,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446296",
@@ -4714,6 +5656,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446295",
@@ -4724,6 +5668,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446294",
@@ -4734,6 +5680,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446292",
@@ -4744,6 +5692,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446293",
@@ -4754,6 +5704,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446291",
@@ -4764,6 +5716,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446289",
@@ -4774,6 +5728,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715505.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446288",
@@ -4784,6 +5740,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020715545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446287",
@@ -4794,6 +5752,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020715545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020716645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22446290",
@@ -4804,6 +5764,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020716645.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_020783475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22814778",
@@ -4814,6 +5776,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_020783475.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006952825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02989073",
@@ -4824,6 +5788,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006952825.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_006911855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02989072",
@@ -4834,6 +5800,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_006911855.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451934",
@@ -4844,6 +5812,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451933",
@@ -4854,6 +5824,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451932",
@@ -4864,6 +5836,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266265.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451931",
@@ -4874,6 +5848,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451930",
@@ -4884,6 +5860,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451928",
@@ -4894,6 +5872,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451927",
@@ -4904,6 +5884,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451925",
@@ -4914,6 +5896,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451924",
@@ -4924,6 +5908,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021266445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23451923",
@@ -4934,6 +5920,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021266445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021383745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19173648",
@@ -4944,6 +5932,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021383745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021397625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24108481",
@@ -4954,6 +5944,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021397625.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021397645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24108485",
@@ -4964,6 +5956,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021397645.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021397675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24108483",
@@ -4974,6 +5968,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021397675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021399255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23296620",
@@ -4984,6 +5980,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021399255.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021474245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24619906",
@@ -4994,6 +5992,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021474245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021474265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24619911",
@@ -5004,6 +6004,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021474265.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021474285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24619910",
@@ -5014,6 +6016,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021474285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021474305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24619909",
@@ -5024,6 +6028,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021474305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021474325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24619908",
@@ -5034,6 +6040,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021474325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021474345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24619907",
@@ -5044,6 +6052,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021474345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021496255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24782759",
@@ -5054,6 +6064,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021496255.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021496275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24782770",
@@ -5064,6 +6076,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021496275.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021513315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17319566",
@@ -5074,6 +6088,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021513315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_021713115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25044003",
@@ -5084,6 +6100,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_021713115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022117515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25608808",
@@ -5094,6 +6112,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022117515.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022226915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25761580",
@@ -5104,6 +6124,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022226915.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022350005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25873476",
@@ -5114,6 +6136,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022350005.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022533545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26317632",
@@ -5124,6 +6148,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022533545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022557215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26319900",
@@ -5134,6 +6160,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022557215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941602",
@@ -5144,6 +6172,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941601",
@@ -5154,6 +6184,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941600",
@@ -5164,6 +6196,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941598",
@@ -5174,6 +6208,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941597",
@@ -5184,6 +6220,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941596",
@@ -5194,6 +6232,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15941595",
@@ -5204,6 +6244,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022559825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23543477",
@@ -5214,6 +6256,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022559825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022655645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26662412",
@@ -5224,6 +6268,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022655645.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022655665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26664046",
@@ -5234,6 +6280,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022655665.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022655685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26664047",
@@ -5244,6 +6292,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022655685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022655705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26664045",
@@ -5254,6 +6304,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022655705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022670675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26567210",
@@ -5264,6 +6316,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022670675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022670695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26567209",
@@ -5274,6 +6328,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022670695.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022670715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26567208",
@@ -5284,6 +6340,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022670715.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022670735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26567207",
@@ -5294,6 +6352,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022670735.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022670755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26567206",
@@ -5304,6 +6364,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022670755.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022670775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26567205",
@@ -5314,6 +6376,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022670775.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022760155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26818630",
@@ -5324,6 +6388,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022760155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022870685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17208412",
@@ -5334,6 +6400,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022870685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022936345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25644122",
@@ -5344,6 +6412,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022936345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022936365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25644119",
@@ -5354,6 +6424,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022936365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022936385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25644136",
@@ -5364,6 +6436,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022936385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022936425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25644148",
@@ -5374,6 +6448,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022936425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_022936485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25644135",
@@ -5384,6 +6460,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_022936485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023024545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26540071",
@@ -5394,6 +6472,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023024545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023158855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27647540",
@@ -5404,6 +6484,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023158855.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023159325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25644121",
@@ -5414,6 +6496,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023159325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249355",
@@ -5424,6 +6508,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249354",
@@ -5434,6 +6520,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419723",
@@ -5444,6 +6532,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330765.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419722",
@@ -5454,6 +6544,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419721",
@@ -5464,6 +6556,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419720",
@@ -5474,6 +6568,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419719",
@@ -5484,6 +6580,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419718",
@@ -5494,6 +6592,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419717",
@@ -5504,6 +6604,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023330905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16419716",
@@ -5514,6 +6616,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023330905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023702165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28614156",
@@ -5524,6 +6628,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023702165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_023746725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28818465",
@@ -5534,6 +6640,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_023746725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431229",
@@ -5544,6 +6652,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266125.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431218",
@@ -5554,6 +6664,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431219",
@@ -5564,6 +6676,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11546974",
@@ -5574,6 +6688,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266185.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11546981",
@@ -5584,6 +6700,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266205.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21365150",
@@ -5594,6 +6712,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266225.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11877932",
@@ -5604,6 +6724,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266245.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11877931",
@@ -5614,6 +6736,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266265.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431221",
@@ -5624,6 +6748,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266285.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27531299",
@@ -5634,6 +6760,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431228",
@@ -5644,6 +6772,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431225",
@@ -5654,6 +6784,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431230",
@@ -5664,6 +6796,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431226",
@@ -5674,6 +6808,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21365152",
@@ -5684,6 +6820,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21365146",
@@ -5694,6 +6832,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431224",
@@ -5704,6 +6844,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431223",
@@ -5714,6 +6856,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266505.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431220",
@@ -5724,6 +6868,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431217",
@@ -5734,6 +6880,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21365156",
@@ -5744,6 +6892,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266565.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024266785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29431227",
@@ -5754,6 +6904,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024266785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29629757",
@@ -5764,6 +6916,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630085",
@@ -5774,6 +6928,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630109",
@@ -5784,6 +6940,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630254",
@@ -5794,6 +6952,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630270",
@@ -5804,6 +6964,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630309",
@@ -5814,6 +6976,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364925.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630312",
@@ -5824,6 +6988,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364945.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630349",
@@ -5834,6 +7000,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364965.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024364985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630500",
@@ -5844,6 +7012,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024364985.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024365005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29630588",
@@ -5854,6 +7024,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024365005.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024365025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29631754",
@@ -5864,6 +7036,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024365025.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024494525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29857753",
@@ -5874,6 +7048,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024494525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024664475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29636373",
@@ -5884,6 +7060,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024664475.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024664595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29636372",
@@ -5894,6 +7072,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024664595.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024664715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29636371",
@@ -5904,6 +7084,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024664715.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024664835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29636370",
@@ -5914,6 +7096,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024664835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024664955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29636369",
@@ -5924,6 +7108,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024664955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024917195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30507085",
@@ -5934,6 +7120,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024917195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_024917215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30540908",
@@ -5944,6 +7132,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_024917215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025159055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30448801",
@@ -5954,6 +7144,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025159055.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025310955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30802447",
@@ -5964,6 +7156,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025310955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025311075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30802446",
@@ -5974,6 +7168,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025311075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025311235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30802445",
@@ -5984,6 +7180,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025311235.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025311295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30802444",
@@ -5994,6 +7192,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025311295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025311435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30802443",
@@ -6004,6 +7204,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025311435.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025643195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20990803",
@@ -6014,6 +7216,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025643195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025725745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31136160",
@@ -6024,6 +7228,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025725745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_025999715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00515066",
@@ -6034,6 +7240,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_025999715.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026013295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31055796",
@@ -6044,6 +7252,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026013295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026013315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31056807",
@@ -6054,6 +7264,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026013315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026248385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31698714",
@@ -6064,6 +7276,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026248385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026248545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31698713",
@@ -6074,6 +7288,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026248545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026278885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31740542",
@@ -6084,6 +7300,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026278885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026278905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31740541",
@@ -6094,6 +7312,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026278905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026278925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31740540",
@@ -6104,6 +7324,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026278925.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026684115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31880433",
@@ -6114,6 +7336,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026684115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026801915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814743",
@@ -6124,6 +7348,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026801915.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026801935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814742",
@@ -6134,6 +7360,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026801935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026801955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814741",
@@ -6144,6 +7372,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026801955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026801975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814740",
@@ -6154,6 +7384,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026801975.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026801995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814739",
@@ -6164,6 +7396,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026801995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026802015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814738",
@@ -6174,6 +7408,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026802015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026802035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814737",
@@ -6184,6 +7420,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026802035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026802055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31814736",
@@ -6194,6 +7432,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026802055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270681",
@@ -6204,6 +7444,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873305.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270680",
@@ -6214,6 +7456,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873325.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270679",
@@ -6224,6 +7468,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873345.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270678",
@@ -6234,6 +7480,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270677",
@@ -6244,6 +7492,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270676",
@@ -6254,6 +7504,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873405.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270675",
@@ -6264,6 +7516,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270674",
@@ -6274,6 +7528,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270673",
@@ -6284,6 +7540,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873465.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270672",
@@ -6294,6 +7552,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873485.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270671",
@@ -6304,6 +7564,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873505.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_026873525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25270670",
@@ -6314,6 +7576,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_026873525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016846205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17218897",
@@ -6324,6 +7588,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016846205.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_019933495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21390263",
@@ -6334,6 +7600,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_019933495.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016119675.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17071985",
@@ -6344,6 +7612,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016119675.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016122915.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17071986",
@@ -6354,6 +7624,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016122915.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016346925.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17086464",
@@ -6364,6 +7636,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016346925.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_016140035.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17086604",
@@ -6374,6 +7648,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_016140035.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015962365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17054056",
@@ -6384,6 +7660,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015962365.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009520275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07812784",
@@ -6394,6 +7672,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009520275.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_009544175.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07816322",
@@ -6404,6 +7684,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_009544175.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_004185015.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09475863",
@@ -6414,6 +7696,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_004185015.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_027474565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17221882",
@@ -6424,6 +7708,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_027474565.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_027701665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32423452",
@@ -6434,6 +7720,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_027701665.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_027943865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00280083",
@@ -6444,6 +7732,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_027943865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_015740605.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16989644",
@@ -6454,6 +7744,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_015740605.2"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028551175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32929940",
@@ -6464,6 +7756,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028551175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028596065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32989812",
@@ -6474,6 +7768,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028596065.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028596085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33038040",
@@ -6484,6 +7780,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028596085.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028607065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32741785",
@@ -6494,6 +7792,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028607065.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028623105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33062111",
@@ -6504,6 +7804,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028623105.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028623125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33061817",
@@ -6514,6 +7816,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028623125.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028623145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33062119",
@@ -6524,6 +7828,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028623145.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028735935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33218593",
@@ -6534,6 +7840,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028735935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028735955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33218603",
@@ -6544,6 +7852,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028735955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028735975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33218604",
@@ -6554,6 +7864,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028735975.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028743635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33246676",
@@ -6564,6 +7876,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028743635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028747825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32935257",
@@ -6574,6 +7888,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028747825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028747845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32935256",
@@ -6584,6 +7900,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028747845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028747865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32935255",
@@ -6594,6 +7912,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028747865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028747885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32935254",
@@ -6604,6 +7924,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028747885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028747905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32935253",
@@ -6614,6 +7936,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028747905.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028891365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33346708",
@@ -6624,6 +7948,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028891365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028891385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33346707",
@@ -6634,6 +7960,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028891385.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950783",
@@ -6644,6 +7972,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950782",
@@ -6654,6 +7984,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892665.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950781",
@@ -6664,6 +7996,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950780",
@@ -6674,6 +8008,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950779",
@@ -6684,6 +8020,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950778",
@@ -6694,6 +8032,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950777",
@@ -6704,6 +8044,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892765.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950776",
@@ -6714,6 +8056,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950775",
@@ -6724,6 +8068,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950774",
@@ -6734,6 +8080,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950773",
@@ -6744,6 +8092,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892845.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950772",
@@ -6754,6 +8104,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892865.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950771",
@@ -6764,6 +8116,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892885.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950810",
@@ -6774,6 +8128,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950811",
@@ -6784,6 +8140,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950809",
@@ -6794,6 +8152,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892975.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028892995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950808",
@@ -6804,6 +8164,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028892995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950807",
@@ -6814,6 +8176,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950806",
@@ -6824,6 +8188,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950805",
@@ -6834,6 +8200,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950804",
@@ -6844,6 +8212,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893075.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950803",
@@ -6854,6 +8224,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893095.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950802",
@@ -6864,6 +8236,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893115.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950801",
@@ -6874,6 +8248,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893135.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950800",
@@ -6884,6 +8260,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893155.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950799",
@@ -6894,6 +8272,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950798",
@@ -6904,6 +8284,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950797",
@@ -6914,6 +8296,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950796",
@@ -6924,6 +8308,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893235.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950795",
@@ -6934,6 +8320,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893255.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950794",
@@ -6944,6 +8332,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893275.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950793",
@@ -6954,6 +8344,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950792",
@@ -6964,6 +8356,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950791",
@@ -6974,6 +8368,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950790",
@@ -6984,6 +8380,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950789",
@@ -6994,6 +8392,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950788",
@@ -7004,6 +8404,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893395.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950787",
@@ -7014,6 +8416,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893415.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950786",
@@ -7024,6 +8428,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893435.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950785",
@@ -7034,6 +8440,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_028893475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32950784",
@@ -7044,6 +8452,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_028893475.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029225605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255102",
@@ -7054,6 +8464,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029225605.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029225665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255099",
@@ -7064,6 +8476,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029225665.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029225705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255097",
@@ -7074,6 +8488,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029225705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029225745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255096",
@@ -7084,6 +8500,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029225745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029537315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33818803",
@@ -7094,6 +8512,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029537315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029580835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33819937",
@@ -7104,6 +8524,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029580835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029590355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33944461",
@@ -7114,6 +8536,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029590355.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029591745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33760335",
@@ -7124,6 +8548,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029591745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029591825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33760351",
@@ -7134,6 +8560,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029591825.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029592045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33760338",
@@ -7144,6 +8572,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029592045.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029592105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33760354",
@@ -7154,6 +8584,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029592105.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029592185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33760349",
@@ -7164,6 +8596,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029592185.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029625035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33942062",
@@ -7174,6 +8608,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029625035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029692005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33715203",
@@ -7184,6 +8620,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029692005.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029692165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255094",
@@ -7194,6 +8632,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029692165.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255077",
@@ -7204,6 +8644,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748005.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255072",
@@ -7214,6 +8656,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748025.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255070",
@@ -7224,6 +8668,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748045.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255067",
@@ -7234,6 +8680,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748065.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255041",
@@ -7244,6 +8692,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748085.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24254903",
@@ -7254,6 +8704,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748105.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255093",
@@ -7264,6 +8716,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748135.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029748255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255092",
@@ -7274,6 +8728,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029748255.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029814235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34003877",
@@ -7284,6 +8740,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029814235.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_029953555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34404588",
@@ -7294,6 +8752,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_029953555.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_949361545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112702326",
@@ -7304,6 +8764,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_949361545.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030122175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33677890",
@@ -7314,6 +8776,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030122175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030122195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33677889",
@@ -7324,6 +8788,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030122195.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030122215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33677888",
@@ -7334,6 +8800,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030122215.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030122235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33677887",
@@ -7344,6 +8812,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030122235.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030127065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35175716",
@@ -7354,6 +8824,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030127065.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030127085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35169325",
@@ -7364,6 +8836,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030127085.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030168445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28928351",
@@ -7374,6 +8848,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030168445.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313071",
@@ -7384,6 +8860,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254665.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313061",
@@ -7394,6 +8872,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313070",
@@ -7404,6 +8884,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254705.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313050",
@@ -7414,6 +8896,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254725.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313068",
@@ -7424,6 +8908,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254745.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313064",
@@ -7434,6 +8920,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254765.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313052",
@@ -7444,6 +8932,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254785.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030254805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33313067",
@@ -7454,6 +8944,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030254805.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030435995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10434137",
@@ -7464,6 +8956,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030435995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030436365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35713968",
@@ -7474,6 +8968,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030436365.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030436425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35714917",
@@ -7484,6 +8980,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030436425.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030439685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35714885",
@@ -7494,6 +8992,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030439685.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030440615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16709262",
@@ -7504,6 +9004,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030440615.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030440635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16709263",
@@ -7514,6 +9016,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030440635.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030517175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34994532",
@@ -7524,6 +9028,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030517175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030867525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24255019",
@@ -7534,6 +9040,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030867525.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030913595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37070677",
@@ -7544,6 +9052,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030913595.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030913615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37071417",
@@ -7554,6 +9064,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030913615.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_030979995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105856",
@@ -7564,6 +9076,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_030979995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031035935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16789119",
@@ -7574,6 +9088,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031035935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807074",
@@ -7584,6 +9100,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036275.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807073",
@@ -7594,6 +9112,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036295.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807072",
@@ -7604,6 +9124,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036315.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807071",
@@ -7614,6 +9136,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036335.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807070",
@@ -7624,6 +9148,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036455.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807069",
@@ -7634,6 +9160,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036675.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031036835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807067",
@@ -7644,6 +9172,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031036835.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031037015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807091",
@@ -7654,6 +9184,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031037015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807075",
@@ -7664,6 +9196,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038275.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807090",
@@ -7674,6 +9208,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038815.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807089",
@@ -7684,6 +9220,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038915.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807088",
@@ -7694,6 +9232,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038935.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807087",
@@ -7704,6 +9244,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038955.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807086",
@@ -7714,6 +9256,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038975.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031038995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807085",
@@ -7724,6 +9268,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031038995.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807083",
@@ -7734,6 +9280,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039015.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807082",
@@ -7744,6 +9292,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039035.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807081",
@@ -7754,6 +9304,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039055.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807080",
@@ -7764,6 +9316,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039175.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807079",
@@ -7774,6 +9328,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039375.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807078",
@@ -7784,6 +9340,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039535.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807077",
@@ -7794,6 +9352,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039735.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031039875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16807076",
@@ -7804,6 +9364,8 @@
   "fasta": "data/groups_info/Salmonella/GCA_031039875.1"
  },
  {
+  "Salmonella": null,
+  "date": null,
   "asm_acc": "GCA_031188765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37160125",
@@ -7812,5 +9374,77 @@
   "scientific_name": "Salmonella enterica subsp. enterica serovar Enteritidis",
   "strain": "SA608",
   "fasta": "data/groups_info/Salmonella/GCA_031188765.1"
+ },
+ {
+  "Salmonella": null,
+  "date": null,
+  "asm_acc": "GCA_032465755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36745161",
+  "collection_date": "2022-07-08",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica serovar Mbandaka",
+  "strain": "JNQH948",
+  "fasta": "data/groups_info/Salmonella/GCA_032465755.1"
+ },
+ {
+  "Salmonella": null,
+  "date": null,
+  "asm_acc": "GCA_032465775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36745158",
+  "collection_date": "2022-03-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica serovar Enteritidis",
+  "strain": "JNQH952",
+  "fasta": "data/groups_info/Salmonella/GCA_032465775.1"
+ },
+ {
+  "Salmonella": null,
+  "date": null,
+  "asm_acc": "GCA_032465795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36745171",
+  "collection_date": "2022-10-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica serovar Enteritidis",
+  "strain": "JNQH940",
+  "fasta": "data/groups_info/Salmonella/GCA_032465795.1"
+ },
+ {
+  "Salmonella": null,
+  "date": null,
+  "asm_acc": "GCA_032465835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36745160",
+  "collection_date": "2022-06-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica subsp. enterica serovar Thompson",
+  "strain": "JNQH950",
+  "fasta": "data/groups_info/Salmonella/GCA_032465835.1"
+ },
+ {
+  "Salmonella": null,
+  "date": null,
+  "asm_acc": "GCA_032598805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32628980",
+  "collection_date": "2020-09-15",
+  "host": "CHICKEN",
+  "scientific_name": "Salmonella enterica subsp. enterica serovar Gallinarum",
+  "strain": "SG1",
+  "fasta": "data/groups_info/Salmonella/GCA_032598805.1"
+ },
+ {
+  "Salmonella": null,
+  "date": null,
+  "asm_acc": "GCA_032700165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN30589491",
+  "collection_date": "2018-08-20",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Salmonella enterica",
+  "strain": "QT6365",
+  "fasta": "data/groups_info/Salmonella/GCA_032700165.1"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Candida_auris": "PDG000000067.146",
-  "date": "Sat Oct  7 20:52:55 2023"
+  "Candida_auris": "PDG000000067.148",
+  "date": "Thu Oct 19 21:09:01 2023"
  },
  {
   "asm_acc": "GCA_008275145.1",
@@ -398,5 +398,23 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "[Candida] auris",
   "strain": "B11103"
+ },
+ {
+  "asm_acc": "GCA_032714025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36753179",
+  "collection_date": "2022-07-04",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "F1580"
+ },
+ {
+  "asm_acc": "GCA_032715285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36753178",
+  "collection_date": "2023-04-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "[Candida] auris",
+  "strain": "F3485"
  }
 ]

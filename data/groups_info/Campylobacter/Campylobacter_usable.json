@@ -1,7 +1,7 @@
 [
  {
-  "Campylobacter": "PDG000000003.2040",
-  "date": "Sat Oct  7 20:52:50 2023"
+  "Campylobacter": "PDG000000003.2049",
+  "date": "Thu Oct 19 21:08:59 2023"
  },
  {
   "asm_acc": "GCA_000025425.1",
@@ -2918,5 +2918,23 @@
   "host": "BOVINE",
   "scientific_name": "Campylobacter fetus subsp. venerealis bv. intermedius",
   "strain": "CFV924"
+ },
+ {
+  "asm_acc": "GCA_032594815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29446663",
+  "collection_date": "2009-07/2018-12",
+  "host": "BOVINE",
+  "scientific_name": "Campylobacter fetus subsp. fetus",
+  "strain": "M20-04752-1B"
+ },
+ {
+  "asm_acc": "GCA_032594895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN29446662",
+  "collection_date": "2009-07/2018-12",
+  "host": "BOVINE",
+  "scientific_name": "Campylobacter fetus subsp. fetus",
+  "strain": "M20-08756-1A"
  }
 ]

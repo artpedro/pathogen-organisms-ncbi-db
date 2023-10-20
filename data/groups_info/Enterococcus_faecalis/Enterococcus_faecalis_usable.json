@@ -1,7 +1,7 @@
 [
  {
-  "Enterococcus_faecalis": "PDG000000072.404",
-  "date": "Sat Oct  7 20:53:35 2023"
+  "Enterococcus_faecalis": "PDG000000072.406",
+  "date": "Thu Oct 19 21:09:25 2023"
  },
  {
   "asm_acc": "GCA_000281195.1",
@@ -1370,5 +1370,77 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "N775_PC2"
+ },
+ {
+  "asm_acc": "GCA_032680925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37639062",
+  "collection_date": "2022-01-19",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "ES-1348"
+ },
+ {
+  "asm_acc": "GCA_032680945.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37639060",
+  "collection_date": "2021-07-05",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "ES-397"
+ },
+ {
+  "asm_acc": "GCA_032680965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37639061",
+  "collection_date": "2021-12-31",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "ES-1276"
+ },
+ {
+  "asm_acc": "GCA_032680985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37639064",
+  "collection_date": "2022-10-12",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "ES-2953"
+ },
+ {
+  "asm_acc": "GCA_032681005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37639065",
+  "collection_date": "2022-11-28",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "ES-3222"
+ },
+ {
+  "asm_acc": "GCA_032681025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37639063",
+  "collection_date": "2022-01-26",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "ES-1390"
+ },
+ {
+  "asm_acc": "GCA_032681065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37687441",
+  "collection_date": "2020-12-10",
+  "host": "HOMO SAPIENS",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF4H-114"
+ },
+ {
+  "asm_acc": "GCA_032760395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37686922",
+  "collection_date": "2020-10-20",
+  "host": "PIG",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF3A-2134"
  }
 ]

@@ -1,9 +1,11 @@
 [
  {
-  "Staphylococcus_pseudintermedius": "PDG000000042.337",
-  "date": "Sat Oct  7 20:56:54 2023"
+  "Staphylococcus_pseudintermedius": "PDG000000042.341",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_000185885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603958",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_000185885.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_001682335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05181828",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_001682335.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_001682435.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05181827",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_001682435.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_001685665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04886711",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_001685665.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_002950775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02947195",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_002950775.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_003627735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10142584",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_003627735.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_900636325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3491697",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_900636325.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_007833515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378491",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_007833515.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_007833535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378493",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_007833535.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_007833695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09519064",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_007833695.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_007833715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378648",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_007833715.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_007833735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378519",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_007833735.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_007833755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378520",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_007833755.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_009184785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999170",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_009184785.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_009184805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999206",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_009184805.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_014353035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15897749",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_014353035.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_014490535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15950890",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_014490535.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016126695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039297",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016126695.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016126715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039295",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016126715.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016126735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039294",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016126735.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016126755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039296",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016126755.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016126775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039293",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016126775.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016126795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039292",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016126795.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016454965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102162",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016454965.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016454985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102161",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016454985.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102154",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455005.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102142",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455025.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102159",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455065.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102137",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455085.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102158",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455105.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102132",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455145.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102122",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455165.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102118",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455205.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102133",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455225.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102155",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455245.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102140",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455265.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016455285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102138",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016455285.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016598895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102145",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016598895.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_016598915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102146",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_016598915.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_017795485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14548661",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_017795485.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019996845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249952",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019996845.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019996945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249978",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019996945.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997005.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249960",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997005.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249974",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997045.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997065.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249964",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997065.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997085.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249966",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997085.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997105.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249928",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997105.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997125.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249932",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997125.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997145.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249931",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997145.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997165.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249951",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997165.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997185.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249930",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997185.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249959",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997205.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997225.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249972",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997225.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249961",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997245.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249933",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997265.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997285.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249954",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997285.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249940",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997325.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997445.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249942",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997445.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249935",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997565.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249968",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997625.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249965",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997705.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249958",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997765.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249962",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997785.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249955",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997805.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249963",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997825.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249967",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997845.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249957",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997885.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997905.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249929",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997905.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997925.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249953",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997925.3"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249971",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997945.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249977",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997965.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019997985.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249937",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019997985.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998005.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249941",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998005.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998025.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249970",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998025.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249969",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998045.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998065.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249936",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998065.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998185.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249947",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998185.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998285.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249976",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998285.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998365.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249956",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998365.3"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249938",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998395.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249946",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998525.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249939",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998665.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998685.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249949",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998685.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249934",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998705.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998745.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249948",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998745.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249945",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998765.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249950",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998785.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249944",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998805.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_019998825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249943",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_019998825.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685605.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568742",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685605.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568738",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685625.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568732",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685645.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685685.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568730",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685685.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568736",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685705.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685725.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568737",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685725.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685745.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568733",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685745.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568740",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685765.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568735",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685785.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568734",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685805.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568731",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685845.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685865.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568739",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685865.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568728",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685885.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685905.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568729",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685905.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020685925.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568727",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020685925.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020686685.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568743",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020686685.2"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020693965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249973",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020693965.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_020693985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249975",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_020693985.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_025558745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923358",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_025558745.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_025558765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923356",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_025558765.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_025558785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923355",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_025558785.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_025558805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923354",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_025558805.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_025558825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923353",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_025558825.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_025561565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923357",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_025561565.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_030254625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35621296",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_030254625.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_030263975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35555370",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_030263975.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_030264035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35555368",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_030264035.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_030444385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36270296",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_030444385.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_030444425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36270287",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_030444425.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_030444445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36270286",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Staphylococcus_pseudintermedius/GCA_030444445.1"
  },
  {
+  "Staphylococcus_pseudintermedius": null,
+  "date": null,
   "asm_acc": "GCA_031239735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31222422",

@@ -1,9 +1,11 @@
 [
  {
-  "Citrobacter_freundii": "PDG000000039.671",
-  "date": "Sat Oct  7 20:53:00 2023"
+  "Citrobacter_freundii": "PDG000000039.681",
+  "date": "Thu Oct 19 21:32:30 2023"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_001022155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733741",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_001022155.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_001022275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733754",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_001022275.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_001558935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996309",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_001558935.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_001559075.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996265",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_001559075.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_001718055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05570461",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_001718055.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_002208845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173303",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_002208845.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_002208985.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173300",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_002208985.3"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_002386385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312408",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_002386385.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_002393245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312437",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_002393245.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729551",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665535.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729550",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665555.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729549",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665575.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729547",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665595.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729546",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665615.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729545",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665635.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729552",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665655.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003665675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07729548",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003665675.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003812325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163243",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003812325.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003812345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163242",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003812345.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_003812405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163225",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_003812405.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_900638065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA103980411",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_900638065.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_006965505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11653541",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_006965505.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_008693645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056331",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_008693645.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_008693945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056361",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_008693945.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_008931485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289284",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_008931485.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_009857035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13282750",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_009857035.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_013085885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13978991",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_013085885.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_013371705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13737474",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_013371705.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014169975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15086848",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014169975.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014170055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15086845",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014170055.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014189285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11506077",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014189285.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014189355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11506022",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014189355.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014189375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11506036",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014189375.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014679775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00244769",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014679775.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_014725915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11505996",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_014725915.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_904859905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3357462",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_904859905.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_015353115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16667806",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_015353115.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_016939615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933282",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_016939615.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_017086505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13140889",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_017086505.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_018128425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17736025",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_018128425.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_019443705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14371231",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_019443705.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_019645955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20585126",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_019645955.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_019803045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20153794",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_019803045.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_020809005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21601121",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_020809005.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905218895.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7853238",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905218895.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905219065.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7853256",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905219065.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905232395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7962729",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905232395.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905232515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7962742",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905232515.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905329885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065677",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905329885.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905338045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158485",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905338045.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905337805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158506",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905337805.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_905337845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158505",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_905337845.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_021278985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21155799",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_021278985.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_022646275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15694748",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_022646275.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_023658085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28680541",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_023658085.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_024662035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30174882",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_024662035.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_025723225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27967465",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_025723225.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_026240835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31693425",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_026240835.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_026626145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26195905",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_026626145.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_026526975.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31929640",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_026526975.2"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_029025745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33442942",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_029025745.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_029634665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26319875",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_029634665.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030007575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14640084",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030007575.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030007795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14640085",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030007795.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030035205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34580837",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030035205.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030064365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31656063",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030064365.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030122495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33434147",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030122495.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030177735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35332011",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030177735.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_030178515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974102",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_030178515.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_023203275.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27992996",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_023203275.3"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_032345935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529179",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_032345935.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_032346775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529178",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Citrobacter_freundii/GCA_032346775.1"
  },
  {
+  "Citrobacter_freundii": null,
+  "date": null,
   "asm_acc": "GCA_032347795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529183",

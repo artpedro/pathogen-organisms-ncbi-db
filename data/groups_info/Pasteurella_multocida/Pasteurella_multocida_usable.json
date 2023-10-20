@@ -1,7 +1,7 @@
 [
  {
-  "Pasteurella_multocida": "PDG000000102.36",
-  "date": "Sat Oct  7 20:55:15 2023"
+  "Pasteurella_multocida": "PDG000000102.38",
+  "date": "Thu Oct 19 21:10:38 2023"
  },
  {
   "asm_acc": "GCA_000259545.1",
@@ -1109,5 +1109,23 @@
   "host": "SUS SCROFA",
   "scientific_name": "Pasteurella multocida",
   "strain": "80176"
+ },
+ {
+  "asm_acc": "GCA_032598635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15644334",
+  "collection_date": "2018-06-24",
+  "host": "DUCK",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "RCAD0726"
+ },
+ {
+  "asm_acc": "GCA_032598655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15644335",
+  "collection_date": "2018-09-04",
+  "host": "DUCK",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "RCAD0730"
  }
 ]

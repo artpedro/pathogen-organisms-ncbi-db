@@ -1,9 +1,11 @@
 [
  {
-  "Flavobacterium_psychrophilum": "PDG000000078.17",
-  "date": "Sat Oct  7 20:54:24 2023"
+  "Flavobacterium_psychrophilum": "PDG000000078.18",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_000754365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290989",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_000754365.1"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_000754405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290988",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_000754405.1"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_009730675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13381501",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_009730675.1"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_013343175.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11356335",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_013343175.2"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_013343195.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11356336",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_013343195.3"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_016803475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15518435",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_016803475.1"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_019774575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20804763",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Flavobacterium_psychrophilum/GCA_019774575.1"
  },
  {
+  "Flavobacterium_psychrophilum": null,
+  "date": null,
   "asm_acc": "GCA_019774595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20804762",

@@ -9,26 +9,26 @@
   "Aeromonas salmonicida subsp. masoucida": 5
  },
  "scientific_name": {
-  "Aeromonas salmonicida subsp. salmonicida": 6,
   "Aeromonas salmonicida": 11,
+  "Aeromonas salmonicida subsp. salmonicida": 6,
   "Aeromonas salmonicida subsp. masoucida": 5
  },
  "strain": {
   "RZ6S-1": 2
  },
  "hosts": {
-  "ENVIRONMENT": 1,
-  "TURBO": 2,
-  "FISH": 9,
-  "PROCAMBARUS CLARKII": 1,
-  "PIG": 1,
-  "SEBASTES SCHLEGELII": 1,
-  "KAREIUS BICOLORATUS": 1,
-  "COREGONUS PELED": 1,
-  "SALMO SALAR": 1,
   "SEBASTES SCHLEGELI": 1,
-  "CHICKEN": 1,
+  "KAREIUS BICOLORATUS": 1,
+  "SEBASTES SCHLEGELII": 1,
   "SALVELINUS FONTINALIS": 1,
-  "MACROBRACHIUM ROSENBERGII": 1
+  "TURBO": 2,
+  "COREGONUS PELED": 1,
+  "ENVIRONMENT": 1,
+  "PROCAMBARUS CLARKII": 1,
+  "FISH": 9,
+  "CHICKEN": 1,
+  "SALMO SALAR": 1,
+  "MACROBRACHIUM ROSENBERGII": 1,
+  "PIG": 1
  }
 }

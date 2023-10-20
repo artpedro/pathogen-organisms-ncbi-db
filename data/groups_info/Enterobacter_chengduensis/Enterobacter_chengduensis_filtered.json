@@ -1,9 +1,11 @@
 [
  {
-  "Enterobacter_chengduensis": "PDG000000118.9",
-  "date": "Sat Oct  7 20:53:20 2023"
+  "Enterobacter_chengduensis": "PDG000000118.10",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Enterobacter_chengduensis": null,
+  "date": null,
   "asm_acc": "GCA_001984825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06249239",

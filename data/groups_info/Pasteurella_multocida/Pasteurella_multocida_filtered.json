@@ -1,9 +1,11 @@
 [
  {
-  "Pasteurella_multocida": "PDG000000102.36",
-  "date": "Sat Oct  7 20:55:15 2023"
+  "Pasteurella_multocida": "PDG000000102.38",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_000259545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603505",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_000259545.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_000512395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02641508",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_000512395.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_001670425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04285688",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_001670425.2"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_001721885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04520874",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_001721885.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_001874445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05967336",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_001874445.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002059225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06140953",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002059225.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002068175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06140952",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002068175.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002073255.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875555",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002073255.2"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002073295.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875553",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002073295.2"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_900187275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4521464",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_900187275.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002393385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312428",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002393385.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002591295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312429",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002591295.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622941",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859245.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622935",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859265.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622946",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859285.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622933",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859305.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622931",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859325.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622938",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859345.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622944",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859365.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622936",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859385.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622943",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859405.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622942",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859425.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622937",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859445.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622940",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859465.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622932",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859485.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622934",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859505.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622939",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859525.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002859545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622945",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859545.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002891825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03860035",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002891825.2"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002891845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03860038",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002891845.2"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_002948995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08498425",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_002948995.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_900478175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2822166",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_900478175.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_003402875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09781073",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_003402875.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_900636625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3696435",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_900636625.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_900638315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167231",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_900638315.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_900638665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104338374",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_900638665.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_004792555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349271",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792555.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_004792575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349311",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792575.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_004792595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349313",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792595.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_004792615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349649",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792615.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_004792635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349653",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792635.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_006232125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11040711",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_006232125.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_006351865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11964561",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_006351865.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_008693845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056359",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_008693845.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_009646155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13069870",
@@ -454,6 +544,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_009646155.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_009739555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10371982",
@@ -464,6 +556,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_009739555.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_009739575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10373508",
@@ -474,6 +568,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_009739575.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_010443215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13867109",
@@ -484,6 +580,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_010443215.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_011149495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260239",
@@ -494,6 +592,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_011149495.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_011390865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14001150",
@@ -504,6 +604,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_011390865.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501685",
@@ -514,6 +616,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058465.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501684",
@@ -524,6 +628,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058485.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501683",
@@ -534,6 +640,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058585.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501682",
@@ -544,6 +652,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058605.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501681",
@@ -554,6 +664,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058625.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501680",
@@ -564,6 +676,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058645.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014058665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501679",
@@ -574,6 +688,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058665.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_014495805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15955129",
@@ -584,6 +700,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_014495805.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_016313205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17080908",
@@ -594,6 +712,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_016313205.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_017815735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18520938",
@@ -604,6 +724,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_017815735.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_018139065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18753491",
@@ -614,6 +736,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_018139065.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_019134675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19771027",
@@ -624,6 +748,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_019134675.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_019754255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20842242",
@@ -634,6 +760,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_019754255.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_019754275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20845833",
@@ -644,6 +772,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_019754275.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_019916005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21014890",
@@ -654,6 +784,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_019916005.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_021474145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24595887",
@@ -664,6 +796,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_021474145.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_022637295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19461146",
@@ -674,6 +808,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_022637295.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023572865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28548360",
@@ -684,6 +820,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572865.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023572885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28548364",
@@ -694,6 +832,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572885.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023572905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552806",
@@ -704,6 +844,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572905.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023572925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552779",
@@ -714,6 +856,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572925.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023572945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552780",
@@ -724,6 +868,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572945.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023572985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552832",
@@ -734,6 +880,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572985.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553018",
@@ -744,6 +892,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573005.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552975",
@@ -754,6 +904,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573025.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553023",
@@ -764,6 +916,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573045.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553020",
@@ -774,6 +928,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573065.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552996",
@@ -784,6 +940,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573085.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552999",
@@ -794,6 +952,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573105.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023573125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553054",
@@ -804,6 +964,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573125.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023586965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163571",
@@ -814,6 +976,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023586965.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163570",
@@ -824,6 +988,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587085.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163569",
@@ -834,6 +1000,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587205.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163568",
@@ -844,6 +1012,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587305.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163560",
@@ -854,6 +1024,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587465.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163559",
@@ -864,6 +1036,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587585.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163552",
@@ -874,6 +1048,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587605.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163549",
@@ -884,6 +1060,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587625.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163548",
@@ -894,6 +1072,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587645.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163541",
@@ -904,6 +1084,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587665.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163539",
@@ -914,6 +1096,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587685.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163538",
@@ -924,6 +1108,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587705.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_023587725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163529",
@@ -934,6 +1120,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587725.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765270",
@@ -944,6 +1132,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409225.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765282",
@@ -954,6 +1144,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409245.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765310",
@@ -964,6 +1156,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409265.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765475",
@@ -974,6 +1168,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409285.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765425",
@@ -984,6 +1180,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409305.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31736550",
@@ -994,6 +1192,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409325.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765396",
@@ -1004,6 +1204,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409345.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026409365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765285",
@@ -1014,6 +1216,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409365.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_020971725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599412",
@@ -1024,6 +1228,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_020971725.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_024055505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553350",
@@ -1034,6 +1240,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_024055505.2"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026153335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31560871",
@@ -1044,6 +1252,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026153335.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026153375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31560870",
@@ -1054,6 +1264,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026153375.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026315065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31749861",
@@ -1064,6 +1276,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315065.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026315085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750065",
@@ -1074,6 +1288,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315085.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026315125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750135",
@@ -1084,6 +1300,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315125.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026315145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751329",
@@ -1094,6 +1312,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315145.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026315165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751361",
@@ -1104,6 +1324,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315165.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026315225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751474",
@@ -1114,6 +1336,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315225.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026636255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750315",
@@ -1124,6 +1348,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026636255.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_026723845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765281",
@@ -1134,6 +1360,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_026723845.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_029224005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33607990",
@@ -1144,6 +1372,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_029224005.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_029873295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29020738",
@@ -1154,6 +1384,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_029873295.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_030059805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35015592",
@@ -1164,6 +1396,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_030059805.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_030122645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35015591",
@@ -1174,6 +1408,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_030122645.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_030846735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36892110",
@@ -1184,6 +1420,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_030846735.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_031432935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37266154",
@@ -1194,6 +1432,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_031432935.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_031463095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37223740",
@@ -1204,6 +1444,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_031463095.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_031583005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37274988",
@@ -1214,6 +1456,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_031583005.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_032259785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37474557",
@@ -1224,6 +1468,8 @@
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_032259785.1"
  },
  {
+  "Pasteurella_multocida": null,
+  "date": null,
   "asm_acc": "GCA_032260685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37474556",
@@ -1232,5 +1478,29 @@
   "scientific_name": "Pasteurella multocida",
   "strain": "80176",
   "fasta": "data/groups_info/Pasteurella_multocida/GCA_032260685.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_032598635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15644334",
+  "collection_date": "2018-06-24",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "RCAD0726",
+  "fasta": "data/groups_info/Pasteurella_multocida/GCA_032598635.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_032598655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN15644335",
+  "collection_date": "2018-09-04",
+  "host": "CHICKEN",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "RCAD0730",
+  "fasta": "data/groups_info/Pasteurella_multocida/GCA_032598655.1"
  }
 ]

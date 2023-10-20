@@ -1,9 +1,11 @@
 [
  {
-  "Stenotrophomonas_maltophilia": "PDG000000093.71",
-  "date": "Sat Oct  7 20:56:55 2023"
+  "Stenotrophomonas_maltophilia": "PDG000000093.73",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_001274595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03389650",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_001274595.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_002025605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130959",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_002025605.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_002208885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173338",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_002208885.2"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_900186865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4076705",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900186865.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_002951115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996266",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_002951115.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_900475405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3856672",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900475405.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_900475685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956094",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900475685.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_003812985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163201",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_003812985.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_900636655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3724090",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_900636655.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_007833655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09665072",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_007833655.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_008693985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056364",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_008693985.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_011386925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14206046",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_011386925.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_012971765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12500624",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_012971765.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_023702495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28867336",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_023702495.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_024734725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30333624",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_024734725.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_025642255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30996861",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_025642255.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_026428295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09720998",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_026428295.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_027594805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23434718",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Stenotrophomonas_maltophilia/GCA_027594805.1"
  },
  {
+  "Stenotrophomonas_maltophilia": null,
+  "date": null,
   "asm_acc": "GCA_030867045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36999638",

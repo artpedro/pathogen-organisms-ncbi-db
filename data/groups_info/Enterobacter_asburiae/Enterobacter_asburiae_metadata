@@ -10,9 +10,9 @@
  },
  "strain": {},
  "hosts": {
-  "LARUS MICHAHELLIS": 3,
   "HOMO SAPIENS": 16,
-  "FELIS CATUS": 1,
-  "RICE": 2
+  "RICE": 2,
+  "LARUS MICHAHELLIS": 3,
+  "FELIS CATUS": 1
  }
 }

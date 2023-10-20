@@ -10,8 +10,8 @@
  },
  "strain": {},
  "hosts": {
-  "NOT AVAILABLE": 1,
   "HOMO SAPIENS": 3,
-  "BOVINE": 1
+  "BOVINE": 1,
+  "NOT AVAILABLE": 1
  }
 }

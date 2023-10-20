@@ -1,9 +1,11 @@
 [
  {
-  "Yersinia_ruckeri": "PDG000000086.18",
-  "date": "Sat Oct  7 20:57:40 2023"
+  "Yersinia_ruckeri": "PDG000000086.19",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_000964565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03421018",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_000964565.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_002192595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03287980",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_002192595.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_002442495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07594326",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_002442495.2"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_023212385.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982389",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212385.2"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_023212425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982385",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212425.2"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_023212445.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982383",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212445.2"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_023212565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982378",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212565.2"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_023212585.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23150584",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_023212585.2"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879013",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435115.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879012",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435135.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879011",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435155.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879010",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435175.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879009",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435195.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879008",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435215.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879007",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435235.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879006",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435255.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879005",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435275.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879004",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435295.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879003",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435315.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879002",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435335.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879001",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435495.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879000",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435655.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_026435835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28878999",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Yersinia_ruckeri/GCA_026435835.1"
  },
  {
+  "Yersinia_ruckeri": null,
+  "date": null,
   "asm_acc": "GCA_031192345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37120472",

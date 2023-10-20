@@ -1,9 +1,11 @@
 [
  {
-  "Clostridium_perfringens": "PDG000000061.171",
-  "date": "Sat Oct  7 20:53:11 2023"
+  "Clostridium_perfringens": "PDG000000061.172",
+  "date": "Thu Oct 19 21:32:30 2023"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_001579765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03372134",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_001579765.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_001579785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03377063",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_001579785.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_001854085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04209542",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_001854085.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_002355795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00057672",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_002355795.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_003203455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08195748",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_003203455.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_900475545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3867463",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_900475545.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_900478015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4040483",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_900478015.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_003350945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08771210",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_003350945.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_012271835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14089789",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_012271835.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_018135545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18740316",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_018135545.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_022429605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26101717",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_022429605.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_022845735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00389861",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_022845735.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_023008265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20819815",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_023008265.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_024599935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28230540",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_024599935.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_024599955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28416573",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_024599955.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_024652865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27755654",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_024652865.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_028743735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33244154",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_028743735.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_028867175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33306092",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_028867175.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_029233855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28005067",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_029233855.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_029392915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781896",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_029392915.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_029392935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781893",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_029392935.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_029392955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781895",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_029392955.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_029393075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781892",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Clostridium_perfringens/GCA_029393075.1"
  },
  {
+  "Clostridium_perfringens": null,
+  "date": null,
   "asm_acc": "GCA_029393235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781891",

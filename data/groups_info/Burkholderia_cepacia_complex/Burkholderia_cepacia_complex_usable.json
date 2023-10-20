@@ -1,7 +1,7 @@
 [
  {
-  "Burkholderia_cepacia_complex": "PDG000000094.60",
-  "date": "Sat Oct  7 20:52:32 2023"
+  "Burkholderia_cepacia_complex": "PDG000000094.62",
+  "date": "Thu Oct 19 21:08:50 2023"
  },
  {
   "asm_acc": "GCA_001411495.1",
@@ -803,6 +803,15 @@
   "host": "HOMO SAPIENS",
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "LMG16232"
+ },
+ {
+  "asm_acc": "GCA_030374675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31055413",
+  "collection_date": "2021-10-20",
+  "host": "SORGHUM BICOLOR",
+  "scientific_name": "Burkholderia anthina",
+  "strain": "SO82"
  },
  {
   "asm_acc": "GCA_030848725.1",

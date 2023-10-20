@@ -1,9 +1,11 @@
 [
  {
-  "Vibrio_vulnificus": "PDG000000058.227",
-  "date": "Sat Oct  7 20:57:38 2023"
+  "Vibrio_vulnificus": "PDG000000058.228",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_000746665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03009989",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_000746665.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_001433435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03174938",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001433435.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_001558515.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996334",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001558515.2"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_001653775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03764475",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001653775.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_001675245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03956906",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_001675245.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_002204915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05196200",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_002204915.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_002215135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04457466",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_002215135.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_002850455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06237111",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_002850455.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_004319645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563567",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_004319645.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_008693685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056378",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_008693685.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_014107515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12816916",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_014107515.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_025994915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00506751",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_025994915.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_030220165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35548064",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Vibrio_vulnificus/GCA_030220165.1"
  },
  {
+  "Vibrio_vulnificus": null,
+  "date": null,
   "asm_acc": "GCA_031883075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37345416",

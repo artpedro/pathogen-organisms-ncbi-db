@@ -1,46 +1,46 @@
 {
  "group": "Pseudomonas_aeruginosa",
- "count": 627,
+ "count": 632,
  "species": {
-  "Pseudomonas aeruginosa": 627
+  "Pseudomonas aeruginosa": 632
  },
  "subsp.": {},
  "scientific_name": {
+  "Pseudomonas aeruginosa C-NN2": 1,
+  "Pseudomonas aeruginosa DHS01": 1,
+  "Pseudomonas aeruginosa TBCF10839": 1,
+  "Pseudomonas aeruginosa CI27": 1,
+  "Pseudomonas aeruginosa": 624,
   "Pseudomonas aeruginosa DK1": 1,
   "Pseudomonas aeruginosa SCV20265": 1,
-  "Pseudomonas aeruginosa CI27": 1,
-  "Pseudomonas aeruginosa DHS01": 1,
-  "Pseudomonas aeruginosa C-NN2": 1,
-  "Pseudomonas aeruginosa": 619,
-  "Pseudomonas aeruginosa TBCF10839": 1,
   "Pseudomonas aeruginosa B136-33": 1,
   "Pseudomonas aeruginosa PAK": 1
  },
  "strain": {
   "B17932": 2,
-  "DL201330": 2,
+  "AU10241": 3,
   "null": 14,
   "ATCC 27853": 2,
-  "AU10241": 3
+  "DL201330": 2
  },
  "hosts": {
-  "MALE": 1,
-  "ENVIRONMENT": 1,
-  "RICE": 1,
   "MINK": 1,
+  "TURSIOPS TRUNCATUS (BOTTLENOSE DOLPHIN)": 1,
+  "CYSTIC FIBROSIS (CF) PATIENTS": 1,
+  "TETRADESMUS DIMORPHUS": 1,
+  "ENVIRONMENT": 1,
+  "TOBACCO": 1,
+  "MALE": 1,
+  "RICE": 1,
+  "MORUS ALBA": 1,
+  "SEVERELY BURNED PATIENT": 1,
+  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
+  "NOT COLLECTED": 1,
   "NOT AVAILABLE": 3,
   "NIST MIXED MICROBIAL RM STRAIN": 1,
-  "NOT COLLECTED": 1,
-  "HOMO SAPIENS": 605,
+  "HOMO SAPIENS": 610,
   "SUGARCANE": 4,
-  "TOBACCO": 1,
-  "SEVERELY BURNED PATIENT": 1,
-  "TETRADESMUS DIMORPHUS": 1,
-  "CYSTIC FIBROSIS (CF) PATIENTS": 1,
-  "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN": 1,
-  "MORUS ALBA": 1,
-  "HUMEN BEING": 1,
-  "TURSIOPS TRUNCATUS (BOTTLENOSE DOLPHIN)": 1,
-  "BOVINE": 1
+  "BOVINE": 1,
+  "HUMEN BEING": 1
  }
 }

@@ -1,9 +1,11 @@
 [
  {
-  "Yersinia_enterocolitica": "PDG000000087.136",
-  "date": "Sat Oct  7 20:57:39 2023"
+  "Yersinia_enterocolitica": "PDG000000087.138",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Yersinia_enterocolitica": null,
+  "date": null,
   "asm_acc": "GCA_000968115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4532339",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_000968115.1"
  },
  {
+  "Yersinia_enterocolitica": null,
+  "date": null,
   "asm_acc": "GCA_001305635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03490473",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_001305635.1"
  },
  {
+  "Yersinia_enterocolitica": null,
+  "date": null,
   "asm_acc": "GCA_900635745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2742608",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_900635745.1"
  },
  {
+  "Yersinia_enterocolitica": null,
+  "date": null,
   "asm_acc": "GCA_900637005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3936789",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_900637005.1"
  },
  {
+  "Yersinia_enterocolitica": null,
+  "date": null,
   "asm_acc": "GCA_004368055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09641678",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_004368055.1"
  },
  {
+  "Yersinia_enterocolitica": null,
+  "date": null,
   "asm_acc": "GCA_901472495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2742606",

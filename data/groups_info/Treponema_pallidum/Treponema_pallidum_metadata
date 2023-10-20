@@ -5,17 +5,17 @@
   "Treponema pallidum": 11
  },
  "subsp.": {
-  "Treponema pallidum subsp. pertenue": 4,
-  "Treponema pallidum subsp. pallidum": 7
+  "Treponema pallidum subsp. pallidum": 7,
+  "Treponema pallidum subsp. pertenue": 4
  },
  "scientific_name": {
-  "Treponema pallidum subsp. pertenue": 4,
-  "Treponema pallidum subsp. pallidum": 7
+  "Treponema pallidum subsp. pallidum": 7,
+  "Treponema pallidum subsp. pertenue": 4
  },
  "strain": {},
  "hosts": {
-  "CHLOROCEBUS PYGERYTHRUS": 1,
   "HOMO SAPIENS": 7,
-  "PAPIO ANUBIS": 3
+  "PAPIO ANUBIS": 3,
+  "CHLOROCEBUS PYGERYTHRUS": 1
  }
 }

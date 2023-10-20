@@ -2,20 +2,20 @@
  "group": "Clostridioides_difficile",
  "count": 94,
  "species": {
+  "Clostridioides difficile": 90,
   "Paeniclostridium sordellii": 1,
-  "Paraclostridium bifermentans": 1,
   "Peptacetobacter hiranonis": 2,
-  "Clostridioides difficile": 90
+  "Paraclostridium bifermentans": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Paraclostridium bifermentans": 1,
-  "Peptacetobacter hiranonis": 2,
   "Clostridioides difficile": 86,
-  "Clostridioides difficile R20291": 2,
-  "Clostridioides difficile 630": 1,
   "Paeniclostridium sordellii": 1,
-  "Clostridioides difficile ATCC 9689 = DSM 1296": 1
+  "Clostridioides difficile 630": 1,
+  "Peptacetobacter hiranonis": 2,
+  "Clostridioides difficile ATCC 9689 = DSM 1296": 1,
+  "Clostridioides difficile R20291": 2,
+  "Paraclostridium bifermentans": 1
  },
  "strain": {
   "null": 3,
@@ -24,8 +24,8 @@
  "hosts": {
   "ENVIRONMENT": 1,
   "DOG": 1,
-  "TRICHECHUS MANATUS": 1,
   "HOMO SAPIENS": 90,
-  "PIG": 1
+  "PIG": 1,
+  "TRICHECHUS MANATUS": 1
  }
 }

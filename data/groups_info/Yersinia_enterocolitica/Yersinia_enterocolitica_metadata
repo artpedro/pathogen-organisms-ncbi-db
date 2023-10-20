@@ -5,19 +5,19 @@
   "Yersinia enterocolitica": 6
  },
  "subsp.": {
-  "Yersinia enterocolitica subsp. enterocolitica": 2,
-  "Yersinia enterocolitica subsp. palearctica": 2
+  "Yersinia enterocolitica subsp. palearctica": 2,
+  "Yersinia enterocolitica subsp. enterocolitica": 2
  },
  "scientific_name": {
-  "Yersinia enterocolitica (type O:5) str. YE53/03": 1,
+  "Yersinia enterocolitica subsp. palearctica": 2,
   "Yersinia enterocolitica subsp. enterocolitica": 2,
-  "Yersinia enterocolitica": 1,
-  "Yersinia enterocolitica subsp. palearctica": 2
+  "Yersinia enterocolitica (type O:5) str. YE53/03": 1,
+  "Yersinia enterocolitica": 1
  },
  "strain": {},
  "hosts": {
-  "NOT AVAILABLE": 1,
   "HOMO SAPIENS": 4,
-  "NOT AVAILABLE: NOT COLLECTED": 1
+  "NOT AVAILABLE: NOT COLLECTED": 1,
+  "NOT AVAILABLE": 1
  }
 }

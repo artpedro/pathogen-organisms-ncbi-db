@@ -10,7 +10,7 @@
  },
  "strain": {},
  "hosts": {
-  "CHICKEN": 1,
-  "HOMO SAPIENS": 13
+  "HOMO SAPIENS": 13,
+  "CHICKEN": 1
  }
 }

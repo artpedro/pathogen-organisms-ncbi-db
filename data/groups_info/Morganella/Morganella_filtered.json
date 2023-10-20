@@ -1,9 +1,11 @@
 [
  {
-  "Morganella": "PDG000000020.269",
-  "date": "Sat Oct  7 20:55:05 2023"
+  "Morganella": "PDG000000020.272",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_000286435.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603113",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Morganella/GCA_000286435.2"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_000783955.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934512",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Morganella/GCA_000783955.2"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_001558895.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996316",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Morganella/GCA_001558895.2"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_002386305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312409",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Morganella/GCA_002386305.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_002891475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08335225",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Morganella/GCA_002891475.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_900478755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2709025",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Morganella/GCA_900478755.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_003573445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10031395",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Morganella/GCA_003573445.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_003955965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10218950",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Morganella/GCA_003955965.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_010365245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13936254",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Morganella/GCA_010365245.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_011465095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12769847",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Morganella/GCA_011465095.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_013378135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11401652",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Morganella/GCA_013378135.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_015698325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16619592",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Morganella/GCA_015698325.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_016939515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933265",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Morganella/GCA_016939515.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_016939575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933275",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Morganella/GCA_016939575.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_016939635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933284",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Morganella/GCA_016939635.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018141465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15719828",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018141465.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16622915",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802405.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623190",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802425.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623065",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802445.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623061",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802465.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623066",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802485.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623064",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802505.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623062",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802525.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623059",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802545.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623063",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802565.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_018802585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623060",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Morganella/GCA_018802585.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_020790175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22814155",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Morganella/GCA_020790175.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_020911745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19659029",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Morganella/GCA_020911745.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_024917155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30502440",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Morganella/GCA_024917155.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_030127185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35004663",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Morganella/GCA_030127185.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_030370735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35741046",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Morganella/GCA_030370735.1"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_023203295.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27992994",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Morganella/GCA_023203295.3"
  },
  {
+  "Morganella": null,
+  "date": null,
   "asm_acc": "GCA_031851815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37356954",

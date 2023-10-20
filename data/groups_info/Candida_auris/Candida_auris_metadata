@@ -1,17 +1,17 @@
 {
  "group": "Candida_auris",
- "count": 44,
+ "count": 46,
  "species": {
-  "[Candida] auris": 44
+  "[Candida] auris": 46
  },
  "subsp.": {},
  "scientific_name": {
-  "[Candida] auris": 44
+  "[Candida] auris": 46
  },
  "strain": {
   "null": 33
  },
  "hosts": {
-  "HOMO SAPIENS": 44
+  "HOMO SAPIENS": 46
  }
 }

@@ -1,9 +1,11 @@
 [
  {
-  "Enterobacter_cloacae": "PDG000000028.929",
-  "date": "Sat Oct  7 20:53:22 2023"
+  "Enterobacter_cloacae": "PDG000000028.935",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_002303275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831100",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_002303275.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_002982195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06448868",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_002982195.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_004151605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10844942",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_004151605.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_009707405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13288306",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_009707405.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_016864115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999973",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_016864115.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_020540925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22169090",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_020540925.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_905331265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065834",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_905331265.2"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_021496745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14938331",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_021496745.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_021497605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18311224",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_021497605.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_023023085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379556",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_023023085.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_023238665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26686306",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_023238665.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_023920605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26208495",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_023920605.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_024917615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174020",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_024917615.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_025426135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29981189",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_025426135.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_030406505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35795218",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_030406505.2"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_031851625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298531",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_031851625.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_032349915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529177",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Enterobacter_cloacae/GCA_032349915.1"
  },
  {
+  "Enterobacter_cloacae": null,
+  "date": null,
   "asm_acc": "GCA_032352615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529173",

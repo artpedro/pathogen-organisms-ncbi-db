@@ -1,9 +1,11 @@
 [
  {
   "Photobacterium_damselae": "PDG000000065.56",
-  "date": "Sat Oct  7 20:55:16 2023"
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_002142615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909323",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_002142615.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_002356235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00078763",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_002356235.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_003130755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06075355",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_003130755.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_004135105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10797285",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_004135105.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_014775675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16091814",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_014775675.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_014775695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16091815",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_014775695.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_014930975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16393141",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_014930975.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021765875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287396",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021765875.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021766015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287395",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021766015.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021768305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16481684",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768305.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021768345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287401",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768345.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021768365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287400",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768365.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021768385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287399",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768385.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021768405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287398",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768405.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_021768425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287397",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_021768425.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_023973125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29203666",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Photobacterium_damselae/GCA_023973125.1"
  },
  {
+  "Photobacterium_damselae": null,
+  "date": null,
   "asm_acc": "GCA_030169005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19700963",

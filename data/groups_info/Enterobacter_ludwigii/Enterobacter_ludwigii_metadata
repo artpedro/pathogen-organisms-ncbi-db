@@ -10,10 +10,10 @@
  },
  "strain": {},
  "hosts": {
-  "STRAWBERRY": 1,
-  "HOMO SAPIENS": 6,
-  "LARUS MICHAHELLIS": 3,
   "TOBACCO": 1,
-  "ZEA MAYS": 1
+  "LARUS MICHAHELLIS": 3,
+  "ZEA MAYS": 1,
+  "HOMO SAPIENS": 6,
+  "STRAWBERRY": 1
  }
 }

@@ -1,9 +1,11 @@
 [
  {
-  "Kluyvera_intermedia": "PDG000000040.72",
-  "date": "Sat Oct  7 20:54:45 2023"
+  "Kluyvera_intermedia": "PDG000000040.73",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Kluyvera_intermedia": null,
+  "date": null,
   "asm_acc": "GCA_900635475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2612496",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Kluyvera_intermedia/GCA_900635475.1"
  },
  {
+  "Kluyvera_intermedia": null,
+  "date": null,
   "asm_acc": "GCA_009649915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13135738",

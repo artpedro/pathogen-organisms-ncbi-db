@@ -1,9 +1,11 @@
 [
  {
-  "Legionella_pneumophila": "PDG000000026.239",
-  "date": "Sat Oct  7 20:54:49 2023"
+  "Legionella_pneumophila": "PDG000000026.242",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_001592705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03839261",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_001592705.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_001610735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03379010",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_001610735.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900092465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4067783",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900092465.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900119785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535099",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900119785.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900119755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535097",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900119755.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900119775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535098",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900119775.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900119765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535100",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900119765.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_001941585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988484",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_001941585.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900186925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4040028",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900186925.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900186855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4040027",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900186855.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928771",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003515.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928767",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003535.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928766",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003555.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928764",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003595.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928762",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003675.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928760",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003755.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928754",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003815.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928770",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003865.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003003955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928769",
@@ -194,6 +232,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003003955.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928768",
@@ -204,6 +244,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004065.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928765",
@@ -214,6 +256,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004115.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928759",
@@ -224,6 +268,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004135.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928757",
@@ -234,6 +280,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004155.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928756",
@@ -244,6 +292,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004175.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928773",
@@ -254,6 +304,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004195.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928763",
@@ -264,6 +316,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004215.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928772",
@@ -274,6 +328,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004235.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928761",
@@ -284,6 +340,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004255.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928758",
@@ -294,6 +352,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004275.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928755",
@@ -304,6 +364,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004295.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928753",
@@ -314,6 +376,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004315.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_003004335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928774",
@@ -324,6 +388,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_003004335.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900475735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923592",
@@ -334,6 +400,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900475735.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900635115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3111980",
@@ -344,6 +412,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900635115.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900635825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3111979",
@@ -354,6 +424,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900635825.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900636955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923587",
@@ -364,6 +436,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900636955.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900637585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA44537668",
@@ -374,6 +448,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900637585.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_900637635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4552886",
@@ -384,6 +460,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_900637635.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_006364635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056494",
@@ -394,6 +472,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_006364635.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_009664815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191634",
@@ -404,6 +484,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_009664815.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_019974095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00393827",
@@ -414,6 +496,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_019974095.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_022220445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25696377",
@@ -424,6 +508,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_022220445.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_030168615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33057358",
@@ -434,6 +520,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_030168615.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_030168635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33057357",
@@ -444,6 +532,8 @@
   "fasta": "data/groups_info/Legionella_pneumophila/GCA_030168635.1"
  },
  {
+  "Legionella_pneumophila": null,
+  "date": null,
   "asm_acc": "GCA_030168655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33057356",

@@ -1,9 +1,11 @@
 [
  {
-  "Enterobacter_roggenkampii": "PDG000000116.43",
-  "date": "Sat Oct  7 20:53:31 2023"
+  "Enterobacter_roggenkampii": "PDG000000116.48",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_000807415.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067419",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_000807415.4"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_001729805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581750",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_001729805.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_003812145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163217",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_003812145.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_004138605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10188240",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_004138605.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_004684365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11283933",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_004684365.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_009184765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12995719",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_009184765.2"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_013389415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15329677",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_013389415.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_013403545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15460797",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_013403545.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_016756655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00235761",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_016756655.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_018596855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19316169",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_018596855.2"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_023023065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379557",
@@ -114,6 +136,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_023023065.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_023023685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379549",
@@ -124,6 +148,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_023023685.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_023375565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363725",
@@ -134,6 +160,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_023375565.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_023375585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363726",
@@ -144,6 +172,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_023375585.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_023375625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363776",
@@ -154,6 +184,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_023375625.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_023650875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24967284",
@@ -164,6 +196,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_023650875.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_029536245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33770999",
@@ -174,6 +208,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_029536245.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_029834495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34139910",
@@ -184,6 +220,8 @@
   "fasta": "data/groups_info/Enterobacter_roggenkampii/GCA_029834495.1"
  },
  {
+  "Enterobacter_roggenkampii": null,
+  "date": null,
   "asm_acc": "GCA_030384865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35977203",

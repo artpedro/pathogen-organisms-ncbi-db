@@ -1,9 +1,11 @@
 [
  {
-  "Treponema_pallidum": "PDG000000104.13",
-  "date": "Sat Oct  7 20:57:13 2023"
+  "Treponema_pallidum": "PDG000000104.15",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_005885795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11812273",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_005885795.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_023016345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502673",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_023016345.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_023016365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502672",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_023016365.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_023016385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502668",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_023016385.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_023016405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502671",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_023016405.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_023016425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502670",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_023016425.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_023016445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502669",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_023016445.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_029866565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521568",
@@ -84,6 +100,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_029866565.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_029866585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521550",
@@ -94,6 +112,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_029866585.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_029866705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521572",
@@ -104,6 +124,8 @@
   "fasta": "data/groups_info/Treponema_pallidum/GCA_029866705.1"
  },
  {
+  "Treponema_pallidum": null,
+  "date": null,
   "asm_acc": "GCA_029866725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521574",

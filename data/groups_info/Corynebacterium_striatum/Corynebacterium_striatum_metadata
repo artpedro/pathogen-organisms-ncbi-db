@@ -2,16 +2,16 @@
  "group": "Corynebacterium_striatum",
  "count": 7,
  "species": {
-  "Corynebacterium minutissimum": 2,
-  "Corynebacterium aurimucosum": 1,
   "Corynebacterium striatum": 3,
+  "Corynebacterium aurimucosum": 1,
+  "Corynebacterium minutissimum": 2,
   "Corynebacterium singulare": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Corynebacterium minutissimum": 2,
-  "Corynebacterium aurimucosum": 1,
   "Corynebacterium striatum": 3,
+  "Corynebacterium aurimucosum": 1,
+  "Corynebacterium minutissimum": 2,
   "Corynebacterium singulare": 1
  },
  "strain": {},

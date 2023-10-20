@@ -1,9 +1,11 @@
 [
  {
-  "Vibrio_fluvialis": "PDG000000099.41",
-  "date": "Sat Oct  7 20:57:24 2023"
+  "Vibrio_fluvialis": "PDG000000099.42",
+  "date": "Thu Oct 19 21:32:31 2023"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_001558415.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996321",
@@ -14,6 +16,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_001558415.2"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_001952955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06209376",
@@ -24,6 +28,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_001952955.1"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_002953375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996261",
@@ -34,6 +40,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_002953375.1"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_013181325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14968934",
@@ -44,6 +52,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_013181325.1"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_018140575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18795813",
@@ -54,6 +64,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_018140575.1"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_028898925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33268487",
@@ -64,6 +76,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_028898925.1"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_030297535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00603157",
@@ -74,6 +88,8 @@
   "fasta": "data/groups_info/Vibrio_fluvialis/GCA_030297535.1"
  },
  {
+  "Vibrio_fluvialis": null,
+  "date": null,
   "asm_acc": "GCA_030994065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333290",
