@@ -58,9 +58,9 @@ def readGroupsNames():
         groups = js.load(data)
         return groups
 
-def download_batch(batch,path):
+def download_batch(batch, path):
     '''
-    Recebe uma lista de Assembly IDs e faz o download da ultima versão do arquivo fasta compactado
+    Recebe uma lista de Assembly IDs (batch) e faz o download da ultima versão do arquivo fasta compactado
     no caminho informado por path
     '''
     ftp_url = 'https://ftp.ncbi.nlm.nih.gov/genomes/all/'

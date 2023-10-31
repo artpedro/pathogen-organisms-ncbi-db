@@ -62,6 +62,7 @@ class Group():
         #   1- informação de host disponível
         #   2- assembly de genoma completo
         #   3- disponibilidade no banco de dados assembly
+        
         self.usable_json_path = os.path.normpath(self.info_path + f'/{self.name}_usable.json')
         
         # caminho para o json com registros de assemblies após filtragens

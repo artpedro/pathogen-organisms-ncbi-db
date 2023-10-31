@@ -66,14 +66,14 @@ def writeGroups(name_id):
         
 def refreshGroups():
     '''
-    Verifica se existe dados sobre os grupos patogênicos e os encaminha para atualizar
+    Verifica se existem dados sobre os grupos patogênicos e os encaminha para atualizar
     '''
     if os.path.exists(group_names):
         with open(group_names,'r') as log:
             log_info = json.load(log)
             return list(log_info.keys())
     else:
-        print('Sem informações prévias para atualizar\nConsidere usar a função extract')
+        print('Sem informações prévias para atualizar\nConsidere usar a função getPathogenId')
         return False
 
 def refreshSingleGroup(name):
@@ -93,7 +93,8 @@ def refreshSingleGroup(name):
                 return new
             else:
                 print('Versão mais atual')
-# principais
+
+# Funções controladoras
 
 def refresh():
     names = refreshGroups()
@@ -106,6 +107,7 @@ def refresh():
             else:
                 print(i,': ',log_info[i],'--->',new_ids[i])
     writeGroups(new_ids)
+
 def mount():
     print('Extraindo os nomes dos grupos patogênicos do banco Pathogen do NCBI')
     groups = getPathogenGroups()
