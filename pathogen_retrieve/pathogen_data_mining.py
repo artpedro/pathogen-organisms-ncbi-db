@@ -16,7 +16,7 @@ def download(url: str, fname: str):
     resp = requests.get(url, stream=True)
     total = int(resp.headers.get('content-length', 0))
     descr = fname.split('/')[-1]
-    # Can also replace 'file' with a io.BytesIO object
+    
     with open(fname, 'wb') as file, tqdm(
         desc=descr,
         total=total,
@@ -118,8 +118,10 @@ class Group():
         if usable_log == ['tsv'] or usable_log == []:
             print(f'{self.name}: Nenhum registro encontrado')
             return True
+        
         # se encontrar um usable.json, verifica a tag do arquivo
         # se a tag mostrar uma versão anterior do pathogen, encaminha para a atualização
+        
         if f"{self.name}_usable.json" in usable_log:
             with open(self.usable_json_path,'r') as file:
                 data = js.load(file)
@@ -257,25 +259,37 @@ class Group():
         os.remove(self.tsv_file)
         return True
         
-    def filterTsv(self):    
-        # strings de filtragem PROBLEMA: peixes/insetos/plantas e variados
-        human = 'HOMO|HUMAN|SAPIENS'
-        chicken = 'GALLUS|CHICKEN|POULTRY|BROILER|AVIAN|DUCK|HEN' #AVIAN DUCK ANATIDAE TURKEY
-        bovine = 'TAURUS|BOVINAE|COW|BOVINE|CATTLE|BEEF|CALF|MILK' #MILK
-        fish = 'AQUA|FISH|CARP|SALMON'
-        horse = 'EQUUS|CABALLUS|EQUINE'
-        sheep = 'OVINE|SHEEP|OVIS'
-        pig = 'PIG|SWINE|PORCINE|PORK|PIGLET|BOAR'
-        environment = 'ENVIRONMENT|SOIL|HOG|SCROFA|ENVIRONMENTAL|WATER|GRASS' # WATER
-        dog = 'CANIS|LUPUS|CANINE|DOG'
     
+    def filterTsv(self):    
+        '''
+        Lê o UsableTsv de cada grupo patogênico e gera um .json filtrado, garantindo somente registros válidos,
+        além de padronizar os Host em grupos específicos
+
+        Retorna falso se não houver nenhuma informação para filtrar ou se a filtragem resultar em um json vazio
+        '''
+
+        # strings de filtragem PROBLEMA: peixes/insetos/plantas e variados
+        filters = {
+        'HUMAN':       'HOMO|HUMAN|SAPIENS',
+        'CHICKEN':     'GALLUS|CHICKEN|POULTRY|BROILER|AVIAN|DUCK|HEN', #AVIAN DUCK ANATIDAE TURKEY
+        'BOVINE':      'TAURUS|BOVINAE|COW|BOVINE|CATTLE|BEEF|CALF|MILK', #MILK
+        'FISH':        'AQUA|FISH|CARP|SALMON',
+        'HORSE':       'EQUUS|CABALLUS|EQUINE',
+        'SHEEP':       'OVINE|SHEEP|OVIS',
+        'PIG':         'PIG|SWINE|PORCINE|PORK|PIGLET|BOAR',
+        'ENVIRONMENT': 'ENVIRONMENT|SOIL|HOG|SCROFA|ENVIRONMENTAL|WATER', # WATER
+        'DOG':         'CANIS|LUPUS|CANINE|DOG'
+        }
+
         if hasattr(self,'usable_df'):
+            # Aproveitando cache
             self.filtered_df = self.usable_df
-            # remove as colunas geradas pela tag
+
         else:
             if os.path.exists(self.usable_json_path):
                 self.usable_df = pd.read_json(self.usable_json_path)
                 self.filtered_df = self.usable_df
+
                 # remove as colunas geradas pela tag
                 self.filtered_df.drop(columns=[f"{self.name}"],inplace=True)
                 self.filtered_df.drop(0,inplace=True)
@@ -283,73 +297,61 @@ class Group():
                 print(f'{self.name}: Sem informações para filtrar')
                 return False
         
-        # segunda verificação de integridade
-        
+        # Segunda verificação de integridade
+        def check_empty(df):
+            if df.empty:
+                print(f'{self.name}: Sem informações válidas')
+                #os.remove(self.tsv_file)
+                return True
+            
         # somente genoma completo
         self.filtered_df = self.filtered_df.loc[self.filtered_df['asm_level'] == 'Complete Genome']
-        if self.filtered_df.empty:
-            print(f'{self.name}: Sem informações válidas')
-            #os.remove(self.tsv_file)
+        if check_empty(self.filtered_df):
             return False
+        
         # somente com informações de host disponíveis
         self.filtered_df = self.filtered_df[self.usable_df['host'].notnull()]
-        if self.filtered_df.empty:
-            print(f'{self.name}: Sem informações válidas')
-            #os.remove(self.tsv_file)
+        if check_empty(self.filtered_df):
             return False
+        
         # somente com assembly id disponível
         self.filtered_df = self.filtered_df[self.filtered_df['asm_acc'].notnull()]
-        if self.filtered_df.empty:
-            print(f'{self.name}: Sem informações válidas')
-            #os.remove(self.tsv_file)
+        if check_empty(self.filtered_df):
             return False
+        
         # padronizando a coluna host
         self.filtered_df['host'] = self.filtered_df['host'].apply(lambda x:x.upper())
 
-        # filtragem
-
-        # FILTRANDO HUMAN
-        for var in human.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'HOMO SAPIENS'
-        # FILTRANDO HORSE
-        for var in horse.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'HORSE'
-        # FILTRANDO SHEEP
-        for var in sheep.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'SHEEP'
-        # FILTRANDO ENVIRONMENT
-        for var in environment.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'ENVIRONMENT'
-        # FILTRANDO PIG
-        for var in pig.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'PIG'
-        #FILTRANDO DOG
-        for var in dog.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'DOG'
-        # FILTRANDO CHICKEN
-        for var in chicken.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'CHICKEN'
-        # FILTRANDO BOVINE
-        for var in bovine.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'BOVINE'
-        # FILTRANDO FISH
-        for var in fish.split(sep="|"):
-            self.filtered_df.loc[self.filtered_df['host'].str.contains(var),'host'] = 'FISH'
-
-        # adicionando caminho para o arquivo fasta em data
+        # FILTRAGEM HOST
+        
+        def apply_filters(df,filters=filters):
+            # Para cada filtro
+            for key, filter in filters.items():
+                # Para cada palavra no filtro
+                for var in filter.split(sep="|"):
+                    # Aplica o filtro
+                    df.loc[df['host'].str.contains(var),'host'] = key
+            return df
+        
+        self.filtered_df = apply_filters(self.filtered_df)            
 
         # armazenando o dataframe filtrado em um .json 
         with open(self.filtered_json_path, 'w') as file:
             self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
             self.filtered_json = js.loads(self.filtered_json)
             for entry in self.filtered_json:
+                del entry[f'{self.name}']
+                del entry['date']
                 entry['fasta'] = os.path.normpath(f"data/groups_info/{self.name}/{entry['asm_acc']}")
+
             # tag para com a data de atualização e o pat_id
             self.tag = {self.name:self.pat_id,
                         'date':time.ctime()}
+            
             self.filtered_json.insert(0,self.tag)
             
             self.filtered_json = js.dumps(self.filtered_json,indent=1)
+            
             file.write(self.filtered_json)
         return True
 
@@ -358,7 +360,7 @@ class Group():
         Extrai informações do .json gerado pelo getUsableTsv() ou filterTsv() (filter = True).
         As informações são redundantes.
         '''
-        # informações coletadas
+        # coletando informações
         if filter:
             if hasattr(self,'filtered_df'):
                 df = self.filtered_df
@@ -379,8 +381,7 @@ class Group():
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
         
         # filtragem inicial dos nomes de espécie
-        filtered_species = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}     
-        self.species_fdic = filtered_species
+        self.species_fdic = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}     
         self.subsp_dic = {" ".join(k.split()[:4]):[j for j in [i.split()[3] for i in self.species if ((len(i.split())>3) and (i.split()[2] == "subsp."))]].count(k.split()[3]) for k in [i for i in self.species_dic if ((len(i.split())>3) and (i.split()[2] == "subsp."))]}
     
     def makeGroupMetadata(self):
