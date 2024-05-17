@@ -1,19 +1,47 @@
 {
  "group": "Neisseria_gonorrhoeae",
- "count": 127,
+ "count": 139,
  "species": {
-  "Neisseria gonorrhoeae": 127
+  "Neisseria gonorrhoeae": 139
  },
  "subsp.": {},
  "scientific_name": {
-  "Neisseria gonorrhoeae": 126,
+  "Neisseria gonorrhoeae": 138,
   "Neisseria gonorrhoeae NG-k51.05": 1
  },
  "strain": {
-  "10562": 2,
-  "10531": 2
+  "10531": 2,
+  "10562": 2
+ },
+ "location": {
+  "CANADA": 3,
+  "BELGIUM": 1,
+  "SWEDEN": 1,
+  "NETHERLANDS": 2,
+  "THAILAND": 11,
+  "TAIWAN": 11,
+  "CHILE": 1,
+  "null": 3,
+  "AUSTRALIA": 8,
+  "ITALY": 1,
+  "USA": 19,
+  "JAPAN": 4,
+  "AUSTRIA": 1,
+  "RUSSIA": 50,
+  "CHINA": 20,
+  "UNITED KINGDOM": 3
  },
  "hosts": {
-  "HOMO SAPIENS": 127
+  "HUMAN": 139
+ },
+ "hosts_diseases": {
+  "DISSEMINATED INFECTION": 5,
+  "URETHRITIS": 1,
+  "null": 32,
+  "PRESUMPTIVE GONORRHEA": 1,
+  "PROBABLE DISSEMINATED GONOCOCCAL INFECTION": 1,
+  "GONORRHOEAE": 4,
+  "GONORRHOEA": 50,
+  "GONORRHEA": 45
  }
 }

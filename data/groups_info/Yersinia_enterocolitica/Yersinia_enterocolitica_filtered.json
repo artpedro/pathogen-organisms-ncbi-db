@@ -1,7 +1,7 @@
 [
  {
-  "Yersinia_enterocolitica": "PDG000000087.138",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Yersinia_enterocolitica": "PDG000000087.236",
+  "date": "Wed May 15 22:37:56 2024"
  },
  {
   "Yersinia_enterocolitica": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4532339",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Yersinia enterocolitica (type O:5) str. YE53/03",
   "strain": "YE53/03",
-  "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_000968115.1"
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_000968115.1"
  },
  {
   "Yersinia_enterocolitica": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03490473",
   "collection_date": "1991",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Yersinia enterocolitica",
   "strain": "KNG22703",
-  "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_001305635.1"
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_001305635.1"
  },
  {
   "Yersinia_enterocolitica": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2742608",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Yersinia enterocolitica subsp. enterocolitica",
   "strain": "NCTC13629",
-  "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_900635745.1"
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_900635745.1"
  },
  {
   "Yersinia_enterocolitica": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3936789",
   "collection_date": "1900/2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Yersinia enterocolitica subsp. palearctica",
   "strain": "NCTC13769",
-  "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_900637005.1"
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_900637005.1"
  },
  {
   "Yersinia_enterocolitica": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09641678",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "YERSINIOSIS",
   "scientific_name": "Yersinia enterocolitica subsp. palearctica",
   "strain": "Y1",
-  "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_004368055.1"
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_004368055.1"
  },
  {
   "Yersinia_enterocolitica": null,
@@ -70,9 +80,179 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2742606",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE: NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Yersinia enterocolitica subsp. enterocolitica",
   "strain": "NCTC12982",
-  "fasta": "data/groups_info/Yersinia_enterocolitica/GCA_901472495.1"
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_901472495.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037055465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359769",
+  "collection_date": "2022-03-18",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y194",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037055465.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037055875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359762",
+  "collection_date": "2022-01-31",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y155",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037055875.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037055885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359761",
+  "collection_date": "2022-01-26",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y154",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037055885.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037055895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359760",
+  "collection_date": "2022-01-24",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y146",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037055895.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037059845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359771",
+  "collection_date": "2022-03-23",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y201",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037059845.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037061465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359768",
+  "collection_date": "2022-03-03",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y189",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037061465.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037061475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359767",
+  "collection_date": "2022-03-04",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y182",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037061475.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037061485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359766",
+  "collection_date": "2022-02-17",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y177",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037061485.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037061515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359763",
+  "collection_date": "2022-01-31",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y157",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037061515.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037061665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359759",
+  "collection_date": "2022-01-19",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y140",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037061665.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037062045.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359758",
+  "collection_date": "2022-01-14",
+  "geo_loc_name": "GERMANY",
+  "host": "MELES MELES",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y128",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037062045.1"
+ },
+ {
+  "Yersinia_enterocolitica": null,
+  "date": null,
+  "asm_acc": "GCA_037956065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359757",
+  "collection_date": "2022-01-07",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Yersinia enterocolitica",
+  "strain": "Y115",
+  "fasta": "data\\groups_info\\Yersinia_enterocolitica\\GCA_037956065.1"
  }
 ]

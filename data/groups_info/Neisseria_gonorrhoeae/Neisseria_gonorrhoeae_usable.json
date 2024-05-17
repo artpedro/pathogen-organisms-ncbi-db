@@ -1,14 +1,16 @@
 [
  {
-  "Neisseria_gonorrhoeae": "PDG000000032.353",
-  "date": "Thu Oct 19 21:10:34 2023"
+  "Neisseria_gonorrhoeae": "PDG000000032.393",
+  "date": "Wed May 15 22:30:11 2024"
  },
  {
   "asm_acc": "GCA_001661085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04233132",
   "collection_date": "2010-01-27",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "32867"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05210135",
   "collection_date": "2012-02-23",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "34530"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05210257",
   "collection_date": "2011-01-01",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "34769"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02380725",
   "collection_date": "2005",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae NG-k51.05",
   "strain": "NG-k51.05"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875541",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PRESUMPTIVE GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FDAARGOS_204"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875544",
   "collection_date": "1983",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PROBABLE DISSEMINATED GONOCOCCAL INFECTION",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FDAARGOS_207"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4076768",
   "collection_date": "2015",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HUMAN MALE",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NCTC13800"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4076765",
   "collection_date": "2015",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HUMAN FEMALE",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NCTC13799"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4076741",
   "collection_date": "2015",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HUMAN MALE",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NCTC13798"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06251593",
   "collection_date": "2008",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEAE",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "RIVM0610"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06251594",
   "collection_date": "2008",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEAE",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "RIVM0640"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395918",
   "collection_date": "2013-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ84"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395916",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ36"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395915",
   "collection_date": "2012-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ48"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10396000",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ04"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395917",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ35"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10396003",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ20"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395999",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ02"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395914",
   "collection_date": "2013-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ82"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10395998",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FQ01"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4364223",
   "collection_date": "1999",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NCTC13484"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00092833",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FC428"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00092837",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FC460"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00092841",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FC498"
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10035124",
   "collection_date": "2011-03",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "TFG-A2"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10031335",
   "collection_date": "2011-07",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "TFG-B2"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12252293",
   "collection_date": "2017-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URETHRITIS",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ1711654"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10920452",
   "collection_date": "2017",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "AUSMDU00010541"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12676040",
   "collection_date": "2011-06-18",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NG290"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12676039",
   "collection_date": "2010-07-30",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NG251"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12676038",
   "collection_date": "2009-05-07",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NG196"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00220608",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "TUM15748"
  },
@@ -296,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00220609",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "TUM15753"
  },
@@ -305,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00220610",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "TUM16691"
  },
@@ -314,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14433815",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "BJ16148"
  },
@@ -323,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17393045",
   "collection_date": "2018",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "20181204"
  },
@@ -332,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14117309",
   "collection_date": "2019-10-04",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH240"
  },
@@ -341,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14116992",
   "collection_date": "2019-07-22",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH229"
  },
@@ -350,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14116991",
   "collection_date": "2019-05-14",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH214"
  },
@@ -359,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14116990",
   "collection_date": "2019-08-20",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH207"
  },
@@ -368,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14116989",
   "collection_date": "2019-08-19",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH205"
  },
@@ -377,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14116988",
   "collection_date": "2019-07-25",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH204"
  },
@@ -386,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14116987",
   "collection_date": "2019-07-24",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SRRSH203"
  },
@@ -395,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13151449",
   "collection_date": "2010-07-20",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NG250"
  },
@@ -404,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998461",
   "collection_date": "2005",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "DISSEMINATED INFECTION",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "O2D156"
  },
@@ -413,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998455",
   "collection_date": "1970",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEAE",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "1291"
  },
@@ -422,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998460",
   "collection_date": "2005",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "DISSEMINATED INFECTION",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "98D159"
  },
@@ -431,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998459",
   "collection_date": "2005",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "DISSEMINATED INFECTION",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "O1G1370"
  },
@@ -440,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998458",
   "collection_date": "2005",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "DISSEMINATED INFECTION",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "88G285"
  },
@@ -449,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998457",
   "collection_date": "2000",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "DISSEMINATED INFECTION",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SK92679"
  },
@@ -458,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19998456",
   "collection_date": "1970",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEAE",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "MS11"
  },
@@ -467,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14131123",
   "collection_date": "2010-01-15",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "CT213"
  },
@@ -476,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599447",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10500"
  },
@@ -485,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599455",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10610"
  },
@@ -494,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599488",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10531"
  },
@@ -503,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600315",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10638"
  },
@@ -512,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599711",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10524"
  },
@@ -521,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600865",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10562"
  },
@@ -530,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600590",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10727"
  },
@@ -539,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600608",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10795"
  },
@@ -548,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600892",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10791"
  },
@@ -557,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600605",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10794"
  },
@@ -566,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600584",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10702"
  },
@@ -575,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22600672",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10574"
  },
@@ -584,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13151448",
   "collection_date": "2009-12-25",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NG211"
  },
@@ -593,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13812696",
   "collection_date": "2017-07-04",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "CT602"
  },
@@ -602,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13812695",
   "collection_date": "2015-12-22",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "CT532"
  },
@@ -611,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13812694",
   "collection_date": "2015-12-19",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "CT530"
  },
@@ -620,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28560617",
   "collection_date": "2022",
+  "geo_loc_name": "AUSTRIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "AT159"
  },
@@ -629,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28859080",
   "collection_date": "2016",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9399"
  },
@@ -638,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28858852",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10272"
  },
@@ -647,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28834904",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10814"
  },
@@ -656,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28869504",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10231"
  },
@@ -665,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28869553",
   "collection_date": "2015",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9112"
  },
@@ -674,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28869590",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10529"
  },
@@ -683,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28835168",
   "collection_date": "2016",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9460"
  },
@@ -692,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871631",
   "collection_date": "2016",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9464"
  },
@@ -701,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871636",
   "collection_date": "2015",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9071"
  },
@@ -710,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28835821",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10269"
  },
@@ -719,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28835880",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10720"
  },
@@ -728,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28835919",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10328"
  },
@@ -737,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28836998",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10792"
  },
@@ -746,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28837864",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10612"
  },
@@ -755,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28858863",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10268"
  },
@@ -764,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28859049",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10536"
  },
@@ -773,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28869552",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10537"
  },
@@ -782,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28869554",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10525"
  },
@@ -791,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28869592",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10771"
  },
@@ -800,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28870224",
   "collection_date": "2020",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "ATCC 49226"
  },
@@ -809,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871626",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10704"
  },
@@ -818,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871644",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10296"
  },
@@ -827,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871698",
   "collection_date": "2015",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9126"
  },
@@ -836,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871700",
   "collection_date": "2016",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9343"
  },
@@ -845,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28859053",
   "collection_date": "2015",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9035"
  },
@@ -854,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28859076",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10538"
  },
@@ -863,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28858607",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10723"
  },
@@ -872,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014135",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10744"
  },
@@ -881,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014148",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10819"
  },
@@ -890,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014963",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10743"
  },
@@ -899,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014981",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10736"
  },
@@ -908,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014987",
   "collection_date": "2019",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10708"
  },
@@ -917,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014989",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10531"
  },
@@ -926,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31015000",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10562"
  },
@@ -935,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31014998",
   "collection_date": "2016",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "9431"
  },
@@ -944,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31203372",
   "collection_date": "2000",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "H035"
  },
@@ -953,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28830140",
   "collection_date": "2018",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10588"
  },
@@ -962,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28833726",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHOEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "10239"
  },
@@ -971,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31165854",
   "collection_date": "2014",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "1081168"
  },
@@ -980,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31165853",
   "collection_date": "2014",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "1123850"
  },
@@ -989,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31165852",
   "collection_date": "2014",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "1130991"
  },
@@ -998,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31165850",
   "collection_date": "2014",
+  "geo_loc_name": "CHILE",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "1145734"
  },
@@ -1007,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31428011",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "FA1090 N-1-60"
  },
@@ -1016,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31428012",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "MS11 HL-1-22"
  },
@@ -1025,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32765978",
   "collection_date": "2022",
+  "geo_loc_name": "SWEDEN",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "SE690."
  },
@@ -1034,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33482240",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "2022NG-0076"
  },
@@ -1043,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33482239",
   "collection_date": "2020",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "2022NG-0032"
  },
@@ -1052,7 +1284,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487327",
   "collection_date": "2020-11-17",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ209649"
  },
@@ -1061,7 +1295,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487326",
   "collection_date": "2020-10-26",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ208756"
  },
@@ -1070,7 +1306,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487325",
   "collection_date": "2020-10-16",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ208430"
  },
@@ -1079,7 +1317,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487324",
   "collection_date": "2020-07-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ204705"
  },
@@ -1088,7 +1328,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487323",
   "collection_date": "2019-12-11",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ1914646"
  },
@@ -1097,7 +1339,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487322",
   "collection_date": "2019-11-30",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ1914215"
  },
@@ -1106,7 +1350,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487321",
   "collection_date": "2019-11-25",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ1913940"
  },
@@ -1115,7 +1361,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487320",
   "collection_date": "2019-09-24",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ1911400"
  },
@@ -1124,7 +1372,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487319",
   "collection_date": "2019-06-27",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ197542"
  },
@@ -1133,7 +1383,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487318",
   "collection_date": "2019-06-06",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ196610"
  },
@@ -1142,8 +1394,142 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32487317",
   "collection_date": "2019-05-10",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
   "scientific_name": "Neisseria gonorrhoeae",
   "strain": "NJ195417"
+ },
+ {
+  "asm_acc": "GCA_033798605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38152951",
+  "collection_date": "2023",
+  "geo_loc_name": "THAILAND",
+  "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TH2288"
+ },
+ {
+  "asm_acc": "GCA_033798625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38152950",
+  "collection_date": "2023",
+  "geo_loc_name": "THAILAND",
+  "host": "HOMO SAPIENS",
+  "host_disease": "GONORRHEA",
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "TH1713"
+ },
+ {
+  "asm_acc": "GCA_038420435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766274",
+  "collection_date": "2020",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2020C08-294"
+ },
+ {
+  "asm_acc": "GCA_038420465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766273",
+  "collection_date": "2020",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2020N08-318"
+ },
+ {
+  "asm_acc": "GCA_038420475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766272",
+  "collection_date": "2020",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2020N07-265"
+ },
+ {
+  "asm_acc": "GCA_038420605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766271",
+  "collection_date": "2020",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2020S05-258"
+ },
+ {
+  "asm_acc": "GCA_038421315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766270",
+  "collection_date": "2018",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2018C07-301"
+ },
+ {
+  "asm_acc": "GCA_038422155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766269",
+  "collection_date": "2018",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2018S05-288"
+ },
+ {
+  "asm_acc": "GCA_038423385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766268",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2016E02-233"
+ },
+ {
+  "asm_acc": "GCA_038424135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766267",
+  "collection_date": "2014",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2014E02-242"
+ },
+ {
+  "asm_acc": "GCA_038424905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766266",
+  "collection_date": "2010",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2010C02-038"
+ },
+ {
+  "asm_acc": "GCA_038425775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766265",
+  "collection_date": "2004",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Neisseria gonorrhoeae",
+  "strain": "2004S05-027"
  }
 ]

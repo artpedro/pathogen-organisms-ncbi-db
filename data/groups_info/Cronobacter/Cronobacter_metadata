@@ -1,17 +1,37 @@
 {
  "group": "Cronobacter",
- "count": 6,
+ "count": 11,
  "species": {
-  "Cronobacter sakazakii": 6
+  "Cronobacter sakazakii": 10,
+  "Cronobacter malonaticus": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Cronobacter sakazakii": 6
+  "Cronobacter sakazakii": 10,
+  "Cronobacter malonaticus": 1
  },
  "strain": {},
+ "location": {
+  "null": 1,
+  "USA": 2,
+  "MEXICO": 4,
+  "CHINA": 3,
+  "POLAND": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 4,
-  "BOVINE": 1,
-  "INFANTS": 1
+  "INFANTS": 1,
+  "SHEEP": 1,
+  "MOSCHUS BEREZOVSKII": 1,
+  "HUMAN": 8
+ },
+ "hosts_diseases": {
+  "NECROTIZING ENTEROCOLITIS": 1,
+  "ANEMIC SYNDROME": 1,
+  "NEONATAL NECROTIZING ENTEROCOLITIS": 1,
+  "NEONATAL PURULENT MENINGITIS": 1,
+  "null": 3,
+  "BRAIN ABSCESS": 1,
+  "PNEUMONIA": 1,
+  "CHRONIC RENAL INSUFFICIENCY": 2
  }
 }

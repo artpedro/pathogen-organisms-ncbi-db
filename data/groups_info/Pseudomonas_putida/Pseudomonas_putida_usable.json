@@ -1,14 +1,16 @@
 [
  {
-  "Pseudomonas_putida": "PDG000000075.98",
-  "date": "Thu Oct 19 21:10:45 2023"
+  "Pseudomonas_putida": "PDG000000075.135",
+  "date": "Wed May 15 22:31:23 2024"
  },
  {
   "asm_acc": "GCA_000325725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604102",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida HB3267",
   "strain": "PC9"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03765648",
   "collection_date": "2014-11-01",
+  "geo_loc_name": "CHINA",
   "host": "PISTACIA CHINENSIS BUNGE",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "PC2"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05715224",
   "collection_date": "2011-10-11",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Pseudomonas putida",
   "strain": "PP112420"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130965",
   "collection_date": "2012-12",
+  "geo_loc_name": "USA",
   "host": "ZEA MAYS",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "AA7"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09229081",
   "collection_date": "2012-06-20",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "STRAWBERRY",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "JBC17"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3711446",
   "collection_date": "1900/2007",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "NCTC13186"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11380143",
   "collection_date": "1985-04",
+  "geo_loc_name": "USA",
   "host": "PYRUS COMMUNIS 'WILLIAMS'",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "1290"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08376583",
   "collection_date": "2016-07-01",
+  "geo_loc_name": "CANADA",
   "host": "MEDICAGO SATIVA",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "W5"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13107355",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PULMONARY INFECTION",
   "scientific_name": "Pseudomonas putida",
   "strain": "NY5709"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17103323",
   "collection_date": "2019-02-05",
+  "geo_loc_name": "PAKISTAN",
   "host": "UROCHLOA REPTANS",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "BR-PH17"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29335958",
   "collection_date": "2005-12",
+  "geo_loc_name": "UZBEKISTAN",
   "host": "TOMATO PLANT",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "PCL1760"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31266696",
   "collection_date": "2021",
+  "geo_loc_name": "CHINA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "SEH01"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31269035",
   "collection_date": "2021",
+  "geo_loc_name": "CHINA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "QH1"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32091923",
   "collection_date": "2021",
+  "geo_loc_name": "FRANCE",
   "host": "DIOSCOREA SANSIBARENSIS",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "GMI12077"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016848",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "NY4811"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33792085",
   "collection_date": "2022-03",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Pseudomonas putida",
   "strain": "AHSWHJXPP1"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36811527",
   "collection_date": "2016-01-27",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Pseudomonas putida",
   "strain": "MRSN365855"
  },
@@ -161,8 +195,21 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37319580",
   "collection_date": "2020-10-16",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Pseudomonas putida",
   "strain": "L2890"
+ },
+ {
+  "asm_acc": "GCA_039634515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38150179",
+  "collection_date": "2016",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "UNKNOW",
+  "scientific_name": "Pseudomonas putida",
+  "strain": "NY11286"
  }
 ]

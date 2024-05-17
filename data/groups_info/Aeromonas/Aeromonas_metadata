@@ -1,31 +1,61 @@
 {
  "group": "Aeromonas",
- "count": 37,
+ "count": 46,
  "species": {
-  "Aeromonas hydrophila": 28,
-  "Aeromonas dhakensis": 9
+  "Aeromonas hydrophila": 31,
+  "Aeromonas dhakensis": 15
  },
  "subsp.": {},
  "scientific_name": {
-  "Aeromonas hydrophila": 28,
-  "Aeromonas dhakensis": 9
+  "Aeromonas hydrophila": 31,
+  "Aeromonas dhakensis": 15
  },
  "strain": {
   "516": 2
  },
+ "location": {
+  "VIET NAM": 3,
+  "BRAZIL": 6,
+  "USA": 2,
+  "JAPAN": 1,
+  "SOUTH KOREA": 2,
+  "NIGERIA": 1,
+  "NOT PROVIDED": 1,
+  "CHINA": 24,
+  "TAIWAN": 6
+ },
  "hosts": {
   "CRUCIAN": 1,
-  "SINIPERCA CHUATSI": 1,
-  "PHRACTOCEPHALUS HEMIOLIOPTERUS": 1,
-  "ENVIRONMENT": 1,
-  "ANGUILLA ROSTRATA": 1,
-  "FISH": 6,
-  "HYPOSTOMUS PLECOSTOMUS": 1,
-  "HOMO SAPIENS": 17,
-  "CARASSIUS CARASSIUS": 1,
+  "MEGALOBRAMA AMBLYCEPHALA": 1,
+  "ANCHERYTHROCULTER NIGROCAUDA": 1,
+  "DENDROCEPHALUS BRASILIENSIS": 3,
+  "HYPOPHTHALMICHTHYS NOBILIS": 1,
   "LARIMICHTHYS CROCEA": 1,
   "OREOCHROMIS NILOTICUS": 2,
-  "MEGALOBRAMA AMBLYCEPHALA": 1,
-  "DENDROCEPHALUS BRASILIENSIS": 3
+  "PANGASIUS BOCOURTI": 1,
+  "HUMAN": 19,
+  "FISH": 8,
+  "ANGUILLA ROSTRATA": 1,
+  "SINIPERCA CHUATSI": 1,
+  "MONOPTERUS ALBUS": 1,
+  "ANABAS TESTUDINEUS": 1,
+  "MASTACEMBELUS": 1,
+  "CARASSIUS CARASSIUS": 1,
+  "HYPOSTOMUS PLECOSTOMUS": 1,
+  "PHRACTOCEPHALUS HEMIOLIOPTERUS": 1
+ },
+ "hosts_diseases": {
+  "INFECTION": 5,
+  "SORFTTISSUE INFECTION": 1,
+  "SEPTICEMIA": 1,
+  "null": 28,
+  "CARRIAGE": 1,
+  "ABDOMINAL ABSCESS": 1,
+  "PEPTIC ULCER PERFORATION": 1,
+  "HYPERAEMIA": 1,
+  "HEMORRAGIC DISEASE": 1,
+  "BILIARY POSTOPERATIVE SYNDROME": 1,
+  "CHOLECYSTITIS": 4,
+  "MOTILE AEROMONAS SEPTICEMIA": 1
  }
 }

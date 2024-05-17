@@ -1,27 +1,47 @@
 {
  "group": "Vibrio_harveyi",
- "count": 23,
+ "count": 24,
  "species": {
-  "Vibrio harveyi": 17,
-  "Vibrio campbellii": 6
+  "Vibrio campbellii": 6,
+  "Vibrio harveyi": 18
  },
  "subsp.": {},
  "scientific_name": {
-  "Vibrio harveyi": 17,
-  "Vibrio campbellii": 6
+  "Vibrio campbellii": 6,
+  "Vibrio harveyi": 18
  },
  "strain": {},
+ "location": {
+  "SPAIN": 1,
+  "HONG KONG": 1,
+  "CROATIA": 4,
+  "TURKEY": 1,
+  "ECUADOR": 1,
+  "ITALY": 2,
+  "FRANCE": 2,
+  "USA": 1,
+  "INDIA": 1,
+  "TUNISIA": 1,
+  "SOUTH KOREA": 1,
+  "CHINA": 7,
+  "BAHAMAS": 1
+ },
  "hosts": {
-  "HIPPOCAMPUS KUDA": 1,
-  "CAGE-CULTURED RED DRUM": 1,
+  "D. LABRAX": 5,
+  "LATEOLABRAX MACULATUS": 1,
   "S. AURATA": 3,
-  "TRACHINOTUS OVATUS": 1,
-  "ENVIRONMENT": 1,
-  "VIBRIOSIS AFFECTED ASIAN SEABASS (LATES CALCARIFER) FINGERLING": 1,
-  "PENAEUS VANNAMEI": 5,
-  "PARALICHTHYS OLIVACEUS": 1,
+  "HIPPOCAMPUS KUDA": 1,
   "CARIBBEAN SPINY LOBSTER": 1,
+  "PARALICHTHYS OLIVACEUS": 1,
+  "CAGE-CULTURED RED DRUM": 1,
+  "TRACHINOTUS OVATUS": 1,
+  "PENAEUS VANNAMEI": 5,
   "DICENTRARCHUS LABRAX": 3,
-  "D. LABRAX": 5
+  "VIBRIOSIS AFFECTED ASIAN SEABASS (LATES CALCARIFER) FINGERLING": 1,
+  "ENVIRONMENT": 1
+ },
+ "hosts_diseases": {
+  "null": 13,
+  "VIBRIOSIS": 11
  }
 }

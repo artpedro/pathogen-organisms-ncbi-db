@@ -2,20 +2,36 @@
  "group": "Clostridium_botulinum",
  "count": 16,
  "species": {
-  "Clostridium novyi": 1,
-  "Clostridium botulinum": 15
+  "Clostridium botulinum": 15,
+  "Clostridium novyi": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Clostridium novyi": 1,
-  "Clostridium botulinum": 15
+  "Clostridium botulinum": 15,
+  "Clostridium novyi": 1
  },
  "strain": {},
+ "location": {
+  "CANADA": 4,
+  "SWEDEN": 2,
+  "FINLAND": 1,
+  "null": 2,
+  "ITALY": 1,
+  "USA": 2,
+  "JAPAN": 2,
+  "SOUTH KOREA": 1,
+  "NOT AVAILABLE": 1
+ },
  "hosts": {
-  "SHEEP": 1,
   "MINK": 1,
   "CHICKEN": 1,
-  "HOMO SAPIENS": 12,
+  "SHEEP": 1,
+  "HUMAN": 12,
   "PIG": 1
+ },
+ "hosts_diseases": {
+  "BOTULISM": 2,
+  "null": 11,
+  "INFANT BOTULISM": 3
  }
 }

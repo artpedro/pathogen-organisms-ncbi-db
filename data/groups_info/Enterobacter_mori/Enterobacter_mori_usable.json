@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_mori": "PDG000000110.7",
-  "date": "Thu Oct 19 21:09:21 2023"
+  "Enterobacter_mori": "PDG000000110.24",
+  "date": "Wed May 15 22:23:01 2024"
  },
  {
   "asm_acc": "GCA_018638795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18011300",
   "collection_date": "2008-01",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter mori",
   "strain": "08-091"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15184663",
   "collection_date": "2018-03-01",
+  "geo_loc_name": "CHINA",
   "host": "KIWIFRUIT",
+  "host_disease": null,
   "scientific_name": "Enterobacter mori",
   "strain": "CX01"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33277635",
   "collection_date": "2022-11",
+  "geo_loc_name": "CHINA",
   "host": "PARIS POLYPHYLLA",
+  "host_disease": null,
   "scientific_name": "Enterobacter mori",
   "strain": "LgD10"
  }

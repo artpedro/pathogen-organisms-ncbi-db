@@ -1,20 +1,41 @@
 {
  "group": "Stenotrophomonas_maltophilia",
- "count": 19,
+ "count": 21,
  "species": {
-  "Stenotrophomonas maltophilia": 19
+  "Stenotrophomonas maltophilia": 21
  },
  "subsp.": {},
  "scientific_name": {
-  "Stenotrophomonas maltophilia": 19
+  "Stenotrophomonas maltophilia": 21
  },
  "strain": {
   "NCTC10498": 2
  },
+ "location": {
+  "HONG KONG": 1,
+  "null": 5,
+  "USA": 6,
+  "INDIA": 1,
+  "KAZAKHSTAN": 1,
+  "GERMANY": 1,
+  "CHINA": 5,
+  "AUSTRALIA": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 16,
-  "SEMPERVIVUM TECTORUM": 1,
+  "ZEA MAYS": 1,
   "NOT AVAILABLE": 1,
-  "ZEA MAYS": 1
+  "SEMPERVIVUM TECTORUM": 1,
+  "HUMAN": 18
+ },
+ "hosts_diseases": {
+  "LARYNGEAL CANCER": 1,
+  "STENOTROPHOMONAS MALTOPHILIA BACTEREMIA": 1,
+  "null": 10,
+  "BACTERIAL SEPSIS": 1,
+  "CYSTIC FIBROSIS": 3,
+  "TUBERCULOSIS": 1,
+  "DRAINAGE": 1,
+  "COLONIZATION": 1,
+  "NOT COLLECTED": 2
  }
 }

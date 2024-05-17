@@ -156,10 +156,16 @@ def writeAll():
     for group in readGroupsNames():
         species = [plotSingleDistribution(group,'species')]
         hosts = [plotSingleDistribution(group,'hosts')]
+        diseases = [plotSingleDistribution(group,'location')]
+        location = [plotSingleDistribution(group,'hosts_diseases')]
         if species[0] != None:
             write_pdf(f"sdis_{group}.pdf",species,path=f'data/plot/{group}')
         if hosts[0] != None:    
             write_pdf(f"hdis_{group}.pdf",hosts,path=f'data/plot/{group}')
+        if diseases[0] != None:    
+            write_pdf(f"ddis_{group}.pdf",diseases,path=f'data/plot/{group}')
+        if location[0] != None:    
+            write_pdf(f"ldis_{group}.pdf",location,path=f'data/plot/{group}')        
     writeGeneral()
 
 def writeSingle(group):
@@ -178,8 +184,12 @@ def writeGeneral():
 
     species = [plotSingleDistribution(all=True)]
     host = [plotSingleDistribution(key='hosts',all=True)]
+    location = [plotSingleDistribution(key='location',all=True)]
+    diseases = [plotSingleDistribution(key='hosts_diseases',all=True)]
     write_pdf(f"sdis_all.pdf",species,path="data/plot")
     write_pdf(f"hdis_all.pdf",host,path="data/plot")
+    write_pdf(f"ldis_all.pdf",location,path="data/plot")
+    write_pdf(f"ddis_all.pdf",diseases,path="data/plot")
 
 def update():
     writeAll()

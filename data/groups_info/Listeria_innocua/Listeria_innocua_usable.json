@@ -1,14 +1,16 @@
 [
  {
-  "Listeria_innocua": "PDG000000091.80",
-  "date": "Thu Oct 19 21:10:24 2023"
+  "Listeria_innocua": "PDG000000091.108",
+  "date": "Wed May 15 22:29:36 2024"
  },
  {
   "asm_acc": "GCA_017363615.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10869157",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "2010L-2059"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761682",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "F6217"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761736",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "2010L-1951"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941775",
   "collection_date": "missing",
+  "geo_loc_name": "NOT AVAILABLE",
   "host": "NOT AVAILABLE",
+  "host_disease": "NOT AVAILABLE",
   "scientific_name": "Listeria innocua",
   "strain": "2012L-5520"
  },
@@ -44,8 +52,21 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941777",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "F4078"
+ },
+ {
+  "asm_acc": "GCA_037055925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359751",
+  "collection_date": "2022-01-26",
+  "geo_loc_name": "GERMANY",
+  "host": "NYCTEREUTES PROCYONOIDES",
+  "host_disease": null,
+  "scientific_name": "Listeria innocua",
+  "strain": "L152"
  }
 ]

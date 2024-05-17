@@ -1,14 +1,16 @@
 [
  {
-  "Bacillus_cereus_group": "PDG000000088.230",
-  "date": "Thu Oct 19 21:08:49 2023"
+  "Bacillus_cereus_group": "PDG000000088.334",
+  "date": "Wed May 15 22:19:10 2024"
  },
  {
   "asm_acc": "GCA_000021205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604059",
   "collection_date": "1969",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus B4264",
   "strain": "B4264"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603474",
   "collection_date": null,
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis str. H9401",
   "strain": "H9401"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02469407",
   "collection_date": "2009-07",
+  "geo_loc_name": "GERMANY",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis str. BF1",
   "strain": "BF1"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00002586",
   "collection_date": "2011",
+  "geo_loc_name": "ZAMBIA",
   "host": "HIPPOPOTAMUS AMPHIBIUS",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "CZC5"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03201418",
   "collection_date": "1981",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "Ames"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03223175",
   "collection_date": "2006",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "97-27"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02999504",
   "collection_date": "1992-04-20",
+  "geo_loc_name": "ARGENTINA",
   "host": "BOS TAURUS",
+  "host_disease": "ANTHRAX DISEASE",
   "scientific_name": "Bacillus anthracis",
   "strain": "A1144"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03457230",
   "collection_date": "2010",
+  "geo_loc_name": "CHINA",
   "host": "TOBACCO",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "YC-10"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04278951",
   "collection_date": "1999-10",
+  "geo_loc_name": "CHINA",
   "host": "INVERTEBRATES",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "CTC"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04442145",
   "collection_date": "2012",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Stendal"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04628222",
   "collection_date": "1987",
+  "geo_loc_name": "CZECHOSLOVAKIA",
   "host": "BOMBYX MORI",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis serovar alesti",
   "strain": "BGSC 4C1"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890259",
   "collection_date": "missing",
+  "geo_loc_name": null,
   "host": "CAENORHABDITIS ELEGANS",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "MYBT18246"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06186720",
   "collection_date": "1988",
+  "geo_loc_name": "AUSTRIA",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Tyrol 4675"
  },
@@ -125,25 +151,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06270326",
   "collection_date": "2015-08-20",
+  "geo_loc_name": "BRAZIL",
   "host": "BOS TAURUS",
+  "host_disease": "ABORTION",
   "scientific_name": "Bacillus anthracis",
   "strain": "SPV842_15"
- },
- {
-  "asm_acc": "GCA_002025105.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN06473083",
-  "collection_date": "2015-10-02",
-  "host": "BACILLUS THURINGIENSIS SUBSP",
-  "scientific_name": "Bacillus thuringiensis",
-  "strain": "Bacillus thuringiensis L-7601"
  },
  {
   "asm_acc": "GCA_002073415.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875572",
   "collection_date": "2014-09-15",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CVL INFECTION",
   "scientific_name": "Bacillus sp. FDAARGOS_235",
   "strain": "FDAARGOS_235"
  },
@@ -152,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04513593",
   "collection_date": "missing",
+  "geo_loc_name": "NOT COLLECTED",
   "host": "CAENORHABDITIS ELEGANS",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis Bt18247",
   "strain": "Bt18247"
  },
@@ -161,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173354",
   "collection_date": "2015-04-15",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": "HEALTHY CATTLE, SHEEP, GOATS, SWINE, AND HORSES",
   "scientific_name": "Bacillus anthracis",
   "strain": "FDAARGOS_341"
  },
@@ -170,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07498358",
   "collection_date": "2014-04-16",
+  "geo_loc_name": "GERMANY",
   "host": "BOS PRIMIGENIUS TAURUS",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "14RA5914"
  },
@@ -179,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08455831",
   "collection_date": "2016-04-16",
+  "geo_loc_name": "CHINA",
   "host": "SPOROBOLUS ANGLICUS",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "TG1-6"
  },
@@ -188,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04288432",
   "collection_date": "2014-06-20",
+  "geo_loc_name": "FRANCE",
   "host": "VECTOBAC",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis serovar israelensis",
   "strain": "AM65-52"
  },
@@ -197,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07981265",
   "collection_date": "2013-08",
+  "geo_loc_name": "FRANCE",
   "host": "ORYCTES GIGAS",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis LM1212",
   "strain": "LM1212"
  },
@@ -206,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07515795",
   "collection_date": "2016-07-07",
+  "geo_loc_name": "CHINA",
   "host": "BACTERIA",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "HBL-AI"
  },
@@ -215,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09652006",
   "collection_date": "2017-06-09",
+  "geo_loc_name": "CHINA",
   "host": "SOIL",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "ZB201708"
  },
@@ -224,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09041402",
   "collection_date": "2017-05-15",
+  "geo_loc_name": "SWITZERLAND",
   "host": "BOS TAURUS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "17OD930"
  },
@@ -233,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11959879",
   "collection_date": "2018-05-09",
+  "geo_loc_name": "VIET NAM",
   "host": "COFFEE",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "A22"
  },
@@ -242,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11960211",
   "collection_date": "2018-05-24",
+  "geo_loc_name": "VIET NAM",
   "host": "BLACK PEPPER PLANT",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "A24"
  },
@@ -251,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10058771",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "ALVINOCARIS LONGIROSTRIS",
+  "host_disease": null,
   "scientific_name": "Bacillus wiedmannii",
   "strain": "SR52"
  },
@@ -260,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10819077",
   "collection_date": "2017-12-27",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "DLOU-Changhai"
  },
@@ -269,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10819129",
   "collection_date": "2018-01-05",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Bacillus luti",
   "strain": "FJ"
  },
@@ -278,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10819049",
   "collection_date": "2017-11-28",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "DLOU-Tangshan"
  },
@@ -287,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10743320",
   "collection_date": "2017-11-16",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "DLOU-Weihai"
  },
@@ -296,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10739311",
   "collection_date": "2017-11-16",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Bacillus albus",
   "strain": "DLOU-Yingkou"
  },
@@ -305,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14832921",
   "collection_date": "2005-12-15",
+  "geo_loc_name": "CHINA",
   "host": "PYROPIA",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "WPySW2"
  },
@@ -314,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12769617",
   "collection_date": "2016-07-03",
+  "geo_loc_name": "CHINA",
   "host": "SHINKAIA CROSNIERI",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "H2"
  },
@@ -323,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17369856",
   "collection_date": "2017-11",
+  "geo_loc_name": "CHINA",
   "host": "ANGELICA SINENSIS DLIES",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "21155"
  },
@@ -332,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864500",
   "collection_date": null,
+  "geo_loc_name": "ARMENIA",
   "host": "BOMBYX MORI",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "VKM B-370"
  },
@@ -341,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13705136",
   "collection_date": "2006-07",
+  "geo_loc_name": "TAIWAN",
   "host": "SOLANUM LYCOPERSICUM L.",
+  "host_disease": null,
   "scientific_name": "Bacillus nitratireducens",
   "strain": "BM02"
  },
@@ -350,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14440804",
   "collection_date": "2013-08",
+  "geo_loc_name": "FRANCE",
   "host": "ORYCTES GIGAS",
+  "host_disease": null,
   "scientific_name": "Bacillus tropicus",
   "strain": "LM1212-DB"
  },
@@ -359,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17818117",
   "collection_date": "1952",
+  "geo_loc_name": "USA",
   "host": "MOTH",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "B13"
  },
@@ -368,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25416578",
   "collection_date": "1935",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "PNO2"
  },
@@ -377,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25419190",
   "collection_date": "1965",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "ChBA30D"
  },
@@ -386,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20890002",
   "collection_date": "2019",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Bacillus toyonensis",
   "strain": "UTDF19-29B"
  },
@@ -395,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164746",
   "collection_date": "2008",
+  "geo_loc_name": "FRANCE",
   "host": "CATTLE",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "A182"
  },
@@ -404,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164732",
   "collection_date": "1936",
+  "geo_loc_name": "IRAN",
   "host": "CATTLE",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "3016"
  },
@@ -413,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13640833",
   "collection_date": "1988",
+  "geo_loc_name": "AUSTRIA",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Tyrol 3520"
  },
@@ -422,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164741",
   "collection_date": "1997",
+  "geo_loc_name": "FRANCE",
   "host": "CATTLE",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "A193a"
  },
@@ -431,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164734",
   "collection_date": "1984",
+  "geo_loc_name": "FRANCE",
   "host": "CATTLE",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "A166"
  },
@@ -440,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164740",
   "collection_date": "1998",
+  "geo_loc_name": "FRANCE",
   "host": "CATTLE",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "A168"
  },
@@ -449,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164747",
   "collection_date": "2008",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "A178"
  },
@@ -458,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164726",
   "collection_date": null,
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "A27"
  },
@@ -467,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02469407",
   "collection_date": "2009-07",
+  "geo_loc_name": "GERMANY",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis str. BF1",
   "strain": "BF1"
  },
@@ -476,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241473",
   "collection_date": null,
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Pasteur"
  },
@@ -485,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241472",
   "collection_date": "2012",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "UR-1"
  },
@@ -494,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241471",
   "collection_date": "1993",
+  "geo_loc_name": "NETHERLANDS",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "188678-1"
  },
@@ -503,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241470",
   "collection_date": "2013",
+  "geo_loc_name": "BANGLADESH",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Tangail-4/2"
  },
@@ -512,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241469",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "A3783"
  },
@@ -521,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241468",
   "collection_date": null,
+  "geo_loc_name": "ITALY",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "3-IZSLT"
  },
@@ -530,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241467",
   "collection_date": "2013",
+  "geo_loc_name": "ITALY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Pollino 3734"
  },
@@ -539,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241466",
   "collection_date": null,
+  "geo_loc_name": "CHILE",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "A1074"
  },
@@ -548,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241465",
   "collection_date": null,
+  "geo_loc_name": "CANADA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "A0777"
  },
@@ -557,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241464",
   "collection_date": null,
+  "geo_loc_name": "SOUTH AFRICA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "SA020"
  },
@@ -566,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241463",
   "collection_date": null,
+  "geo_loc_name": "ZIMBABWE",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "AF039"
  },
@@ -575,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241462",
   "collection_date": "2008",
+  "geo_loc_name": "GERMANY",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "A159"
  },
@@ -584,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241461",
   "collection_date": "1951",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANTHRAX",
   "scientific_name": "Bacillus anthracis",
   "strain": "Vollum"
  },
@@ -593,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26688063",
   "collection_date": "2020-10-30",
+  "geo_loc_name": "CHINA",
   "host": "BUBALUS BUBALIS",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "AH7-7"
  },
@@ -602,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16562415",
   "collection_date": "2019-03-14",
+  "geo_loc_name": "CHINA",
   "host": "SOIL IN TIGER AREA OF ZOO",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "N435-1"
  },
@@ -611,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04513597",
   "collection_date": "missing",
+  "geo_loc_name": "NOT COLLECTED",
   "host": "CAENORHABDITIS ELEGANS",
+  "host_disease": null,
   "scientific_name": "Bacillus wiedmannii",
   "strain": "Bt18679"
  },
@@ -620,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890260",
   "collection_date": "missing",
+  "geo_loc_name": null,
   "host": "TRIBOLIUM CASTANEUM",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis serovar morrisoni str. 4AA1",
   "strain": "4AA1"
  },
@@ -629,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29358476",
   "collection_date": "2021-11-20",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Bacillus paranthracis",
   "strain": "SSBC101"
  },
@@ -638,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31013773",
   "collection_date": "2021-10-01",
+  "geo_loc_name": "CHINA",
   "host": "BGSC DATABASE",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "4F5"
  },
@@ -647,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32338359",
   "collection_date": "2016-05",
+  "geo_loc_name": "TAIWAN",
   "host": "TRYONYX SINENSIS (CHINESE SOFT-SHELL TURTLE)",
+  "host_disease": "SYSTEMIC ANTHRAX-LIKE INFECTION",
   "scientific_name": "Bacillus tropicus",
   "strain": "JMT105-2"
  },
@@ -656,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33336515",
   "collection_date": "1981",
+  "geo_loc_name": null,
   "host": "SOIL",
+  "host_disease": null,
   "scientific_name": "Bacillus mycoides",
   "strain": "DSM 2048"
  },
@@ -665,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28980187",
   "collection_date": "2020-09-30",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Bacillus pacificus",
   "strain": "ANSB901"
  },
@@ -674,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33463191",
   "collection_date": "2021-11-06",
+  "geo_loc_name": "CHINA",
   "host": "WHITE BREAM",
+  "host_disease": null,
   "scientific_name": "Bacillus paranthracis",
   "strain": "Bc006"
  },
@@ -683,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33826275",
   "collection_date": "2022-10-22",
+  "geo_loc_name": "CHINA",
   "host": "MOSCHUS BEREZOVSKII",
+  "host_disease": "LIVER DISEASE",
   "scientific_name": "Bacillus cereus",
   "strain": "SCBCM001"
  },
@@ -692,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32614585",
   "collection_date": "2017-11-20",
+  "geo_loc_name": "TANZANIA",
   "host": "OVIS ARIES",
+  "host_disease": "DISEASED",
   "scientific_name": "Bacillus anthracis",
   "strain": "AN17-384_2"
  },
@@ -701,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32614595",
   "collection_date": "2018-01-24",
+  "geo_loc_name": "TANZANIA",
   "host": "EQUUS QUAGGA",
+  "host_disease": "DISEASED",
   "scientific_name": "Bacillus anthracis",
   "strain": "AN18-416_2"
  },
@@ -710,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32614574",
   "collection_date": "2017-05-25",
+  "geo_loc_name": "TANZANIA",
   "host": "OVIS ARIES",
+  "host_disease": "DISEASED",
   "scientific_name": "Bacillus anthracis",
   "strain": "AN17-14_S4"
  },
@@ -719,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35323095",
   "collection_date": "2021-06-12",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SKIN DISEASE",
   "scientific_name": "Bacillus anthracis",
   "strain": "BHY1401"
  },
@@ -728,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34374906",
   "collection_date": "2010-01-15",
+  "geo_loc_name": "SOUTH AFRICA",
   "host": "MACROTERMES NATALENSIS COLONY MN106",
+  "host_disease": null,
   "scientific_name": "Bacillus anthracis",
   "strain": "Mn106-1 head2 chi"
  },
@@ -737,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35772075",
   "collection_date": "2019-04",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": "BACILLUS CEREUS SPLENITIS",
   "scientific_name": "Bacillus cereus",
   "strain": "lycx"
  },
@@ -746,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11959608",
   "collection_date": "1987",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Bacillus paranthracis",
   "strain": "F3351/87"
  },
@@ -755,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36848257",
   "collection_date": "2019-05-01",
+  "geo_loc_name": "CHINA",
   "host": "COPRINUS COMATUS",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis",
   "strain": "L1"
  },
@@ -764,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105265",
   "collection_date": "1983-12-08",
+  "geo_loc_name": "GERMANY",
   "host": "TENEBRIO MOLITOR",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis serovar tenebrionis",
   "strain": "BI 256-82"
  },
@@ -773,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105266",
   "collection_date": "1992-12-07",
+  "geo_loc_name": "GERMANY",
   "host": "TENEBRIO MOLITOR",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis serovar tenebrionis",
   "strain": "ten BI 256-82"
  },
@@ -782,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105267",
   "collection_date": "1990-06-27",
+  "geo_loc_name": "GERMANY",
   "host": "TENEBRIO MOLITOR",
+  "host_disease": null,
   "scientific_name": "Bacillus thuringiensis serovar tenebrionis",
   "strain": "ten BI 256-82/CM3"
  },
@@ -791,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24582794",
   "collection_date": "2014-06-01",
+  "geo_loc_name": "ISRAEL",
   "host": "MORINGA OLEIFERA",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "MO2"
  },
@@ -800,8 +965,32 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36942558",
   "collection_date": "2022",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PLANT",
+  "host_disease": null,
   "scientific_name": "Bacillus cereus",
   "strain": "B126_1"
+ },
+ {
+  "asm_acc": "GCA_033452345.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38028109",
+  "collection_date": "2022-11-30",
+  "geo_loc_name": "CHINA",
+  "host": "PASSIFLORA EDULIS SIMS",
+  "host_disease": null,
+  "scientific_name": "Bacillus cereus",
+  "strain": "GUCC 3"
+ },
+ {
+  "asm_acc": "GCA_038561975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40464742",
+  "collection_date": "2023-11",
+  "geo_loc_name": "CHINA",
+  "host": "TOBACCO",
+  "host_disease": null,
+  "scientific_name": "Bacillus thuringiensis",
+  "strain": "YB6"
  }
 ]

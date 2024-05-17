@@ -1,14 +1,16 @@
 [
  {
-  "Mannheimia_haemolytica": "PDG000000101.16",
-  "date": "Sat Oct  7 20:55:04 2023"
+  "Mannheimia_haemolytica": "PDG000000101.38",
+  "date": "Wed May 15 22:29:41 2024"
  },
  {
   "asm_acc": "GCA_000349785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02048830",
   "collection_date": "2008-04-04",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica USDA-ARS-USMARC-185",
   "strain": "USDA-ARS-USMARC-185"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02048829",
   "collection_date": "1991-06-20",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica USDA-ARS-USMARC-183",
   "strain": "USDA-ARS-USMARC-183"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02262084",
   "collection_date": "2012-02-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica USMARC_2286",
   "strain": "USMARC_2286"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02056285",
   "collection_date": "1983-12",
+  "geo_loc_name": "USA",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica D153",
   "strain": "D153"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02056363",
   "collection_date": "1984-01",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica D171",
   "strain": "D171"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02056364",
   "collection_date": "1984-01",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica D174",
   "strain": "D174"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03275447",
   "collection_date": "2008-04-08",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica USDA-ARS-USMARC-184",
   "strain": "USDA-ARS-USMARC-184"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03435925",
   "collection_date": "missing",
+  "geo_loc_name": null,
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "89010807N"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03435924",
   "collection_date": "missing",
+  "geo_loc_name": null,
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "89010807N"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537192",
   "collection_date": "2010-08-25",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "USDA-ARS-USMARC-191"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537191",
   "collection_date": "2011-01-13",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "USDA-ARS-USMARC-187"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537190",
   "collection_date": "2009-01-22",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "USDA-ARS-USMARC-186"
  },
@@ -116,25 +140,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537193",
   "collection_date": "2009-09-23",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "USDA-ARS-USMARC-193"
- },
- {
-  "asm_acc": "GCA_900638155.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMEA104167175",
-  "collection_date": "1900/1968",
-  "host": "SHEEP",
-  "scientific_name": "Mannheimia haemolytica",
-  "strain": "NCTC10643"
  },
  {
   "asm_acc": "GCA_007963885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717118",
   "collection_date": "2007",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1451"
  },
@@ -143,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717128",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1450"
  },
@@ -152,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717133",
   "collection_date": "2006",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1405"
  },
@@ -161,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717151",
   "collection_date": "2005",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1383"
  },
@@ -170,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717121",
   "collection_date": "2005",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1373"
  },
@@ -179,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717098",
   "collection_date": "2005",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1367"
  },
@@ -188,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717132",
   "collection_date": "2004",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1342"
  },
@@ -197,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717083",
   "collection_date": "2004",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1329"
  },
@@ -206,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717120",
   "collection_date": "2004",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1319"
  },
@@ -215,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717142",
   "collection_date": "2004",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1318"
  },
@@ -224,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717129",
   "collection_date": "2003",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1309"
  },
@@ -233,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717125",
   "collection_date": "2003",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1287"
  },
@@ -242,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717147",
   "collection_date": "2002",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1282"
  },
@@ -251,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717112",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39433"
  },
@@ -260,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717111",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39409"
  },
@@ -269,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717092",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39394"
  },
@@ -278,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717091",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39382"
  },
@@ -287,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717090",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39373"
  },
@@ -296,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717110",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39309"
  },
@@ -305,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717089",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "39107"
  },
@@ -314,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717138",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "38599"
  },
@@ -323,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717109",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "38202"
  },
@@ -332,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717108",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "38120"
  },
@@ -341,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717107",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "38089"
  },
@@ -350,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717088",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "37778"
  },
@@ -359,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717097",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "37121"
  },
@@ -368,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717087",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "34142"
  },
@@ -377,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717117",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "33980"
  },
@@ -386,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717116",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "33702"
  },
@@ -395,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717102",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "33690"
  },
@@ -404,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717137",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "33041"
  },
@@ -413,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717101",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "32852"
  },
@@ -422,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717115",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "32795"
  },
@@ -431,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717124",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "32635"
  },
@@ -440,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717145",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "32619"
  },
@@ -449,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717141",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "28488"
  },
@@ -458,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717106",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "28253"
  },
@@ -467,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717105",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "28240"
  },
@@ -476,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717114",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "28226"
  },
@@ -485,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717096",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23579"
  },
@@ -494,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717095",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23570"
  },
@@ -503,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717094",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23558"
  },
@@ -512,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717093",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23533"
  },
@@ -521,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717113",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23311"
  },
@@ -530,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717086",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23278"
  },
@@ -539,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717100",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "23217"
  },
@@ -548,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717104",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "22650"
  },
@@ -557,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717103",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "22604"
  },
@@ -566,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717150",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "22549"
  },
@@ -575,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717131",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1609"
  },
@@ -584,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717134",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1584"
  },
@@ -593,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717085",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1583"
  },
@@ -602,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717146",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1582"
  },
@@ -611,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717135",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1576"
  },
@@ -620,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717099",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1571"
  },
@@ -629,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717084",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1567"
  },
@@ -638,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717130",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1563"
  },
@@ -647,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717119",
   "collection_date": "2009",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1561"
  },
@@ -656,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717140",
   "collection_date": "2009",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1560"
  },
@@ -665,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717139",
   "collection_date": "2009",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1532"
  },
@@ -674,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717144",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1514"
  },
@@ -683,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717123",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1512"
  },
@@ -692,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717136",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1506"
  },
@@ -701,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717127",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1503"
  },
@@ -710,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717149",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1498"
  },
@@ -719,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717122",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1476"
  },
@@ -728,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717148",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1475"
  },
@@ -737,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717126",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1471"
  },
@@ -746,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717143",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "1454"
  },
@@ -755,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535276",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0768"
  },
@@ -764,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535275",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0760"
  },
@@ -773,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535274",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0746"
  },
@@ -782,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535272",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0729"
  },
@@ -791,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535271",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0728"
  },
@@ -800,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535270",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0727"
  },
@@ -809,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535269",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0722"
  },
@@ -818,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535268",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0597"
  },
@@ -827,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102264",
   "collection_date": "2008-04-08",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "184"
  },
@@ -836,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102263",
   "collection_date": "1991-06-20",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "183"
  },
@@ -845,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102261",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "OVIS ARIES",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Mannheimia haemolytica",
   "strain": "NCTC 10636"
  },
@@ -854,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102259",
   "collection_date": "1960-10-10",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": "BOVINE RESPIRATORY DISEASE",
   "scientific_name": "Mannheimia haemolytica",
   "strain": "P1148"
  },
@@ -863,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102258",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "OVIS ARIES",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "H-5106"
  },
@@ -872,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102257",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "OVIS ARIES",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "B-31"
  },
@@ -881,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599413",
   "collection_date": "2019-11-08",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "IMT47952"
  },
@@ -890,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535273",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "0745"
  },
@@ -899,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34340262",
   "collection_date": "2019-04-12",
+  "geo_loc_name": "GERMANY",
   "host": "CALF",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "190176"
  },
@@ -908,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798096",
   "collection_date": "2020",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "202699"
  },
@@ -917,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798094",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "192964"
  },
@@ -926,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798093",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "192916"
  },
@@ -935,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798092",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "192037"
  },
@@ -944,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798091",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "192036"
  },
@@ -953,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798090",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "191452"
  },
@@ -962,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798089",
   "collection_date": "2018",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "182963"
  },
@@ -971,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798088",
   "collection_date": "2018",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "182812"
  },
@@ -980,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798087",
   "collection_date": "2018",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "181789"
  },
@@ -989,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798086",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "171555"
  },
@@ -998,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798085",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "171117"
  },
@@ -1007,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798084",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "171096"
  },
@@ -1016,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798083",
   "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "142101"
  },
@@ -1025,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798082",
   "collection_date": "2013",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "132077"
  },
@@ -1034,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798081",
   "collection_date": "2013",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "131633"
  },
@@ -1043,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798080",
   "collection_date": "2012",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "120731"
  },
@@ -1052,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798079",
   "collection_date": "2009",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Mannheimia haemolytica",
   "strain": "90826"
  }

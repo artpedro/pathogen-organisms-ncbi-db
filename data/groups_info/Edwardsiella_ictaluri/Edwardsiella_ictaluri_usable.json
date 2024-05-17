@@ -1,14 +1,16 @@
 [
  {
-  "Edwardsiella_ictaluri": "PDG000000079.13",
-  "date": "Sat Oct  7 20:53:14 2023"
+  "Edwardsiella_ictaluri": "PDG000000079.18",
+  "date": "Wed May 15 22:22:18 2024"
  },
  {
   "asm_acc": "GCA_002076875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06637964",
   "collection_date": "2012",
+  "geo_loc_name": null,
   "host": "OREOCHROMIS NILOTICUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "RUSVM-1"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08906337",
   "collection_date": "2017-04-26",
+  "geo_loc_name": "USA",
   "host": "CATFISH",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "MS-17-156"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930763",
   "collection_date": "1997",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "S97-773"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930813",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "S07-698"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30966624",
   "collection_date": "2018-08",
+  "geo_loc_name": "CHINA",
   "host": "TACHYSURUS FULVIDRACO (YELLOW CATFISH)",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "669"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611014",
   "collection_date": "2020-09-06",
+  "geo_loc_name": "JAPAN",
   "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "KH20906"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611015",
   "collection_date": "2020-09-21",
+  "geo_loc_name": "JAPAN",
   "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "KB20921"
  },
@@ -71,17 +85,65 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611016",
   "collection_date": "2020-10-10",
+  "geo_loc_name": "JAPAN",
   "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "KH201010"
+ },
+ {
+  "asm_acc": "GCA_030297475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611017",
+  "collection_date": "2022-07-26",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STU22726"
+ },
+ {
+  "asm_acc": "GCA_030297495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611018",
+  "collection_date": "2022-08-16",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STU22816"
+ },
+ {
+  "asm_acc": "GCA_030297515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611019",
+  "collection_date": "2022-08-20",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STA22820"
  },
  {
   "asm_acc": "GCA_030347235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11664858",
   "collection_date": "2013-10-16",
+  "geo_loc_name": "CHINA",
   "host": "TACHYSURUS FULVIDRACO (YELLOW CATFISH)",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "YCH"
+ },
+ {
+  "asm_acc": "GCA_036508615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611020",
+  "collection_date": "2022-08-20",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STH22820"
  }
 ]

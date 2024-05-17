@@ -1,26 +1,41 @@
 {
  "group": "Streptococcus_equi",
- "count": 23,
+ "count": 35,
  "species": {
-  "Streptococcus equi": 23
+  "Streptococcus equi": 35
  },
  "subsp.": {
-  "Streptococcus equi subsp. zooepidemicus": 19,
-  "Streptococcus equi subsp. equi": 4
+  "Streptococcus equi subsp. zooepidemicus": 26,
+  "Streptococcus equi subsp. equi": 9
  },
  "scientific_name": {
   "Streptococcus equi subsp. zooepidemicus CY": 1,
-  "Streptococcus equi subsp. equi": 4,
-  "Streptococcus equi subsp. zooepidemicus": 18
+  "Streptococcus equi subsp. zooepidemicus": 25,
+  "Streptococcus equi subsp. equi": 9
  },
  "strain": {},
+ "location": {
+  "SWEDEN": 4,
+  "null": 2,
+  "USA": 14,
+  "CHINA": 8,
+  "UNITED KINGDOM": 7
+ },
  "hosts": {
-  "HORSE": 6,
+  "DONKEY": 4,
+  "HORSE (MARE)": 1,
+  "SHEEP": 1,
+  "MARE": 8,
+  "HUMAN": 5,
+  "HORSE": 9,
   "MOUSE": 1,
-  "MARE": 7,
-  "NOT AVAILABLE": 1,
-  "HOMO SAPIENS": 2,
   "PIG": 5,
-  "HORSE (MARE)": 1
+  "NOT AVAILABLE": 1
+ },
+ "hosts_diseases": {
+  "STRANGLE": 3,
+  "STRANGLES": 4,
+  "ENDOMETRITIS": 8,
+  "null": 20
  }
 }

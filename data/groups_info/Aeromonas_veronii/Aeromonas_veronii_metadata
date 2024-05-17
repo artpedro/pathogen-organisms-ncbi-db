@@ -1,25 +1,49 @@
 {
  "group": "Aeromonas_veronii",
- "count": 38,
+ "count": 41,
  "species": {
-  "Aeromonas veronii": 38
+  "Aeromonas veronii": 41
  },
  "subsp.": {},
  "scientific_name": {
-  "Aeromonas veronii": 37,
-  "Aeromonas veronii Hm21": 1
+  "Aeromonas veronii Hm21": 1,
+  "Aeromonas veronii": 40
  },
  "strain": {},
+ "location": {
+  "VIET NAM": 2,
+  "TAIWAN": 18,
+  "TURKEY": 1,
+  "USA": 1,
+  "INDIA": 1,
+  "SOUTH KOREA": 1,
+  "CHINA": 15,
+  "AUSTRALIA": 2
+ },
  "hosts": {
-  "ODONTOBUTIS OBSCURA": 1,
-  "MICROPTERUS SALMOIDES": 1,
-  "FISH": 5,
-  "HIRUDO VERBANA": 1,
-  "ALLIGATOR": 1,
-  "HOMO SAPIENS": 25,
   "TACHYSURUS FULVIDRACO": 1,
-  "CARASSIUS AURATUS": 1,
+  "MEGALOBRAMA AMBLYCEPHALA": 1,
+  "CHANNA STRIATA": 1,
+  "HIRUDO VERBANA": 1,
+  "MICROPTERUS SALMOIDES": 1,
   "DISCUS": 1,
-  "MEGALOBRAMA AMBLYCEPHALA": 1
+  "HUMAN": 25,
+  "ALLIGATOR": 1,
+  "FISH": 6,
+  "ODONTOBUTIS OBSCURA": 1,
+  "CARASSIUS AURATUS": 1,
+  "MASTACEMBELUS": 1
+ },
+ "hosts_diseases": {
+  "SEPSIS": 1,
+  "INFECTION": 18,
+  "CROHN'S DISEASE": 1,
+  "BACTERIAL SEPTICEMIA": 1,
+  "GASTROENTERITIS": 1,
+  "null": 15,
+  "LEUKEMIA": 1,
+  "CHOLANGIOLITHIASIS": 1,
+  "DIARRHEA": 1,
+  "CHOLECYSTITIS": 1
  }
 }

@@ -1,7 +1,7 @@
 [
  {
-  "Pluralibacter_gergoviae": "PDG000000092.28",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Pluralibacter_gergoviae": "PDG000000092.44",
+  "date": "Wed May 15 22:37:54 2024"
  },
  {
   "Pluralibacter_gergoviae": null,
@@ -10,9 +10,11 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05004741",
   "collection_date": "2014-07-21",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "COLONIZATION",
   "scientific_name": "Pluralibacter gergoviae",
   "strain": "FDAARGOS_186",
-  "fasta": "data/groups_info/Pluralibacter_gergoviae/GCA_003019925.1"
+  "fasta": "data\\groups_info\\Pluralibacter_gergoviae\\GCA_003019925.1"
  }
 ]

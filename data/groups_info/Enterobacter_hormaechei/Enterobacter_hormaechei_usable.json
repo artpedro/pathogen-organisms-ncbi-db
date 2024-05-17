@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_hormaechei": "PDG000000105.133",
-  "date": "Thu Oct 19 21:09:18 2023"
+  "Enterobacter_hormaechei": "PDG000000105.265",
+  "date": "Wed May 15 22:22:55 2024"
  },
  {
   "asm_acc": "GCA_000807405.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067415",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "34978"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067417",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "34998"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067414",
   "collection_date": "2009",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "34977"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067416",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei subsp. hormaechei",
   "strain": "34983"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067418",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "34399"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733748",
   "collection_date": "2011-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CAV1311"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733827",
   "collection_date": "2012-08",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CAV1668"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733769",
   "collection_date": "2011-06",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CAV1411"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733830",
   "collection_date": "2012-08",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CAV1669"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581749",
   "collection_date": null,
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. oharae",
   "strain": "DSM 16687"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581751",
   "collection_date": null,
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "DSM 16691"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581748",
   "collection_date": null,
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
   "strain": "DSM 14563"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581746",
   "collection_date": null,
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "LMG27195"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733727",
   "collection_date": "2010-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CAV1176"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06765483",
   "collection_date": "2015-06-15",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "MS7884A"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104700146",
   "collection_date": "2015",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": null
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08027257",
   "collection_date": "2016-10-10",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "SCEH020042"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05510455",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "234"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09425565",
   "collection_date": "2011-08",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "20710"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09071586",
   "collection_date": "2016-07-27",
+  "geo_loc_name": "USA",
   "host": "CANINE",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "OSUVMCKPC4-2"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04448506",
   "collection_date": "2013",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2013_1a"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04448498",
   "collection_date": "2015",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "N1"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04448499",
   "collection_date": "2015",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "A1"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08027258",
   "collection_date": "2016-11-02",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "WCHEH020038"
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07988874",
   "collection_date": "2016-09-09",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CELLULITIS",
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "OSUKPC4_L"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10525000",
   "collection_date": "2018-01",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "WCHEX045001"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09845189",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "WCHEH090011"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2709017",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "NCTC11571"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10755318",
   "collection_date": "2016",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "S11_16"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11514785",
   "collection_date": "2019-04-03",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "KCJ3K13"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11514786",
   "collection_date": "2019-03-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "KCJ3K19"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12725416",
   "collection_date": "2019-02-27",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "EB_P6_L3_02.19"
  },
@@ -296,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056357",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FDAARGOS_642"
  },
@@ -305,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289368",
   "collection_date": "2013-04-15",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "C44"
  },
@@ -314,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289339",
   "collection_date": "2009-02-23",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "C15"
  },
@@ -323,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289289",
   "collection_date": "2007-06-28",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "C4"
  },
@@ -332,25 +404,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289303",
   "collection_date": "2013-04-27",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "C45"
- },
- {
-  "asm_acc": "GCA_008931785.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN12713636",
-  "collection_date": "2019-03",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterobacter hormaechei",
-  "strain": "EB_P9_L5_03.19"
  },
  {
   "asm_acc": "GCA_009497055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13022768",
   "collection_date": "2016",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "AUH-ENM30"
  },
@@ -359,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13335391",
   "collection_date": "2018-02-04",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NONE",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "E70"
  },
@@ -368,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10219678",
   "collection_date": "2016-04-08",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CROHN DISEASE",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "L51"
  },
@@ -377,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10654518",
   "collection_date": "2018",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
   "strain": "Eh1"
  },
@@ -386,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07692716",
   "collection_date": "2013-08-24",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROBACTER BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "BW"
  },
@@ -395,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08554725",
   "collection_date": "2014-05-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROBACTER BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "BW"
  },
@@ -404,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00167169",
   "collection_date": "2016",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
   "strain": "OIPH-N069"
  },
@@ -413,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14132375",
   "collection_date": "2007-01-31",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Y233"
  },
@@ -422,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14142412",
   "collection_date": "2007-01-31",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Y323"
  },
@@ -431,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14151378",
   "collection_date": "2007-01-31",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Y2152"
  },
@@ -440,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14492121",
   "collection_date": "2015-04",
+  "geo_loc_name": "EGYPT",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "AMS-38"
  },
@@ -449,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10107915",
   "collection_date": "2014-07-18",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "AKB48"
  },
@@ -458,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15589926",
   "collection_date": "2019",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ENCL48880"
  },
@@ -467,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15589925",
   "collection_date": "2019",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "STROKE",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ENCL48212"
  },
@@ -476,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15589938",
   "collection_date": "2019",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "DIABETES MELLITUS",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ENCL49790"
  },
@@ -485,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15648651",
   "collection_date": "2019-08-08",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ZHH"
  },
@@ -494,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14450178",
   "collection_date": null,
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ACUTE PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "NJGLYY90-CR"
  },
@@ -503,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16707732",
   "collection_date": "2019-06",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "3804"
  },
@@ -512,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16233514",
   "collection_date": "2018-05-19",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GUT COLONIZATION",
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "BD-50-Eh"
  },
@@ -521,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14828832",
   "collection_date": "2014-01-05",
+  "geo_loc_name": "BRAZIL",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "Ec61"
  },
@@ -530,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17054651",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARRIAGE",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "MSB1_8J"
  },
@@ -539,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17252997",
   "collection_date": "2018-04-25",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "1575"
  },
@@ -548,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999969",
   "collection_date": "2017",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "14102KSN"
  },
@@ -557,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999974",
   "collection_date": "2014",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "14280161202"
  },
@@ -566,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999995",
   "collection_date": "2014",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "14320055602"
  },
@@ -575,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933270",
   "collection_date": "2019-01-02",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "THORACIC AORTIC ANEURYSM, RUPTURED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "EC48293"
  },
@@ -584,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615676",
   "collection_date": "2020",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C034192"
  },
@@ -593,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615675",
   "collection_date": "2020",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C034177"
  },
@@ -602,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615672",
   "collection_date": "2019",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C019072"
  },
@@ -611,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615668",
   "collection_date": "2015",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C010068"
  },
@@ -620,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615670",
   "collection_date": "2018",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C017238"
  },
@@ -629,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615674",
   "collection_date": "2020",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C033144"
  },
@@ -638,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615673",
   "collection_date": "2019",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C019181"
  },
@@ -647,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615671",
   "collection_date": "2018",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C017834"
  },
@@ -656,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615669",
   "collection_date": "2016",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "RIVM_C012369"
  },
@@ -665,16 +800,31 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16561277",
   "collection_date": "2015-08-21",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "IR5283"
+ },
+ {
+  "asm_acc": "GCA_018597075.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN19314267",
+  "collection_date": "2018-07",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+  "strain": "090095"
  },
  {
   "asm_acc": "GCA_019355415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14142282",
   "collection_date": "2008-11-14",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "HYDROCEPHALUS",
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "08-175"
  },
@@ -683,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20299883",
   "collection_date": "2021-01-20",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "G17"
  },
@@ -692,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20500401",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC59"
  },
@@ -701,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20587857",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC47"
  },
@@ -710,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20587856",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC46"
  },
@@ -719,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20587859",
   "collection_date": "2014",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC116"
  },
@@ -728,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20587854",
   "collection_date": "2013",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC30"
  },
@@ -737,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20587855",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC45"
  },
@@ -746,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20587858",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC48"
  },
@@ -755,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377434",
   "collection_date": "2020-10",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "ACUTE CHOLECYSTITIS",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "60214CZ"
  },
@@ -764,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377432",
   "collection_date": "2020-09",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY RETENTION",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "59732CZ"
  },
@@ -773,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377429",
   "collection_date": "2020-06",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "57816CZ"
  },
@@ -782,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377422",
   "collection_date": "2019-11",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "BILE DUCT PERFORATION",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "54569CZ"
  },
@@ -791,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377414",
   "collection_date": "2019-03",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "INSUFFICIENCY OF A BICUSPID VALVE",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "49589CZ"
  },
@@ -800,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377412",
   "collection_date": "2019-02",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "HEMATURIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "48947CZ"
  },
@@ -809,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22377411",
   "collection_date": "2019-01",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "ACUTE RESPIRATORY FAILURE",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "48411CZ"
  },
@@ -818,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24341409",
   "collection_date": "2018-02-28",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "HEALTHCARE-ASSOCIATED PNEUMONIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "TUECL19001"
  },
@@ -827,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24425646",
   "collection_date": "2018-04-07",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "SURGICAL WOUND INFECTION",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "TUECL19003"
  },
@@ -836,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24596081",
   "collection_date": "2021-06",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FY-1"
  },
@@ -845,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24596082",
   "collection_date": "2017-07",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Y-2"
  },
@@ -854,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18311225",
   "collection_date": "2019-05",
+  "geo_loc_name": "CHINA",
   "host": "SWINE",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "GX4-8L"
  },
@@ -863,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379550",
   "collection_date": "2014-04",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "14269-yvys"
  },
@@ -872,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363748",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HEALTHY DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "K528"
  },
@@ -881,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22612719",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Eh60"
  },
@@ -890,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14943921",
   "collection_date": "2017-09-25",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Eh65"
  },
@@ -899,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490829",
   "collection_date": "2016-01-13",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80001"
  },
@@ -908,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490830",
   "collection_date": "2016-01-27",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80002"
  },
@@ -917,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490831",
   "collection_date": "2016-04-27",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80003"
  },
@@ -926,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490832",
   "collection_date": "2016-04-14",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80004"
  },
@@ -935,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490833",
   "collection_date": "2016-01-22",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80005"
  },
@@ -944,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490835",
   "collection_date": "2016-06-06",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80007"
  },
@@ -953,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490836",
   "collection_date": "2016-09-20",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80008"
  },
@@ -962,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490837",
   "collection_date": "2016-10-04",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80011"
  },
@@ -971,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490838",
   "collection_date": "2016-10-25",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80012"
  },
@@ -980,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490839",
   "collection_date": "2016-10-12",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80013"
  },
@@ -989,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490840",
   "collection_date": "2016-10-27",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80014"
  },
@@ -998,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490842",
   "collection_date": "2016-01-14",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80017"
  },
@@ -1007,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490843",
   "collection_date": "2016-05-29",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80019"
  },
@@ -1016,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490844",
   "collection_date": "2016-08-30",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80022"
  },
@@ -1025,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490845",
   "collection_date": "2015-10-08",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80023"
  },
@@ -1034,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490846",
   "collection_date": "2015-11-11",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80024"
  },
@@ -1043,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490847",
   "collection_date": "2016-11-07",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80053"
  },
@@ -1052,7 +1284,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490850",
   "collection_date": "2015-11-11",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80056"
  },
@@ -1061,7 +1295,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490852",
   "collection_date": "2015-10-09",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80060"
  },
@@ -1070,7 +1306,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490854",
   "collection_date": "2015-07-27",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80062"
  },
@@ -1079,7 +1317,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490855",
   "collection_date": "2014-09-12",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80064"
  },
@@ -1088,7 +1328,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490856",
   "collection_date": "2014-01-08",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80065"
  },
@@ -1097,7 +1339,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490857",
   "collection_date": "2014-09-05",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80066"
  },
@@ -1106,7 +1350,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490858",
   "collection_date": "2014-12-04",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80067"
  },
@@ -1115,7 +1361,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490860",
   "collection_date": "2019-12-22",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80149"
  },
@@ -1124,7 +1372,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490862",
   "collection_date": "2018-08-30",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80169"
  },
@@ -1133,7 +1383,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490863",
   "collection_date": "2018-09-07",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80181"
  },
@@ -1142,7 +1394,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490867",
   "collection_date": "2019-10-06",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80299"
  },
@@ -1151,7 +1405,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490871",
   "collection_date": "2015-09-12",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80063"
  },
@@ -1160,7 +1416,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490872",
   "collection_date": "2014-05-15",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80068"
  },
@@ -1169,7 +1427,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490873",
   "collection_date": "2019-06-24",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80144"
  },
@@ -1178,7 +1438,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490874",
   "collection_date": "2019-06-24",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80145"
  },
@@ -1187,7 +1449,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490875",
   "collection_date": "2019-06-24",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80146"
  },
@@ -1196,7 +1460,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490877",
   "collection_date": "2019-04-20",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80151"
  },
@@ -1205,7 +1471,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490878",
   "collection_date": "2019-04-20",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80152"
  },
@@ -1214,7 +1482,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490879",
   "collection_date": "2019-07-29",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80153"
  },
@@ -1223,7 +1493,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490880",
   "collection_date": "2018-05-21",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80156"
  },
@@ -1232,7 +1504,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490881",
   "collection_date": "2018-05-23",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80158"
  },
@@ -1241,7 +1515,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490882",
   "collection_date": "2018-11-01",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80178"
  },
@@ -1250,7 +1526,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490883",
   "collection_date": "2018-11-28",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80182"
  },
@@ -1259,7 +1537,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490884",
   "collection_date": "2019-06-08",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80191"
  },
@@ -1268,7 +1548,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490885",
   "collection_date": "2019-11-14",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80334"
  },
@@ -1277,7 +1559,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490886",
   "collection_date": "2018-04-24",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80374"
  },
@@ -1286,7 +1570,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490887",
   "collection_date": "2018-11-01",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80375"
  },
@@ -1295,7 +1581,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490888",
   "collection_date": "2020-02-03",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80376"
  },
@@ -1304,7 +1592,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490889",
   "collection_date": "2020-03-04",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80377"
  },
@@ -1313,7 +1603,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490890",
   "collection_date": "2020-04-17",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80378"
  },
@@ -1322,7 +1614,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490891",
   "collection_date": "2020-07-11",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80380"
  },
@@ -1331,7 +1625,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490892",
   "collection_date": "2020-08-20",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80381"
  },
@@ -1340,7 +1636,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490893",
   "collection_date": "2020-08-20",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80382"
  },
@@ -1349,7 +1647,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28918927",
   "collection_date": "2017-03",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "YQ13422hy"
  },
@@ -1358,7 +1658,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14943915",
   "collection_date": "2013-05-28",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Eh27"
  },
@@ -1367,7 +1669,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490864",
   "collection_date": "2019-08-19",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80199"
  },
@@ -1376,7 +1680,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00490869",
   "collection_date": "2020-04-25",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "FUJ80379"
  },
@@ -1385,7 +1691,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28200646",
   "collection_date": "2018",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NONE",
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "va18651"
  },
@@ -1394,25 +1702,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28173991",
   "collection_date": "2017-12-29",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "1074"
- },
- {
-  "asm_acc": "GCA_024917395.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN28174055",
-  "collection_date": "2019-04-17",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterobacter hormaechei",
-  "strain": "4285"
  },
  {
   "asm_acc": "GCA_024917635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174063",
   "collection_date": "2018-07-09",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "4453"
  },
@@ -1421,7 +1724,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28173982",
   "collection_date": "2019-12-07",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "70"
  },
@@ -1430,7 +1735,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174038",
   "collection_date": "2017-10-22",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "MB4528 Variant"
  },
@@ -1439,7 +1746,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174037",
   "collection_date": "2017-10-22",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ST90"
  },
@@ -1448,7 +1757,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174019",
   "collection_date": "2016-12-25",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "3131"
  },
@@ -1457,7 +1768,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28865091",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. hormaechei",
   "strain": "ECC33"
  },
@@ -1466,7 +1779,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30695413",
   "collection_date": "2019",
+  "geo_loc_name": "POLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "colR"
  },
@@ -1475,7 +1790,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30695412",
   "collection_date": "2019",
+  "geo_loc_name": "POLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "csa13R"
  },
@@ -1484,7 +1801,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30695411",
   "collection_date": "2019",
+  "geo_loc_name": "POLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei subsp. steigerwaltii",
   "strain": "4236"
  },
@@ -1493,7 +1812,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30506756",
   "collection_date": "2021-05-02",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "80014967"
  },
@@ -1502,7 +1823,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16505100",
   "collection_date": "2020-02-17",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00376"
  },
@@ -1511,7 +1834,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30655620",
   "collection_date": "2022-08-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2022CK-00453"
  },
@@ -1520,7 +1845,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31455096",
   "collection_date": "2017-09-30",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PANCREATITIS",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "ECC2783"
  },
@@ -1529,7 +1856,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27409789",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "UNKONWN",
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "HD8642"
  },
@@ -1538,7 +1867,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31691762",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "K432"
  },
@@ -1547,7 +1878,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152634",
   "collection_date": "2022-08-03",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2022CK-00493"
  },
@@ -1556,7 +1889,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016882",
   "collection_date": "2012",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "NY0401"
  },
@@ -1565,7 +1900,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907138",
   "collection_date": "2019-03-02",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00203"
  },
@@ -1574,7 +1911,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907139",
   "collection_date": "1929-09-24",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00204"
  },
@@ -1583,7 +1922,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907137",
   "collection_date": "2019-06-27",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00202"
  },
@@ -1592,7 +1933,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32093416",
   "collection_date": "2022-11-04",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2022CK-00700"
  },
@@ -1601,7 +1944,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21522362",
   "collection_date": "2019-03-30",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "MDCL 3"
  },
@@ -1610,7 +1955,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907159",
   "collection_date": "2020-06-23",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00224"
  },
@@ -1619,7 +1966,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907141",
   "collection_date": "2020-06-03",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00206"
  },
@@ -1628,7 +1977,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907134",
   "collection_date": "2020-05-06",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00199"
  },
@@ -1637,7 +1988,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33277205",
   "collection_date": "2021-01-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "TENEBRIO MOLITOR",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "LG3"
  },
@@ -1646,7 +1999,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907133",
   "collection_date": "2019-12-02",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2020CK-00198"
  },
@@ -1655,7 +2010,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26810699",
   "collection_date": "2021-11-23",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "CNCI 7"
  },
@@ -1664,7 +2021,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974105",
   "collection_date": "2017",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2017-45-33"
  },
@@ -1673,7 +2032,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35822989",
   "collection_date": "2018-01-25",
+  "geo_loc_name": "SENEGAL",
   "host": "HOMO SAPIENS",
+  "host_disease": "HOSPITAL-ACQUIRED INFECTION AFTER SURGERY",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Eh202_LBHALD"
  },
@@ -1682,7 +2043,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36341330",
   "collection_date": "2018-04-21",
+  "geo_loc_name": "SENEGAL",
   "host": "HOMO SAPIENS",
+  "host_disease": "HOSPITAL-ACQUIRED INFECTION AFTER ORTHOPEDIC INTERVENTION",
   "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
   "strain": "Eh8322_LBHALD"
  },
@@ -1691,7 +2054,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36773911",
   "collection_date": "2019-01-10",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Enterobacter hormaechei",
   "strain": "MRSN791417"
  },
@@ -1700,7 +2065,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27992995",
   "collection_date": "2022-04-19",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "2022CK-00285"
  },
@@ -1709,7 +2076,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394392",
   "collection_date": "2021-10-16",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_9"
  },
@@ -1718,7 +2087,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394389",
   "collection_date": "2020-04-27",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_6"
  },
@@ -1727,7 +2098,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394388",
   "collection_date": "2021-06-22",
+  "geo_loc_name": "SWITZERLAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "21KM1498"
  },
@@ -1736,7 +2109,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394387",
   "collection_date": "2019-10-24",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_5"
  },
@@ -1745,7 +2120,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394385",
   "collection_date": "2019-09-23",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_3"
  },
@@ -1754,7 +2131,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394383",
   "collection_date": "2019-10-29",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_1"
  },
@@ -1763,7 +2142,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394404",
   "collection_date": "2019-10-31",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_15"
  },
@@ -1772,7 +2153,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394402",
   "collection_date": "2022-05-23",
+  "geo_loc_name": "SWITZERLAND",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "22KM1314"
  },
@@ -1781,7 +2164,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394401",
   "collection_date": "2022-03-28",
+  "geo_loc_name": "SWITZERLAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "22KM0858"
  },
@@ -1790,7 +2175,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394400",
   "collection_date": "2022-03-02",
+  "geo_loc_name": "SWITZERLAND",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "22KM0641"
  },
@@ -1799,7 +2186,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394397",
   "collection_date": "2021-05-07",
+  "geo_loc_name": "SWITZERLAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "21KM1042"
  },
@@ -1808,7 +2197,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394416",
   "collection_date": "2019-11-06",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_25"
  },
@@ -1817,7 +2208,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32262091",
   "collection_date": "2018-01-25",
+  "geo_loc_name": "THAILAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CUVET18-121"
  },
@@ -1826,7 +2219,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32262092",
   "collection_date": "2019-05-10",
+  "geo_loc_name": "THAILAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CUVET19-891"
  },
@@ -1835,7 +2230,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32262093",
   "collection_date": "2021-08-27",
+  "geo_loc_name": "THAILAND",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CUVET21-1190"
  },
@@ -1844,7 +2241,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32262094",
   "collection_date": "2021-11-29",
+  "geo_loc_name": "THAILAND",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CUVET21-1726"
  },
@@ -1853,7 +2252,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32262095",
   "collection_date": "2022-05-09",
+  "geo_loc_name": "THAILAND",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CUVET22-793"
  },
@@ -1862,7 +2263,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32262096",
   "collection_date": "2022-06-13",
+  "geo_loc_name": "THAILAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "CUVET22-969"
  },
@@ -1871,7 +2274,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37200061",
   "collection_date": "2022-11",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "EB6"
  },
@@ -1880,7 +2285,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394403",
   "collection_date": "2021-08-20",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_14"
  },
@@ -1889,7 +2296,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394391",
   "collection_date": "2021-09-14",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_8"
  },
@@ -1898,7 +2307,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394399",
   "collection_date": "2021-06-23",
+  "geo_loc_name": "SWITZERLAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "21KM1500"
  },
@@ -1907,7 +2318,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394398",
   "collection_date": "2021-05-10",
+  "geo_loc_name": "SWITZERLAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "21KM1072"
  },
@@ -1916,7 +2329,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394396",
   "collection_date": "2020-08-17",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_13"
  },
@@ -1925,7 +2340,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394394",
   "collection_date": "2020-06-17",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_11"
  },
@@ -1934,7 +2351,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394415",
   "collection_date": "2022-08-16",
+  "geo_loc_name": "SWITZERLAND",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "22KM1969"
  },
@@ -1943,7 +2362,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394414",
   "collection_date": "2021-12-30",
+  "geo_loc_name": "SWITZERLAND",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "21KM3135"
  },
@@ -1952,7 +2373,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394413",
   "collection_date": "2018-08-09",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_24"
  },
@@ -1961,7 +2384,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394412",
   "collection_date": "2017-08-29",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_23"
  },
@@ -1970,7 +2395,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394411",
   "collection_date": "2018-02-21",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_22"
  },
@@ -1979,7 +2406,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394410",
   "collection_date": "2020-06-19",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_21"
  },
@@ -1988,7 +2417,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394409",
   "collection_date": "2020-12-02",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_20"
  },
@@ -1997,7 +2428,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394408",
   "collection_date": "2021-07-14",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_19"
  },
@@ -2006,7 +2439,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394406",
   "collection_date": "2021-08-18",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_17"
  },
@@ -2015,7 +2450,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394395",
   "collection_date": "2020-06-17",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_12"
  },
@@ -2024,7 +2461,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394393",
   "collection_date": "2019-12-30",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_10"
  },
@@ -2033,7 +2472,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394390",
   "collection_date": "2019-12-07",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_7"
  },
@@ -2042,7 +2483,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35394407",
   "collection_date": "2021-12-20",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "Ehh_18"
  },
@@ -2051,7 +2494,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37300945",
   "collection_date": "2021-11-08",
+  "geo_loc_name": "USA",
   "host": "FOOD",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "OHT403-4"
  },
@@ -2060,7 +2505,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37527804",
   "collection_date": "2020",
+  "geo_loc_name": "GERMANY",
   "host": "HORSE",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "IMT49658-1"
  },
@@ -2069,8 +2516,54 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529174",
   "collection_date": "2019",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter hormaechei",
   "strain": "isolateC"
+ },
+ {
+  "asm_acc": "GCA_035594185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38771721",
+  "collection_date": "2022-10-19",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "EB3_SW1_43.22_ST134"
+ },
+ {
+  "asm_acc": "GCA_036324625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38182632",
+  "collection_date": "2023",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2023CB-00605"
+ },
+ {
+  "asm_acc": "GCA_036324645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38182633",
+  "collection_date": "2023",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2023CB-00606"
+ },
+ {
+  "asm_acc": "GCA_036080935.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39595401",
+  "collection_date": "2023-12-26",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter hormaechei",
+  "strain": "2024CK-00066"
  }
 ]

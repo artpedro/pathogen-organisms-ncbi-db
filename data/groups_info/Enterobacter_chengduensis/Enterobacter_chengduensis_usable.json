@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_chengduensis": "PDG000000118.10",
-  "date": "Thu Oct 19 21:09:12 2023"
+  "Enterobacter_chengduensis": "PDG000000118.17",
+  "date": "Wed May 15 22:22:29 2024"
  },
  {
   "asm_acc": "GCA_001984825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06249239",
   "collection_date": "2015-02-01",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LIVER CIRRHOSIS, CHOLECYSTITIS",
   "scientific_name": "Enterobacter chengduensis",
   "strain": "WCHECl-C4 = WCHECh050004"
  }

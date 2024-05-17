@@ -1,36 +1,93 @@
 {
  "group": "Enterobacter_hormaechei",
- "count": 230,
+ "count": 233,
  "species": {
-  "Enterobacter hormaechei": 230
+  "Enterobacter hormaechei": 233
  },
  "subsp.": {
+  "Enterobacter hormaechei subsp. xiangfangensis": 13,
   "Enterobacter hormaechei subsp. steigerwaltii": 10,
   "Enterobacter hormaechei subsp. oharae": 1,
-  "Enterobacter hormaechei subsp. xiangfangensis": 12,
   "Enterobacter hormaechei subsp. hormaechei": 2,
   "Enterobacter hormaechei subsp. hoffmannii": 3
  },
  "scientific_name": {
+  "Enterobacter hormaechei subsp. xiangfangensis": 13,
   "Enterobacter hormaechei subsp. steigerwaltii": 10,
+  "Enterobacter hormaechei": 204,
   "Enterobacter hormaechei subsp. oharae": 1,
-  "Enterobacter hormaechei": 202,
-  "Enterobacter hormaechei subsp. xiangfangensis": 12,
   "Enterobacter hormaechei subsp. hormaechei": 2,
   "Enterobacter hormaechei subsp. hoffmannii": 3
  },
  "strain": {
   "BW": 2
  },
+ "location": {
+  "SWITZERLAND": 32,
+  "CHINA": 41,
+  "THAILAND": 7,
+  "CZECH REPUBLIC": 11,
+  "INDIA": 2,
+  "SOUTH KOREA": 1,
+  "TAIWAN": 3,
+  "SENEGAL": 2,
+  "NETHERLANDS": 12,
+  "EGYPT": 1,
+  "BRAZIL": 1,
+  "null": 4,
+  "USA": 42,
+  "GERMANY": 4,
+  "UNITED KINGDOM": 4,
+  "CANADA": 1,
+  "BELGIUM": 1,
+  "LEBANON": 1,
+  "FRANCE": 1,
+  "JAPAN": 53,
+  "AUSTRALIA": 6,
+  "POLAND": 3
+ },
  "hosts": {
+  "CHICKEN": 1,
   "HORSE": 1,
   "TENEBRIO MOLITOR": 1,
+  "HUMAN": 209,
   "FOOD": 1,
-  "CAT": 6,
-  "CHICKEN": 1,
-  "NOT AVAILABLE": 1,
+  "PIG": 1,
   "DOG": 12,
-  "HOMO SAPIENS": 206,
-  "PIG": 1
+  "CAT": 6,
+  "NOT AVAILABLE": 1
+ },
+ "hosts_diseases": {
+  "SEPSIS": 3,
+  "HOSPITAL-ACQUIRED INFECTION AFTER SURGERY": 1,
+  "HYDROCEPHALUS": 1,
+  "UNKONWN": 1,
+  "CARRIAGE": 1,
+  "STROKE": 1,
+  "PNEUMONIA": 5,
+  "HEALTHCARE-ASSOCIATED PNEUMONIA": 1,
+  "ACUTE RESPIRATORY FAILURE": 1,
+  "BILE DUCT PERFORATION": 1,
+  "NONE": 2,
+  "HOSPITAL-ACQUIRED INFECTION AFTER ORTHOPEDIC INTERVENTION": 1,
+  "CELLULITIS": 1,
+  "URINARY RETENTION": 1,
+  "DIABETES MELLITUS": 1,
+  "ACUTE CHOLECYSTITIS": 1,
+  "ENTEROBACTER BACTEREMIA": 2,
+  "THORACIC AORTIC ANEURYSM, RUPTURED": 1,
+  "SURGICAL WOUND INFECTION": 1,
+  "null": 138,
+  "HEMATURIA": 1,
+  "PANCREATITIS": 1,
+  "ACUTE PNEUMONIA": 1,
+  "GUT COLONIZATION": 1,
+  "NOT COLLECTED": 52,
+  "BACTEREMIA": 7,
+  "URINARY TRACT INFECTION": 1,
+  "INFECTION": 1,
+  "INSUFFICIENCY OF A BICUSPID VALVE": 1,
+  "CROHN DISEASE": 1,
+  "BLOODSTREAM INFECTION": 1
  }
 }

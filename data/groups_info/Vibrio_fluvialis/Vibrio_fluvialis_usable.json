@@ -1,14 +1,16 @@
 [
  {
-  "Vibrio_fluvialis": "PDG000000099.42",
-  "date": "Thu Oct 19 21:11:58 2023"
+  "Vibrio_fluvialis": "PDG000000099.62",
+  "date": "Wed May 15 22:37:15 2024"
  },
  {
   "asm_acc": "GCA_001558415.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996321",
   "collection_date": null,
+  "geo_loc_name": "BANGLADESH",
   "host": "HOMO SAPIENS",
+  "host_disease": "VIBRIO INFECTION",
   "scientific_name": "Vibrio fluvialis",
   "strain": "ATCC 33809"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06209376",
   "collection_date": "2013",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Vibrio fluvialis",
   "strain": "12605"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996261",
   "collection_date": "2004",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio fluvialis",
   "strain": "FDAARGOS_100"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14968934",
   "collection_date": "2018-12-28",
+  "geo_loc_name": "CHINA",
   "host": "GRACILARIOPSIS LEMANEIFORMIS",
+  "host_disease": null,
   "scientific_name": "Vibrio fluvialis",
   "strain": "A8"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18795813",
   "collection_date": "2019",
+  "geo_loc_name": "BALTIC SEA",
   "host": "HOMO SAPIENS",
+  "host_disease": "WOUND INFECTION",
   "scientific_name": "Vibrio fluvialis",
   "strain": "19-VB00936"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33268487",
   "collection_date": "2021-03-15",
+  "geo_loc_name": "CHINA",
   "host": "ORATOSQUILLA ORATORIA",
+  "host_disease": null,
   "scientific_name": "Vibrio fluvialis",
   "strain": "10M-VF"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00603157",
   "collection_date": "2013-05-25",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Vibrio fluvialis",
   "strain": "IDH05335"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333290",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio fluvialis",
   "strain": "Isc7A"
  }

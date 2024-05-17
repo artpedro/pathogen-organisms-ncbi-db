@@ -1,33 +1,82 @@
 {
  "group": "Streptococcus_agalactiae",
- "count": 109,
+ "count": 116,
  "species": {
-  "Streptococcus urinalis": 1,
-  "Streptococcus agalactiae": 108
+  "Streptococcus agalactiae": 115,
+  "Streptococcus urinalis": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Streptococcus agalactiae CJB111": 1,
   "Streptococcus agalactiae CNCTC 10/84": 1,
-  "Streptococcus agalactiae COH1": 1,
-  "Streptococcus agalactiae": 105,
-  "Streptococcus urinalis": 1
+  "Streptococcus agalactiae CJB111": 1,
+  "Streptococcus urinalis": 1,
+  "Streptococcus agalactiae": 112,
+  "Streptococcus agalactiae COH1": 1
  },
  "strain": {
   "null": 20
  },
+ "location": {
+  "CANADA": 4,
+  "SWEDEN": 19,
+  "SINGAPORE": 9,
+  "BANGLADESH": 1,
+  "BRAZIL": 2,
+  "HONG KONG": 3,
+  "null": 6,
+  "GAMBIA": 2,
+  "USA": 30,
+  "DENMARK": 1,
+  "JAPAN": 4,
+  "KUWAIT": 1,
+  "SOUTH KOREA": 1,
+  "CHINA": 29,
+  "UNITED KINGDOM": 3,
+  "PORTUGAL": 1
+ },
  "hosts": {
   "TIAPIA": 1,
-  "SHEEP": 1,
+  "SEABASS": 1,
+  "NEONATES": 1,
+  "SHEEP": 23,
   "HOPLOBATRACHUS RUGULOSUS": 1,
   "OREOCHROMIS NILOTICUS": 1,
+  "HUMAN": 76,
   "FISH": 1,
+  "NOT COLLECTED": 2,
   "TILAPIA": 3,
-  "SEABASS": 1,
-  "NOT AVAILABLE": 5,
   "DOG": 1,
-  "HOMO SAPIENS": 71,
-  "NEONATES": 1,
-  "BOVINE": 22
+  "NOT AVAILABLE": 5
+ },
+ "hosts_diseases": {
+  "SEPSIS": 11,
+  "ARTHRITIS, BACTERIAL; BACTEREMIA": 1,
+  "CARRIER": 3,
+  "ARTHRITIS, BACTERIAL": 1,
+  "BACTEREMIA WITHOUT FOCUS": 1,
+  "GROUP B STREP DISEASE": 2,
+  "MENINGITIS; BACTEREMIA": 1,
+  "STREPTOCOCCAL INFECTIOUS DISEASE": 1,
+  "NEONATAL INVASIVE INFECTION": 1,
+  "SKIN DISEASES, BACTERIAL; SOFT TISSUE INFECTIONS; LIVER ABSCESS; BACTEREMIA": 1,
+  "MENINGITIS": 3,
+  "WOUND INFECTION": 1,
+  "INVASIVE DISEASE": 1,
+  "FATAL SEPTICAEMIA": 1,
+  "OSTEOMYELITIS": 1,
+  "MASTITIS": 3,
+  "null": 59,
+  "ARTHRITIS, BACTERIAL; CYSTITIS; BACTEREMIA": 1,
+  "SKIN DISEASES, BACTERIAL; SOFT TISSUE INFECTIONS; BACTEREMIA": 1,
+  "INVASIVE": 7,
+  "BACTEREMIA": 3,
+  "SEPTICEMIA AND MENINGITIS": 1,
+  "INFECTION": 1,
+  "NEONATAL SEPSIS": 3,
+  "INFECTION WITH STREPTOCOCCUS AGALACTIAE": 1,
+  "STREPTOCOCCOSIS": 2,
+  "COLONIZING": 2,
+  "INVASIVE NEONATAL DISEASE": 1,
+  "TSST": 1
  }
 }

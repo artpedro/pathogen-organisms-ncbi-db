@@ -1,7 +1,7 @@
 [
  {
-  "Mycobacterium_tuberculosis": "PDG000000034.309",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Mycobacterium_tuberculosis": "PDG000000034.345",
+  "date": "Wed May 15 22:37:53 2024"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA20450668",
   "collection_date": "1997",
-  "host": "BOVINE",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis AF2122/97",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000195835.3"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000195835.3"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081422",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis KZN 4207",
   "strain": "KZN 4207",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000154585.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000154585.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603011",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis CCDC5180",
   "strain": "CCDC5180",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000270365.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000270365.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02803802",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis K",
   "strain": "K",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000698475.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000698475.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02767600",
   "collection_date": "2006-05-17",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "KIT87190",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000706665.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000706665.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02943514",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "ZMC13-264",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000738445.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000738445.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02943515",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "ZMC13-88",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000738475.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000738475.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02887314",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "96075",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000756525.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000756525.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02874015",
   "collection_date": "1996",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PHILIPPINES",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "96121",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000756545.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000756545.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00000334",
   "collection_date": "1951",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis str. Kurono",
   "strain": "Kurono",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000828995.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000828995.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03288261",
   "collection_date": "2010",
+  "geo_loc_name": "BRAZIL",
   "host": "SHEEP",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "SP38",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000934325.3"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000934325.3"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03481272",
   "collection_date": "2007-03-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "DIFFUSE LEPROMATOUS LEPROSY",
   "scientific_name": "Mycobacterium lepromatosis",
   "strain": "FJ924",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_000975265.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000975265.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02864173",
   "collection_date": "2012-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCOLUSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis BCG",
   "strain": "3281",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001043255.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001043255.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761171",
   "collection_date": "2012",
-  "host": "BOVINE",
+  "geo_loc_name": "KOREA",
+  "host": "SHEEP",
+  "host_disease": "BOVINE TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "1595",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001078615.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001078615.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03921880",
   "collection_date": "2011-11-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KAZAKHSTAN",
+  "host": "HUMAN",
+  "host_disease": "MULTIDRUG RESISTANT TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SCAID 187.0",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001275565.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001275565.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04517448",
   "collection_date": "1988",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172",
   "strain": "Tokyo 172",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001580385.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001580385.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04492771",
   "collection_date": "2013-03-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALAYSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SIT745/EAI1-MYS",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001597645.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001597645.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05447655",
   "collection_date": "2012-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KAZAKHSTAN",
+  "host": "HUMAN",
+  "host_disease": "MULTIDRUG RESISTANT TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SCAID 320.0",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001702435.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001702435.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05447658",
   "collection_date": "2012-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KAZAKHSTAN",
+  "host": "HUMAN",
+  "host_disease": "MULTIDRUG RESISTANT TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SCAID 252.0",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001708265.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001708265.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03301665",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001750865.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001750865.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04293604",
   "collection_date": "2008-10-10",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1458",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001855255.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001855255.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933692",
   "collection_date": "1993-09-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TB282",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001870145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001870145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010135",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0004241-1",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001895765.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895765.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010493",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "M0018684-2",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001895785.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895785.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010122",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0004000-1",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001895805.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895805.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010171",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0002801-4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001895825.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895825.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010490",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0002353-6",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001895845.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895845.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010343",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "M0002959-6",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001895865.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895865.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06141171",
   "collection_date": "1998-02-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "DENMARK",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "DK9897",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001922485.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001922485.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05414673",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis H37Ra",
   "strain": "H37Ra",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_001938725.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001938725.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06622696",
   "collection_date": "2016",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "ETHNIC KOREANS LIVING IN CHINA",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTB1",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002072775.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002072775.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833360",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "COLOMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing-like/35049",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002116755.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116755.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833361",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "COLOMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing-like/36918",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002116775.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116775.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833362",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "COLOMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing-like/38774",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002116795.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116795.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833364",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "COLOMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing/391",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002116815.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116815.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833363",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "COLOMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing-like/50148",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002116835.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116835.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833359",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "COLOMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Beijing-like/1104",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002116855.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116855.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06622697",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTB2",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002208235.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002208235.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00065354",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "NCGM946K2",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002356015.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002356015.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076259",
   "collection_date": "2007-09-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "HN-024",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002356255.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002356255.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076256",
   "collection_date": "2008-04-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "HN-205",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002357935.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002357935.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076257",
   "collection_date": "2008-07-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "HN-321",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002357955.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002357955.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076258",
   "collection_date": "2009-03-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "HN-506",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002357975.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002357975.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664823",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV4519",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446875.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446875.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664824",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV4644",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446895.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446895.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664825",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV5769",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446915.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446915.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664826",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV10399",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446935.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446935.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664827",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV11678",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446955.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446955.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664828",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE486",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446975.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446975.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664829",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE492",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002446995.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446995.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664830",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN180",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447015.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447015.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664831",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN2358",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447035.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447035.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664832",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3756",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447055.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447055.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664833",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRDM260",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447075.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447075.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664834",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRDM627",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447095.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447095.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664835",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRDM1098",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447115.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447115.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664836",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA2491",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447135.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447135.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664837",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "ME1473",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447155.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447155.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664838",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM425",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447175.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447175.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -718,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664839",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBV5000",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447195.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447195.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -730,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664840",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBV5362",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447215.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447215.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -742,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664841",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBV5365",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447235.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447235.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -754,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664842",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM036",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447255.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447255.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -766,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664843",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM040",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447275.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447275.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -778,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664844",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM056",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447295.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447295.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -790,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664845",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM060",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447315.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447315.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -802,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664846",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM063",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447335.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447335.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -814,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664847",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM088",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447355.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447355.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -826,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664848",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SLM100",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447375.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447375.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -838,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664849",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV383",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447395.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447395.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -850,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664850",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV3611",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447415.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447415.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -862,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664851",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "CSV9577",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447435.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447435.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -874,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664852",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE13",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447455.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447455.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -886,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664853",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE63",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447475.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447475.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -898,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664854",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE76",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447495.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447495.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -910,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664855",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE79",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447515.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447515.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -922,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664856",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE103",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447535.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447535.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -934,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664857",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE371",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447555.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447555.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -946,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664858",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LE410",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447575.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447575.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -958,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664859",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN55",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447595.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447595.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -970,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664860",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN317",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447615.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447615.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -982,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664861",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN763",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447635.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447635.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -994,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664862",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN2978",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447655.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447655.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1006,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664863",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3584",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447675.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447675.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1018,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664864",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3588",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447695.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447695.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1030,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664865",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3589",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447715.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447715.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1042,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664866",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3668",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447735.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447735.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1054,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664867",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3672",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447755.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447755.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1066,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664868",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN3695",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447775.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447775.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1078,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664869",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN1100",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447795.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447795.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1090,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664870",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN1856",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447815.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447815.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1102,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664871",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "LN2900",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447835.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447835.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1114,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664872",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRDM827",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447855.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447855.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1126,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664873",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA203",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447875.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447875.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1138,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664874",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA701",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447895.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447895.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1150,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664875",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA863",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447915.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447915.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1162,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664876",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA1565",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447935.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447935.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1174,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664877",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA2019",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447955.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447955.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1186,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664878",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA2082",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447975.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447975.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1198,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664879",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA2260",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002447995.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447995.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1210,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664880",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MDRMA2441",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448015.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448015.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1222,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664881",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM1506",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448035.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448035.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1234,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664882",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM2189",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448055.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448055.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1246,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664883",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM2444",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448075.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448075.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1258,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664884",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM2487",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448095.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448095.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1270,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664885",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM2489",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448115.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448115.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1282,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664886",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM2699",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448135.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448135.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1294,10 +1508,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664887",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBDM2717",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448155.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448155.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1306,10 +1522,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664888",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBV4766",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448175.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448175.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1318,10 +1536,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664889",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBV4768",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448195.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448195.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1330,10 +1550,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664890",
   "collection_date": "2008-07-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBV4952",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002448215.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448215.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1342,10 +1564,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199254",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1354,10 +1578,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199260",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886165.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886165.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1366,10 +1592,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199302",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886195.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886195.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1378,10 +1606,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199305",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886335.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886335.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1390,10 +1620,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199301",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886405.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886405.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1402,10 +1634,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199277",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886505.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886505.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1414,10 +1648,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199266",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886585.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886585.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1426,10 +1662,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199347",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886685.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886685.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1438,10 +1676,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199271",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886775.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886775.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1450,10 +1690,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199268",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886865.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886865.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1462,10 +1704,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199265",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886945.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886945.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1474,10 +1718,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199267",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002887065.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887065.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1486,10 +1732,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199303",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002887145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1498,10 +1746,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199306",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002887255.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887255.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1510,10 +1760,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199348",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002887335.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887335.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1522,10 +1774,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199276",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GUATEMALA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": null,
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002886225.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886225.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1534,10 +1788,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08321034",
   "collection_date": "2002",
-  "host": "BOVINE",
+  "geo_loc_name": "CANADA",
+  "host": "SHEEP",
+  "host_disease": "BOVINE TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "2002/0476",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_002975475.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002975475.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1546,10 +1802,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07414820",
   "collection_date": "2012-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "WC059",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003006115.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003006115.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1558,10 +1816,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07414819",
   "collection_date": "2012-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "WC078",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003006135.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003006135.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1570,10 +1830,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09104579",
   "collection_date": "2017-10-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "LEPROSY",
   "scientific_name": "Mycobacterium leprae",
   "strain": "MRHRU-235-G",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003253775.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003253775.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1582,10 +1844,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09453176",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "RUS_B0",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003265005.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003265005.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1594,10 +1858,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292592",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "HOMO SAPIENS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "H54",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003287125.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287125.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1606,10 +1872,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292590",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "H83",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003287145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1618,10 +1886,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292065",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "H107",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003287165.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287165.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1630,10 +1900,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292067",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "H112",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003287185.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287185.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1642,10 +1914,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08973501",
   "collection_date": "2016-04-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOUS MENINGITIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TBMENG-03",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_003293655.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003293655.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1654,10 +1928,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104027311",
   "collection_date": "1993",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "DENMARK",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "DKC2",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_900520315.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_900520315.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1666,10 +1942,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12126281",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TB",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MT-0080",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_007833935.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_007833935.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1678,10 +1956,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12816907",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "L",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_008761675.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_008761675.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1690,10 +1970,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191639",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "AUSMDU00018547",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_009664875.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_009664875.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1702,10 +1984,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5803801",
   "collection_date": "2014",
+  "geo_loc_name": "FRANCE",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb3601",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_902459825.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_902459825.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1714,10 +1998,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10417149",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "TCDC11",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_009762675.2"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_009762675.2"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1726,10 +2012,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13736268",
   "collection_date": "2017-05-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RWANDA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "RW-TB008",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_012923765.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_012923765.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1738,10 +2026,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14598146",
   "collection_date": "2019-04-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELARUS",
+  "host": "HUMAN",
+  "host_disease": "LUNG TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4860",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_013010385.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_013010385.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1750,10 +2040,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056472",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC PULMONARY TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "FDAARGOS_757",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_013267635.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_013267635.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1762,10 +2054,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325246",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0041P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014884625.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014884625.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1774,10 +2068,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325211",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0072P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014884645.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014884645.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1786,10 +2082,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325208",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0066P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014884665.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014884665.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1798,10 +2096,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325280",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA17020030P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899205.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899205.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1810,10 +2110,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325279",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA17020028P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899225.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899225.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1822,10 +2124,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325278",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA17020024P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899245.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899245.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1834,10 +2138,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325276",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA15230P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899265.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899265.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1846,10 +2152,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325277",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA17020023P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899285.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899285.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1858,10 +2166,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325275",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA15229P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899305.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899305.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1870,10 +2180,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325274",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA15228P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899325.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899325.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1882,10 +2194,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325273",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA14333P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899345.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899345.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1894,10 +2208,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325272",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA14318P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899365.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899365.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1906,10 +2222,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325271",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA14117P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899385.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899385.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1918,10 +2236,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325270",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA13111P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899405.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899405.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1930,10 +2250,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325269",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA13020298P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899425.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899425.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1942,10 +2264,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325268",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA12334P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899445.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899445.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1954,10 +2278,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325267",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA12202P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899465.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899465.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1966,10 +2292,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325266",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA12126P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899485.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899485.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1978,10 +2306,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325265",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA11278P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899505.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899505.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -1990,10 +2320,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325264",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA11020092P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899525.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899525.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2002,10 +2334,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325263",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA11020068P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899545.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899545.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2014,10 +2348,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325262",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA11020057P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899565.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899565.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2026,10 +2362,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325261",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA11020038P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899585.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899585.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2038,10 +2376,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325260",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA09167P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899605.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899605.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2050,10 +2390,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325259",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA09020048P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899625.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899625.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2062,10 +2404,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325258",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA08162P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899645.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899645.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2074,10 +2418,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325257",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA08151P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899665.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899665.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2086,10 +2432,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325256",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA07020250P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899685.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899685.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2098,10 +2446,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325255",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA07010354P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899705.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899705.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2110,10 +2460,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325254",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA06535P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899725.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899725.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2122,10 +2474,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325253",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA02010036P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899745.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899745.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2134,10 +2488,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325252",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SEA00042P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899765.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899765.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2146,10 +2502,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325251",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0096P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899785.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899785.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2158,10 +2516,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325250",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0087P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899805.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899805.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2170,10 +2530,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325249",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0077P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899825.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899825.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2182,10 +2544,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325248",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0073P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899845.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899845.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2194,10 +2558,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325247",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0062P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899865.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899865.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2206,10 +2572,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325245",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0024P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899885.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899885.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2218,10 +2586,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325244",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0019P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899905.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899905.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2230,10 +2600,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325243",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0012P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899925.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899925.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2242,10 +2614,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325242",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "4-0010P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899945.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899945.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2254,10 +2628,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325241",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PHILIPPINES",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "3-0124P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899965.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899965.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2266,10 +2642,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325240",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PHILIPPINES",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "3-0096P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014899985.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899985.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2278,10 +2656,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325239",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PHILIPPINES",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "3-0090P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900005.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900005.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2290,10 +2670,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325238",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PHILIPPINES",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "3-0059P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900055.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900055.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2302,10 +2684,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325237",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0068P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900075.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900075.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2314,10 +2698,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325236",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0059P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900095.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900095.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2326,10 +2712,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325235",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0052P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900115.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900115.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2338,10 +2726,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325234",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0046P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900135.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900135.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2350,10 +2740,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325233",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0043-unknownP6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900155.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900155.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2362,10 +2754,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325232",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0034P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900175.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900175.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2374,10 +2768,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325231",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0031P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900195.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900195.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2386,10 +2782,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325230",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0029P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900215.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900215.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2398,10 +2796,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325229",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0028P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900235.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900235.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2410,10 +2810,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325228",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0023P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900255.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900255.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2422,10 +2824,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325227",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0022P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900275.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900275.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2434,10 +2838,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325226",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0021P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900295.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900295.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2446,10 +2852,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325225",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MOLDOVA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "2-0013P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900315.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900315.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2458,10 +2866,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325224",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0168P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900335.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900335.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2470,10 +2880,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325223",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0160P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900355.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900355.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2482,10 +2894,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325222",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0156P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900375.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900375.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2494,10 +2908,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325221",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0153P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900395.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900395.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2506,10 +2922,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325220",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0149P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900415.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900415.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2518,10 +2936,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325219",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0137P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900435.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900435.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2530,10 +2950,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325218",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0123P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900455.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900455.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2542,10 +2964,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325217",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0116P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900475.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900475.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2554,10 +2978,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325216",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0112P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900495.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900495.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2566,10 +2992,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325215",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0110P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900515.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900515.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2578,10 +3006,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325214",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0107P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900555.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900555.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2590,10 +3020,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325213",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0102P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900595.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900595.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2602,10 +3034,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325212",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0084P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900615.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900615.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2614,10 +3048,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325210",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0071P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900635.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900635.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2626,10 +3062,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325209",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0069P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900655.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900655.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2638,10 +3076,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325207",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0064P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900675.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900675.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2650,10 +3090,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325206",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0061P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900695.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900695.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2662,10 +3104,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325205",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0056P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900715.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900715.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2674,10 +3118,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325204",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0054P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900735.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900735.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2686,10 +3132,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325203",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0047P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900755.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900755.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2698,10 +3146,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325202",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0045P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900775.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900775.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2710,10 +3160,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325201",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0044P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900795.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900795.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2722,10 +3174,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325200",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0039P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900815.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900815.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2734,10 +3188,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325199",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0036P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900835.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900835.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2746,10 +3202,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325198",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0031P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900855.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900855.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2758,10 +3216,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325197",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0030P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900895.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900895.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2770,10 +3230,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325196",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0028P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014900965.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900965.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2782,10 +3244,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325195",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0023P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901035.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901035.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2794,10 +3258,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325194",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0021P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901055.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901055.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2806,10 +3272,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325193",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0017P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901075.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901075.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2818,10 +3286,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325192",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0013P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901095.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901095.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2830,10 +3300,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325191",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0009P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901115.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901115.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2842,10 +3314,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325190",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0007P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901135.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901135.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2854,10 +3328,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325189",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "1-0006P6C4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_014901155.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901155.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2866,10 +3342,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336317",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant microti",
   "strain": "Maus III",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_904810345.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810345.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2878,10 +3356,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336314",
   "collection_date": "1930",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "MICROTUS AGRESTIS",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant microti OV254",
   "strain": "OV254",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_904810325.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810325.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2890,10 +3370,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336315",
   "collection_date": "1930",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "MICROTUS AGRESTIS",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant microti",
   "strain": "ATCC 35782",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_904810335.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810335.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2902,10 +3384,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336318",
   "collection_date": "1999",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant microti",
   "strain": "Maus IV",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_904810355.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810355.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2914,10 +3398,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336316",
   "collection_date": "1988",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant microti",
   "strain": "94-2272",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_904810365.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810365.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2926,10 +3412,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17832565",
   "collection_date": "2019-06-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELARUS",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS OF LUNG",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "11502",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_016917775.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_016917775.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2938,10 +3426,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18056856",
   "collection_date": "2018-06-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "120/26CAO",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_017164035.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_017164035.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2950,10 +3440,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18056929",
   "collection_date": "2018-06-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "267/47W148",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_017164055.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_017164055.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2962,10 +3454,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18576178",
   "collection_date": "2020",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "H37Rv_CG",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_017901115.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_017901115.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2974,10 +3468,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15348336",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BENIN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "060827",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_021559895.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_021559895.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2986,10 +3482,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18614372",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0003447-5",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022023995.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022023995.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -2998,10 +3496,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188689",
   "collection_date": "2017-02-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MADAGASCAR",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Lineage 4.1",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_932530315.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932530315.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3010,10 +3510,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188685",
   "collection_date": "2015-03-23",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MADAGASCAR",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Lineage 3.1.1",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_932527465.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932527465.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3022,10 +3524,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188715",
   "collection_date": "2013-05-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MADAGASCAR",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Lineage 1.1.2",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_932530395.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932530395.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3034,10 +3538,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188688",
   "collection_date": "2013-01-17",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MADAGASCAR",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Lineage 1.1.2",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_932527315.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932527315.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3046,10 +3552,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188731",
   "collection_date": "2016-04-21",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MADAGASCAR",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "Lineage 2.2.7",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_932527325.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932527325.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3058,10 +3566,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406479",
   "collection_date": "1998-09-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0069",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870125.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870125.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3070,10 +3580,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406478",
   "collection_date": "2011-11-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ETHIOPIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N3913",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3082,10 +3594,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406477",
   "collection_date": "2008-02-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1202",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870165.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870165.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3094,10 +3608,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406476",
   "collection_date": "2002-06-14",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GAMBIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0091",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870185.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870185.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3106,10 +3622,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406475",
   "collection_date": "2009-02-17",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1201",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870205.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870205.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3118,10 +3636,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406474",
   "collection_date": "2011-11-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SIERRA LEONE",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1268",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870225.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870225.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3130,10 +3650,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406473",
   "collection_date": "2011-11-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1272",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870245.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870245.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3142,10 +3664,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406472",
   "collection_date": "2009-09-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1176",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870265.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870265.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3154,10 +3678,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406471",
   "collection_date": "2011-11-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1283",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870285.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870285.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3166,10 +3692,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406470",
   "collection_date": "1991-07-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0136",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870305.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870305.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3178,10 +3706,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406469",
   "collection_date": "2011-02-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1216",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870325.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870325.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3190,10 +3720,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406468",
   "collection_date": "1999-06-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ETHIOPIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0054",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870345.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870345.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3202,10 +3734,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406467",
   "collection_date": "2011-11-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AFGHANISTAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N1274",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870365.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870365.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3214,10 +3748,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406466",
   "collection_date": "2010-03-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0004",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870385.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870385.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3226,10 +3762,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406464",
   "collection_date": "1994-06-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0031",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870405.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870405.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3238,10 +3776,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406463",
   "collection_date": "1997-06-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0072",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870425.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870425.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3250,10 +3790,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406462",
   "collection_date": "1999-06-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PHILIPPINES",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "N0157",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022870445.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870445.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3262,10 +3804,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028218",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "MYCOBACTERIUM TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SGF0232017",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022871085.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871085.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3274,10 +3818,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028219",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "MYCOBACTERIUM TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SGF0422017",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022871105.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871105.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3286,10 +3832,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028220",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "MYCOBACTERIUM TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SGF0472017",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022871125.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871125.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3298,10 +3846,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028221",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "MYCOBACTERIUM TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "SGF0702019",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_022871145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3310,10 +3860,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31644110",
   "collection_date": "2019-12-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELARUS",
+  "host": "HUMAN",
+  "host_disease": "LUNG TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "BLR-31d",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_026167585.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_026167585.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3322,10 +3874,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31746122",
   "collection_date": "2018-10-28",
-  "host": "BOVINE",
+  "geo_loc_name": "CANADA",
+  "host": "SHEEP",
+  "host_disease": "BOVINE TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "2018/0565",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_026727575.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_026727575.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3334,10 +3888,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31746260",
   "collection_date": "2016-11",
-  "host": "BOVINE",
+  "geo_loc_name": "CANADA",
+  "host": "SHEEP",
+  "host_disease": "BOVINE TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "2016/0386",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_026727615.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_026727615.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3346,10 +3902,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32350377",
   "collection_date": "2019-08-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELARUS",
+  "host": "HUMAN",
+  "host_disease": "RESPIRATORY TRACT TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "BLR 9248 2019",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_027912555.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_027912555.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3358,10 +3916,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865562",
   "collection_date": "2008-07",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb2487",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583125.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583125.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3370,10 +3930,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865564",
   "collection_date": "2007-09",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb2269",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3382,10 +3944,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865566",
   "collection_date": "1997-06",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb0820",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583165.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583165.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3394,10 +3958,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865559",
   "collection_date": "2011-04",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb3114",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583185.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583185.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3406,22 +3972,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865563",
   "collection_date": "2001-02",
+  "geo_loc_name": "FRANCE",
   "host": "DEER",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb3602",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583205.1"
- },
- {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
-  "asm_acc": "GCA_028583225.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN27865560",
-  "collection_date": "2005-06",
-  "host": "BOVINE",
-  "scientific_name": "Mycobacterium tuberculosis variant bovis",
-  "strain": "Mb1855",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583225.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583205.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3430,10 +3986,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865558",
   "collection_date": "1999",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb1101",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583245.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583245.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3442,10 +4000,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865561",
   "collection_date": "2008-04",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb2377",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583265.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583265.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3454,10 +4014,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865565",
   "collection_date": "1994-11",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb0531",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583285.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583285.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3466,10 +4028,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865567",
   "collection_date": "1994-08",
-  "host": "BOVINE",
+  "geo_loc_name": "FRANCE",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "Mb0486",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028583305.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583305.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3478,10 +4042,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33010680",
   "collection_date": "2022-03-11",
+  "geo_loc_name": "CANADA",
   "host": "BISON BISON ATHABASCAE",
+  "host_disease": "BOVINE TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis variant bovis",
   "strain": "OLF-AH-2022-TB-0122",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_028768425.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028768425.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3490,10 +4056,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24038646",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0004240-3",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867045.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867045.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3502,10 +4070,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039411",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0004290-8",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867065.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867065.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3514,10 +4084,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039456",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0003165-3",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867085.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867085.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3526,10 +4098,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039564",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "01-R1430",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867105.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867105.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3538,10 +4112,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039598",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "02-R0894",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867125.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867125.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3550,10 +4126,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039640",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "02-R1708",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867145.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867145.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3562,10 +4140,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040382",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "02-R1896",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867165.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867165.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3574,10 +4154,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040385",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0003270-1",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867185.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867185.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3586,10 +4168,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040410",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "I0003758-5",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867205.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867205.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3598,10 +4182,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040618",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "01-R1134",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867225.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867225.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3610,10 +4196,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24042982",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "M0003941-3",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867245.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867245.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3622,10 +4210,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24042990",
   "collection_date": "2012-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "02-R1179",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_029867265.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867265.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3634,10 +4224,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32238502",
   "collection_date": "2019-04-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BELARUS",
+  "host": "HUMAN",
+  "host_disease": "RESPIRATORY TRACT TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "BLR 4299 2019",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030053035.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030053035.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3646,10 +4238,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655918",
   "collection_date": "2021-04-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "6721",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030285685.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285685.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3658,10 +4252,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35654954",
   "collection_date": "2019-11-20",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "3320",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030285705.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285705.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3670,10 +4266,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655917",
   "collection_date": "2021-06-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "17221",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030285725.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285725.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3682,10 +4280,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655919",
   "collection_date": "2021-03-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "5521",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030285745.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285745.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3694,10 +4294,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655980",
   "collection_date": "2021-10-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "25421",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030285765.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285765.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3706,10 +4308,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419413",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-3216462",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030566105.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030566105.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3718,22 +4322,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419410",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-3215873",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030566675.1"
- },
- {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
-  "asm_acc": "GCA_030567075.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN36419406",
-  "collection_date": "2021",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Mycobacterium tuberculosis",
-  "strain": "MTb-Oman-3214927",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030567075.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030566675.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3742,10 +4336,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419404",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-3214805",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030567435.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030567435.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3754,22 +4350,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419398",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-3214642",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030568235.1"
- },
- {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
-  "asm_acc": "GCA_030570275.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN36419385",
-  "collection_date": "2021",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Mycobacterium tuberculosis",
-  "strain": "MTb-Oman-3213831",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030570275.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030568235.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3778,10 +4364,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419378",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-3213509",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030571635.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030571635.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3790,10 +4378,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419360",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-3212387",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030574935.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030574935.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3802,22 +4392,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419351",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "OMAN",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "MTb-Oman-321857",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030576595.1"
- },
- {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
-  "asm_acc": "GCA_030577695.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN36419345",
-  "collection_date": "2021",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Mycobacterium tuberculosis",
-  "strain": "MTb-Oman-32193",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030577695.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030576595.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3826,10 +4406,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998973",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "AST-T3",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030866945.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030866945.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3838,10 +4420,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998974",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "AST-T4",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030866965.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030866965.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3850,10 +4434,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998975",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "AST-T5",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030866985.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030866985.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3862,10 +4448,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998976",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "AST-T6",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030867005.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030867005.1"
  },
  {
   "Mycobacterium_tuberculosis": null,
@@ -3874,9 +4462,291 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998977",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
   "scientific_name": "Mycobacterium tuberculosis",
   "strain": "AST-T7",
-  "fasta": "data/groups_info/Mycobacterium_tuberculosis/GCA_030867025.1"
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030867025.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_033124145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28021336",
+  "collection_date": "2017-01-23",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TB",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "MTBCR170031",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033124145.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_033124885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28021337",
+  "collection_date": "2017-05-05",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TB",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "MTBCR170027",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033124885.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_033125685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28021338",
+  "collection_date": "2017-07-25",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TB",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "MTBCR170020",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033125685.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_033126485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28021339",
+  "collection_date": "2017-07-25",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "PULMONARY TB",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "MTBCR170001",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033126485.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_035581225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN27305103",
+  "collection_date": "2018",
+  "geo_loc_name": "ETHIOPIA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
+  "scientific_name": "Mycobacterium canetti",
+  "strain": "ET1291",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_035581225.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00089643",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN049",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076265.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00089644",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN059",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076275.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269948",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN067",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076285.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269949",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN068",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076295.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269950",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN101",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076305.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269951",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN105",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076315.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269952",
+  "collection_date": "2015",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN146",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076325.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037076335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269954",
+  "collection_date": "2016",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN251",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076335.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037101195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00269953",
+  "collection_date": "2016",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "DN181",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037101195.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037942495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40504538",
+  "collection_date": null,
+  "geo_loc_name": "REPUBLIC OF THE CONGO",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "Mtb1",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037942495.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_037942805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40504549",
+  "collection_date": null,
+  "geo_loc_name": "BELGIUM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "Mtb2",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037942805.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_038096075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40622784",
+  "collection_date": "2011-01-13",
+  "geo_loc_name": "KOREA",
+  "host": "HUMAN",
+  "host_disease": "TUBERCULOSIS",
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "M64",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_038096075.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_039555355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41141372",
+  "collection_date": null,
+  "geo_loc_name": "CAMEROON",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "Mtb6",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_039555355.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_039555365.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41141464",
+  "collection_date": null,
+  "geo_loc_name": null,
+  "host": "NOT DETERMINED",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "Mtb9",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_039555365.1"
+ },
+ {
+  "Mycobacterium_tuberculosis": null,
+  "date": null,
+  "asm_acc": "GCA_039555375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41141444",
+  "collection_date": null,
+  "geo_loc_name": "DENMARK",
+  "host": "NOT DETERMINED",
+  "host_disease": null,
+  "scientific_name": "Mycobacterium tuberculosis",
+  "strain": "Mtb7",
+  "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_039555375.1"
  }
 ]

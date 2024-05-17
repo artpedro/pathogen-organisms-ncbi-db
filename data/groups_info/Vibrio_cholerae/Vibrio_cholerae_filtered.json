@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_cholerae": "PDG000000055.447",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Vibrio_cholerae": "PDG000000055.557",
+  "date": "Wed May 15 22:37:56 2024"
  },
  {
   "Vibrio_cholerae": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00765529",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HAITI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae O1 str. 2010EL-1786",
   "strain": "2010EL-1786",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000166455.2"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_000166455.2"
  },
  {
   "Vibrio_cholerae": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470784",
   "collection_date": "2010-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HAITI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae H1",
   "strain": "H1",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000275645.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_000275645.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02741837",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HAITI",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": null,
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000765415.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_000765415.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02928187",
   "collection_date": "2005-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
   "strain": "FJ147",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_000963555.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_000963555.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA889328",
   "collection_date": "1971",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BANGLADESH",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "A19",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_001250235.2"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_001250235.2"
  },
  {
   "Vibrio_cholerae": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996328",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio mimicus",
   "strain": "FDAARGOS_112",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_001558475.2"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_001558475.2"
  },
  {
   "Vibrio_cholerae": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05356867",
   "collection_date": "2013-08-26",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Vibrio mimicus",
   "strain": "SCCF01",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_001767355.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_001767355.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -94,22 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875560",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INFECTION WITH VIBRIO CHOLERAE",
   "scientific_name": "Vibrio cholerae",
   "strain": "FDAARGOS_223",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002073335.2"
- },
- {
-  "Vibrio_cholerae": null,
-  "date": null,
-  "asm_acc": "GCA_002313005.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN04045282",
-  "collection_date": "2006-06",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Vibrio cholerae",
-  "strain": "ICDC-VC661",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002313005.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_002073335.2"
  },
  {
   "Vibrio_cholerae": null,
@@ -118,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07821484",
   "collection_date": "1978",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BAHRAIN",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": "E7946",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002749635.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_002749635.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -130,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104115281",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": null,
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900185995.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_900185995.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -142,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08323859",
   "collection_date": "1992",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": "A1552",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002892855.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_002892855.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -154,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08472240",
   "collection_date": "2014-01-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HAITI",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
   "strain": "HC1037",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002946655.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_002946655.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -166,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07974340",
   "collection_date": "1992",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "A1552",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_002997215.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_002997215.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -178,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08822914",
   "collection_date": "1975",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BANGLADESH",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": "N16961",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003063785.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_003063785.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -190,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374366",
   "collection_date": "2014",
+  "geo_loc_name": "BANGLADESH",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "4295STDY6534216",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324445.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_900324445.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -202,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374367",
   "collection_date": "2013",
+  "geo_loc_name": "BANGLADESH",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "4295STDY6534232",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324425.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_900324425.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -214,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374368",
   "collection_date": "2014",
+  "geo_loc_name": "BANGLADESH",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "4295STDY6534248",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324455.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_900324455.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -226,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08896638",
   "collection_date": "1992",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": "A1552",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003097695.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_003097695.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -238,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00118470",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "V060002",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003574155.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_003574155.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -250,22 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07684567",
   "collection_date": "2017-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "FOOD POISONING",
   "scientific_name": "Vibrio cholerae",
   "strain": "FORC_073",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_003591575.1"
- },
- {
-  "Vibrio_cholerae": null,
-  "date": null,
-  "asm_acc": "GCA_004117115.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN08384473",
-  "collection_date": null,
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Vibrio cholerae",
-  "strain": "FORC_076",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_004117115.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_003591575.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -274,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13613314",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "DEMOCRATIC REPUBLIC OF THE CONGO",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": null,
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_009799825.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_009799825.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -286,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4374365",
   "collection_date": "2013",
+  "geo_loc_name": "BANGLADESH",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "4295STDY6534200",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_900324435.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_900324435.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -298,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734987",
   "collection_date": "1991",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae C6706",
   "strain": "C6706",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085075.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_013085075.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -310,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734988",
   "collection_date": "1991",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
   "strain": "C6709",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085105.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_013085105.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -322,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734999",
   "collection_date": "1976",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BANGLADESH",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
   "strain": "P27459",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085125.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_013085125.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -334,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13735001",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "DEMOCRATIC REPUBLIC OF THE CONGO",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
   "strain": "DRC-193A",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085145.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_013085145.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -346,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13734989",
   "collection_date": "1978",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BAHRAIN",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae O1 biovar El Tor",
   "strain": "E7946",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013085165.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_013085165.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -358,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11604374",
   "collection_date": "2001-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Vibrio cholerae",
   "strain": "VC1374",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_013462495.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_013462495.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -370,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483972",
   "collection_date": "2016-06-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "DIARHEAL",
   "scientific_name": "Vibrio cholerae",
   "strain": "VC_hf7",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_015168795.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_015168795.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -382,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18636297",
   "collection_date": "1992-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "PERU",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "A1552",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_017948285.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_017948285.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -394,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18642716",
   "collection_date": "1993-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae MO10",
   "strain": "MO10",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_017948345.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_017948345.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -406,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13736322",
   "collection_date": "1965",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CZECHOSLOVAKIA",
+  "host": "HUMAN",
+  "host_disease": "GASTROENTERITIS/CHOLERA",
   "scientific_name": "Vibrio cholerae O37",
   "strain": "ATCC 25872",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_018336415.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_018336415.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -418,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19795481",
   "collection_date": "2020-06-17",
+  "geo_loc_name": "CHINA",
   "host": "MACROBRACHIUM NIPPONENSE",
+  "host_disease": null,
   "scientific_name": "Vibrio mimicus",
   "strain": "Y4",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_019048845.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_019048845.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -430,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24501422",
   "collection_date": "2018-07",
+  "geo_loc_name": "CHINA",
   "host": "MACROBRACHIUM ROSENBERGII",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "GXFL1-4",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_021431945.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_021431945.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -442,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30329103",
   "collection_date": "2022-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Vibrio cholerae",
   "strain": "N1252",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_024734685.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_024734685.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -454,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9995352",
   "collection_date": "2018-08-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "YEMEN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "CNRVC190247",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_937000115.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_937000115.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -466,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9995373",
   "collection_date": "2019-03-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "YEMEN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio cholerae",
   "strain": "CNRVC190243",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_937000105.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_937000105.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -478,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18296291",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Vibrio cholerae",
   "strain": "MS84A",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_030062725.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_030062725.1"
  },
  {
   "Vibrio_cholerae": null,
@@ -490,9 +542,67 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36294848",
   "collection_date": "2023-05-08",
+  "geo_loc_name": "USA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Vibrio metoecus",
   "strain": "ZF102",
-  "fasta": "data/groups_info/Vibrio_cholerae/GCA_030580635.1"
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_030580635.1"
+ },
+ {
+  "Vibrio_cholerae": null,
+  "date": null,
+  "asm_acc": "GCA_034008165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37265074",
+  "collection_date": "2022-10-20",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "VIC11-A",
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_034008165.1"
+ },
+ {
+  "Vibrio_cholerae": null,
+  "date": null,
+  "asm_acc": "GCA_034008175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37265073",
+  "collection_date": "2022-10-14",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": "CHOLERA",
+  "scientific_name": "Vibrio cholerae",
+  "strain": "CMUL 009",
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_034008175.1"
+ },
+ {
+  "Vibrio_cholerae": null,
+  "date": null,
+  "asm_acc": "GCA_037101305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00637071",
+  "collection_date": "2020-03-01",
+  "geo_loc_name": "VIET NAM",
+  "host": "MASTACEMBELUS",
+  "host_disease": null,
+  "scientific_name": "Vibrio cholerae",
+  "strain": "VN152",
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_037101305.1"
+ },
+ {
+  "Vibrio_cholerae": null,
+  "date": null,
+  "asm_acc": "GCA_039602145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39200978",
+  "collection_date": "2018",
+  "geo_loc_name": "CHINA",
+  "host": "PROCAMBARUS CLARKII",
+  "host_disease": null,
+  "scientific_name": "Vibrio cholerae",
+  "strain": "LK-18",
+  "fasta": "data\\groups_info\\Vibrio_cholerae\\GCA_039602145.1"
  }
 ]

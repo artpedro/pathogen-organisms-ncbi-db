@@ -1,9 +1,9 @@
 {
  "group": "Legionella_pneumophila",
- "count": 45,
+ "count": 44,
  "species": {
   "Legionella jordanis": 1,
-  "Legionella pneumophila": 44
+  "Legionella pneumophila": 43
  },
  "subsp.": {
   "Legionella pneumophila subsp. pascullei": 2,
@@ -11,18 +11,36 @@
   "Legionella pneumophila subsp. pneumophila": 8
  },
  "scientific_name": {
-  "Legionella jordanis": 1,
   "Legionella pneumophila subsp. pascullei": 2,
+  "Legionella jordanis": 1,
   "Legionella pneumophila subsp. fraseri": 7,
-  "Legionella pneumophila subsp. pneumophila": 8,
-  "Legionella pneumophila": 27
+  "Legionella pneumophila": 26,
+  "Legionella pneumophila subsp. pneumophila": 8
  },
  "strain": {},
+ "location": {
+  "CANADA": 1,
+  "BELARUS": 1,
+  "null": 4,
+  "FRANCE": 1,
+  "USA": 29,
+  "DENMARK": 1,
+  "JAPAN": 1,
+  "NOT PROVIDED": 1,
+  "GERMANY": 2,
+  "AUSTRALIA": 2,
+  "UNITED KINGDOM": 1
+ },
  "hosts": {
   "PROTOZOA": 3,
-  "ENVIRONMENT": 2,
-  "NOT AVAILABLE": 3,
+  "HUMAN": 36,
   "NIST MIXED MICROBIAL RM STRAIN": 1,
-  "HOMO SAPIENS": 36
+  "ENVIRONMENT": 2,
+  "NOT AVAILABLE": 2
+ },
+ "hosts_diseases": {
+  "null": 41,
+  "LEGIONNAIRE'S": 1,
+  "LEGIONNAIRES' DISEASE": 2
  }
 }

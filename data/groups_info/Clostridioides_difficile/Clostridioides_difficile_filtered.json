@@ -1,7 +1,7 @@
 [
  {
-  "Clostridioides_difficile": "PDG000000045.562",
-  "date": "Thu Oct 19 21:32:30 2023"
+  "Clostridioides_difficile": "PDG000000045.623",
+  "date": "Wed May 15 22:37:49 2024"
  },
  {
   "Clostridioides_difficile": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03344097",
   "collection_date": "1982",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWITZERLAND",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile 630",
   "strain": "630",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_000932055.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_000932055.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03332454",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOLITIS, PSEUDOMEMBRANOUS",
   "scientific_name": "Clostridioides difficile",
   "strain": null,
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_001577795.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_001577795.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06286529",
   "collection_date": "2016-04-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "NOPE",
   "scientific_name": "Clostridioides difficile",
   "strain": "BR81",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002007885.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002007885.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05285388",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "630 delta erm",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002080065.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002080065.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07339707",
   "collection_date": "2012-03-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE-ASSOCIATED DIARRHEA",
   "scientific_name": "Clostridioides difficile",
   "strain": "DH/NAP11/106/ST-42",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002234355.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002234355.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104991",
   "collection_date": "2014-07-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "R0104a",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002812585.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812585.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104990",
   "collection_date": "2014-02-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "W0023a",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002812605.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812605.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104989",
   "collection_date": "2014-02-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "W0022a",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002812625.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812625.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104988",
   "collection_date": "2014-01-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "W0003a",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002812645.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812645.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08442145",
   "collection_date": "2010-09-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD-10-00484",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002945415.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945415.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08442093",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CD-17-01474",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002945515.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945515.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443809",
   "collection_date": "2012-04-20",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "12-00008",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002945665.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945665.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443811",
   "collection_date": "2008-05-29",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "08-00495",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002945755.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945755.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443813",
   "collection_date": "2012-05-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "12-00011",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002945855.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945855.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443812",
   "collection_date": "2010-01-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "10-00071",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002945945.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945945.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443877",
   "collection_date": "2010-01-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "10-00078",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002946035.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002946035.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443881",
   "collection_date": "2010-03-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "10-00253",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002946135.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002946135.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443921",
   "collection_date": "1990",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "RESTRICTED",
   "scientific_name": "Clostridioides difficile",
   "strain": "09-00072",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_002946195.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002946195.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03486969",
   "collection_date": "1935",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile ATCC 9689 = DSM 1296",
   "strain": "DSM 1296T",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_001077535.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_001077535.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495888",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 27638",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003313545.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003313545.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495889",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 27639",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003313565.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003313565.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495890",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 27640",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003313585.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003313585.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06619921",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 102859",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003456975.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003456975.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06619923",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 102860",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003457015.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003457015.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06368405",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 102978",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003457035.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003457035.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200625",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29688",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003481905.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003481905.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188775",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDONESIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29632",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003481965.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003481965.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487125",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28196",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482035.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482035.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487129",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28666",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482065.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482065.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487133",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28669",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482125.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482125.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487137",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDONESIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29020",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482165.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482165.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487134",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28670",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482225.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482225.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188752",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDONESIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29627",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482255.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482255.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188758",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDONESIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29629",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482305.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482305.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188782",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDONESIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29637",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482325.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482325.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200826",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29745",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482345.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482345.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200827",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 29747",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003482365.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482365.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487131",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GHANA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 28668",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003490105.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003490105.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274208",
   "collection_date": "2015-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA CAUSED BY CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD10010",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003697205.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003697205.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274224",
   "collection_date": "2015-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA CAUSED BY CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "12038",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003697225.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003697225.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274251",
   "collection_date": "2015-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA CAUSED BY CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD21062",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_003697245.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003697245.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10976983",
   "collection_date": "2000-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Peptacetobacter hiranonis",
   "strain": "DSM 13275",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_008151785.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_008151785.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12370807",
   "collection_date": "2018-11-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "C. DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "Mta-79",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_008245165.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_008245165.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12500617",
   "collection_date": "2011/2015",
+  "geo_loc_name": "TAIWAN",
   "host": "ENVIRONMENT",
+  "host_disease": "HEALTHY",
   "scientific_name": "Clostridioides difficile",
   "strain": "TW11",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_009362915.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_009362915.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056438",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "FDAARGOS_723",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_009730495.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_009730495.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09039199",
   "collection_date": "2017-09-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CBA7204",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_009867095.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_009867095.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08744682",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "ACUTE DIARRHEA",
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 105001",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_014236775.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_014236775.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029149",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-02",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015351935.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015351935.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029170",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-23",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015351965.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015351965.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029171",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-24",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015352015.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352015.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029169",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-22",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015352045.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352045.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029177",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-30",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015352115.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352115.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029148",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CDI-01",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015352155.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352155.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06298620",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "DSM 101085",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015732535.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015732535.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09205946",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile R20291",
   "strain": "R20291",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_015732555.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015732555.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17178901",
   "collection_date": "2019-10-03",
+  "geo_loc_name": "USA",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Peptacetobacter hiranonis",
   "strain": "DGF055142",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_016694795.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_016694795.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16927931",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "M120",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_016766955.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_016766955.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18395883",
   "collection_date": "2012",
+  "geo_loc_name": "BELGIUM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "S0756_078",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_017592625.2"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_017592625.2"
  },
  {
   "Clostridioides_difficile": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18882462",
   "collection_date": "2007-12-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE COLITIS",
   "scientific_name": "Clostridioides difficile",
   "strain": "2015",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018255775.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018255775.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -718,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317496",
   "collection_date": "2018-11-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "C. DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "MT4854",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018603395.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018603395.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -730,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317495",
   "collection_date": "2018-11-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "C. DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "MHS-156",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018603455.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018603455.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -742,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317498",
   "collection_date": "2018-11-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "C. DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "MT5121",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018603475.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018603475.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -754,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021927",
   "collection_date": "2015-12-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd29",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884605.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884605.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -766,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021921",
   "collection_date": "2017-12-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd23",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884665.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884665.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -778,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021916",
   "collection_date": "2017-10-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd18",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884705.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884705.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -790,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021915",
   "collection_date": "2017-08-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd17",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884725.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884725.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -802,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021914",
   "collection_date": "2017-05-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd16",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884745.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884745.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -814,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021912",
   "collection_date": "2017-02-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd14",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884765.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884765.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -826,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021910",
   "collection_date": "2017-03-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd12",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884825.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884825.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -838,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021909",
   "collection_date": "2017-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd11",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884845.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884845.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -850,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021908",
   "collection_date": "2016-03-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd10",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884865.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884865.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -862,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021907",
   "collection_date": "2016-07-27",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd9",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884885.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884885.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -874,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021906",
   "collection_date": "2016-07-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd8",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884905.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884905.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -886,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021905",
   "collection_date": "2016-04-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd7",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884925.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884925.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -898,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021903",
   "collection_date": "2016-02-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd5",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884945.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884945.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -910,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021904",
   "collection_date": "2016-04-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd6",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018884965.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884965.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -922,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021899",
   "collection_date": "2015-10-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIUM DIFFICILE",
   "scientific_name": "Clostridioides difficile",
   "strain": "Cd1",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018885045.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885045.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -934,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491760",
   "collection_date": "2014-09-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "S-0352",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018885065.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885065.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -946,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491759",
   "collection_date": "2014-04-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "S-0253",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018885085.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885085.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -958,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491761",
   "collection_date": "2016-09-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "S-0942",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_018885105.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885105.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -970,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7490727",
   "collection_date": "2018-07-17",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": null,
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_019095765.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_019095765.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -982,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20409632",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "TRICHECHUS MANATUS",
-  "scientific_name": "Paeniclostridium sordellii",
+  "host_disease": null,
+  "scientific_name": "Paraclostridium sordellii",
   "strain": "FL-manatee",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_019434215.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_019434215.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -994,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24220739",
   "collection_date": "2020-11-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "BLOOD SEPSIS",
   "scientific_name": "Clostridioides difficile",
   "strain": "CDB",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_022695655.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_022695655.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1006,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00389847",
   "collection_date": "2018-11-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "CE91-St50",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_022845595.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_022845595.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1018,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27029209",
   "collection_date": "2020-11-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CROHN'S DISEASE",
   "scientific_name": "Paraclostridium bifermentans",
   "strain": "HD0315_2",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_022984115.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_022984115.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1030,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598405",
   "collection_date": "2018-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "SH",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_024972115.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972115.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1042,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598404",
   "collection_date": "2017-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD099",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_024972275.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972275.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1054,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598403",
   "collection_date": "2018-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "G89",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_024972415.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972415.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1066,10 +1242,26 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598402",
   "collection_date": "2016-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CLOSTRIDIOIDES DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile",
   "strain": "CD060",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_024972555.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972555.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_025148965.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20222675",
+  "collection_date": null,
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Intestinibacter bartlettii",
+  "strain": "DSM 16795",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_025148965.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1078,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32411337",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "C. DIFFICILE INFECTION",
   "scientific_name": "Clostridioides difficile R20291",
   "strain": "R20291",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_027625435.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_027625435.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1090,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33244141",
   "collection_date": "2019-11-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "P4D3A1-1",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_028743315.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_028743315.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1102,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA113563167",
   "collection_date": "2016-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": null,
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_951803555.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_951803555.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1114,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA114332805",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "L-TCD-01",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_963426535.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_963426535.1"
  },
  {
   "Clostridioides_difficile": null,
@@ -1126,9 +1326,893 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33402601",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Clostridioides difficile",
   "strain": "M7404",
-  "fasta": "data/groups_info/Clostridioides_difficile/GCA_031359815.1"
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_031359815.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_034273595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36815486",
+  "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "SC083-01-01",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_034273595.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_034274435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36815483",
+  "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "SC084-01-01",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_034274435.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_036630125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39127314",
+  "collection_date": "2022",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA",
+  "scientific_name": "Clostridioides difficile",
+  "strain": "cd221108_barcode08",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_036630125.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037056195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359746",
+  "collection_date": "2022-02-28",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Paraclostridium sordellii",
+  "strain": "C191",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037056195.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037056405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359745",
+  "collection_date": "2022-02-08",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Paraclostridium sordellii",
+  "strain": "C173",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037056405.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037056955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359744",
+  "collection_date": "2022-01-31",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Paraclostridium sordellii",
+  "strain": "C171",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037056955.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037057165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359743",
+  "collection_date": "2022-01-14",
+  "geo_loc_name": "GERMANY",
+  "host": "MELES MELES",
+  "host_disease": null,
+  "scientific_name": "Paraclostridium sordellii",
+  "strain": "C128",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037057165.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037057455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359741",
+  "collection_date": "2022-01-10",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Paraclostridium sordellii",
+  "strain": "C116",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037057455.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037914975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440859",
+  "collection_date": "2023-04-17",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0085",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037914975.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037914985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440858",
+  "collection_date": "2023-04-15",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0065",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037914985.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037914995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440857",
+  "collection_date": "2023-04-13",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0047",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037914995.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037915025.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440856",
+  "collection_date": "2023-04-12",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0032",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915025.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037915205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440855",
+  "collection_date": "2023-04-11",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0021",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915205.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037915445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440854",
+  "collection_date": "2023-04-11",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0020",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915445.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037915725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440853",
+  "collection_date": "2023-04-11",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1323HCD0018",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915725.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037916535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440852",
+  "collection_date": "2022-11-16",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0075",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037916535.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037917245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440851",
+  "collection_date": "2022-11-09",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0071",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037917245.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037917495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440849",
+  "collection_date": "2022-09-25",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0067",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037917495.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037917855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440848",
+  "collection_date": "2022-09-05",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0066",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037917855.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037918115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440847",
+  "collection_date": "2022-09-13",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0061",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918115.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037918385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440846",
+  "collection_date": "2022-11-24",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0060",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918385.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037918655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440845",
+  "collection_date": "2022-10-27",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0055",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918655.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037918925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440844",
+  "collection_date": "2022-10-18",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0052",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918925.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037919185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440843",
+  "collection_date": "2022-09-15",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0040",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037919185.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037919485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440842",
+  "collection_date": "2022-09-15",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0039",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037919485.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037919795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440841",
+  "collection_date": "2022-08-29",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0036",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037919795.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037920055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440840",
+  "collection_date": "2022-08-08",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0033",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920055.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037920325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440839",
+  "collection_date": "2022-08-01",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0031",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920325.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037920665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440838",
+  "collection_date": "2022-07-01",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0028",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920665.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037920935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440837",
+  "collection_date": "2022-06-28",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0027",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920935.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037921315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440836",
+  "collection_date": "2022-06-25",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0025",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037921315.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037921675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440835",
+  "collection_date": "2022-06-24",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0024",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037921675.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037921775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440834",
+  "collection_date": "2022-06-24",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0023",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037921775.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037922005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440833",
+  "collection_date": "2022-06-08",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0018",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037922005.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037922655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440832",
+  "collection_date": "2022-05-25",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0012",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037922655.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037923265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440831",
+  "collection_date": "2022-04-11",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0001",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037923265.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037923795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440830",
+  "collection_date": "2022-09-16",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0116",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037923795.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037924525.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440829",
+  "collection_date": "2022-09-16",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0115",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037924525.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037925435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440828",
+  "collection_date": "2022-09-08",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0107",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037925435.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037926405.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440827",
+  "collection_date": "2022-09-05",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0102",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037926405.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037927465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440826",
+  "collection_date": "2022-09-02",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0097",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037927465.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037928795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440825",
+  "collection_date": "2022-09-02",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0096",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037928795.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037929155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440824",
+  "collection_date": "2022-08-31",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0094",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037929155.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037929465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440823",
+  "collection_date": "2022-08-31",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0092",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037929465.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037929775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440822",
+  "collection_date": "2022-08-30",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0087",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037929775.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037930055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440821",
+  "collection_date": "2022-08-25",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0081",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037930055.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037930425.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440820",
+  "collection_date": "2022-08-24",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0073",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037930425.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037931105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440819",
+  "collection_date": "2022-09-17",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0072",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037931105.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037931695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440818",
+  "collection_date": "2022-08-19",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0068",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037931695.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037932125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440817",
+  "collection_date": "2022-07-28",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0061",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037932125.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037932505.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440816",
+  "collection_date": "2022-08-02",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0045",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037932505.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037932795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440815",
+  "collection_date": "2022-09-16",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0043",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037932795.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037933165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440814",
+  "collection_date": "2022-08-03",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0041",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037933165.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037933585.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440813",
+  "collection_date": "2022-08-01",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0038",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037933585.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037934445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440812",
+  "collection_date": "2022-08-01",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0033",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037934445.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037935125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440810",
+  "collection_date": "2022-07-19",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0027",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037935125.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037941005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440811",
+  "collection_date": "2022-07-30",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0031",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941005.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037941305.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440809",
+  "collection_date": "2022-07-21",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0018",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941305.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037941545.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440808",
+  "collection_date": "2022-07-12",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0006",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941545.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037941895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440807",
+  "collection_date": "2022-07-18",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0004",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941895.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037942165.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440806",
+  "collection_date": "2022-07-18",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322HCD0002",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037942165.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_037943445.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40440850",
+  "collection_date": "2022-09-22",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "DOG",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "Z1322PCD0068",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037943445.1"
+ },
+ {
+  "Clostridioides_difficile": null,
+  "date": null,
+  "asm_acc": "GCA_038442675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40972729",
+  "collection_date": "2007",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Clostridioides difficile",
+  "strain": "UK1",
+  "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_038442675.1"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Listeria_innocua": "PDG000000091.80",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Listeria_innocua": "PDG000000091.108",
+  "date": "Wed May 15 22:37:53 2024"
  },
  {
   "Listeria_innocua": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10869157",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "2010L-2059",
-  "fasta": "data/groups_info/Listeria_innocua/GCA_017363615.2"
+  "fasta": "data\\groups_info\\Listeria_innocua\\GCA_017363615.2"
  },
  {
   "Listeria_innocua": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761682",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "F6217",
-  "fasta": "data/groups_info/Listeria_innocua/GCA_004636665.2"
+  "fasta": "data\\groups_info\\Listeria_innocua\\GCA_004636665.2"
  },
  {
   "Listeria_innocua": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761736",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "2010L-1951",
-  "fasta": "data/groups_info/Listeria_innocua/GCA_004636605.2"
+  "fasta": "data\\groups_info\\Listeria_innocua\\GCA_004636605.2"
  },
  {
   "Listeria_innocua": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941775",
   "collection_date": "missing",
+  "geo_loc_name": "NOT AVAILABLE",
   "host": "NOT AVAILABLE",
+  "host_disease": "NOT AVAILABLE",
   "scientific_name": "Listeria innocua",
   "strain": "2012L-5520",
-  "fasta": "data/groups_info/Listeria_innocua/GCA_024721545.1"
+  "fasta": "data\\groups_info\\Listeria_innocua\\GCA_024721545.1"
  },
  {
   "Listeria_innocua": null,
@@ -58,9 +66,25 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941777",
   "collection_date": null,
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Listeria innocua",
   "strain": "F4078",
-  "fasta": "data/groups_info/Listeria_innocua/GCA_024721565.1"
+  "fasta": "data\\groups_info\\Listeria_innocua\\GCA_024721565.1"
+ },
+ {
+  "Listeria_innocua": null,
+  "date": null,
+  "asm_acc": "GCA_037055925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359751",
+  "collection_date": "2022-01-26",
+  "geo_loc_name": "GERMANY",
+  "host": "NYCTEREUTES PROCYONOIDES",
+  "host_disease": null,
+  "scientific_name": "Listeria innocua",
+  "strain": "L152",
+  "fasta": "data\\groups_info\\Listeria_innocua\\GCA_037055925.1"
  }
 ]

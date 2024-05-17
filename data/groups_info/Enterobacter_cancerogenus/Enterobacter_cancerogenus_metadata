@@ -9,8 +9,16 @@
   "Enterobacter cancerogenus": 2
  },
  "strain": {},
+ "location": {
+  "CHINA": 1,
+  "SOUTH KOREA": 1
+ },
  "hosts": {
-  "GALLERIA MELLONELLA": 1,
-  "HELICOVERPA ARMIGERA": 1
+  "HELICOVERPA ARMIGERA": 1,
+  "GALLERIA MELLONELLA": 1
+ },
+ "hosts_diseases": {
+  "NaN": 1,
+  "NaN": 1
  }
 }

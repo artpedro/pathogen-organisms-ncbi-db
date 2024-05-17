@@ -1,14 +1,16 @@
 [
  {
-  "Aeromonas_salmonicida": "PDG000000077.44",
-  "date": "Thu Oct 19 21:08:47 2023"
+  "Aeromonas_salmonicida": "PDG000000077.60",
+  "date": "Wed May 15 22:18:56 2024"
  },
  {
   "asm_acc": "GCA_001643275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04449844",
   "collection_date": "1999",
+  "geo_loc_name": "USA",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
   "strain": "J223"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276469",
   "collection_date": "2015-08",
+  "geo_loc_name": "CHINA",
   "host": "ATLANTIC SALMON",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "S121"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276873",
   "collection_date": "2015-01",
+  "geo_loc_name": "CHINA",
   "host": "ATLANTIC SALMON",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "S68"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276874",
   "collection_date": "2014-12",
+  "geo_loc_name": "CHINA",
   "host": "ATLANTIC SALMON",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "S44"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05735119",
   "collection_date": "2009-09-16",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "SEBASTES SCHLEGELII",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
   "strain": "RFAS1"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07410266",
   "collection_date": "2007-05-29",
+  "geo_loc_name": "INDIA",
   "host": "MACROBRACHIUM ROSENBERGII",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "A527"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11172869",
   "collection_date": "2016",
+  "geo_loc_name": "CANADA",
   "host": "SALVELINUS FONTINALIS",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
   "strain": "SHY16-3432"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13518349",
   "collection_date": "2018",
+  "geo_loc_name": "CANADA",
   "host": "SABLEFISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
   "strain": "J409"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13518350",
   "collection_date": "2018",
+  "geo_loc_name": "CANADA",
   "host": "SABLEFISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
   "strain": "J410"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260301",
   "collection_date": "2018-02-21",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "SEBASTES SCHLEGELI",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
   "strain": "BR19001YR"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14325646",
   "collection_date": "2016-12",
+  "geo_loc_name": "CHINA",
   "host": "TURBO",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
   "strain": "RZ6S-1"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14351711",
   "collection_date": "2016-12",
+  "geo_loc_name": "CHINA",
   "host": "TURBO",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
   "strain": "RZ6S-1"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781197",
   "collection_date": "2017-01",
+  "geo_loc_name": "CANADA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
   "strain": "J225"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781198",
   "collection_date": "2017-01",
+  "geo_loc_name": "CANADA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida subsp. salmonicida",
   "strain": "J228"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541907",
   "collection_date": "2016-10",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "ZAS"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541906",
   "collection_date": "2012-04",
+  "geo_loc_name": "CHINA",
   "host": "COREIUS GUICHENOTI",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "YK"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541905",
   "collection_date": "2013-10",
+  "geo_loc_name": "CHINA",
   "host": "COREGONUS PELED",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "BG"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541903",
   "collection_date": "2013-07",
+  "geo_loc_name": "CHINA",
   "host": "KAREIUS BICOLORATUS",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "AS1"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541904",
   "collection_date": "2016-12",
+  "geo_loc_name": "CHINA",
   "host": "SALMON",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "AS2"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25210568",
   "collection_date": "2019-03",
+  "geo_loc_name": "CHINA",
   "host": "GRASS CARP",
+  "host_disease": "ULCERATIVE DISEASE",
   "scientific_name": "Aeromonas salmonicida",
   "strain": "ASscau0313"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34178809",
   "collection_date": "2018-02-28",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas salmonicida",
   "strain": "JNG"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30009789",
   "collection_date": "2022-03-03",
+  "geo_loc_name": null,
   "host": "PROCAMBARUS CLARKII",
+  "host_disease": "HEAD ULCER",
   "scientific_name": "Aeromonas salmonicida subsp. masoucida",
   "strain": "wx3-1"
  }

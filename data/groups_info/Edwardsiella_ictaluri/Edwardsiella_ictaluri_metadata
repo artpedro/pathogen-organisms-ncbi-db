@@ -1,18 +1,28 @@
 {
  "group": "Edwardsiella_ictaluri",
- "count": 9,
+ "count": 13,
  "species": {
-  "Edwardsiella ictaluri": 9
+  "Edwardsiella ictaluri": 13
  },
  "subsp.": {},
  "scientific_name": {
-  "Edwardsiella ictaluri": 9
+  "Edwardsiella ictaluri": 13
  },
  "strain": {},
+ "location": {
+  "CHINA": 2,
+  "USA": 3,
+  "null": 1,
+  "JAPAN": 7
+ },
  "hosts": {
-  "PLECOGLOSSUS ALTIVELIS": 3,
-  "OREOCHROMIS NILOTICUS": 1,
+  "FISH": 3,
+  "PLECOGLOSSUS ALTIVELIS": 7,
   "ICTALURUS PUNCTATUS": 2,
-  "FISH": 3
+  "OREOCHROMIS NILOTICUS": 1
+ },
+ "hosts_diseases": {
+  "null": 6,
+  "EDWARDSIELLA ICTALURI INFECTION": 7
  }
 }

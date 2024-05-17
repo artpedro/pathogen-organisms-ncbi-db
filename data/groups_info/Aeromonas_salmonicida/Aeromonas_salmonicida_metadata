@@ -9,26 +9,38 @@
   "Aeromonas salmonicida subsp. masoucida": 5
  },
  "scientific_name": {
-  "Aeromonas salmonicida": 11,
   "Aeromonas salmonicida subsp. salmonicida": 6,
-  "Aeromonas salmonicida subsp. masoucida": 5
+  "Aeromonas salmonicida subsp. masoucida": 5,
+  "Aeromonas salmonicida": 11
  },
  "strain": {
   "RZ6S-1": 2
  },
+ "location": {
+  "CANADA": 5,
+  "null": 1,
+  "USA": 1,
+  "INDIA": 1,
+  "SOUTH KOREA": 2,
+  "CHINA": 12
+ },
  "hosts": {
-  "SEBASTES SCHLEGELI": 1,
+  "PROCAMBARUS CLARKII": 1,
+  "SALMO SALAR": 1,
+  "CHICKEN": 1,
   "KAREIUS BICOLORATUS": 1,
-  "SEBASTES SCHLEGELII": 1,
   "SALVELINUS FONTINALIS": 1,
   "TURBO": 2,
+  "SEBASTES SCHLEGELI": 1,
+  "FISH": 10,
+  "SEBASTES SCHLEGELII": 1,
   "COREGONUS PELED": 1,
-  "ENVIRONMENT": 1,
-  "PROCAMBARUS CLARKII": 1,
-  "FISH": 9,
-  "CHICKEN": 1,
-  "SALMO SALAR": 1,
-  "MACROBRACHIUM ROSENBERGII": 1,
-  "PIG": 1
+  "PIG": 1,
+  "MACROBRACHIUM ROSENBERGII": 1
+ },
+ "hosts_diseases": {
+  "HEAD ULCER": 1,
+  "ULCERATIVE DISEASE": 1,
+  "null": 20
  }
 }

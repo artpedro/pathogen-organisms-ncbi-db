@@ -9,12 +9,29 @@
   "Streptococcus iniae": 9
  },
  "strain": {},
+ "location": {
+  "AUSTRALIA": 1,
+  "KOREA": 1,
+  "CHINA": 6,
+  "TAIWAN": 1
+ },
  "hosts": {
-  "TRACHINOTUS OVATUS": 2,
-  "SELENOTOCA MULTIFASCIATA": 2,
-  "TILAPIA": 2,
-  "PARALICHTHYS OLIVACEUS": 1,
   "LATES CALCARIFER": 1,
-  "OREOCHROMIS NILOTICUS": 1
+  "TRACHINOTUS OVATUS": 2,
+  "OREOCHROMIS NILOTICUS": 1,
+  "TILAPIA": 2,
+  "SELENOTOCA MULTIFASCIATA": 2,
+  "PARALICHTHYS OLIVACEUS": 1
+ },
+ "hosts_diseases": {
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1
  }
 }

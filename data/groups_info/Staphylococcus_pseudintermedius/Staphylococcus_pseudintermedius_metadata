@@ -1,22 +1,50 @@
 {
  "group": "Staphylococcus_pseudintermedius",
- "count": 120,
+ "count": 140,
  "species": {
-  "Staphylococcus pseudintermedius": 113,
+  "Staphylococcus pseudintermedius": 133,
   "Staphylococcus delphini": 7
  },
  "subsp.": {},
  "scientific_name": {
-  "Staphylococcus pseudintermedius": 112,
-  "Staphylococcus delphini": 7,
-  "Staphylococcus pseudintermedius HKU10-03": 1
+  "Staphylococcus pseudintermedius HKU10-03": 1,
+  "Staphylococcus pseudintermedius": 132,
+  "Staphylococcus delphini": 7
  },
  "strain": {},
+ "location": {
+  "SPAIN": 80,
+  "KENYA": 26,
+  "THAILAND": 6,
+  "HONG KONG": 1,
+  "null": 3,
+  "ITALY": 2,
+  "SOMALIA": 1,
+  "USA": 9,
+  "SWITZERLAND": 2,
+  "SOUTH KOREA": 5,
+  "ARGENTINA": 2,
+  "UNITED KINGDOM": 3
+ },
  "hosts": {
-  "DOLPHIN": 1,
   "CAMEL": 6,
-  "DOG": 107,
-  "HOMO SAPIENS": 5,
-  "FELIS CATUS": 1
+  "FELIS CATUS": 1,
+  "DOLPHIN": 1,
+  "HUMAN": 5,
+  "DOG": 127
+ },
+ "hosts_diseases": {
+  "INFECTION": 1,
+  "URINARY TRACT INFECTION": 1,
+  "PYODERMA": 2,
+  "OTHER": 1,
+  "WOUND INFECTION": 1,
+  "null": 40,
+  "HEALTHY": 77,
+  "SUPERFICIAL PYODERMA": 8,
+  "CANINE PYODERMA": 6,
+  "SKIN INFECTION": 1,
+  "INTRAMAMMARY INFECTION": 1,
+  "SKIN ABSCESS": 1
  }
 }

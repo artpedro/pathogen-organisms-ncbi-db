@@ -1,17 +1,49 @@
 {
  "group": "Candida_auris",
- "count": 46,
+ "count": 47,
  "species": {
-  "[Candida] auris": 46
+  "[Candida] auris": 47
  },
  "subsp.": {},
  "scientific_name": {
-  "[Candida] auris": 46
+  "[Candida] auris": 47
  },
  "strain": {
   "null": 33
  },
+ "location": {
+  "CANADA": 2,
+  "UNITED ARAB EMIRATES": 1,
+  "SINGAPORE": 2,
+  "VENEZUELA": 2,
+  "IRAN": 1,
+  "LEBANON": 28,
+  "PAKISTAN": 2,
+  "ITALY": 1,
+  "USA": 3,
+  "JAPAN": 1,
+  "INDIA": 1,
+  "SOUTH KOREA": 1,
+  "SOUTH AFRICA": 1,
+  "CHINA": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 46
+  "HUMAN": 47
+ },
+ "hosts_diseases": {
+  "INFECTION": 1,
+  "CANDIDIASIS": 1,
+  "OTOMYCOSIS": 1,
+  "RASH": 2,
+  "null": 4,
+  "RESPIRATORY INFECTION": 13,
+  "COLONISATION": 1,
+  "CANDIDA INFECTION OR COLONIZATION": 3,
+  "UTI": 8,
+  "CANDIDEMIA": 5,
+  "CANDIDA INFECTION": 2,
+  "COLONIZATION": 1,
+  "NOT COLLECTED": 4,
+  "BLOODSTREAM INFECTION": 1
  }
 }

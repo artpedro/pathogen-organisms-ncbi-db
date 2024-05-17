@@ -9,7 +9,13 @@
   "Enterobacter chengduensis": 1
  },
  "strain": {},
+ "location": {
+  "CHINA": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 1
+  "HUMAN": 1
+ },
+ "hosts_diseases": {
+  "LIVER CIRRHOSIS, CHOLECYSTITIS": 1
  }
 }

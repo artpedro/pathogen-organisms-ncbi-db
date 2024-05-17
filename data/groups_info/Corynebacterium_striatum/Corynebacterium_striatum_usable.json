@@ -1,14 +1,16 @@
 [
  {
-  "Corynebacterium_striatum": "PDG000000064.59",
-  "date": "Thu Oct 19 21:09:07 2023"
+  "Corynebacterium_striatum": "PDG000000064.71",
+  "date": "Wed May 15 22:22:13 2024"
  },
  {
   "asm_acc": "GCA_000833575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03177398",
   "collection_date": null,
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium singulare",
   "strain": "IBS B52218"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07109493",
   "collection_date": "2017-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium striatum",
   "strain": "KC-Na-01"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05374476",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium striatum",
   "strain": "215"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05178544",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium striatum",
   "strain": "216"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4030732",
   "collection_date": "1900/1962",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium minutissimum",
   "strain": "NCTC10288"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017705",
   "collection_date": "1900/1963",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium minutissimum",
   "strain": "NCTC10285"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13404510",
   "collection_date": null,
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium aurimucosum",
   "strain": "DSM 44532"
  }

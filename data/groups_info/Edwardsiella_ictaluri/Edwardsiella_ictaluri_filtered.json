@@ -1,7 +1,7 @@
 [
  {
-  "Edwardsiella_ictaluri": "PDG000000079.13",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Edwardsiella_ictaluri": "PDG000000079.18",
+  "date": "Wed May 15 22:37:50 2024"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06637964",
   "collection_date": "2012",
+  "geo_loc_name": null,
   "host": "OREOCHROMIS NILOTICUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "RUSVM-1",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_002076875.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_002076875.1"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08906337",
   "collection_date": "2017-04-26",
+  "geo_loc_name": "USA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "MS-17-156",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_003054425.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_003054425.1"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930763",
   "collection_date": "1997",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "S97-773",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_003058405.2"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_003058405.2"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930813",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "S07-698",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_003074995.2"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_003074995.2"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30966624",
   "collection_date": "2018-08",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "669",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_025665375.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_025665375.1"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611014",
   "collection_date": "2020-09-06",
+  "geo_loc_name": "JAPAN",
   "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "KH20906",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030297415.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297415.1"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611015",
   "collection_date": "2020-09-21",
+  "geo_loc_name": "JAPAN",
   "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "KB20921",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030297435.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297435.1"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -94,10 +108,54 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611016",
   "collection_date": "2020-10-10",
+  "geo_loc_name": "JAPAN",
   "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "KH201010",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030297455.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297455.1"
+ },
+ {
+  "Edwardsiella_ictaluri": null,
+  "date": null,
+  "asm_acc": "GCA_030297475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611017",
+  "collection_date": "2022-07-26",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STU22726",
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297475.1"
+ },
+ {
+  "Edwardsiella_ictaluri": null,
+  "date": null,
+  "asm_acc": "GCA_030297495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611018",
+  "collection_date": "2022-08-16",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STU22816",
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297495.1"
+ },
+ {
+  "Edwardsiella_ictaluri": null,
+  "date": null,
+  "asm_acc": "GCA_030297515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611019",
+  "collection_date": "2022-08-20",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STA22820",
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297515.1"
  },
  {
   "Edwardsiella_ictaluri": null,
@@ -106,9 +164,25 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11664858",
   "collection_date": "2013-10-16",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Edwardsiella ictaluri",
   "strain": "YCH",
-  "fasta": "data/groups_info/Edwardsiella_ictaluri/GCA_030347235.1"
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030347235.1"
+ },
+ {
+  "Edwardsiella_ictaluri": null,
+  "date": null,
+  "asm_acc": "GCA_036508615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00611020",
+  "collection_date": "2022-08-20",
+  "geo_loc_name": "JAPAN",
+  "host": "PLECOGLOSSUS ALTIVELIS",
+  "host_disease": "EDWARDSIELLA ICTALURI INFECTION",
+  "scientific_name": "Edwardsiella ictaluri",
+  "strain": "STH22820",
+  "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_036508615.1"
  }
 ]

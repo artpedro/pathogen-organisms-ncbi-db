@@ -9,11 +9,25 @@
   "Vibrio fluvialis": 8
  },
  "strain": {},
+ "location": {
+  "BALTIC SEA": 1,
+  "BANGLADESH": 1,
+  "null": 1,
+  "COLOMBIA": 1,
+  "USA": 1,
+  "CHINA": 3
+ },
  "hosts": {
-  "GRACILARIOPSIS LEMANEIFORMIS": 1,
-  "ENVIRONMENT": 1,
+  "HUMAN": 4,
   "ANADARA TUBERCULOSA": 1,
+  "GRACILARIOPSIS LEMANEIFORMIS": 1,
   "ORATOSQUILLA ORATORIA": 1,
-  "HOMO SAPIENS": 4
+  "ENVIRONMENT": 1
+ },
+ "hosts_diseases": {
+  "DIARRHEA": 1,
+  "VIBRIO INFECTION": 1,
+  "null": 5,
+  "WOUND INFECTION": 1
  }
 }

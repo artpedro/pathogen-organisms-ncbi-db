@@ -1,28 +1,48 @@
 {
  "group": "Clostridium_perfringens",
- "count": 24,
+ "count": 66,
  "species": {
-  "Clostridium perfringens": 21,
+  "Clostridium perfringens": 63,
   "[Clostridium] innocuum": 3
  },
  "subsp.": {},
  "scientific_name": {
-  "Clostridium perfringens": 16,
+  "Clostridium perfringens": 59,
   "[Clostridium] innocuum": 3,
-  "Clostridium perfringens B": 2,
-  "Clostridium perfringens D": 3
+  "Clostridium perfringens D": 2,
+  "Clostridium perfringens B": 2
  },
  "strain": {},
+ "location": {
+  "CANADA": 1,
+  "KOREA": 1,
+  "null": 3,
+  "USA": 9,
+  "JAPAN": 1,
+  "SOUTH KOREA": 37,
+  "CHINA": 12,
+  "AUSTRALIA": 1,
+  "NORWAY": 1
+ },
  "hosts": {
-  "SHEEP": 3,
-  "RUMINANT": 4,
-  "CHICKEN": 1,
-  "HOMO SAPIENS": 7,
-  "NOT AVAILABLE": 2,
-  "DOG": 2,
-  "HORSE": 1,
   "YAK": 1,
-  "PIG": 2,
-  "GOAT": 1
+  "CHICKEN": 4,
+  "GOAT": 1,
+  "MAMMAL": 4,
+  "AVES": 1,
+  "HORSE": 1,
+  "SHEEP": 3,
+  "MACACA MULATTA": 1,
+  "HUMAN": 28,
+  "RUMINANT": 4,
+  "PIG": 4,
+  "DOG": 11,
+  "CAT": 1,
+  "NOT AVAILABLE": 2
+ },
+ "hosts_diseases": {
+  "DIARRHEA": 1,
+  "NOT REPORTED": 1,
+  "null": 64
  }
 }

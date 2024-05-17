@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_pyogenes": "PDG000000090.107",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Streptococcus_pyogenes": "PDG000000090.165",
+  "date": "Wed May 15 22:37:55 2024"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603945",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes MGAS1882",
   "strain": "MGAS1882",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000250925.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000250925.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603944",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes MGAS15252",
   "strain": "MGAS15252",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000250905.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000250905.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603353",
   "collection_date": "1986",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes Alab49",
   "strain": "Alab49",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000230295.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000230295.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02471172",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes HKU QMH11M0907901",
   "strain": "HKU QMH11M0907901",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000275625.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000275625.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081524",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes STAB902",
   "strain": "STAB902",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000732425.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000732425.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02800743",
   "collection_date": "2012-02-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "M23ND",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000756485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000756485.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02644974",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "7F7",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000767505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000767505.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02980885",
   "collection_date": "2011-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "HKU360",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000772185.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000772185.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02649402",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1E1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000772245.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000772245.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02716635",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CZECH REPUBLIC",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "AP1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_000993765.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_000993765.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03610013",
   "collection_date": "1971",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NOT COLLECTED",
+  "host": "HUMAN",
+  "host_disease": "RHEUMATIC FEVER-ASSOCIATED",
   "scientific_name": "Streptococcus pyogenes JRS4",
   "strain": "JRS4",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001014285.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001014285.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03610015",
   "collection_date": "1971",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NOT COLLECTED",
+  "host": "HUMAN",
+  "host_disease": "RHEUMATIC FEVER-ASSOCIATED",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "D471",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001014305.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001014305.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733610",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "PUERPERAL FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "M28PF1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001020185.2"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001020185.2"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02866032",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "NECROTIZING FASCIITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "5448",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001021955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001021955.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03418291",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB10015",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001023495.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001023495.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03846812",
   "collection_date": "2012-01-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "HKU488",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001051095.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001051095.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996295",
   "collection_date": "2014-04-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "EPIDURAL ABSCESS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "FDAARGOS_149",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001559175.2"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001559175.2"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04334485",
   "collection_date": "1967",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "NECROTIZING FASCIITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "AP53",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001620285.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001620285.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03792044",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS11027",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001635895.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001635895.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03775331",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS23530",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001635935.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001635935.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03161558",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS27061",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001635975.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001635975.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04625972",
   "collection_date": "1990",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "FEBRILE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NS53",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001638845.2"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001638845.2"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03418290",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB09014",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_001678885.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_001678885.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2479569",
   "collection_date": "1950",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8198",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002055535.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002055535.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04500791",
   "collection_date": "2014-05-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "BACTERIEMIA, SEPCIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB14018",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002163545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002163545.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06435541",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "GURSA1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002236855.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002236855.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06434935",
   "collection_date": "1938",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "GUR",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002236875.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002236875.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06473357",
   "collection_date": "2009-02-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "ENDOMETRITISIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB090229",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002238295.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002238295.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06554460",
   "collection_date": "2012-03-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB120304",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002238315.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002238315.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00000355",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "M3-b",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002355175.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002355175.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07757765",
   "collection_date": "2017-08-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "NECROTIZING FASCIITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "HarveyGAS",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002557755.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002557755.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07174848",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ISRAEL",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "JS12",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_002844355.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_002844355.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08793275",
   "collection_date": "2011-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TJ11-001",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003025365.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003025365.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08569881",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NGAS979",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003203475.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003203475.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3539724",
   "collection_date": "1900/1937",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC5163",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474645.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542433",
   "collection_date": "1900/1937",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC5164",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474795.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474795.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542440",
   "collection_date": "1900/1950",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8300",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474815.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474815.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542441",
   "collection_date": "1900/1950",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8314",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474765.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474765.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542442",
   "collection_date": "1900/1950",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8332",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474955.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542444",
   "collection_date": "1900/1988",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12045",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474825.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474825.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542447",
   "collection_date": "1900/1974",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12059",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474745.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474745.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542449",
   "collection_date": "1979",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12066",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474775.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474775.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542450",
   "collection_date": "1981",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12069",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474835.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474835.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572417",
   "collection_date": "1927",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8231",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474965.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474965.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572419",
   "collection_date": "1932",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8328",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474855.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474855.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572427",
   "collection_date": "1900/1986",
+  "geo_loc_name": "USA",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12046",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474885.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474885.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572429",
   "collection_date": "1900/1974",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12047",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474935.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474935.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572431",
   "collection_date": "1900/1974",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12048",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474915.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474915.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -586,22 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3572435",
   "collection_date": "1900/1974",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12050",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474925.1"
- },
- {
-  "Streptococcus_pyogenes": null,
-  "date": null,
-  "asm_acc": "GCA_900474995.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMEA3594343",
-  "collection_date": "1900/2007",
-  "host": "NOT AVAILABLE",
-  "scientific_name": "Streptococcus pyogenes",
-  "strain": "NCTC12840",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474995.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474925.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -610,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594345",
   "collection_date": "1900/1965",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12052",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474975.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474975.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -622,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594346",
   "collection_date": "1900/1972",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12057",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474845.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474845.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -634,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594347",
   "collection_date": "1900/1972",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12058",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474865.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474865.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -646,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594349",
   "collection_date": "1900/1972",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12062",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475005.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -658,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594351",
   "collection_date": "1900/1980",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12067",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475135.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475135.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -670,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594352",
   "collection_date": "1900/1981",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12068",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475155.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475155.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -682,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594357",
   "collection_date": "1900/1982",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12064",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475035.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475035.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -694,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3594360",
   "collection_date": "1900/1933",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC4001",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475105.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475105.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -706,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597579",
   "collection_date": "1900/1951",
+  "geo_loc_name": "USA",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8225",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474455.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474455.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -718,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597580",
   "collection_date": "1900/1935",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8316",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474945.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474945.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -730,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597589",
   "collection_date": "1900/1992",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12696",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900474895.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900474895.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -742,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3614262",
   "collection_date": "1950",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8326",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475115.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475115.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -754,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3632058",
   "collection_date": "1932",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8324",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475085.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475085.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -766,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3632069",
   "collection_date": "1900/1950",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8195",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475075.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475075.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -778,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3649042",
   "collection_date": "1900/1951",
+  "geo_loc_name": "USA",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8230",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475165.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475165.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -790,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3662931",
   "collection_date": "1966",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC10880",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475565.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -802,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3662934",
   "collection_date": "1900/1950",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8322",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475335.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475335.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -814,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3662939",
   "collection_date": "1900/1967",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC10876",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475175.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475175.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -826,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3729940",
   "collection_date": "1900/1973",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC10874",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475425.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475425.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -838,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871782",
   "collection_date": "1942",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8227",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475615.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475615.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -850,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871783",
   "collection_date": "1969",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC10879",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475455.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475455.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -862,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871791",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13738",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475475.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475475.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -874,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871794",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13742",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475495.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475495.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -886,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3879489",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13743",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475525.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475525.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -898,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3879490",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13744",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475705.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475705.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -910,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3881058",
   "collection_date": "1953",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC10085",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475645.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -922,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923596",
   "collection_date": "2015",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13745",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475955.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -934,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956097",
   "collection_date": "1900/1981",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC12044",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475925.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475925.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -946,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956099",
   "collection_date": "1968",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC10877",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475785.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475785.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -958,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4012328",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13736",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475765.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475765.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -970,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017720",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13737",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475875.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475875.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -982,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017721",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13751",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -994,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4364215",
   "collection_date": "1900/1952",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8370",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900476015.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900476015.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1006,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4557824",
   "collection_date": "1931",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8304",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475795.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475795.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1018,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA53411668",
   "collection_date": "1900/1951",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8224",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475465.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475465.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1030,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA53413168",
   "collection_date": "1931",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8320",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475485.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1042,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA53434918",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC13739",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900475865.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900475865.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1054,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08714459",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "DMG1800716",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003352145.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003352145.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1066,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00084336",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "KS030",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003609955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003609955.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1078,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04230441",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SASM4-Duke",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003640605.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003640605.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1090,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09284928",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NOT COLLECTED",
+  "host": "HUMAN",
+  "host_disease": "STSS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC020055975",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003698205.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003698205.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1102,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163229",
   "collection_date": "2016-04-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "FDAARGOS_534",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003812645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003812645.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1114,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163208",
   "collection_date": "2016-01-21",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "FDAARGOS_514",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003812725.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003812725.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1126,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10416086",
   "collection_date": "missing",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "Duke-Large",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003814365.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003814365.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1138,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10416088",
   "collection_date": "missing",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CELLULITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "RLGH",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_003814385.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_003814385.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1150,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4805863",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "S119",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900608505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900608505.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1162,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3632070",
   "collection_date": "1934",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8232",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900636485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900636485.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1174,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3729937",
   "collection_date": "1918",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8302",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900636725.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900636725.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1186,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555909",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS27961",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004010855.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004010855.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1198,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556030",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28085",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004010875.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004010875.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1210,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08915690",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "CCUG 4207",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004028355.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004028355.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1222,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172638",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY155",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004123995.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004123995.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1234,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172691",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY556",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124015.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004124015.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1246,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172674",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SSTI",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY453",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124075.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004124075.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1258,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172651",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY208",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124115.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004124115.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1270,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10172669",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY165",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004124135.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004124135.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1282,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10397505",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "M75",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004135875.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004135875.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1294,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096233",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "5448",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619585.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900619585.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1306,10 +1508,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096234",
   "collection_date": "2008-04-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP444",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619595.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900619595.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1318,10 +1522,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096235",
   "collection_date": "2012-02-23",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "HKU419",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619605.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900619605.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1330,10 +1536,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096236",
   "collection_date": "2010-07-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "PS003",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619615.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900619615.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1342,10 +1550,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5096237",
   "collection_date": "2010-07-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "PS006",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_900619625.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_900619625.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1354,10 +1564,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555653",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS8347",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004153945.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004153945.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1366,10 +1578,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555729",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS10786",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004153965.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004153965.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1378,10 +1592,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555548",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS7914",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004153985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004153985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1390,10 +1606,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555522",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS7888",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154005.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1402,10 +1620,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563099",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS29409",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154025.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154025.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1414,10 +1634,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563018",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS29326",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154045.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154045.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1426,10 +1648,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562978",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS29284",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154065.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154065.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1438,10 +1662,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562542",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28746",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154085.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154085.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1450,10 +1676,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562482",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28686",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154105.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154105.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1462,10 +1690,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562467",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28669",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154125.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154125.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1474,10 +1704,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562449",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28650",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154145.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154145.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1486,10 +1718,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556433",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28533",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154165.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154165.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1498,10 +1732,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556272",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28360",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154185.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154185.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1510,10 +1746,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556245",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28330",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154205.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154205.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1522,10 +1760,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556197",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28278",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154225.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154225.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1534,10 +1774,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556190",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28271",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154245.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154245.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1546,10 +1788,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556116",
   "collection_date": "1999",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28191",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154265.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154265.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1558,10 +1802,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555801",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS11115",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154285.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154285.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1570,10 +1816,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555796",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS11108",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154305.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154305.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1582,10 +1830,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08562766",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS29064",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154325.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154325.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1594,10 +1844,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556297",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28386",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154345.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154345.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1606,10 +1858,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08556024",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS28078",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154365.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154365.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1618,10 +1872,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555770",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FINLAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS11052",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154385.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154385.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1630,10 +1886,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08555766",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS10826",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004154405.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004154405.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1642,10 +1900,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09867132",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1336",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_004193935.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_004193935.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1654,10 +1914,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793328",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm57",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160445.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005160445.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1666,10 +1928,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793327",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "RHEUMATIC FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm74",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005160565.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1678,10 +1942,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793326",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KENYA",
+  "host": "HUMAN",
+  "host_disease": "SOFT TISSUE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emmSTG866.1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160785.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005160785.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1690,10 +1956,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793324",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "ACUTE POST-STREPTOCOCCAL GLOMERULONEPHRITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm55",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005160925.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005160925.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1702,10 +1970,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793323",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm105",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161125.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005161125.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1714,10 +1984,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793319",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm64.3",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161325.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005161325.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1726,10 +1998,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793317",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "RHEUMATIC FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm78.3",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161465.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005161465.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1738,10 +2012,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793316",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "SKIN",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm22.8",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161605.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005161605.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1750,10 +2026,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793314",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "THROAT",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm124",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161825.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005161825.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1762,10 +2040,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793311",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm58",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005161985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005161985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1774,10 +2054,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793307",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KENYA",
+  "host": "HUMAN",
+  "host_disease": "SOFT TISSUE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm97.1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162245.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005162245.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1786,10 +2068,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793305",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm56",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162405.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005162405.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1798,10 +2082,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793306",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm70",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005162565.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1810,10 +2096,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793304",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm93.4",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162725.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005162725.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1822,10 +2110,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793303",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE / ABSCESS / BURNS / IV SITE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm230",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005162865.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005162865.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1834,10 +2124,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793302",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm123",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163085.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005163085.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1846,10 +2138,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793300",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE / ABSCESS / BURNS / IV SITE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm54",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163245.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005163245.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1858,10 +2152,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793325",
   "collection_date": "1999",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "THROAT",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emmNA",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163385.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005163385.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1870,10 +2166,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793322",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "THROAT",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm11",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005163565.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1882,10 +2180,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793321",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KENYA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm65",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163705.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005163705.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1894,10 +2194,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793320",
   "collection_date": "1991",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE / ABSCESS / BURNS / IV SITE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm75.1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005163865.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005163865.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1906,10 +2208,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793318",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE.",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm89.14",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164025.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005164025.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1918,10 +2222,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793315",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "THROAT",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm77",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164305.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005164305.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1930,10 +2236,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793313",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164585.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005164585.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1942,10 +2250,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793312",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "SKIN SORE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm25",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164705.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005164705.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1954,10 +2264,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793310",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm90.5",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005164885.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005164885.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1966,10 +2278,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793309",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "THROAT",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm92",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005165045.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005165045.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1978,10 +2292,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793301",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FIJI",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm100",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005165265.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005165265.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -1990,10 +2306,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793299",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEW ZEALAND",
+  "host": "HUMAN",
+  "host_disease": "RHEUMATIC FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm197",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005165385.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005165385.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2002,10 +2320,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10793308",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm68.2",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_005222545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_005222545.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2014,10 +2334,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3222082",
   "collection_date": "1900/1950",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8193",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_901472475.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_901472475.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2026,10 +2348,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597581",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NCTC8318",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_901482645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_901482645.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2038,10 +2362,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056489",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "NIST MIXED MICROBIAL RM STRAIN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "FDAARGOS_774",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_006364235.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_006364235.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2050,10 +2376,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056383",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "FDAARGOS_668",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_008694005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_008694005.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2062,10 +2390,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191653",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "AUSMDU00010539",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009664495.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_009664495.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2074,10 +2404,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11029189",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB09023",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009738475.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_009738475.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2086,10 +2418,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11032819",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "STAB10048",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009738495.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_009738495.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2098,10 +2432,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13632409",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1085",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_009832845.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_009832845.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2110,10 +2446,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260617",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1040",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_011290565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_011290565.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2122,10 +2460,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12657656",
   "collection_date": "1988",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SEPTIC SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS2221",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_012572265.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_012572265.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2134,10 +2474,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14547667",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "4063-05",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_013306985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_013306985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2146,10 +2488,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238717",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NIH34",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014191695.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014191695.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2158,10 +2502,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238718",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "NIH35",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014191835.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014191835.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2170,10 +2516,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238719",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "KUN-0012590",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014192005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014192005.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2182,10 +2530,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238720",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "KUN-0014944",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014192175.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014192175.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2194,10 +2544,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12251806",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": "NOT REPORTED",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "37-97S",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014218015.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014218015.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2206,10 +2558,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964725",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "BSAC_bs192",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495925.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014495925.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2218,10 +2572,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964727",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "BSAC_bs1388",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495945.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014495945.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2230,10 +2586,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964728",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "BSAC_bs1802",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495965.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014495965.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2242,10 +2600,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15964726",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "BSAC_bs472",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_014495985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_014495985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2254,10 +2614,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17054563",
   "collection_date": "2020",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "STREPTOCOCCAL INFECTIONS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "emm9ST603",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016126835.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_016126835.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2266,10 +2628,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17141635",
   "collection_date": "2015-02-27",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE GROUP A STREPTOCOCCUS INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "iGAS426",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016549335.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_016549335.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2278,10 +2642,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17141633",
   "collection_date": "2018-06-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE GROUP A STREPTOCOCCUS INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "iGAS376",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016549355.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_016549355.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2290,10 +2656,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17141634",
   "collection_date": "2019-03-21",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE GROUP A STREPTOCOCCUS INFECTION",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "iGAS391",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_016549375.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_016549375.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2302,10 +2670,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18435893",
   "collection_date": "2020",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "M08500",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_017638465.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_017638465.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2314,10 +2684,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14162572",
   "collection_date": "2018",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY1687",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_018140985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_018140985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2326,10 +2698,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235221",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SSTI",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY806",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342845.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342845.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2338,10 +2712,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235203",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY637",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342865.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342865.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2350,10 +2726,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235194",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SSTI",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY515",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342885.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342885.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2362,10 +2740,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234637",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC245",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342905.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342905.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2374,10 +2754,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234614",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC221",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342925.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342925.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2386,10 +2768,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234602",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC208",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342945.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342945.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2398,10 +2782,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234593",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC199",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342965.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342965.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2410,10 +2796,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234553",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC157",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019342985.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019342985.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2422,10 +2810,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234551",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC155",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019343005.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2434,10 +2824,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234519",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC122",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343025.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019343025.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2446,10 +2838,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234475",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC76",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343045.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019343045.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2458,10 +2852,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234425",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC25",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343065.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019343065.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2470,10 +2866,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14234404",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "ABC3",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019343085.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019343085.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2482,10 +2880,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14235217",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY767",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_019448315.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_019448315.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2494,10 +2894,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824172",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY141",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826915.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020826915.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2506,10 +2908,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824171",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY153",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826935.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020826935.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2518,10 +2922,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824170",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY764",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020826955.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2530,10 +2936,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824169",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY210",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826975.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020826975.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2542,10 +2950,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824167",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ABSCESS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY1312",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020826995.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020826995.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2554,10 +2964,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824166",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CELLULITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY416",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827015.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827015.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2566,10 +2978,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824165",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ABSCESS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY1309",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827035.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827035.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2578,10 +2992,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824164",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY1349",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827055.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827055.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2590,10 +3006,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824163",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CELLULITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY1026",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827075.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827075.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2602,10 +3020,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824162",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY136",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827095.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827095.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2614,10 +3034,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824161",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PHARYNGITIS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY383",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827115.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827115.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2626,10 +3048,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15824160",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SSTI",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "TSPY270",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_020827135.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_020827135.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2638,10 +3062,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18034722",
   "collection_date": "2018",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "STREPTOCOCCAL INFECTIONS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "M11318",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_017132795.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_017132795.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2650,10 +3076,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18523098",
   "collection_date": "2018-09-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SHZ-1",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_022494495.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_022494495.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2662,10 +3090,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17127784",
   "collection_date": "1986",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "MGAS270",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_023278205.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_023278205.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2674,10 +3104,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28104815",
   "collection_date": "2021-12-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CEREBRAL ABSCESS",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "21SPY7071",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_023380045.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_023380045.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2686,10 +3118,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783177",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1451",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370195.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_028370195.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2698,10 +3132,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783176",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1450",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370215.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_028370215.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2710,10 +3146,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783175",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1448",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370235.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_028370235.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2722,10 +3160,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783174",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1426",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370255.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_028370255.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2734,10 +3174,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783173",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1384",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370275.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_028370275.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2746,10 +3188,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783172",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "SCARLET FEVER",
   "scientific_name": "Streptococcus pyogenes",
   "strain": "SP1380",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_028370295.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_028370295.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2758,10 +3202,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33693461",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1039",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029280505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_029280505.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2770,10 +3216,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33693473",
   "collection_date": "2000/2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1042",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029280565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_029280565.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2782,10 +3230,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33709030",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1133",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029280585.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_029280585.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2794,10 +3244,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33707422",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1004",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029323775.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_029323775.1"
  },
  {
   "Streptococcus_pyogenes": null,
@@ -2806,9 +3258,333 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34032715",
   "collection_date": "2002/2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pyogenes",
   "strain": "1044",
-  "fasta": "data/groups_info/Streptococcus_pyogenes/GCA_029637645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_029637645.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_034430055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38728243",
+  "collection_date": null,
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "NV28",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_034430055.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_034432415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38728242",
+  "collection_date": null,
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "NV27",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_034432415.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_034434355.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38728240",
+  "collection_date": null,
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "NV1",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_034434355.2"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_034436135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38728241",
+  "collection_date": null,
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "NV6",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_034436135.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843092",
+  "collection_date": "1942",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "11RS100",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918415.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843091",
+  "collection_date": "1997",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "SS1445",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918435.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843090",
+  "collection_date": "1995",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "SS1366",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918455.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843089",
+  "collection_date": "1997",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "2907-97",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918475.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843088",
+  "collection_date": "1972",
+  "geo_loc_name": "TRINIDAD AND TOBAGO",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "D641",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918495.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918515.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843087",
+  "collection_date": "1999",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "6745-99",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918515.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843086",
+  "collection_date": "1971",
+  "geo_loc_name": "TRINIDAD AND TOBAGO",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "A946",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918535.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843085",
+  "collection_date": "1995",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "CT95-157",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918555.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843084",
+  "collection_date": "1990",
+  "geo_loc_name": "ETHIOPIA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "AW-534",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918575.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_035918595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38843083",
+  "collection_date": "1999",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "6702-99",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_035918595.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_036347555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37718901",
+  "collection_date": "2022-03-04",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA ASSOCIATED WITH CHORIOAMNIONITIS/ENDOMETRITIS",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "Spyo01",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_036347555.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_036347575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37718906",
+  "collection_date": "2022-11-09",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA ASSOCIATED WITH SEPTIC ARTHRITIS & OSTEOMYELITIS",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "Spyo06",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_036347575.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_036347595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37718909",
+  "collection_date": "2023-02-05",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PYOGENIC FLEXOR TENOSYNOVITIS",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "Spyo09",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_036347595.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_038385395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39934813",
+  "collection_date": "2023",
+  "geo_loc_name": "ICELAND",
+  "host": "HUMAN",
+  "host_disease": "NOT PROVIDED",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "MGAS37856",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_038385395.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_038386885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39934800",
+  "collection_date": "2023",
+  "geo_loc_name": "ICELAND",
+  "host": "HUMAN",
+  "host_disease": "NOT PROVIDED",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "MGAS37835",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_038386885.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_038388625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39934795",
+  "collection_date": "2023",
+  "geo_loc_name": "ICELAND",
+  "host": "HUMAN",
+  "host_disease": "NOT PROVIDED",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "MGAS37830",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_038388625.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_038390225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39934792",
+  "collection_date": "2023",
+  "geo_loc_name": "ICELAND",
+  "host": "HUMAN",
+  "host_disease": "NOT PROVIDED",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "MGAS37827",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_038390225.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_038390915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39934790",
+  "collection_date": "2023",
+  "geo_loc_name": "ICELAND",
+  "host": "HUMAN",
+  "host_disease": "NOT PROVIDED",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "MGAS37824",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_038390915.1"
+ },
+ {
+  "Streptococcus_pyogenes": null,
+  "date": null,
+  "asm_acc": "GCA_039619335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41005651",
+  "collection_date": "2023-12-26",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "INFECTED PYOPNEUMOTHORAX",
+  "scientific_name": "Streptococcus pyogenes",
+  "strain": "318231",
+  "fasta": "data\\groups_info\\Streptococcus_pyogenes\\GCA_039619335.1"
  }
 ]

@@ -1,20 +1,58 @@
 {
  "group": "Neisseria_meningitidis",
- "count": 97,
+ "count": 100,
  "species": {
-  "Neisseria meningitidis": 97
+  "Neisseria meningitidis": 100
  },
  "subsp.": {},
  "scientific_name": {
-  "Neisseria meningitidis M7124": 1,
-  "Neisseria meningitidis": 96
+  "Neisseria meningitidis": 98,
+  "Neisseria meningitidis NMB": 1,
+  "Neisseria meningitidis M7124": 1
  },
  "strain": {
   "null": 2
  },
+ "location": {
+  "MALI": 8,
+  "SOUTH AFRICA": 1,
+  "CHINA": 2,
+  "SAUDI ARABIA": 2,
+  "SWEDEN": 15,
+  "TOGO": 1,
+  "BENIN": 2,
+  "DJIBOUTI": 1,
+  "NIGER": 5,
+  "MAURITIUS": 1,
+  "SENEGAL": 1,
+  "ALGERIA": 1,
+  "BRAZIL": 1,
+  "null": 12,
+  "CAMEROON": 1,
+  "USA": 9,
+  "GERMANY": 4,
+  "UNITED KINGDOM": 6,
+  "CANADA": 2,
+  "CENTRAL AFRICAN REPUBLIC": 1,
+  "FRANCE": 1,
+  "BURKINA FASO": 17,
+  "AUSTRALIA": 6
+ },
  "hosts": {
-  "HOMO SAPIENS": 93,
   "ENVIRONMENT": 2,
-  "NOT AVAILABLE": 2
+  "NOT AVAILABLE": 2,
+  "HUMAN": 96
+ },
+ "hosts_diseases": {
+  "NOT KNOWN": 1,
+  "BACTERIAL MENINGITIS": 3,
+  "URETHRITIS": 1,
+  "INVASIVE MENINGOCOCCAL DISEASE": 20,
+  "null": 55,
+  "INVASIVE MENIGNOCOCCAL DISEASE": 3,
+  "MENINGITIS": 2,
+  "MENINGOCOCCAL MENINGITIS": 1,
+  "NOT COLLECTED": 11,
+  "MENINGOCOCCAL INFECTION": 3
  }
 }

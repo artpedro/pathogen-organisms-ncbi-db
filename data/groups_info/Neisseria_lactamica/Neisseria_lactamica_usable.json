@@ -1,14 +1,16 @@
 [
  {
-  "Neisseria_lactamica": "PDG000000095.8",
-  "date": "Sat Oct  7 20:55:11 2023"
+  "Neisseria_lactamica": "PDG000000095.17",
+  "date": "Wed May 15 22:30:13 2024"
  },
  {
   "asm_acc": "GCA_002022745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05437355",
   "collection_date": "2011-10",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria lactamica",
   "strain": "Y92-1009"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704838",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria lactamica",
   "strain": "M17106"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3867448",
   "collection_date": "1967",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Neisseria lactamica",
   "strain": "NCTC10617"
  }

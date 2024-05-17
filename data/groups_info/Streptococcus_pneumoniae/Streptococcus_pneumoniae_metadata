@@ -1,36 +1,90 @@
 {
  "group": "Streptococcus_pneumoniae",
- "count": 134,
+ "count": 177,
  "species": {
-  "Streptococcus oralis": 13,
-  "Streptococcus mitis": 6,
+  "Streptococcus pneumoniae": 158,
+  "Streptococcus mitis": 5,
   "Streptococcus infantis": 1,
-  "Streptococcus pneumoniae": 114
+  "Streptococcus oralis": 13
  },
  "subsp.": {
-  "Streptococcus oralis subsp. dentisani": 1,
-  "Streptococcus oralis subsp. tigurinus": 1
+  "Streptococcus oralis subsp. tigurinus": 1,
+  "Streptococcus oralis subsp. dentisani": 1
  },
  "scientific_name": {
-  "Streptococcus pneumoniae TCH8431/19A": 1,
   "Streptococcus pneumoniae ST556": 1,
-  "Streptococcus pneumoniae PCS8235": 1,
-  "Streptococcus pneumoniae": 108,
-  "Streptococcus pneumoniae gamPNI0373": 1,
-  "Streptococcus mitis": 6,
-  "Streptococcus oralis subsp. dentisani": 1,
-  "Streptococcus oralis subsp. tigurinus": 1,
-  "Streptococcus oralis ATCC 35037": 1,
+  "Streptococcus pneumoniae": 154,
   "Streptococcus pneumoniae TIGR4": 1,
-  "Streptococcus oralis": 10,
   "Streptococcus infantis": 1,
-  "Streptococcus pneumoniae AP200": 1
+  "Streptococcus oralis subsp. tigurinus": 1,
+  "Streptococcus pneumoniae TCH8431/19A": 1,
+  "Streptococcus oralis": 10,
+  "Streptococcus oralis ATCC 35037": 1,
+  "Streptococcus mitis": 5,
+  "Streptococcus oralis subsp. dentisani": 1,
+  "Streptococcus pneumoniae gamPNI0373": 1
  },
  "strain": {
   "SF100": 2
  },
+ "location": {
+  "ISRAEL": 1,
+  "MALAWI": 1,
+  "ITALY": 1,
+  "DENMARK": 1,
+  "SOUTH AFRICA": 5,
+  "CHINA": 27,
+  "SPAIN": 2,
+  "SWEDEN": 3,
+  "KOREA": 2,
+  "SOUTH KOREA": 2,
+  "TAIWAN": 11,
+  "NETHERLANDS": 25,
+  "EGYPT": 1,
+  "null": 14,
+  "USA": 27,
+  "KAZAKHSTAN": 1,
+  "GERMANY": 4,
+  "NOT COLLECTED": 1,
+  "UNITED KINGDOM": 2,
+  "NORWAY": 1,
+  "NOT DETERMINED": 2,
+  "HONG KONG": 1,
+  "LEBANON": 8,
+  "FRANCE": 1,
+  "JAPAN": 24,
+  "RUSSIA": 1,
+  "AUSTRALIA": 6,
+  "POLAND": 2
+ },
  "hosts": {
-  "HOMO SAPIENS": 131,
-  "NOT AVAILABLE": 3
+  "NOT AVAILABLE": 3,
+  "HUMAN": 174
+ },
+ "hosts_diseases": {
+  "HEALTHY": 1,
+  "BACTERIAL PNEUMONIA": 1,
+  "INFECTIVE ENDOCARDITIS": 1,
+  "PNEUMONIA": 5,
+  "HEALTH": 14,
+  "ASYMPTOMATIC CONDITION": 9,
+  "NONE": 1,
+  "COMMUNITY ACQUIRED PNEUMONIA": 3,
+  "BACTERIAL SEPSIS": 1,
+  "MENINGITIS": 2,
+  "INVASIVE PNEUMOCOCCAL DISEASE": 4,
+  "ENDOCARDITITS": 1,
+  "EYE INFECTION": 1,
+  "OTITIS MEDIA": 1,
+  "null": 118,
+  "NASOPHARYNGEAL COLONIZATION": 1,
+  "NOT COLLECTED": 4,
+  "PLEURITIS": 1,
+  "BACTERAEMIA": 1,
+  "BACTEREMIA": 2,
+  "INFECTION": 1,
+  "PNEUMONIA, MENINGITIS": 1,
+  "ASYMPTOMATIC": 1,
+  "ENDOCARDITIS": 2
  }
 }

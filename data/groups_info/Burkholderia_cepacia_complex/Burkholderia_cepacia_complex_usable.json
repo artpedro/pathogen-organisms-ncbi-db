@@ -1,14 +1,16 @@
 [
  {
-  "Burkholderia_cepacia_complex": "PDG000000094.62",
-  "date": "Thu Oct 19 21:08:50 2023"
+  "Burkholderia_cepacia_complex": "PDG000000094.99",
+  "date": "Wed May 15 22:19:14 2024"
  },
  {
   "asm_acc": "GCA_001411495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04167160",
   "collection_date": "1948",
+  "geo_loc_name": null,
   "host": "ALLIUM CEPA (ONION)",
+  "host_disease": null,
   "scientific_name": "Burkholderia cepacia ATCC 25416",
   "strain": "UCB 717"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03323790",
   "collection_date": "1997",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "CEPACIA SYNDROME",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "ST32"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04570263",
   "collection_date": "2014-04-27",
+  "geo_loc_name": "MALAYSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NASAL INFLAMMATION",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "842"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04574071",
   "collection_date": "2014-08-17",
+  "geo_loc_name": "MALAYSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL INFECTION",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "895"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03449401",
   "collection_date": "1999",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "AU1185"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03449402",
   "collection_date": "1999",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "AU1233"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03449404",
   "collection_date": "2009",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia latens",
   "strain": null
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05367054",
   "collection_date": "1993",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia stabilis",
   "strain": "ATCC BAA-67"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05001925",
   "collection_date": "1996-09-10",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "VC7848"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05001933",
   "collection_date": "2005-03-27",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "VC12802"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05001912",
   "collection_date": "2004-03-23",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "VC12308"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05756084",
   "collection_date": "2013-07-18",
+  "geo_loc_name": "CANADA",
   "host": "CORN",
+  "host_disease": null,
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "CR318"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173358",
   "collection_date": "1948",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Burkholderia cepacia",
   "strain": "FDAARGOS_345"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312432",
   "collection_date": "1948",
+  "geo_loc_name": null,
   "host": "ONION",
+  "host_disease": null,
   "scientific_name": "Burkholderia cepacia",
   "strain": "FDAARGOS_388"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05004748",
   "collection_date": "2011",
+  "geo_loc_name": null,
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "FDAARGOS_239"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05004755",
   "collection_date": "2013",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION WITH BURKHOLDERIA MULTIVORANS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_246"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06842015",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "PC184 Mulks"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042342",
   "collection_date": "2016-05-07",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CEPACIA SYNDROME",
   "scientific_name": "Burkholderia lata",
   "strain": "A05"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163240",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_547"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163241",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_548"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163186",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia dolosa",
   "strain": "FDAARGOS_562"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10081159",
   "collection_date": "2017-04",
+  "geo_loc_name": "CHINA",
   "host": "POPULUS",
+  "host_disease": null,
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "YG-3"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056338",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_623"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056337",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_622"
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056434",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_719"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056441",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_726"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056437",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "FDAARGOS_722"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14693155",
   "collection_date": "1998",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "K56-2"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08724754",
   "collection_date": "2014-04-08",
+  "geo_loc_name": "LAOS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia cepacia",
   "strain": "39628"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18497774",
   "collection_date": "1998",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia latens",
   "strain": "AU0505"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18497773",
   "collection_date": "2001",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia latens",
   "strain": "AU2934"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839524",
   "collection_date": "2018-02-02",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "toggle2"
  },
@@ -296,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839523",
   "collection_date": "2018-01-23",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia contaminans",
   "strain": "toggle1"
  },
@@ -305,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839526",
   "collection_date": "2018-08-03",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "toggle4"
  },
@@ -314,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839525",
   "collection_date": "2018-02-22",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "toggle3"
  },
@@ -323,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982457",
   "collection_date": "2021-03-12",
+  "geo_loc_name": "KAZAKHSTAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "SURGICAL PROCEDURES, OPERATIVE",
   "scientific_name": "Burkholderia contaminans",
   "strain": "SCAID TST1-2021 (11/270)"
  },
@@ -332,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056436",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "FDAARGOS_721"
  },
@@ -341,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26934490",
   "collection_date": "2007-10-10",
+  "geo_loc_name": "NOT COLLECTED",
   "host": "POPLAR",
+  "host_disease": null,
   "scientific_name": "Burkholderia pyrrocinia",
   "strain": "JK-SH007"
  },
@@ -350,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876244",
   "collection_date": "2011-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P2Bm2011a"
  },
@@ -359,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876243",
   "collection_date": "2015-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P1Bm2015"
  },
@@ -368,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876242",
   "collection_date": "2014-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P1Bm2014"
  },
@@ -377,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876240",
   "collection_date": "2012-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P1Bm2012b"
  },
@@ -386,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876238",
   "collection_date": "2011-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P1Bm2011b"
  },
@@ -395,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876237",
   "collection_date": "2011-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P1Bm2011a"
  },
@@ -404,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876236",
   "collection_date": "2009-01-01",
+  "geo_loc_name": "BELGIUM",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia multivorans",
   "strain": "P1Bm2009"
  },
@@ -413,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27545478",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "RICE",
+  "host_disease": null,
   "scientific_name": "Burkholderia cepacia",
   "strain": "BRDJ"
  },
@@ -422,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348567",
   "collection_date": "2007",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2007Ycf278"
  },
@@ -431,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348566",
   "collection_date": "2006",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2006Ycf877"
  },
@@ -440,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348565",
   "collection_date": "2005",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2005Ycf971III"
  },
@@ -449,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348562",
   "collection_date": "2004",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2004Ycf1069VI"
  },
@@ -458,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348560",
   "collection_date": "2003",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "2003Ycf867"
  },
@@ -467,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348620",
   "collection_date": "2020",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2020Y71628512IV"
  },
@@ -476,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348617",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "2019Y71443953II"
  },
@@ -485,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348615",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2019Y71421880II"
  },
@@ -494,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348614",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2019Y71417852IX"
  },
@@ -503,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348612",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2019Y60005016V"
  },
@@ -512,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348609",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2017Y71087112III"
  },
@@ -521,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348608",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2017Y71079786"
  },
@@ -530,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348607",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2017Y71078597II"
  },
@@ -539,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348603",
   "collection_date": "2017",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia cepacia",
   "strain": "2017Y70952565VI"
  },
@@ -548,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348601",
   "collection_date": "2016",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2016Y70910410I"
  },
@@ -557,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348600",
   "collection_date": "2016",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2016Y70888756VI"
  },
@@ -566,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348598",
   "collection_date": "2016",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2016Y70836300"
  },
@@ -575,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348594",
   "collection_date": "2015",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2015Y70629342III"
  },
@@ -584,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348593",
   "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2014Y70532416II"
  },
@@ -593,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348592",
   "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2014Y70522077"
  },
@@ -602,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348591",
   "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2014Y70518672I"
  },
@@ -611,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348590",
   "collection_date": "2014",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2014Y70439247"
  },
@@ -620,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348582",
   "collection_date": "2011",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia cepacia",
   "strain": "2011Ycf793I"
  },
@@ -629,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348581",
   "collection_date": "2011",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2011Ycf521III"
  },
@@ -638,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348580",
   "collection_date": "2011",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia cepacia",
   "strain": "2011Ycf427V"
  },
@@ -647,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348578",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2010Ycf635"
  },
@@ -656,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348577",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2010Ycf576V"
  },
@@ -665,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348576",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2010Ycf503"
  },
@@ -674,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348575",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2010Ycf41"
  },
@@ -683,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348574",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2010Ycf31III"
  },
@@ -692,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348572",
   "collection_date": "2009",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "2009Ycf95III"
  },
@@ -701,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348570",
   "collection_date": "2008",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "2008Ycf657"
  },
@@ -710,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348569",
   "collection_date": "2008",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2008Ycf542"
  },
@@ -719,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348568",
   "collection_date": "2007",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Burkholderia multivorans",
   "strain": "2007Ycf875II"
  },
@@ -728,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271629",
   "collection_date": "2018",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "NML180963"
  },
@@ -737,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271628",
   "collection_date": "2015",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia contaminans",
   "strain": "NML151013"
  },
@@ -746,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271626",
   "collection_date": "2014",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia multivorans",
   "strain": "NML140411"
  },
@@ -755,16 +921,42 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271625",
   "collection_date": "2011",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia cenocepacia",
   "strain": "NML110041"
+ },
+ {
+  "asm_acc": "GCA_026683835.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31539757",
+  "collection_date": "2001",
+  "geo_loc_name": "CANADA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Burkholderia ambifaria",
+  "strain": "CEP0996"
+ },
+ {
+  "asm_acc": "GCA_026683855.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31539755",
+  "collection_date": "2008",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN CF",
+  "host_disease": null,
+  "scientific_name": "Burkholderia ambifaria",
+  "strain": "HSJ1"
  },
  {
   "asm_acc": "GCA_029590335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33824436",
   "collection_date": "2018",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Burkholderia contaminans",
   "strain": "5080"
  },
@@ -773,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24289056",
   "collection_date": "2005",
+  "geo_loc_name": "ARGENTINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia contaminans",
   "strain": "FFH2055"
  },
@@ -782,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24289055",
   "collection_date": "2000",
+  "geo_loc_name": "SPAIN",
   "host": "SHEEP",
+  "host_disease": "MASTITIS",
   "scientific_name": "Burkholderia contaminans",
   "strain": "LMG 23361"
  },
@@ -791,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18838426",
   "collection_date": "2020-12-22",
+  "geo_loc_name": "CHINA",
   "host": "PLECTROCNEMIA",
+  "host_disease": null,
   "scientific_name": "Burkholderia cepacia",
   "strain": "ZJ1"
  },
@@ -800,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33830059",
   "collection_date": "1993-04-05",
+  "geo_loc_name": "SWEDEN",
   "host": "HOMO SAPIENS",
+  "host_disease": "CYSTIC FIBROSIS",
   "scientific_name": "Burkholderia vietnamiensis",
   "strain": "LMG16232"
  },
@@ -809,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31055413",
   "collection_date": "2021-10-20",
+  "geo_loc_name": "USA",
   "host": "SORGHUM BICOLOR",
+  "host_disease": null,
   "scientific_name": "Burkholderia anthina",
   "strain": "SO82"
  },
@@ -818,8 +1020,65 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36815367",
   "collection_date": "2021-04",
+  "geo_loc_name": "VIET NAM",
   "host": "HOMO SAPIENS",
+  "host_disease": "STROKE",
   "scientific_name": "Burkholderia dolosa",
   "strain": "N149"
+ },
+ {
+  "asm_acc": "GCA_033675325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08724755",
+  "collection_date": "2010-10-20",
+  "geo_loc_name": "THAILAND",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Burkholderia cepacia",
+  "strain": "10223"
+ },
+ {
+  "asm_acc": "GCA_036352035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38122035",
+  "collection_date": "2023-10-22",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "2023CK-01339"
+ },
+ {
+  "asm_acc": "GCA_036362805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39644999",
+  "collection_date": "2021-03",
+  "geo_loc_name": "VIET NAM",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Burkholderia multivorans",
+  "strain": "N167"
+ },
+ {
+  "asm_acc": "GCA_038723655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN31305798",
+  "collection_date": "2022-05-10",
+  "geo_loc_name": "CHINA",
+  "host": "PANAX NOTOGINSENG",
+  "host_disease": null,
+  "scientific_name": "Burkholderia arboris",
+  "strain": "PN-1"
+ },
+ {
+  "asm_acc": "GCA_038782865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41003259",
+  "collection_date": "2022-07",
+  "geo_loc_name": "CHINA",
+  "host": "ATRACTYLODES LANCEA",
+  "host_disease": null,
+  "scientific_name": "Burkholderia ambifaria",
+  "strain": "CF3"
  }
 ]

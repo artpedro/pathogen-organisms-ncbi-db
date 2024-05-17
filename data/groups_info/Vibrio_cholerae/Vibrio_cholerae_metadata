@@ -1,34 +1,64 @@
 {
  "group": "Vibrio_cholerae",
- "count": 41,
+ "count": 43,
  "species": {
   "Vibrio mimicus": 3,
-  "Vibrio cholerae": 37,
+  "Vibrio cholerae": 39,
   "Vibrio metoecus": 1
  },
  "subsp.": {},
  "scientific_name": {
-  "Vibrio cholerae O1 biovar El Tor": 6,
-  "Vibrio cholerae C6706": 1,
-  "Vibrio mimicus": 3,
-  "Vibrio cholerae O1 str. 2010EL-1786": 1,
-  "Vibrio cholerae": 26,
+  "Vibrio cholerae": 28,
+  "Vibrio metoecus": 1,
   "Vibrio cholerae H1": 1,
+  "Vibrio cholerae O1 biovar El Tor": 6,
+  "Vibrio mimicus": 3,
+  "Vibrio cholerae C6706": 1,
   "Vibrio cholerae O37": 1,
   "Vibrio cholerae MO10": 1,
-  "Vibrio metoecus": 1
+  "Vibrio cholerae O1 str. 2010EL-1786": 1
  },
  "strain": {
   "E7946": 2,
-  "A1552": 4,
-  "null": 3
+  "null": 3,
+  "A1552": 4
+ },
+ "location": {
+  "VIET NAM": 1,
+  "THAILAND": 1,
+  "DEMOCRATIC REPUBLIC OF THE CONGO": 2,
+  "HAITI": 4,
+  "BANGLADESH": 7,
+  "BAHRAIN": 2,
+  "null": 1,
+  "LEBANON": 2,
+  "PERU": 4,
+  "YEMEN": 2,
+  "USA": 5,
+  "INDIA": 1,
+  "SOUTH KOREA": 1,
+  "CZECHOSLOVAKIA": 1,
+  "GERMANY": 1,
+  "CHINA": 7,
+  "AUSTRALIA": 1
  },
  "hosts": {
-  "MACROBRACHIUM NIPPONENSE": 1,
-  "ENVIRONMENT": 1,
+  "PROCAMBARUS CLARKII": 1,
+  "HUMAN": 32,
   "FISH": 2,
+  "MACROBRACHIUM NIPPONENSE": 1,
+  "MASTACEMBELUS": 1,
   "MACROBRACHIUM ROSENBERGII": 1,
-  "NOT AVAILABLE": 4,
-  "HOMO SAPIENS": 32
+  "ENVIRONMENT": 1,
+  "NOT AVAILABLE": 4
+ },
+ "hosts_diseases": {
+  "CHOLERA": 16,
+  "INFECTION WITH VIBRIO CHOLERAE": 1,
+  "null": 21,
+  "FOOD POISONING": 1,
+  "DIARHEAL": 1,
+  "DIARRHEA": 2,
+  "GASTROENTERITIS/CHOLERA": 1
  }
 }

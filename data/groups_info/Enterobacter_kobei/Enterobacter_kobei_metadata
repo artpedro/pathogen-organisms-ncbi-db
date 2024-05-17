@@ -9,8 +9,21 @@
   "Enterobacter kobei": 14
  },
  "strain": {},
+ "location": {
+  "ITALY": 1,
+  "USA": 1,
+  "JAPAN": 1,
+  "CHINA": 9,
+  "AUSTRALIA": 1,
+  "UNITED KINGDOM": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 13,
-  "CHICKEN": 1
+  "CHICKEN": 1,
+  "HUMAN": 13
+ },
+ "hosts_diseases": {
+  "NOT COLLECTED": 1,
+  "null": 12,
+  "BACTERIAL INFECTION": 1
  }
 }

@@ -9,7 +9,13 @@
   "Pluralibacter gergoviae": 1
  },
  "strain": {},
+ "location": {
+  "USA": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 1
+  "HUMAN": 1
+ },
+ "hosts_diseases": {
+  "COLONIZATION": 1
  }
 }

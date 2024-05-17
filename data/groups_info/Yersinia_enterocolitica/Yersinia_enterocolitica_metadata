@@ -1,23 +1,35 @@
 {
  "group": "Yersinia_enterocolitica",
- "count": 6,
+ "count": 18,
  "species": {
-  "Yersinia enterocolitica": 6
+  "Yersinia enterocolitica": 18
  },
  "subsp.": {
-  "Yersinia enterocolitica subsp. palearctica": 2,
-  "Yersinia enterocolitica subsp. enterocolitica": 2
+  "Yersinia enterocolitica subsp. enterocolitica": 2,
+  "Yersinia enterocolitica subsp. palearctica": 2
  },
  "scientific_name": {
-  "Yersinia enterocolitica subsp. palearctica": 2,
   "Yersinia enterocolitica subsp. enterocolitica": 2,
+  "Yersinia enterocolitica": 13,
   "Yersinia enterocolitica (type O:5) str. YE53/03": 1,
-  "Yersinia enterocolitica": 1
+  "Yersinia enterocolitica subsp. palearctica": 2
  },
  "strain": {},
+ "location": {
+  "BELGIUM": 1,
+  "GERMANY": 14,
+  "null": 3
+ },
  "hosts": {
-  "HOMO SAPIENS": 4,
+  "MELES MELES": 1,
+  "VULPES VULPES": 4,
+  "PROCYON LOTOR": 7,
+  "HUMAN": 4,
   "NOT AVAILABLE: NOT COLLECTED": 1,
   "NOT AVAILABLE": 1
+ },
+ "hosts_diseases": {
+  "null": 17,
+  "YERSINIOSIS": 1
  }
 }

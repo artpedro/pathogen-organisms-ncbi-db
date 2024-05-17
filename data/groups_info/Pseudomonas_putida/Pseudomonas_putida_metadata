@@ -1,26 +1,45 @@
 {
  "group": "Pseudomonas_putida",
- "count": 18,
+ "count": 19,
  "species": {
-  "Pseudomonas putida": 18
+  "Pseudomonas putida": 19
  },
  "subsp.": {},
  "scientific_name": {
-  "Pseudomonas putida": 17,
+  "Pseudomonas putida": 18,
   "Pseudomonas putida HB3267": 1
  },
  "strain": {},
+ "location": {
+  "CANADA": 1,
+  "THAILAND": 1,
+  "UZBEKISTAN": 1,
+  "null": 2,
+  "PAKISTAN": 1,
+  "USA": 2,
+  "FRANCE": 1,
+  "SOUTH KOREA": 1,
+  "CHINA": 9
+ },
  "hosts": {
+  "PYRUS COMMUNIS 'WILLIAMS'": 1,
   "TOMATO PLANT": 1,
   "PISTACIA CHINENSIS BUNGE": 1,
-  "NOT AVAILABLE": 1,
+  "STRAWBERRY": 1,
+  "HUMAN": 8,
   "ZEA MAYS": 1,
-  "PYRUS COMMUNIS 'WILLIAMS'": 1,
-  "HOMO SAPIENS": 7,
+  "NOT COLLECTED": 2,
   "UROCHLOA REPTANS": 1,
   "MEDICAGO SATIVA": 1,
-  "NOT COLLECTED": 2,
-  "STRAWBERRY": 1,
+  "NOT AVAILABLE": 1,
   "DIOSCOREA SANSIBARENSIS": 1
+ },
+ "hosts_diseases": {
+  "INFECTION": 1,
+  "URINARY TRACT INFECTION": 1,
+  "null": 14,
+  "UNKNOW": 1,
+  "PULMONARY INFECTION": 1,
+  "DIARRHEA": 1
  }
 }

@@ -1,17 +1,27 @@
 {
  "group": "Listeria_innocua",
- "count": 5,
+ "count": 6,
  "species": {
-  "Listeria innocua": 5
+  "Listeria innocua": 6
  },
  "subsp.": {},
  "scientific_name": {
-  "Listeria innocua": 5
+  "Listeria innocua": 6
  },
  "strain": {},
+ "location": {
+  "GERMANY": 1,
+  "USA": 4,
+  "NOT AVAILABLE": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 3,
-  "BOVINE": 1,
+  "NYCTEREUTES PROCYONOIDES": 1,
+  "SHEEP": 1,
+  "NOT AVAILABLE": 1,
+  "HUMAN": 3
+ },
+ "hosts_diseases": {
+  "null": 5,
   "NOT AVAILABLE": 1
  }
 }

@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_bugandensis": "PDG000000111.21",
-  "date": "Thu Oct 19 21:09:11 2023"
+  "Enterobacter_bugandensis": "PDG000000111.57",
+  "date": "Wed May 15 22:22:26 2024"
  },
  {
   "asm_acc": "GCA_900324475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104711314",
   "collection_date": "2010-01-05",
+  "geo_loc_name": "TANZANIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter bugandensis",
   "strain": null
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349924",
   "collection_date": "2019-01-15",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "COLONIZED",
   "scientific_name": "Enterobacter bugandensis",
   "strain": "220"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349925",
   "collection_date": "2011-01-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOOD-STREAM INFECTION",
   "scientific_name": "Enterobacter bugandensis",
   "strain": "1367"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27966081",
   "collection_date": "missing",
+  "geo_loc_name": "CHINA",
   "host": "NOT PROVIDED",
+  "host_disease": null,
   "scientific_name": "Enterobacter bugandensis",
   "strain": "CMCC(B)45301"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31713467",
   "collection_date": "2011",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY",
   "scientific_name": "Enterobacter bugandensis",
   "strain": "E105227"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31713468",
   "collection_date": "2011",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY",
   "scientific_name": "Enterobacter bugandensis",
   "strain": "E104107"
  },
@@ -62,8 +74,21 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298527",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter bugandensis",
   "strain": "31A:C"
+ },
+ {
+  "asm_acc": "GCA_037008945.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40254320",
+  "collection_date": "2024-02-10",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter bugandensis",
+  "strain": "2024CK-00243"
  }
 ]

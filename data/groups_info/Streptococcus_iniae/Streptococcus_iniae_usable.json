@@ -1,14 +1,16 @@
 [
  {
-  "Streptococcus_iniae": "PDG000000085.13",
-  "date": "Thu Oct 19 21:11:44 2023"
+  "Streptococcus_iniae": "PDG000000085.16",
+  "date": "Wed May 15 22:36:06 2024"
  },
  {
   "asm_acc": "GCA_001885145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05967356",
   "collection_date": "2000",
+  "geo_loc_name": "TAIWAN",
   "host": "OREOCHROMIS NILOTICUS",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "89353"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909305",
   "collection_date": "2009-03",
+  "geo_loc_name": "AUSTRALIA",
   "host": "LATES CALCARIFER",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "QMA0248"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07962172",
   "collection_date": "2005",
+  "geo_loc_name": "KOREA",
   "host": "PARALICHTHYS OLIVACEUS",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "FP5228"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10067964",
   "collection_date": "2006-06",
+  "geo_loc_name": "CHINA",
   "host": "TILAPIA",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "GX005"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10067963",
   "collection_date": "2008-08",
+  "geo_loc_name": "CHINA",
   "host": "TILAPIA",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "YM011"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34895452",
   "collection_date": "2022-05-24",
+  "geo_loc_name": "CHINA",
   "host": "SELENOTOCA MULTIFASCIATA",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "DFSM220524"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32967000",
   "collection_date": "2021-10-07",
+  "geo_loc_name": "CHINA",
   "host": "SELENOTOCA MULTIFASCIATA",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "LSSM211007SI"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36835238",
   "collection_date": "2015-07",
+  "geo_loc_name": "CHINA",
   "host": "TRACHINOTUS OVATUS",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "BH15-2"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36835239",
   "collection_date": "2016-07",
+  "geo_loc_name": "CHINA",
   "host": "TRACHINOTUS OVATUS",
+  "host_disease": null,
   "scientific_name": "Streptococcus iniae",
   "strain": "BH16-24"
  }

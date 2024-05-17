@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_harveyi": "PDG000000083.52",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Vibrio_harveyi": "PDG000000083.68",
+  "date": "Wed May 15 22:37:56 2024"
  },
  {
   "Vibrio_harveyi": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996323",
   "collection_date": null,
+  "geo_loc_name": "BAHAMAS",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio harveyi",
   "strain": "FDAARGOS_107",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_001558435.2"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_001558435.2"
  },
  {
   "Vibrio_harveyi": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06041746",
   "collection_date": "2016-06-02",
+  "geo_loc_name": "CHINA",
   "host": "TRACHINOTUS OVATUS",
+  "host_disease": null,
   "scientific_name": "Vibrio harveyi",
   "strain": "QT520",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_001908435.2"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_001908435.2"
  },
  {
   "Vibrio_harveyi": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06229929",
   "collection_date": "2012",
+  "geo_loc_name": "CHINA",
   "host": "CAGE-CULTURED RED DRUM",
+  "host_disease": null,
   "scientific_name": "Vibrio campbellii",
   "strain": "LMB29",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_001969325.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_001969325.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06310879",
   "collection_date": "2013-06",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio campbellii",
   "strain": "20130629003S01",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_002140055.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_002140055.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909310",
   "collection_date": "2016-02",
+  "geo_loc_name": "ECUADOR",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio campbellii",
   "strain": "LA16-V1",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_002142655.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_002142655.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09874067",
   "collection_date": "2017-05-02",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio campbellii",
   "strain": "170502",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_003691485.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_003691485.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26209916",
   "collection_date": "2021-06",
+  "geo_loc_name": "HONG KONG",
   "host": "HIPPOCAMPUS KUDA",
+  "host_disease": null,
   "scientific_name": "Vibrio campbellii",
   "strain": "IFL1",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_022453845.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_022453845.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20353411",
   "collection_date": "2018-06-10",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio harveyi",
   "strain": "1",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_024971935.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_024971935.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32983302",
   "collection_date": "2005",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PARALICHTHYS OLIVACEUS",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "VH21FL",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028551315.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028551315.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33268490",
   "collection_date": "2022-04-13",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio campbellii",
   "strain": "20220413_1",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028743655.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028743655.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33278202",
   "collection_date": "2018-06-16",
+  "geo_loc_name": "CROATIA",
   "host": "DICENTRARCHUS LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "A2",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028885545.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028885545.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33278197",
   "collection_date": "2019-08-17",
+  "geo_loc_name": "CROATIA",
   "host": "DICENTRARCHUS LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "160-19",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028885585.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028885585.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33269782",
   "collection_date": "2017-07-05",
+  "geo_loc_name": "CROATIA",
   "host": "DICENTRARCHUS LABRAX",
+  "host_disease": null,
   "scientific_name": "Vibrio harveyi",
   "strain": "94/17",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028885605.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028885605.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330963",
   "collection_date": "2018-06-16",
+  "geo_loc_name": "CROATIA",
   "host": "D. LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish1",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898625.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898625.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330966",
   "collection_date": "2018-08-12",
+  "geo_loc_name": "FRANCE",
   "host": "D. LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish4",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898645.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898645.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330964",
   "collection_date": "2018-06-15",
+  "geo_loc_name": "SPAIN",
   "host": "S. AURATA",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish2",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898665.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898665.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330965",
   "collection_date": "2018-07-14",
+  "geo_loc_name": "TUNISIA",
   "host": "D. LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish3",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898685.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898685.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330972",
   "collection_date": "2018-09-12",
+  "geo_loc_name": "ITALY",
   "host": "D. LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish10",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898705.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898705.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330968",
   "collection_date": "2019-06-09",
+  "geo_loc_name": "ITALY",
   "host": "D. LABRAX",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish6",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898725.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898725.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330974",
   "collection_date": "2018-07-04",
+  "geo_loc_name": "TURKEY",
   "host": "S. AURATA",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish12",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898745.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898745.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33330967",
   "collection_date": "2018-06-08",
+  "geo_loc_name": "FRANCE",
   "host": "S. AURATA",
+  "host_disease": "VIBRIOSIS",
   "scientific_name": "Vibrio harveyi",
   "strain": "fish5",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_028898825.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_028898825.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35083898",
   "collection_date": "2020",
+  "geo_loc_name": "INDIA",
   "host": "VIBRIOSIS AFFECTED ASIAN SEABASS (LATES CALCARIFER) FINGERLING",
+  "host_disease": null,
   "scientific_name": "Vibrio harveyi",
   "strain": "SB1",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_030060435.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_030060435.1"
  },
  {
   "Vibrio_harveyi": null,
@@ -274,9 +318,25 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32755641",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CARIBBEAN SPINY LOBSTER",
+  "host_disease": null,
   "scientific_name": "Vibrio harveyi",
   "strain": "K2014767",
-  "fasta": "data/groups_info/Vibrio_harveyi/GCA_030388405.1"
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_030388405.1"
+ },
+ {
+  "Vibrio_harveyi": null,
+  "date": null,
+  "asm_acc": "GCA_037997145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39457808",
+  "collection_date": "2020-09",
+  "geo_loc_name": "CHINA",
+  "host": "LATEOLABRAX MACULATUS",
+  "host_disease": null,
+  "scientific_name": "Vibrio harveyi",
+  "strain": "NH-LM1",
+  "fasta": "data\\groups_info\\Vibrio_harveyi\\GCA_037997145.1"
  }
 ]

@@ -13,9 +13,18 @@
   "Treponema pallidum subsp. pertenue": 4
  },
  "strain": {},
+ "location": {
+  "TANZANIA": 4,
+  "CHINA": 1,
+  "USA": 6
+ },
  "hosts": {
-  "HOMO SAPIENS": 7,
   "PAPIO ANUBIS": 3,
-  "CHLOROCEBUS PYGERYTHRUS": 1
+  "CHLOROCEBUS PYGERYTHRUS": 1,
+  "HUMAN": 7
+ },
+ "hosts_diseases": {
+  "ANOGENITAL LESION": 4,
+  "SYPHILIS": 7
  }
 }

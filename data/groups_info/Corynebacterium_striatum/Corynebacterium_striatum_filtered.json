@@ -1,7 +1,7 @@
 [
  {
-  "Corynebacterium_striatum": "PDG000000064.59",
-  "date": "Thu Oct 19 21:32:30 2023"
+  "Corynebacterium_striatum": "PDG000000064.71",
+  "date": "Wed May 15 22:37:50 2024"
  },
  {
   "Corynebacterium_striatum": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03177398",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Corynebacterium singulare",
   "strain": "IBS B52218",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_000833575.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_000833575.1"
  },
  {
   "Corynebacterium_striatum": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07109493",
   "collection_date": "2017-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
+  "host_disease": null,
   "scientific_name": "Corynebacterium striatum",
   "strain": "KC-Na-01",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_002156805.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_002156805.1"
  },
  {
   "Corynebacterium_striatum": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05374476",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Corynebacterium striatum",
   "strain": "215",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_002803965.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_002803965.1"
  },
  {
   "Corynebacterium_striatum": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05178544",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Corynebacterium striatum",
   "strain": "216",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_002804085.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_002804085.1"
  },
  {
   "Corynebacterium_striatum": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4030732",
   "collection_date": "1900/1962",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Corynebacterium minutissimum",
   "strain": "NCTC10288",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_900478045.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_900478045.1"
  },
  {
   "Corynebacterium_striatum": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017705",
   "collection_date": "1900/1963",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Corynebacterium minutissimum",
   "strain": "NCTC10285",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_900637065.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_900637065.1"
  },
  {
   "Corynebacterium_striatum": null,
@@ -82,9 +94,11 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13404510",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Corynebacterium aurimucosum",
   "strain": "DSM 44532",
-  "fasta": "data/groups_info/Corynebacterium_striatum/GCA_030408555.1"
+  "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_030408555.1"
  }
 ]

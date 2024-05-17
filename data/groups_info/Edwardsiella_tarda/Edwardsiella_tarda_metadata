@@ -10,11 +10,24 @@
   "Edwardsiella tarda": 6
  },
  "strain": {},
+ "location": {
+  "USA": 6,
+  "SOUTH KOREA": 1
+ },
  "hosts": {
-  "MORONE CHRYSOPS X MORONE SAXATILIS": 1,
-  "PSEUDORCA CRASSIDENS": 1,
   "ICTALURUS PUNCTATUS": 3,
-  "HOMO SAPIENS": 1,
-  "OREOCHROMIS NILOTICUS": 1
+  "MORONE CHRYSOPS X MORONE SAXATILIS": 1,
+  "OREOCHROMIS NILOTICUS": 1,
+  "HUMAN": 1,
+  "PSEUDORCA CRASSIDENS": 1
+ },
+ "hosts_diseases": {
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1
  }
 }

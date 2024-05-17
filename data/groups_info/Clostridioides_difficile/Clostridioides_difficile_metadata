@@ -1,31 +1,73 @@
 {
  "group": "Clostridioides_difficile",
- "count": 94,
+ "count": 158,
  "species": {
-  "Clostridioides difficile": 90,
-  "Paeniclostridium sordellii": 1,
+  "Paraclostridium sordellii": 6,
+  "Intestinibacter bartlettii": 1,
+  "Paraclostridium bifermentans": 1,
   "Peptacetobacter hiranonis": 2,
-  "Paraclostridium bifermentans": 1
+  "Clostridioides difficile": 148
  },
  "subsp.": {},
  "scientific_name": {
-  "Clostridioides difficile": 86,
-  "Paeniclostridium sordellii": 1,
   "Clostridioides difficile 630": 1,
-  "Peptacetobacter hiranonis": 2,
-  "Clostridioides difficile ATCC 9689 = DSM 1296": 1,
+  "Paraclostridium sordellii": 6,
+  "Intestinibacter bartlettii": 1,
   "Clostridioides difficile R20291": 2,
-  "Paraclostridium bifermentans": 1
+  "Clostridioides difficile ATCC 9689 = DSM 1296": 1,
+  "Paraclostridium bifermentans": 1,
+  "Peptacetobacter hiranonis": 2,
+  "Clostridioides difficile": 144
  },
  "strain": {
   "null": 3,
   "R20291": 2
  },
+ "location": {
+  "CANADA": 2,
+  "BELGIUM": 1,
+  "TAIWAN": 1,
+  "THAILAND": 1,
+  "NETHERLANDS": 2,
+  "INDONESIA": 5,
+  "NEW ZEALAND": 1,
+  "null": 3,
+  "GHANA": 4,
+  "AUSTRALIA": 3,
+  "SWITZERLAND": 1,
+  "USA": 35,
+  "JAPAN": 1,
+  "SOUTH KOREA": 56,
+  "GERMANY": 28,
+  "CHINA": 9,
+  "UNITED KINGDOM": 5
+ },
  "hosts": {
-  "ENVIRONMENT": 1,
-  "DOG": 1,
-  "HOMO SAPIENS": 90,
+  "MELES MELES": 1,
+  "VULPES VULPES": 3,
+  "PROCYON LOTOR": 1,
+  "TRICHECHUS MANATUS": 1,
+  "HUMAN": 127,
   "PIG": 1,
-  "TRICHECHUS MANATUS": 1
+  "DOG": 23,
+  "ENVIRONMENT": 1
+ },
+ "hosts_diseases": {
+  "NOPE": 1,
+  "CLOSTRIDIUM DIFFICILE": 15,
+  "CLOSTRIDIUM DIFFICILE INFECTION": 4,
+  "CROHN'S DISEASE": 1,
+  "CLOSTRIDIOIDES DIFFICILE INFECTION": 7,
+  "ACUTE DIARRHEA": 1,
+  "null": 107,
+  "C. DIFFICILE INFECTION": 5,
+  "HEALTHY": 1,
+  "CLOSTRIDIUM DIFFICILE-ASSOCIATED DIARRHEA": 1,
+  "BLOOD SEPSIS": 1,
+  "DIARRHEA CAUSED BY CLOSTRIDIUM DIFFICILE": 3,
+  "ENTEROCOLITIS, PSEUDOMEMBRANOUS": 1,
+  "RESTRICTED": 8,
+  "CLOSTRIDIUM DIFFICILE COLITIS": 1,
+  "DIARRHEA": 1
  }
 }

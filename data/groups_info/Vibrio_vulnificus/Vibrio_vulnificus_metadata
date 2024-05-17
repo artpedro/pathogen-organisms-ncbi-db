@@ -1,20 +1,43 @@
 {
  "group": "Vibrio_vulnificus",
- "count": 14,
+ "count": 15,
  "species": {
+  "Vibrio navarrensis": 1,
   "Vibrio vulnificus": 14
  },
  "subsp.": {},
  "scientific_name": {
+  "Vibrio navarrensis": 1,
   "Vibrio vulnificus": 14
  },
  "strain": {},
+ "location": {
+  "SPAIN": 1,
+  "USA": 2,
+  "JAPAN": 1,
+  "SOUTH KOREA": 6,
+  "GERMANY": 1,
+  "CHINA": 3,
+  "TAIWAN": 1
+ },
  "hosts": {
+  "HUMAN": 10,
   "OREOCHROMIS": 1,
   "SHRIMP": 1,
   "ANGUILLA ANGUILLA": 1,
   "ANGUILLA BICOLOR": 1,
-  "HOMO SAPIENS": 9,
   "MYA ARENARIA OONOGAI MAKIYAMA": 1
+ },
+ "hosts_diseases": {
+  "VIBRIO INFECTION": 1,
+  "WOUND INFECTION": 1,
+  "UNKOWN": 1,
+  "RASH": 1,
+  "null": 6,
+  "VIBRIO GASTROENTERITIS": 1,
+  "FOOD POISONING": 1,
+  "GASTROENTERITIDIS": 1,
+  "NECROTIZING FASCIITIS": 1,
+  "HEPATITIS B VIRUS CIRRHOSIS": 1
  }
 }

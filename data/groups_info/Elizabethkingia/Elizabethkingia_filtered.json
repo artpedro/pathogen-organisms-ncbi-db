@@ -1,7 +1,7 @@
 [
  {
-  "Elizabethkingia": "PDG000000014.136",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Elizabethkingia": "PDG000000014.157",
+  "date": "Wed May 15 22:37:50 2024"
  },
  {
   "Elizabethkingia": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470679",
   "collection_date": "2010-08",
+  "geo_loc_name": "USA",
   "host": "ANOPHELES GAMBIAE",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis Ag1",
   "strain": "Ag1",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_000240095.3"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_000240095.3"
  },
  {
   "Elizabethkingia": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470988",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis NUHP1",
   "strain": "NUHP1",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_000495935.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_000495935.2"
  },
  {
   "Elizabethkingia": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04567744",
   "collection_date": "2016-02-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "CSID_3015183678",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_001596175.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_001596175.2"
  },
  {
   "Elizabethkingia": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04590540",
   "collection_date": "2016-02-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "CSID_3015183684",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_001618465.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_001618465.2"
  },
  {
   "Elizabethkingia": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04567738",
   "collection_date": "2016-02-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "CSID_3000521207",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_001618505.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_001618505.2"
  },
  {
   "Elizabethkingia": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04567745",
   "collection_date": "2016-02-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "CSID_3015183681",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_001618545.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_001618545.2"
  },
  {
   "Elizabethkingia": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04254539",
   "collection_date": "1950",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "0422",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002022025.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002022025.1"
  },
  {
   "Elizabethkingia": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05273152",
   "collection_date": "1957",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "3375",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002022065.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002022065.1"
  },
  {
   "Elizabethkingia": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05281841",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia meningoseptica",
   "strain": "G4076",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002022105.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002022105.1"
  },
  {
   "Elizabethkingia": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05281842",
   "collection_date": "1983",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia meningoseptica",
   "strain": "G4120",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002022145.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002022145.1"
  },
  {
   "Elizabethkingia": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04482265",
   "collection_date": "1979",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "E6809",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002023235.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002023235.2"
  },
  {
   "Elizabethkingia": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02470677",
   "collection_date": "2006-09",
+  "geo_loc_name": "SWEDEN",
   "host": "ANOPHELES GAMBIAE LAB COLONY",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis R26",
   "strain": "R26",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002023665.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002023665.2"
  },
  {
   "Elizabethkingia": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05255122",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "ZEA MAYS",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "JM-87",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002022045.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002022045.1"
  },
  {
   "Elizabethkingia": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05277779",
   "collection_date": "1982",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KUWAIT",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "F3201",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002022085.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002022085.1"
  },
  {
   "Elizabethkingia": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04482309",
   "collection_date": "1982",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "F3543",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002024825.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002024825.1"
  },
  {
   "Elizabethkingia": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875535",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION WITH ELIZABETHKINGIA MENINGOSEPTICA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "FDAARGOS_198",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002277995.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002277995.2"
  },
  {
   "Elizabethkingia": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07625922",
   "collection_date": "2015-07",
+  "geo_loc_name": "CHINA",
   "host": "ANOPHELES SINENSIS",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "AR4-6",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002310515.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002310515.1"
  },
  {
   "Elizabethkingia": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07625921",
   "collection_date": "2015-07",
+  "geo_loc_name": "CHINA",
   "host": "ANOPHELES SINENSIS",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "AR6-8",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002310535.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002310535.1"
  },
  {
   "Elizabethkingia": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04254555",
   "collection_date": "1949",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia meningoseptica",
   "strain": "KC1913",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002887275.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002887275.1"
  },
  {
   "Elizabethkingia": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996277",
   "collection_date": "2014-01-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "TRACHITIS",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "FDAARGOS_132",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002951395.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002951395.1"
  },
  {
   "Elizabethkingia": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996278",
   "collection_date": "2014-01-23",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "TRACHITIS",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "FDAARGOS_134",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_002951455.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_002951455.1"
  },
  {
   "Elizabethkingia": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3643315",
   "collection_date": "1958",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia meningoseptica",
   "strain": "NCTC10016",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_900475375.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_900475375.1"
  },
  {
   "Elizabethkingia": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13281618",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "296-96",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_009697265.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_009697265.1"
  },
  {
   "Elizabethkingia": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00195183",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NEPAL",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "JUNP353",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_009810215.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_009810215.1"
  },
  {
   "Elizabethkingia": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14310234",
   "collection_date": "2019-01-20",
+  "geo_loc_name": "CHINA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia meningoseptica",
   "strain": "F2",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_011612125.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_011612125.1"
  },
  {
   "Elizabethkingia": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08166467",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "SUE",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_014702245.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_014702245.1"
  },
  {
   "Elizabethkingia": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17717915",
   "collection_date": "2014-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "BLOOD INFECTION",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "SEA01",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_016838625.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_016838625.1"
  },
  {
   "Elizabethkingia": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866467",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "090-MNO-R",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_022221405.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_022221405.1"
  },
  {
   "Elizabethkingia": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866466",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "229-MNO-R",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_022221425.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_022221425.1"
  },
  {
   "Elizabethkingia": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866465",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "2008N07-201",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_022221445.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_022221445.1"
  },
  {
   "Elizabethkingia": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866464",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "2008S01-229",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_022221465.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_022221465.1"
  },
  {
   "Elizabethkingia": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866463",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "2002N07-090",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_022221485.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_022221485.1"
  },
  {
   "Elizabethkingia": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19866462",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "2002C02-176",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_022221505.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_022221505.1"
  },
  {
   "Elizabethkingia": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192332",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "367-19",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205085.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205085.1"
  },
  {
   "Elizabethkingia": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192331",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "362-2",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205105.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205105.1"
  },
  {
   "Elizabethkingia": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192330",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "356-17",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205125.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205125.1"
  },
  {
   "Elizabethkingia": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192329",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "355-58",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205145.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205145.1"
  },
  {
   "Elizabethkingia": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192328",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "354-87",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205165.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205165.1"
  },
  {
   "Elizabethkingia": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192327",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "354-72",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205185.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205185.1"
  },
  {
   "Elizabethkingia": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192326",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "351-72",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205425.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205425.1"
  },
  {
   "Elizabethkingia": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192325",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "349-83",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205445.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205445.1"
  },
  {
   "Elizabethkingia": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192323",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "347-96",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205465.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205465.1"
  },
  {
   "Elizabethkingia": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192324",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "348-50",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205485.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205485.1"
  },
  {
   "Elizabethkingia": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192322",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "347-50",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205505.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205505.1"
  },
  {
   "Elizabethkingia": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192321",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "347-10",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205525.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205525.1"
  },
  {
   "Elizabethkingia": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192320",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "346-72",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205545.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205545.1"
  },
  {
   "Elizabethkingia": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192319",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "346-66",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205565.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205565.1"
  },
  {
   "Elizabethkingia": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192317",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "343-63",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205585.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205585.1"
  },
  {
   "Elizabethkingia": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192316",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "313-22",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205605.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205605.1"
  },
  {
   "Elizabethkingia": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192315",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "277-17",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205625.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205625.1"
  },
  {
   "Elizabethkingia": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18192318",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "344-1",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024205645.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024205645.1"
  },
  {
   "Elizabethkingia": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30929146",
   "collection_date": "2012-12-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "PENUMONIA",
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "C08",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_025449135.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_025449135.1"
  },
  {
   "Elizabethkingia": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27739174",
   "collection_date": "2022-04-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "2022CK-00262",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_023092945.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_023092945.2"
  },
  {
   "Elizabethkingia": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29473046",
   "collection_date": "2022-06-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia meningoseptica",
   "strain": "2022CK-00380",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_024123775.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_024123775.2"
  },
  {
   "Elizabethkingia": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31358076",
   "collection_date": "2021-02-24",
-  "host": "LITHOBATES CATESBEIANUS",
+  "geo_loc_name": "CHINA",
+  "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "AWYL_1",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_029873315.1"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_029873315.1"
  },
  {
   "Elizabethkingia": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA12009938",
   "collection_date": "2021-04-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "EAV_NVB490",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_927611585.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_927611585.2"
  },
  {
   "Elizabethkingia": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA12009940",
   "collection_date": "2021-03-29",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "EAV_NVH72",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_927611535.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_927611535.2"
  },
  {
   "Elizabethkingia": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA12009939",
   "collection_date": "2020-09-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "EAV_VTKC53",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_927611525.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_927611525.2"
  },
  {
   "Elizabethkingia": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112835271",
   "collection_date": "2021-04-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "VIET NAM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "EAV_NNN508",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_951394135.2"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_951394135.2"
  },
  {
   "Elizabethkingia": null,
@@ -718,9 +836,25 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33554414",
   "collection_date": "2023-02-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Elizabethkingia anophelis",
   "strain": "2023CK-00282",
-  "fasta": "data/groups_info/Elizabethkingia/GCA_028898485.3"
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_028898485.3"
+ },
+ {
+  "Elizabethkingia": null,
+  "date": null,
+  "asm_acc": "GCA_036542325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39714429",
+  "collection_date": "2019-02",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Elizabethkingia meningoseptica",
+  "strain": "EM1",
+  "fasta": "data\\groups_info\\Elizabethkingia\\GCA_036542325.1"
  }
 ]

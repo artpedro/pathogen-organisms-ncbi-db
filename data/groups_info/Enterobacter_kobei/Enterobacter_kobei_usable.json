@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_kobei": "PDG000000108.52",
-  "date": "Thu Oct 19 21:09:19 2023"
+  "Enterobacter_kobei": "PDG000000108.100",
+  "date": "Wed May 15 22:22:58 2024"
  },
  {
   "asm_acc": "GCA_001729765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581747",
   "collection_date": null,
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "DSM 13645"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08027255",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "WCHEK045523"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12648938",
   "collection_date": "2019-01",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "EB_P8_L5_01.19"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289356",
   "collection_date": "2009-03-12",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "C16"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15594913",
   "collection_date": "2019-12-14",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "IB2020"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23139065",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterobacter kobei",
   "strain": "6"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379554",
   "collection_date": "2011-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "11778-yvys"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379548",
   "collection_date": "2012-05",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "12379-yvys"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379547",
   "collection_date": "2011-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "11743-yvys"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22612881",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "Ek72"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28416108",
   "collection_date": "2021",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "C210239"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387637",
   "collection_date": "2017-07-29",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL INFECTION",
   "scientific_name": "Enterobacter kobei",
   "strain": "S18_CRE18"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27926465",
   "collection_date": "2021-06-19",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "EC1382"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37475543",
   "collection_date": "2021-09",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Enterobacter kobei",
   "strain": "DW108"
  }

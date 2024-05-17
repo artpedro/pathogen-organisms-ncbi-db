@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_suis": "PDG000000100.34",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Streptococcus_suis": "PDG000000100.66",
+  "date": "Wed May 15 22:37:56 2024"
  },
  {
   "Streptococcus_suis": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603120",
   "collection_date": null,
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis TL13",
   "strain": "TL13",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_000390245.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_000390245.1"
  },
  {
   "Streptococcus_suis": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603121",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis YB51",
   "strain": "YB51",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_000471985.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_000471985.1"
  },
  {
   "Streptococcus_suis": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02469350",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis 05HAS68",
   "strain": "05HAS68",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_000168355.3"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_000168355.3"
  },
  {
   "Streptococcus_suis": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02691834",
   "collection_date": "2005-07-19",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "ZY05719",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_000993745.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_000993745.1"
  },
  {
   "Streptococcus_suis": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03652427",
   "collection_date": "2008-05",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "NSUI002",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_001272635.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_001272635.1"
  },
  {
   "Streptococcus_suis": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04156190",
   "collection_date": "2008-03",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "NSUI060",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_001572685.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_001572685.1"
  },
  {
   "Streptococcus_suis": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04044079",
   "collection_date": "1990",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "90-1330",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_001610935.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_001610935.1"
  },
  {
   "Streptococcus_suis": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04884928",
   "collection_date": "2013-08-13",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DN13",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_001640765.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_001640765.1"
  },
  {
   "Streptococcus_suis": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05567566",
   "collection_date": "2005-06-05",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "GZ0565",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_001721625.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_001721625.1"
  },
  {
   "Streptococcus_suis": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06187704",
   "collection_date": "1998",
+  "geo_loc_name": "CHINA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SS2-1",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_001936415.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_001936415.1"
  },
  {
   "Streptococcus_suis": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06765615",
   "collection_date": "2005",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SC19",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002111405.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002111405.1"
  },
  {
   "Streptococcus_suis": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05231907",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Streptococcus suis",
   "strain": "LSM102",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002189695.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002189695.1"
  },
  {
   "Streptococcus_suis": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04956488",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SRD478",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002285535.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002285535.1"
  },
  {
   "Streptococcus_suis": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07807405",
   "collection_date": "2010-03-22",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "CS100322",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002688665.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002688665.1"
  },
  {
   "Streptococcus_suis": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07807408",
   "collection_date": "2006-09",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "HA0609",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002736265.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002736265.1"
  },
  {
   "Streptococcus_suis": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08040402",
   "collection_date": "2013-03-02",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "CZ130302",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002803825.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002803825.1"
  },
  {
   "Streptococcus_suis": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08102920",
   "collection_date": "2007-11-08",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "AH681",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_002812525.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002812525.1"
  },
  {
   "Streptococcus_suis": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09080446",
   "collection_date": "2016-06",
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "HN105",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_003144175.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_003144175.1"
  },
  {
   "Streptococcus_suis": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3861961",
   "collection_date": "1961",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "NCTC10234",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_900475585.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_900475585.1"
  },
  {
   "Streptococcus_suis": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05912964",
   "collection_date": "2013-05-17",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": "CLINICALLY ASYMPTOMATIC",
   "scientific_name": "Streptococcus suis",
   "strain": "0061",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_003285225.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_003285225.1"
  },
  {
   "Streptococcus_suis": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05912965",
   "collection_date": "2013-09-16",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": "CLINICALLY ASYMPTOMATIC",
   "scientific_name": "Streptococcus suis",
   "strain": "1081",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_003285245.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_003285245.1"
  },
  {
   "Streptococcus_suis": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07764633",
   "collection_date": "2016-01-04",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SH0104",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_003288175.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_003288175.1"
  },
  {
   "Streptococcus_suis": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09460429",
   "collection_date": "2010-03",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "HA1003",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_003352205.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_003352205.1"
  },
  {
   "Streptococcus_suis": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09460428",
   "collection_date": "2015-10",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SH1510",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_003352225.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_003352225.1"
  },
  {
   "Streptococcus_suis": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3649032",
   "collection_date": null,
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "NCTC10237",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_901543625.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_901543625.1"
  },
  {
   "Streptococcus_suis": null,
@@ -310,10 +360,26 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12347734",
   "collection_date": "2018-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "INT-01",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_007724845.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_007724845.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_002285735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN04956520",
+  "collection_date": "2012",
+  "geo_loc_name": "USA",
+  "host": "ENVIRONMENT",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "ISU2812",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_002285735.1"
  },
  {
   "Streptococcus_suis": null,
@@ -322,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227227",
   "collection_date": "2006",
+  "geo_loc_name": "NETHERLANDS",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_902702765.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_902702765.1"
  },
  {
   "Streptococcus_suis": null,
@@ -334,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227225",
   "collection_date": "1986",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_902702745.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_902702745.1"
  },
  {
   "Streptococcus_suis": null,
@@ -346,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227224",
   "collection_date": "1982",
+  "geo_loc_name": "NETHERLANDS",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_902702755.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_902702755.1"
  },
  {
   "Streptococcus_suis": null,
@@ -358,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227226",
   "collection_date": "1996",
+  "geo_loc_name": "NETHERLANDS",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_902702785.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_902702785.1"
  },
  {
   "Streptococcus_suis": null,
@@ -370,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6227228",
   "collection_date": "2006",
+  "geo_loc_name": "NETHERLANDS",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_902702775.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_902702775.1"
  },
  {
   "Streptococcus_suis": null,
@@ -382,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09210932",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "ISU1606",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_013488085.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_013488085.1"
  },
  {
   "Streptococcus_suis": null,
@@ -394,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237933",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "ISU2514",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_013488105.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_013488105.1"
  },
  {
   "Streptococcus_suis": null,
@@ -406,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237935",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "ISU2714",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_013488125.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_013488125.1"
  },
  {
   "Streptococcus_suis": null,
@@ -418,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237990",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "ISU2414",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_013488145.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_013488145.1"
  },
  {
   "Streptococcus_suis": null,
@@ -430,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09210929",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "ISU2614",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_013488165.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_013488165.1"
  },
  {
   "Streptococcus_suis": null,
@@ -442,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09237991",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "ISU2660",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_013488185.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_013488185.1"
  },
  {
   "Streptococcus_suis": null,
@@ -454,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238721",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DAT299",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_014192345.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_014192345.1"
  },
  {
   "Streptococcus_suis": null,
@@ -466,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00238722",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DAT300",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_014192525.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_014192525.1"
  },
  {
   "Streptococcus_suis": null,
@@ -478,10 +570,26 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13648692",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "LSM178",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_014874555.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_014874555.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_015291825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN09937248",
+  "collection_date": "2016",
+  "geo_loc_name": "CHINA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "YSJ17",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_015291825.1"
  },
  {
   "Streptococcus_suis": null,
@@ -490,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16966886",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "YZDH1",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_015908885.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_015908885.1"
  },
  {
   "Streptococcus_suis": null,
@@ -502,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17277757",
   "collection_date": "2010-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPTICEMIA",
   "scientific_name": "Streptococcus suis",
   "strain": "ID33329",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_016774475.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_016774475.1"
  },
  {
   "Streptococcus_suis": null,
@@ -514,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17277758",
   "collection_date": "2010-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPTICEMIA",
   "scientific_name": "Streptococcus suis",
   "strain": "ID32098",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_016887735.2"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_016887735.2"
  },
  {
   "Streptococcus_suis": null,
@@ -526,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18202284",
   "collection_date": "2016-10",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "1112S",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_017372155.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_017372155.1"
  },
  {
   "Streptococcus_suis": null,
@@ -538,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19600291",
   "collection_date": "2012-04-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "39565",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_018885285.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_018885285.1"
  },
  {
   "Streptococcus_suis": null,
@@ -550,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20090113",
   "collection_date": "2020-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPTICEMIA",
   "scientific_name": "Streptococcus suis",
   "strain": "ID41570",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019297755.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019297755.1"
  },
  {
   "Streptococcus_suis": null,
@@ -562,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955369",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SS389",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856275.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856275.1"
  },
  {
   "Streptococcus_suis": null,
@@ -574,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955368",
   "collection_date": "2005",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "NJ3",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856315.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856315.1"
  },
  {
   "Streptococcus_suis": null,
@@ -586,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955373",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "LAB",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Transconjugant cNJ3",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856355.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856355.1"
  },
  {
   "Streptococcus_suis": null,
@@ -598,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955372",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "LAB",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Transconjugant cFJSM5",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856375.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856375.1"
  },
  {
   "Streptococcus_suis": null,
@@ -610,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955374",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "LAB",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Transconjugant cSS389",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856395.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856395.1"
  },
  {
   "Streptococcus_suis": null,
@@ -622,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955371",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "LAB",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Transconjugant cDY107",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856415.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856415.1"
  },
  {
   "Streptococcus_suis": null,
@@ -634,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20955370",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "LAB",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Transconjugant cAKJ18",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019856475.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856475.1"
  },
  {
   "Streptococcus_suis": null,
@@ -646,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21240299",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "SZ1908",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_019967855.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019967855.1"
  },
  {
   "Streptococcus_suis": null,
@@ -658,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18029937",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "GX69",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_020462325.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_020462325.1"
  },
  {
   "Streptococcus_suis": null,
@@ -670,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439333",
   "collection_date": "2016",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Ssuis_MA8",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_020541945.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_020541945.1"
  },
  {
   "Streptococcus_suis": null,
@@ -682,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439331",
   "collection_date": "2017",
+  "geo_loc_name": "NETHERLANDS",
   "host": "PIG",
+  "host_disease": "STREPTOCOCCUS SUIS - SYSTEMIC DISEASE",
   "scientific_name": "Streptococcus suis",
   "strain": "Ssuis_MA6",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_020541965.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_020541965.1"
  },
  {
   "Streptococcus_suis": null,
@@ -694,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439327",
   "collection_date": "2016",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "Ssuis_MA2",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_020542025.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_020542025.1"
  },
  {
   "Streptococcus_suis": null,
@@ -706,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21439326",
   "collection_date": "2014",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": "STREPTOCOCCUS SUIS - SYSTEMIC DISEASE",
   "scientific_name": "Streptococcus suis",
   "strain": "Ssuis_MA1",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_020542045.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_020542045.1"
  },
  {
   "Streptococcus_suis": null,
@@ -718,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25220527",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "LSM29",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_021729385.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_021729385.1"
  },
  {
   "Streptococcus_suis": null,
@@ -730,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25212000",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "LSM157",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_021729405.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_021729405.1"
  },
  {
   "Streptococcus_suis": null,
@@ -742,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363618",
   "collection_date": "2015-11",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "STREPTOCOCCUS SUIS",
   "scientific_name": "Streptococcus suis",
   "strain": "TJS75",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_022964955.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_022964955.1"
  },
  {
   "Streptococcus_suis": null,
@@ -754,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27395176",
   "collection_date": "2014-09",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "STREPTOCOCCUS SUIS",
   "scientific_name": "Streptococcus suis",
   "strain": "TJS56",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_023023005.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_023023005.1"
  },
  {
   "Streptococcus_suis": null,
@@ -766,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401318",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC78",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206595.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206595.1"
  },
  {
   "Streptococcus_suis": null,
@@ -778,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401320",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC80",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206615.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206615.1"
  },
  {
   "Streptococcus_suis": null,
@@ -790,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401323",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC84",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206635.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206635.1"
  },
  {
   "Streptococcus_suis": null,
@@ -802,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401322",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC83",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206655.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206655.1"
  },
  {
   "Streptococcus_suis": null,
@@ -814,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401321",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC81",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206675.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206675.1"
  },
  {
   "Streptococcus_suis": null,
@@ -826,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401328",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC90",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206695.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206695.1"
  },
  {
   "Streptococcus_suis": null,
@@ -838,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401325",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC86",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206715.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206715.1"
  },
  {
   "Streptococcus_suis": null,
@@ -850,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401324",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC85",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206735.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206735.1"
  },
  {
   "Streptococcus_suis": null,
@@ -862,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29401332",
   "collection_date": "2021-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS, SEPTIC ARTHRITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "STC104",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024206755.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024206755.1"
  },
  {
   "Streptococcus_suis": null,
@@ -874,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14932458",
   "collection_date": "2013",
+  "geo_loc_name": "CANADA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "1521251",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024220075.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024220075.1"
  },
  {
   "Streptococcus_suis": null,
@@ -886,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14932654",
   "collection_date": "2011",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "LSS42",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024220115.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024220115.1"
  },
  {
   "Streptococcus_suis": null,
@@ -898,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29862018",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "DISEASED",
   "scientific_name": "Streptococcus suis",
   "strain": "2018WUSS151",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024498155.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024498155.1"
  },
  {
   "Streptococcus_suis": null,
@@ -910,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29938211",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "12RC1",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024582755.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024582755.1"
  },
  {
   "Streptococcus_suis": null,
@@ -922,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065799",
   "collection_date": null,
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DNC49",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024582915.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024582915.1"
  },
  {
   "Streptococcus_suis": null,
@@ -934,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065803",
   "collection_date": null,
+  "geo_loc_name": "SPAIN",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "M106471_S40",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024582935.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024582935.1"
  },
  {
   "Streptococcus_suis": null,
@@ -946,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065801",
   "collection_date": null,
+  "geo_loc_name": "SPAIN",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "M104300_S20",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024582955.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024582955.1"
  },
  {
   "Streptococcus_suis": null,
@@ -958,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065802",
   "collection_date": null,
+  "geo_loc_name": "SPAIN",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "M105052_S26",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024582975.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024582975.1"
  },
  {
   "Streptococcus_suis": null,
@@ -970,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065800",
   "collection_date": null,
+  "geo_loc_name": "SPAIN",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "M102942_S11",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024582995.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024582995.1"
  },
  {
   "Streptococcus_suis": null,
@@ -982,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065797",
   "collection_date": null,
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DNR43",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024583015.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024583015.1"
  },
  {
   "Streptococcus_suis": null,
@@ -994,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065798",
   "collection_date": null,
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DNR48",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024583035.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024583035.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1006,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065796",
   "collection_date": null,
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DNS20",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024583055.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024583055.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1018,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065795",
   "collection_date": null,
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DNC15",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024583075.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024583075.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1030,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065793",
   "collection_date": null,
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "DNS11",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024583115.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024583115.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1042,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30065792",
   "collection_date": null,
+  "geo_loc_name": "SPAIN",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "SS15055_N2_C15",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_024583135.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_024583135.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1054,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277174",
   "collection_date": "2011-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPTICAEMIA",
   "scientific_name": "Streptococcus suis",
   "strain": "ID36054",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_025946865.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_025946865.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1066,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277175",
   "collection_date": "2010",
+  "geo_loc_name": "THAILAND",
   "host": "ENVIRONMENT",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Streptococcus suis",
   "strain": "TRG6",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_025946885.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_025946885.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1078,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277172",
   "collection_date": "2011-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPTICAEMIA",
   "scientific_name": "Streptococcus suis",
   "strain": "ID38828",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_025946905.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_025946905.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1090,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277173",
   "collection_date": "2011-05",
+  "geo_loc_name": "THAILAND",
   "host": "ENVIRONMENT",
+  "host_disease": "ASYMPTOMATIC",
   "scientific_name": "Streptococcus suis",
   "strain": "ID34572",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_025946925.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_025946925.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1102,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277171",
   "collection_date": "2011-05",
+  "geo_loc_name": "THAILAND",
   "host": "ENVIRONMENT",
+  "host_disease": "ASYMPTOMATIC",
   "scientific_name": "Streptococcus suis",
   "strain": "ID35541",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_025946945.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_025946945.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1114,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29861932",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "HEALTHY",
   "scientific_name": "Streptococcus suis",
   "strain": "WUSS030",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_025980045.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_025980045.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1126,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11431856",
   "collection_date": "2017-12-11",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "WUSS351",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_004843685.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_004843685.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1138,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32652950",
   "collection_date": "2020-08-19",
+  "geo_loc_name": "MALAYSIA",
   "host": "FELIS CATUS",
+  "host_disease": "OPEN WOUND",
   "scientific_name": "Streptococcus suis",
   "strain": "SS/UPM/MY/F001",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_029542385.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_029542385.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1150,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179825",
   "collection_date": "2017",
+  "geo_loc_name": "NETHERLANDS",
   "host": "ENVIRONMENT",
+  "host_disease": "SYSTEMIC",
   "scientific_name": "Streptococcus suis",
   "strain": "NLS50",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_031767395.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_031767395.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1162,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179828",
   "collection_date": "2017",
+  "geo_loc_name": "NETHERLANDS",
   "host": "ENVIRONMENT",
+  "host_disease": "SYSTEMIC",
   "scientific_name": "Streptococcus suis",
   "strain": "NLS40",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_031767605.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_031767605.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1174,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179832",
   "collection_date": "2013",
+  "geo_loc_name": "CANADA",
   "host": "ENVIRONMENT",
+  "host_disease": "SYSTEMIC",
   "scientific_name": "Streptococcus suis",
   "strain": "1522228",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_031767625.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_031767625.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1186,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37179831",
   "collection_date": "2013",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Streptococcus suis",
   "strain": "TMW_SS028",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_031767645.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_031767645.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1198,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410677",
   "collection_date": "2010-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus suis",
   "strain": "ID32563",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032147025.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032147025.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1210,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410676",
   "collection_date": "2007-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "PERITONITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "ID24665",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032147105.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032147105.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1222,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410680",
   "collection_date": "2008-05",
+  "geo_loc_name": "THAILAND",
   "host": "ENVIRONMENT",
+  "host_disease": "HEALTHY",
   "scientific_name": "Streptococcus suis",
   "strain": "ID26102",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032230435.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032230435.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1234,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410679",
   "collection_date": "2011-05",
+  "geo_loc_name": "THAILAND",
   "host": "ENVIRONMENT",
+  "host_disease": "HEALTHY",
   "scientific_name": "Streptococcus suis",
   "strain": "ID34567",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032230945.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032230945.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1246,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410678",
   "collection_date": "2014-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "ID48908",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032230965.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032230965.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1258,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410675",
   "collection_date": "2014-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ARGENTINA",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus suis",
   "strain": "1652329",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032230985.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032230985.1"
  },
  {
   "Streptococcus_suis": null,
@@ -1270,9 +1508,95 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37410674",
   "collection_date": "2014-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ARTHROPLASTY INFECTION",
   "scientific_name": "Streptococcus suis",
   "strain": "1547095",
-  "fasta": "data/groups_info/Streptococcus_suis/GCA_032231005.1"
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_032231005.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_034047115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38305556",
+  "collection_date": "2023-11-18",
+  "geo_loc_name": "CHINA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "cnzyss2-311",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_034047115.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_019856455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN20955366",
+  "collection_date": "2016",
+  "geo_loc_name": "CHINA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "AKJ18",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_019856455.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_034440185.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38724730",
+  "collection_date": "2022-04-06",
+  "geo_loc_name": "CHINA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "2022WUSS148",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_034440185.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_036320595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39205239",
+  "collection_date": "2023-02-20",
+  "geo_loc_name": "CHINA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "HB18",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_036320595.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_037940715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40188333",
+  "collection_date": "2022-06",
+  "geo_loc_name": "CHINA",
+  "host": "PIG",
+  "host_disease": "MENINGITIS",
+  "scientific_name": "Streptococcus suis",
+  "strain": "YA",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_037940715.1"
+ },
+ {
+  "Streptococcus_suis": null,
+  "date": null,
+  "asm_acc": "GCA_038650695.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41013742",
+  "collection_date": "2023-03-05",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus suis",
+  "strain": "Ss2301",
+  "fasta": "data\\groups_info\\Streptococcus_suis\\GCA_038650695.1"
  }
 ]

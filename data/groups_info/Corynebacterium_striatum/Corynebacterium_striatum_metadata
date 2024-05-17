@@ -2,21 +2,37 @@
  "group": "Corynebacterium_striatum",
  "count": 7,
  "species": {
-  "Corynebacterium striatum": 3,
-  "Corynebacterium aurimucosum": 1,
   "Corynebacterium minutissimum": 2,
-  "Corynebacterium singulare": 1
+  "Corynebacterium singulare": 1,
+  "Corynebacterium aurimucosum": 1,
+  "Corynebacterium striatum": 3
  },
  "subsp.": {},
  "scientific_name": {
-  "Corynebacterium striatum": 3,
-  "Corynebacterium aurimucosum": 1,
   "Corynebacterium minutissimum": 2,
-  "Corynebacterium singulare": 1
+  "Corynebacterium singulare": 1,
+  "Corynebacterium aurimucosum": 1,
+  "Corynebacterium striatum": 3
  },
  "strain": {},
+ "location": {
+  "FRANCE": 1,
+  "USA": 2,
+  "SOUTH KOREA": 1,
+  "GERMANY": 1,
+  "UNITED KINGDOM": 2
+ },
  "hosts": {
-  "HOMO SAPIENS": 6,
-  "NEOPHOCAENA ASIAEORIENTALIS": 1
+  "NEOPHOCAENA ASIAEORIENTALIS": 1,
+  "HUMAN": 6
+ },
+ "hosts_diseases": {
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1
  }
 }

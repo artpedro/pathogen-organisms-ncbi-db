@@ -1,41 +1,69 @@
 {
  "group": "Vibrio_parahaemolyticus",
- "count": 76,
+ "count": 85,
  "species": {
   "Vibrio alginolyticus": 23,
   "Vibrio diabolicus": 3,
-  "Vibrio parahaemolyticus": 50
+  "Vibrio parahaemolyticus": 59
  },
  "subsp.": {},
  "scientific_name": {
+  "Vibrio parahaemolyticus": 57,
   "Vibrio alginolyticus": 23,
+  "Vibrio parahaemolyticus 10329": 1,
   "Vibrio diabolicus": 3,
-  "Vibrio parahaemolyticus O1:K33 str. CDC_K4557": 1,
-  "Vibrio parahaemolyticus": 48,
-  "Vibrio parahaemolyticus 10329": 1
+  "Vibrio parahaemolyticus O1:K33 str. CDC_K4557": 1
  },
  "strain": {
-  "MAVP-Q": 2,
-  "null": 3
+  "null": 3,
+  "BM26A": 2,
+  "MAVP-Q": 2
+ },
+ "location": {
+  "PUERTO RICO": 1,
+  "PACIFIC OCEAN": 2,
+  "JORDAN": 1,
+  "THAILAND": 2,
+  "null": 6,
+  "PHILIPPINES": 2,
+  "COLOMBIA": 12,
+  "USA": 6,
+  "MEXICO": 1,
+  "JAPAN": 1,
+  "INDIA": 1,
+  "SOUTH KOREA": 5,
+  "MALAYSIA": 2,
+  "SOUTH AFRICA": 1,
+  "GERMANY": 9,
+  "CHINA": 32,
+  "UNITED KINGDOM": 1
  },
  "hosts": {
-  "FINESPOTTED FLOUNDER": 1,
-  "PRAWN": 1,
-  "EPINEPHELUS COIOIDES": 1,
-  "SHRIMPS": 1,
-  "LUTJANUS ERYTHROPTERUS": 1,
-  "APOSTICHOPUS JAPONICUS": 1,
-  "ENVIRONMENT": 5,
   "PENAEUS JAPONICUS": 2,
-  "ANADARA TUBERCULOSA": 10,
+  "FINESPOTTED FLOUNDER": 1,
+  "N": 1,
+  "SHRIMPS": 1,
+  "PRAWN": 1,
+  "APOSTICHOPUS JAPONICUS": 1,
   "PENAEUS MONODON": 1,
+  "HUMAN": 14,
   "FISH": 1,
+  "PENAEUS VANNAMEI": 30,
+  "EPINEPHELUS COIOIDES": 1,
   "PENAEUS VANNAMEI (WHITELEG SHRIMP)": 1,
-  "SHRIMP": 1,
-  "PENAEUS VANNAMEI": 24,
-  "NOT COLLECTED": 1,
+  "ANADARA TUBERCULOSA": 12,
   "SYNGNATHUS TYPHLE": 9,
-  "HOMO SAPIENS": 14,
-  "N": 1
+  "LUTJANUS ERYTHROPTERUS": 1,
+  "SHRIMP": 2,
+  "NOT COLLECTED": 1,
+  "ENVIRONMENT": 5
+ },
+ "hosts_diseases": {
+  "VIBRIO INFECTION": 3,
+  "GASTROENTERITIS": 2,
+  "ACUTE DIARRHEA": 1,
+  "null": 77,
+  "AHPND": 1,
+  "ACUTE HEPATOPANCREATIC NECROSIS DISEASE": 1
  }
 }

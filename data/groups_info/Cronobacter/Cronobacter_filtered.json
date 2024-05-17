@@ -1,7 +1,7 @@
 [
  {
-  "Cronobacter": "PDG000000043.210",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Cronobacter": "PDG000000043.251",
+  "date": "Wed May 15 22:37:50 2024"
  },
  {
   "Cronobacter": null,
@@ -10,10 +10,40 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03371468",
   "collection_date": "1970",
+  "geo_loc_name": "USA",
   "host": "INFANTS",
+  "host_disease": "NEONATAL NECROTIZING ENTEROCOLITIS",
   "scientific_name": "Cronobacter sakazakii",
   "strain": "ATCC 29544",
-  "fasta": "data/groups_info/Cronobacter/GCA_000982825.1"
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_000982825.1"
+ },
+ {
+  "Cronobacter": null,
+  "date": null,
+  "asm_acc": "GCA_003516105.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN07540306",
+  "collection_date": "2016-01-17",
+  "geo_loc_name": "MEXICO",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Cronobacter sakazakii",
+  "strain": "CS-09",
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_003516105.2"
+ },
+ {
+  "Cronobacter": null,
+  "date": null,
+  "asm_acc": "GCA_003955925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN08928172",
+  "collection_date": "2015",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "NEONATAL PURULENT MENINGITIS",
+  "scientific_name": "Cronobacter sakazakii",
+  "strain": "GZcsf-1",
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_003955925.1"
  },
  {
   "Cronobacter": null,
@@ -22,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07540307",
   "collection_date": "2016-01-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MEXICO",
+  "host": "HUMAN",
+  "host_disease": "ANEMIC SYNDROME",
   "scientific_name": "Cronobacter sakazakii",
   "strain": "CS-931",
-  "fasta": "data/groups_info/Cronobacter/GCA_003516125.3"
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_003516125.3"
  },
  {
   "Cronobacter": null,
@@ -34,10 +66,40 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15493123",
   "collection_date": "2017-07-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "POLAND",
+  "host": "HUMAN",
+  "host_disease": "BRAIN ABSCESS",
   "scientific_name": "Cronobacter sakazakii",
   "strain": "5563_17",
-  "fasta": "data/groups_info/Cronobacter/GCA_013425995.1"
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_013425995.1"
+ },
+ {
+  "Cronobacter": null,
+  "date": null,
+  "asm_acc": "GCA_018884085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14112905",
+  "collection_date": "2006-06-14",
+  "geo_loc_name": "MEXICO",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC RENAL INSUFFICIENCY",
+  "scientific_name": "Cronobacter sakazakii",
+  "strain": "C767",
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_018884085.1"
+ },
+ {
+  "Cronobacter": null,
+  "date": null,
+  "asm_acc": "GCA_018884145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN14112904",
+  "collection_date": "2006-06-14",
+  "geo_loc_name": "MEXICO",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC RENAL INSUFFICIENCY",
+  "scientific_name": "Cronobacter sakazakii",
+  "strain": "C757",
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_018884145.1"
  },
  {
   "Cronobacter": null,
@@ -46,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26420280",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Cronobacter sakazakii",
   "strain": "70402496",
-  "fasta": "data/groups_info/Cronobacter/GCA_022648965.1"
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_022648965.1"
  },
  {
   "Cronobacter": null,
@@ -58,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30466962",
   "collection_date": "2013-10-11",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Cronobacter sakazakii",
   "strain": "USDA-ARS-USMARC-54664",
-  "fasta": "data/groups_info/Cronobacter/GCA_025200595.1"
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_025200595.1"
  },
  {
   "Cronobacter": null,
@@ -70,9 +136,25 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34121859",
   "collection_date": "2019-05-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "NECROTIZING ENTEROCOLITIS",
   "scientific_name": "Cronobacter sakazakii",
   "strain": "GZfs",
-  "fasta": "data/groups_info/Cronobacter/GCA_031213335.1"
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_031213335.1"
+ },
+ {
+  "Cronobacter": null,
+  "date": null,
+  "asm_acc": "GCA_035658535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39048406",
+  "collection_date": "2022-10-24T13:30:11Z",
+  "geo_loc_name": "CHINA",
+  "host": "MOSCHUS BEREZOVSKII",
+  "host_disease": null,
+  "scientific_name": "Cronobacter malonaticus",
+  "strain": "Dcc0527",
+  "fasta": "data\\groups_info\\Cronobacter\\GCA_035658535.1"
  }
 ]

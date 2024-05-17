@@ -1,14 +1,16 @@
 [
  {
-  "Listeria": "PDG000000001.3432",
-  "date": "Thu Oct 19 21:10:23 2023"
+  "Listeria": "PDG000000001.3693",
+  "date": "Wed May 15 22:29:31 2024"
  },
  {
   "asm_acc": "GCA_000195395.6",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01816124",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes J1-220",
   "strain": "J1-220"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02203124",
   "collection_date": "1996",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "J2-031"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02203125",
   "collection_date": "2002",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "J1776"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03003922",
   "collection_date": "2006",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "Lm60"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03177401",
   "collection_date": "2011",
+  "geo_loc_name": "CHINA",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "NTSN"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03372633",
   "collection_date": "2014",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "N2306"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713647",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L2074"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02712416",
   "collection_date": "2009",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L1846"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713648",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L2625"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713668",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L2624"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713644",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L2676"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713641",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L2626"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03255438",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FDAARGOS_58"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03255437",
   "collection_date": "2002-07-16",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FDAARGOS_57"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02997429",
   "collection_date": "1985",
+  "geo_loc_name": "AUSTRALIA",
   "host": "OVIS ARIES",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM850658"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04286628",
   "collection_date": "1961",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "WSLC 1018"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04286629",
   "collection_date": "1961",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "WSLC 1019"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04286631",
   "collection_date": "1961",
+  "geo_loc_name": "USA",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes ATCC 19117",
   "strain": "WSLC 1033"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04348333",
   "collection_date": "2005",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "Lm 3163"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04348332",
   "collection_date": "2005",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "Lm 3136"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04348334",
   "collection_date": "2011",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "Lm N1546"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04387840",
   "collection_date": "2008-07-01",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": null
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04452088",
   "collection_date": "2014-06-15",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": null
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04452089",
   "collection_date": "2015-06-15",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": null
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05771121",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 08-6997",
   "strain": "08-6997"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05771119",
   "collection_date": "2010",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-1047",
   "strain": "10-1047"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05771118",
   "collection_date": "1988",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 88-0478",
   "strain": "88-0478"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05291441",
   "collection_date": "2005",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "VIMHA007"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04277002",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "CFSAN042079"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04884549",
   "collection_date": "2008-12-17",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPTICEMIA",
   "scientific_name": "Listeria monocytogenes",
   "strain": "ICDC-LM188"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06681248",
   "collection_date": "2016-10-18",
+  "geo_loc_name": "URUGUAY",
   "host": "HOMO SAPIENS",
+  "host_disease": "NEONATAL SEPSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "H34"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05452976",
   "collection_date": "2002",
+  "geo_loc_name": "AUSTRIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "L58-55"
  },
@@ -296,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02769705",
   "collection_date": "1988-04-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "MOD1_LS152"
  },
@@ -305,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02730097",
   "collection_date": "2011",
+  "geo_loc_name": "CHINA",
   "host": "GOAT",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "XYSN"
  },
@@ -314,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02944848",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 4b str. 02-6679",
   "strain": "02-6679"
  },
@@ -323,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124746",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 02-5993",
   "strain": "02-5993"
  },
@@ -332,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124747",
   "collection_date": "2004",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 04-5457",
   "strain": "04-5457"
  },
@@ -341,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124748",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 08-6056",
   "strain": "1/2a"
  },
@@ -350,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124749",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 08-7374",
   "strain": "08-7374"
  },
@@ -359,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124750",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 08-7669",
   "strain": "08-7669"
  },
@@ -368,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124751",
   "collection_date": "2010",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-1046",
   "strain": "10-1046"
  },
@@ -377,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124752",
   "collection_date": "2010",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-1321",
   "strain": "10-1321"
  },
@@ -386,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124743",
   "collection_date": "1995",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 95-0093",
   "strain": "95-0093"
  },
@@ -395,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124744",
   "collection_date": "1998",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 98-2035",
   "strain": "98-2035"
  },
@@ -404,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124745",
   "collection_date": "1999",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 99-6370",
   "strain": "99-6370"
  },
@@ -413,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124753",
   "collection_date": "2009",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2c str. 10-5025",
   "strain": "1/2c"
  },
@@ -422,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124754",
   "collection_date": "2009",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2c str. 10-5026",
   "strain": "1/2c"
  },
@@ -431,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124755",
   "collection_date": "2009",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 3c str. 10-5027",
   "strain": "3c"
  },
@@ -440,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124735",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-4754",
   "strain": "10-4754"
  },
@@ -449,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124736",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-4758",
   "strain": "1/2a"
  },
@@ -458,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124737",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-0933",
   "strain": "10-0933"
  },
@@ -467,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124738",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-0934",
   "strain": "1/2a"
  },
@@ -476,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124739",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 4b str. 02-1103",
   "strain": "02-1103"
  },
@@ -485,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124740",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 4b str. 02-1289",
   "strain": "02-1289"
  },
@@ -494,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124741",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 4b str. 02-1792",
   "strain": "4b"
  },
@@ -503,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124742",
   "collection_date": "2002",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 4b str. 02-6680",
   "strain": "02-6680"
  },
@@ -512,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713777",
   "collection_date": "1981-06-01",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes serotype 4b str. 81-0558",
   "strain": "81-0558"
  },
@@ -521,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713778",
   "collection_date": "1981-07-01",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes serotype 4b str. 81-0592",
   "strain": "81-0592"
  },
@@ -530,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124730",
   "collection_date": "1981",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 4b str. 10-0809",
   "strain": "10-0809"
  },
@@ -539,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124731",
   "collection_date": "1996",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2b str. 10-0810",
   "strain": "10-0810"
  },
@@ -548,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124732",
   "collection_date": "1996",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2b str. 10-0811",
   "strain": "1/2b"
  },
@@ -557,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124733",
   "collection_date": "2000",
+  "geo_loc_name": "CANADA",
   "host": "ENVIROMENT",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-0812",
   "strain": "1/2a"
  },
@@ -566,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124734",
   "collection_date": "2000",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes serotype 1/2a str. 10-0813",
   "strain": "10-0813"
  },
@@ -575,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA44515918",
   "collection_date": "1924",
+  "geo_loc_name": null,
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "NCTC10357"
  },
@@ -584,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09197734",
   "collection_date": "2018-04-03",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "2018TE5305-1-4"
  },
@@ -593,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09760372",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Listeria monocytogenes",
   "strain": "M13455"
  },
@@ -602,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08177723",
   "collection_date": "2016-03-30",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "CIIMS-NV-3"
  },
@@ -611,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07612368",
   "collection_date": "2016-07-07",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "CIIMS-PH-1"
  },
@@ -620,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10391004",
   "collection_date": "2007-01-01",
+  "geo_loc_name": "SWITZERLAND",
   "host": "CATTLE",
+  "host_disease": "NEUROLISTERIOTIC RHOMBENCEPHALITIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "LMJF5203"
  },
@@ -629,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163248",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FDAARGOS_555"
  },
@@ -638,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163247",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FDAARGOS_554"
  },
@@ -647,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA26404168",
   "collection_date": "1941",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "NCTC7974"
  },
@@ -656,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA26403418",
   "collection_date": "1924",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "GUINEA PIG",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "NCTC7973"
  },
@@ -665,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10745353",
   "collection_date": "2016-01",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "N16-0044"
  },
@@ -674,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11311853",
   "collection_date": "2012",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "N12-0935"
  },
@@ -683,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939835",
   "collection_date": "2017-01-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "NCCP 14714"
  },
@@ -692,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939842",
   "collection_date": "2012",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "NCCP 15743"
  },
@@ -701,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10346771",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FDAARGOS_607"
  },
@@ -710,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056493",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "NIST MIXED MICROBIAL RM STRAIN",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FDAARGOS_778"
  },
@@ -719,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148454",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "CATTLE",
+  "host_disease": "ABORTED FETUS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "52873"
  },
@@ -728,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148451",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "CATTLE",
+  "host_disease": "ABORTED FETUS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "52869"
  },
@@ -737,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148434",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "CATTLE",
+  "host_disease": "ABORTED FETUS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "52860"
  },
@@ -746,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148433",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "CATTLE",
+  "host_disease": "ABORTED FETUS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "52859"
  },
@@ -755,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148429",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "CATTLE",
+  "host_disease": "ABORTED FETUS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "52854"
  },
@@ -764,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191637",
   "collection_date": "2013",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "AUSMDU00007774"
  },
@@ -773,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191636",
   "collection_date": "2009",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "AUSMDU00000235"
  },
@@ -782,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191635",
   "collection_date": "2009",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "AUSMDU00000224"
  },
@@ -791,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13341854",
   "collection_date": "2010",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "HIP PROSTHETIC JOINT LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "N843_10"
  },
@@ -800,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13341946",
   "collection_date": "2015",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "HIP PROSTHETIC JOINT LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "N843_15"
  },
@@ -809,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13973245",
   "collection_date": "1952",
+  "geo_loc_name": "USSR",
   "host": "TICK",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "AUF"
  },
@@ -818,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13973456",
   "collection_date": "1953-01-13",
+  "geo_loc_name": "RUSSIA",
   "host": "PIGLET",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "4/52-1953"
  },
@@ -827,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074482",
   "collection_date": "2019-02-14",
+  "geo_loc_name": "RUSSIA",
   "host": "NOT AVAILABLE",
+  "host_disease": "NOT AVAILABLE",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2016:Lmc547"
  },
@@ -836,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074483",
   "collection_date": "1952",
+  "geo_loc_name": "RUSSIA",
   "host": "MICROTUS ARVALIS",
+  "host_disease": "NOT DATA",
   "scientific_name": "Listeria monocytogenes",
   "strain": "134"
  },
@@ -845,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074485",
   "collection_date": "1971",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT DATA",
   "scientific_name": "Listeria monocytogenes",
   "strain": "24618"
  },
@@ -854,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16231353",
   "collection_date": "1998-01",
+  "geo_loc_name": "USA",
   "host": "CAPRINE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes FSL J1-208",
   "strain": "FSL J1-208"
  },
@@ -863,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104485140",
   "collection_date": "2015",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "clinical isolate of L. monocytogenes"
  },
@@ -872,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5041142",
   "collection_date": "2018",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "clinical isolate of L. monocytogenes"
  },
@@ -881,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104485072",
   "collection_date": "2012",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "clinical isolate of L. monocytogenes"
  },
@@ -890,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7376280",
   "collection_date": "2019-09-27",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": null
  },
@@ -899,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6798783",
   "collection_date": "2018",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "clinical isolate of L. monocytogenes"
  },
@@ -908,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16822871",
   "collection_date": "2014-07",
+  "geo_loc_name": "USA",
   "host": "SHEEP",
+  "host_disease": "RHOMBENCEPHALITIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "UKVDL9"
  },
@@ -917,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320318",
   "collection_date": "2017-04-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM26"
  },
@@ -926,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17036357",
   "collection_date": "2016-03-31",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM18"
  },
@@ -935,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320315",
   "collection_date": "2018-03-23",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA AEGAGRUS HIRCUS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM36"
  },
@@ -944,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320316",
   "collection_date": "2018-04-26",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "BOS TAURUS TAURUS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM39"
  },
@@ -953,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320319",
   "collection_date": "2019-05-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM43"
  },
@@ -962,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13397725",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "FROZEN RAW CHICKEN",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM928"
  },
@@ -971,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7887386",
   "collection_date": "2015-12-17",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": null
  },
@@ -980,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7887387",
   "collection_date": "2015-03",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "QI0055",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": null
  },
@@ -989,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18537091",
   "collection_date": "2017-06-26",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM30"
  },
@@ -998,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19267647",
   "collection_date": "2016-06-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM20"
  },
@@ -1007,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19292164",
   "collection_date": "2013-04-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM4"
  },
@@ -1016,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19267648",
   "collection_date": "2017-01-23",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM25"
  },
@@ -1025,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19267651",
   "collection_date": "2019-03-29",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM42"
  },
@@ -1034,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19669079",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "USA",
   "host": "COW",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "UKVDL4"
  },
@@ -1043,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19696832",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "USA",
   "host": "HORSE",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "UKVDL7"
  },
@@ -1052,7 +1284,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18537090",
   "collection_date": "2013-05-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAPRA HIRCUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM7"
  },
@@ -1061,7 +1295,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16205177",
   "collection_date": "2004",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes LO28",
   "strain": "LO28"
  },
@@ -1070,7 +1306,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23386453",
   "collection_date": "1997-05",
+  "geo_loc_name": "USA",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL-J1-158"
  },
@@ -1079,7 +1317,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26535716",
   "collection_date": "2020-10-20",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "20-05651"
  },
@@ -1088,7 +1328,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23176672",
   "collection_date": "2020-09-20",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION OF THE CENTRAL NERVOUS SYSTEM",
   "scientific_name": "Listeria monocytogenes",
   "strain": "s2020TJ"
  },
@@ -1097,7 +1339,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29673611",
   "collection_date": "2018-09",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSCNU_000110"
  },
@@ -1106,7 +1350,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027905",
   "collection_date": "2015-03-20",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "BOS TAURUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM11"
  },
@@ -1115,7 +1361,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027906",
   "collection_date": "2017-01-17",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "BOS TAURUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM22"
  },
@@ -1124,7 +1372,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027907",
   "collection_date": "2018-03-21",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "BOS TAURUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM34"
  },
@@ -1133,7 +1383,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027908",
   "collection_date": "2018-06-15",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "BOS TAURUS COREANAE",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "LM40"
  },
@@ -1142,7 +1394,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888656",
   "collection_date": null,
+  "geo_loc_name": "NOT COLLECTED",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "MKELm2_2022"
  },
@@ -1151,7 +1405,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888655",
   "collection_date": null,
+  "geo_loc_name": "NOT COLLECTED",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "MKELm6_2022"
  },
@@ -1160,7 +1416,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888654",
   "collection_date": null,
+  "geo_loc_name": "NOT COLLECTED",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "MKELm8_2022"
  },
@@ -1169,7 +1427,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888653",
   "collection_date": null,
+  "geo_loc_name": "NOT COLLECTED",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "MKELm224_2022"
  },
@@ -1178,7 +1438,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888652",
   "collection_date": null,
+  "geo_loc_name": "NOT COLLECTED",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "MKELm391_2022"
  },
@@ -1187,7 +1449,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104485064",
   "collection_date": "2011",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "11-04869"
  },
@@ -1196,7 +1460,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112128949",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "19-02390"
  },
@@ -1205,7 +1471,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112128947",
   "collection_date": "2021",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "21-03201"
  },
@@ -1214,7 +1482,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112128948",
   "collection_date": "2016",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "16-02236"
  },
@@ -1223,7 +1493,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31954760",
   "collection_date": "2019",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "19-07394"
  },
@@ -1232,7 +1504,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33246663",
   "collection_date": "2021-08-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "B-33116"
  },
@@ -1241,7 +1515,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26020314",
   "collection_date": "2021-07-15",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL MENINGITIS, DEATH",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2082:LmcIH1-5"
  },
@@ -1250,7 +1526,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26020315",
   "collection_date": "2021-07-08",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS SEPTICEMIA",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2094:LmcH67_7"
  },
@@ -1259,7 +1537,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26020313",
   "collection_date": "2020-03-10",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL MENINGITIS, DEATH",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2063:LmcUH21"
  },
@@ -1268,7 +1548,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28536927",
   "collection_date": "2022-04-13",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL MENINGITIS, DEATH",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2113:LmcIH1-9"
  },
@@ -1277,7 +1559,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28536926",
   "collection_date": "2022-04-10",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL MENINGITIS, DEATH",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2112:LmcIH1-8"
  },
@@ -1286,7 +1570,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31656547",
   "collection_date": "2022-08-22",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS MENINGITIS AND MENINGOENCEPHALITIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2123:LmcUH37"
  },
@@ -1295,7 +1581,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620983",
   "collection_date": "1997-07",
+  "geo_loc_name": "USA",
   "host": "CAPRINAE (CAPRINE)",
+  "host_disease": null,
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL J1-0158"
  },
@@ -1304,7 +1592,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620981",
   "collection_date": "1994-02",
+  "geo_loc_name": "USA",
   "host": "BOVINAE (BOVINE)",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL J2-0071"
  },
@@ -1313,7 +1603,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620980",
   "collection_date": "2000-08",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL F2-0501"
  },
@@ -1322,7 +1614,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620979",
   "collection_date": "2001-10",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL F2-0695"
  },
@@ -1331,7 +1625,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620978",
   "collection_date": "1998",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL C1-0115"
  },
@@ -1340,7 +1636,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620977",
   "collection_date": "1982",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL J1-0094"
  },
@@ -1349,7 +1647,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620975",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL J1-0049"
  },
@@ -1358,7 +1658,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620974",
   "collection_date": "1996-12",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "FSL J1-0169"
  },
@@ -1367,8 +1669,109 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35619110",
   "collection_date": "2023-02-03",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS MENINGOENCEPHALITIS",
   "scientific_name": "Listeria monocytogenes",
   "strain": "GIMC2134:LmcEH-7"
+ },
+ {
+  "asm_acc": "GCA_034119725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38410759",
+  "collection_date": "2023-03-09",
+  "geo_loc_name": "ITALY",
+  "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "P4_LIS"
+ },
+ {
+  "asm_acc": "GCA_037055935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359750",
+  "collection_date": "2022-01-27",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "L150"
+ },
+ {
+  "asm_acc": "GCA_037056005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359749",
+  "collection_date": "2022-01-24",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "L146"
+ },
+ {
+  "asm_acc": "GCA_037056125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359747",
+  "collection_date": "2022-01-20",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "L139"
+ },
+ {
+  "asm_acc": "GCA_037062095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359756",
+  "collection_date": "2022-03-23",
+  "geo_loc_name": "GERMANY",
+  "host": "VULPES VULPES",
+  "host_disease": null,
+  "scientific_name": "Listeria monocytogenes",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_037063215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359754",
+  "collection_date": "2022-02-28",
+  "geo_loc_name": "GERMANY",
+  "host": "MELES MELES",
+  "host_disease": null,
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "L190"
+ },
+ {
+  "asm_acc": "GCA_037064455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN34359752",
+  "collection_date": "2022-01-31",
+  "geo_loc_name": "GERMANY",
+  "host": "PROCYON LOTOR",
+  "host_disease": null,
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "L171"
+ },
+ {
+  "asm_acc": "GCA_038653055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18524556",
+  "collection_date": "2020-09-01",
+  "geo_loc_name": "RUSSIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "LISTERIOSIS",
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "GIMC2056:LmcEH-1"
+ },
+ {
+  "asm_acc": "GCA_038655475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN18524557",
+  "collection_date": "2020-09-01",
+  "geo_loc_name": "RUSSIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "NEONATAL LISTERIOSIS",
+  "scientific_name": "Listeria monocytogenes",
+  "strain": "GIMC2057:LmcEH-2"
  }
 ]

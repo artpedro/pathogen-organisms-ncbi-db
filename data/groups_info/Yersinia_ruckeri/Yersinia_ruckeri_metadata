@@ -9,11 +9,20 @@
   "Yersinia ruckeri": 24
  },
  "strain": {},
+ "location": {
+  "USA": 2,
+  "AUSTRALIA": 1,
+  "NORWAY": 21
+ },
  "hosts": {
-  "ICTALURUS FURCATUS": 1,
+  "SALMO SALAR": 20,
   "ONCORHYNCHUS TSHAWYTSCHA": 1,
-  "BIOFILM": 1,
+  "ICTALURUS FURCATUS": 1,
   "ONCORHYNCHUS MYKISS": 1,
-  "SALMO SALAR": 20
+  "BIOFILM": 1
+ },
+ "hosts_diseases": {
+  "null": 23,
+  "DISEASED": 1
  }
 }

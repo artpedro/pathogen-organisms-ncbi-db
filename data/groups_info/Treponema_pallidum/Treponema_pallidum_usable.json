@@ -1,14 +1,16 @@
 [
  {
-  "Treponema_pallidum": "PDG000000104.15",
-  "date": "Thu Oct 19 21:11:54 2023"
+  "Treponema_pallidum": "PDG000000104.21",
+  "date": "Wed May 15 22:37:01 2024"
  },
  {
   "asm_acc": "GCA_005885795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11812273",
   "collection_date": "2017-05-22",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "X-4"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502673",
   "collection_date": "1912-06-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL8"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502672",
   "collection_date": "1912-06-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL5"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502668",
   "collection_date": "1912-06-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL1"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502671",
   "collection_date": "1912-06-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL4"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502670",
   "collection_date": "1912-06-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL3"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502669",
   "collection_date": "1912-06-30",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL2"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521568",
   "collection_date": "2015-08-28",
+  "geo_loc_name": "TANZANIA",
   "host": "PAPIO ANUBIS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "19LMF8280815"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521550",
   "collection_date": "2016-07-09",
+  "geo_loc_name": "TANZANIA",
   "host": "CHLOROCEBUS PYGERYTHRUS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "6RUM2090716"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521572",
   "collection_date": "2015-08-29",
+  "geo_loc_name": "TANZANIA",
   "host": "PAPIO ANUBIS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "22LMF5290815"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521574",
   "collection_date": "2015-11-15",
+  "geo_loc_name": "TANZANIA",
   "host": "PAPIO ANUBIS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "24SNM5151115"
  }

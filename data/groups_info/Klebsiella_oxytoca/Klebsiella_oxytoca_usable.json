@@ -1,14 +1,16 @@
 [
  {
-  "Klebsiella_oxytoca": "PDG000000030.666",
-  "date": "Thu Oct 19 21:10:14 2023"
+  "Klebsiella_oxytoca": "PDG000000030.778",
+  "date": "Wed May 15 22:28:33 2024"
  },
  {
   "asm_acc": "GCA_000276705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603642",
   "collection_date": "2010",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis E718",
   "strain": "E718"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081460",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "GIANT PANDA",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis HKOPL1",
   "strain": "HKOPL1"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934513",
   "collection_date": "2013-10-16",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ERYTHEMA",
   "scientific_name": "Raoultella planticola",
   "strain": "FDAARGOS_64"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733750",
   "collection_date": "2010-12",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "CAV1335"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733663",
   "collection_date": "2009-04",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "CAV1099"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733631",
   "collection_date": "2007-08",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Klebsiella oxytoca",
   "strain": "CAV1015"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909736",
   "collection_date": "2014-08-21",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "WOUND INFECTION POST SURGERY",
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "Ro24724"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07315162",
   "collection_date": "2017-01-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ACUTE LEUKEMIA, PNEUMONIA",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "K516"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07551913",
   "collection_date": "2017-01-13",
+  "geo_loc_name": "CHINA",
   "host": "PATIENT",
+  "host_disease": "ACUTE LEUKEMIA, PNEUMONIA",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "K518"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173348",
   "collection_date": "2015-02-11",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_335"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163176",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_500"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3251432",
   "collection_date": "1900/1980",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "NCTC11356"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923594",
   "collection_date": "1900/2015",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "NCTC13727"
  },
@@ -125,16 +151,42 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3251450",
   "collection_date": "1900/2007",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "NCTC13096"
+ },
+ {
+  "asm_acc": "GCA_004102625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN10743308",
+  "collection_date": "2018-02",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Klebsiella michiganensis",
+  "strain": "M82255"
+ },
+ {
+  "asm_acc": "GCA_008693565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN11056362",
+  "collection_date": null,
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Klebsiella michiganensis",
+  "strain": "FDAARGOS_647"
  },
  {
   "asm_acc": "GCA_008694045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12780943",
   "collection_date": "2017-02-14",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Raoultella planticola",
   "strain": "S25"
  },
@@ -143,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289379",
   "collection_date": "2014-06-01",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "C52"
  },
@@ -152,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07411959",
   "collection_date": "2014-11-07",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PREMATURE",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "F107"
  },
@@ -161,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13911826",
   "collection_date": "2014-09-01",
+  "geo_loc_name": "CHINA",
   "host": "BACTROCERA DORSALIS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "BD177"
  },
@@ -170,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14258453",
   "collection_date": "2018-07-18",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "WM1"
  },
@@ -179,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15425329",
   "collection_date": "1995",
+  "geo_loc_name": "NEW ZEALAND",
   "host": "SORGHUM BICOLOR",
+  "host_disease": null,
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "DSM 16926"
  },
@@ -188,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13520756",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INTERSTITIAL LUNG DISEASE",
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "193104922"
  },
@@ -197,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13520757",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CEREBRAL HEMORRHAGE",
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "172117885"
  },
@@ -206,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11603266",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMOSAPIENS",
+  "host_disease": "INTRACRANIAL INFECTION",
   "scientific_name": "Raoultella planticola",
   "strain": "Rp_CZ180511"
  },
@@ -215,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12648330",
   "collection_date": "2015-09",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "PS_Koxy4"
  },
@@ -224,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15755083",
   "collection_date": "2017-11-23",
+  "geo_loc_name": "CHINA",
   "host": "MORUS ALBA",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "AKKL-001"
  },
@@ -233,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00196009",
   "collection_date": "2018-07-05",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "THO-011"
  },
@@ -242,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3357409",
   "collection_date": "2014-01",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "MSB1_10D"
  },
@@ -251,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16304043",
   "collection_date": "2017-09-01",
+  "geo_loc_name": "CANADA",
   "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Raoultella terrigena",
   "strain": "Res13-Abat-PEB01-P1-04-A"
  },
@@ -260,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16931445",
   "collection_date": "2020-09-25",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "7525"
  },
@@ -269,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16233476",
   "collection_date": "2018-01-26",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "GUT COLONIZATION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "BD-50-Km"
  },
@@ -278,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357476",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_1334"
  },
@@ -287,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357474",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_1332"
  },
@@ -296,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357475",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_1333"
  },
@@ -305,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357473",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_1331"
  },
@@ -314,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16357478",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "FDAARGOS_1336"
  },
@@ -323,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16561276",
   "collection_date": "2015-08-20",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "IR5392"
  },
@@ -332,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18138829",
   "collection_date": "2019-05-14",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "Kmfe267"
  },
@@ -341,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18395722",
   "collection_date": "2013",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "POST-RENAL TRANSPLANTATION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "12084"
  },
@@ -350,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14585699",
   "collection_date": "2018-12",
+  "geo_loc_name": "CHINA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "X2-1"
  },
@@ -359,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18675296",
   "collection_date": "2018-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -368,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19186367",
   "collection_date": "2020-08",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NASOPHARYNGEAL CARCINOMA",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "JNQH491"
  },
@@ -377,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19652012",
   "collection_date": "2019-10-12",
+  "geo_loc_name": "CHINA",
   "host": "DONGXIANG WILD RICE",
+  "host_disease": null,
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "XF201"
  },
@@ -386,16 +492,31 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20153793",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PANCREATITIS (COLONIZATION)",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "CCRI-24235"
+ },
+ {
+  "asm_acc": "GCA_020695625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22377421",
+  "collection_date": "2019-10",
+  "geo_loc_name": "CZECH REPUBLIC",
+  "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY DISTRESS SYNDROME",
+  "scientific_name": "Klebsiella michiganensis",
+  "strain": "53828CZ"
  },
  {
   "asm_acc": "GCA_905232115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7962775",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -404,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065686",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -413,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065822",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -422,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065780",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -431,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065781",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -440,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158457",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
  },
@@ -449,34 +580,86 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8158514",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": null
+ },
+ {
+  "asm_acc": "GCA_905219255.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA7853279",
+  "collection_date": "2016",
+  "geo_loc_name": "SPAIN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Raoultella ornithinolytica",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_021228655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN23286080",
+  "collection_date": "2018-05-07",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "Kox71"
  },
  {
   "asm_acc": "GCA_021228695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23286118",
   "collection_date": "2018-04-17",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "Kox58"
+ },
+ {
+  "asm_acc": "GCA_021228715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN23286055",
+  "collection_date": "2018-03-01",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "CARRIAGE",
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "Kox26"
  },
  {
   "asm_acc": "GCA_021228755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23286126",
   "collection_date": "2018-06-03",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "Kox101"
+ },
+ {
+  "asm_acc": "GCA_021228775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN23286083",
+  "collection_date": "2018-06-15",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "BLOOD INFECTION",
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "Kox100"
  },
  {
   "asm_acc": "GCA_021228855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23799016",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PULMONARY INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "K92"
  },
@@ -485,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23798052",
   "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
   "host": "HUMAN BODY FLUIDS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "8-1"
  },
@@ -494,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24290086",
   "collection_date": "2012-03-10",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CEREBRAL HEMORRHAGE",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "KM41"
  },
@@ -503,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24372405",
   "collection_date": "2021-05",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "KONSF-1"
  },
@@ -512,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15079954",
   "collection_date": "2018",
+  "geo_loc_name": "USA",
   "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "OHMEATKPC2_NDM5"
  },
@@ -521,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25236446",
   "collection_date": "2018",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNUEMONIA",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "KO_408"
  },
@@ -530,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21892164",
   "collection_date": "2021-06-20",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "YL6-1"
  },
@@ -539,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21906695",
   "collection_date": "2021-06-20",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "YL9"
  },
@@ -548,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26455295",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PULMONARY INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "K342"
  },
@@ -557,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26549876",
   "collection_date": "2021-02-04",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NO DATA",
   "scientific_name": "Klebsiella oxytoca",
   "strain": "C-21-18"
  },
@@ -566,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163261",
   "collection_date": "2021-02-21",
+  "geo_loc_name": "CHINA",
   "host": "FEMALE",
+  "host_disease": "MENINGIOMAS",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "fxq"
  },
@@ -575,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26455257",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "K254"
  },
@@ -584,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29499319",
   "collection_date": "2022",
+  "geo_loc_name": "SWITZERLAND",
   "host": "GALLUS GALLUS DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "LH71"
  },
@@ -593,16 +800,31 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174081",
   "collection_date": "2019-06-26",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "5088"
+ },
+ {
+  "asm_acc": "GCA_024918735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28173998",
+  "collection_date": "2017-06-28",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "ST34"
  },
  {
   "asm_acc": "GCA_026967695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152638",
   "collection_date": "2022-04-27",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "2022CK-00497"
  },
@@ -611,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31261055",
   "collection_date": "2022-01-25",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "2022CK-00498"
  },
@@ -620,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152639",
   "collection_date": "2022-04-21",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella oxytoca",
   "strain": "2022CK-00499"
  },
@@ -629,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31152637",
   "collection_date": "2022-08-08",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "2022CK-00496"
  },
@@ -638,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387624",
   "collection_date": "2017-01-26",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "S4_CRE4"
  },
@@ -647,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28911479",
   "collection_date": "2004-03-08",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": "AAHC",
   "scientific_name": "Klebsiella oxytoca",
   "strain": "AHC-6"
  },
@@ -656,8 +888,10 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765424",
   "collection_date": "2022",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
-  "scientific_name": "Raoultella electrica",
+  "host_disease": "GUT COLONIZATION",
+  "scientific_name": "Klebsiella electrica",
   "strain": "S2-IND-01-C"
  },
  {
@@ -665,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32737190",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PULMONARY INFECTION",
   "scientific_name": "Klebsiella michiganensis",
   "strain": "2563"
  },
@@ -674,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15907150",
   "collection_date": "2019-09-09",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "2020CK-00215"
  },
@@ -683,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28515549",
   "collection_date": "2020-06",
+  "geo_loc_name": "CHINA",
   "host": "USTILAGO MAYDIS YZZF202006",
+  "host_disease": null,
   "scientific_name": "Klebsiella michiganensis",
   "strain": "YZUMF202001"
  },
@@ -692,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32289991",
   "collection_date": "2021-04-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Raoultella planticola",
   "strain": "RP_3045"
  },
@@ -701,8 +943,10 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33658283",
   "collection_date": "2021-04-13",
+  "geo_loc_name": "CHINA",
   "host": "RECILIA DORSALIS",
-  "scientific_name": "Raoultella electrica",
+  "host_disease": null,
+  "scientific_name": "Klebsiella electrica",
   "strain": "Rd210413"
  },
  {
@@ -710,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35742518",
   "collection_date": "2017-04-07",
+  "geo_loc_name": "POLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "WOUND",
   "scientific_name": "Klebsiella oxytoca",
   "strain": "NMI2990_17"
  },
@@ -719,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35711604",
   "collection_date": "2016-08",
+  "geo_loc_name": "CHINA",
   "host": "SEAGRASS",
+  "host_disease": null,
   "scientific_name": "Raoultella terrigena",
   "strain": "NXT28"
  },
@@ -728,8 +976,120 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36757208",
   "collection_date": "2015-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "HUMAN BACTEREMIA",
   "scientific_name": "Raoultella ornithinolytica",
   "strain": "B1645-1B"
+ },
+ {
+  "asm_acc": "GCA_033860475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38040189",
+  "collection_date": "2021-06",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "SRY435"
+ },
+ {
+  "asm_acc": "GCA_033864495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38040195",
+  "collection_date": "2021",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "86"
+ },
+ {
+  "asm_acc": "GCA_033865735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38040197",
+  "collection_date": "2021-04",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "45"
+ },
+ {
+  "asm_acc": "GCA_033870295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38256471",
+  "collection_date": "2017",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "PANCREATITIS",
+  "scientific_name": "Raoultella ornithinolytica",
+  "strain": "602815"
+ },
+ {
+  "asm_acc": "GCA_033870315.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38256646",
+  "collection_date": "2016",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "MELANOMA",
+  "scientific_name": "Raoultella planticola",
+  "strain": "208355"
+ },
+ {
+  "asm_acc": "GCA_034043555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38256365",
+  "collection_date": "2014",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "FEVER",
+  "scientific_name": "Raoultella ornithinolytica",
+  "strain": null
+ },
+ {
+  "asm_acc": "GCA_036687455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39435459",
+  "collection_date": "2019",
+  "geo_loc_name": "IRELAND",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Klebsiella oxytoca",
+  "strain": "KO190245"
+ },
+ {
+  "asm_acc": "GCA_036786065.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN22837213",
+  "collection_date": "2016-12-01",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Raoultella ornithinolytica",
+  "strain": "CAVp363"
+ },
+ {
+  "asm_acc": "GCA_038380145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38258759",
+  "collection_date": "2023-06-30",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "PYLMONARY INFECTION",
+  "scientific_name": "Raoultella ornithinolytica",
+  "strain": "he2023"
+ },
+ {
+  "asm_acc": "GCA_039519595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41050904",
+  "collection_date": "2021-06-21",
+  "geo_loc_name": "CHINA",
+  "host": "MALE",
+  "host_disease": "AML",
+  "scientific_name": "Raoultella planticola",
+  "strain": "zwx"
  }
 ]

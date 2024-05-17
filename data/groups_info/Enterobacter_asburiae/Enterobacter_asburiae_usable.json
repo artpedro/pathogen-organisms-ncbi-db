@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_asburiae": "PDG000000106.51",
-  "date": "Thu Oct 19 21:09:10 2023"
+  "Enterobacter_asburiae": "PDG000000106.110",
+  "date": "Wed May 15 22:22:25 2024"
  },
  {
   "asm_acc": "GCA_001022095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733641",
   "collection_date": "2008-03",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "CAV1043"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03742638",
   "collection_date": "2014-12-01",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "ATCC 35953"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00166948",
   "collection_date": "2018-08",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "1808-013"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00197875",
   "collection_date": "2018",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "A2563"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16515958",
   "collection_date": "2019-11",
+  "geo_loc_name": "CHINA",
   "host": "RICE",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "SD4L"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00282211",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "FELIS CATUS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "En30"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00268104",
   "collection_date": "2019",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "Ent261"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26527994",
   "collection_date": "2019-06-19",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BRONCHIAL GRANULOMA",
   "scientific_name": "Enterobacter asburiae",
   "strain": "5549"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379558",
   "collection_date": "2016-12",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "161373-yvys"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379553",
   "collection_date": "2019-07",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter asburiae",
   "strain": "AR2284-yvys"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379552",
   "collection_date": "2018-04",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Enterobacter asburiae",
   "strain": "AR0468-yvys"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379551",
   "collection_date": "2016-07",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "16773-yvys"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29928038",
   "collection_date": "2020",
+  "geo_loc_name": "SOUTH AFRICA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Enterobacter asburiae",
   "strain": "R_A5.MM"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174002",
   "collection_date": "2016-09-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter asburiae",
   "strain": "2497"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387623",
   "collection_date": "2017-01-24",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL INFECTION",
   "scientific_name": "Enterobacter asburiae",
   "strain": "S3_CRE3"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32733969",
   "collection_date": "2022-11-16",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "2022CK-00757"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974111",
   "collection_date": "2017",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "2017-45-80"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35981008",
   "collection_date": "2020-06",
+  "geo_loc_name": "CHINA",
   "host": "RICE",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "RG1"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298529",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "10A:C"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298526",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "42A:C"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298525",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "30A:C"
  },
@@ -197,8 +239,43 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37542530",
   "collection_date": "2022-03-04",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter asburiae",
   "strain": "FAHZZU5722"
+ },
+ {
+  "asm_acc": "GCA_033130105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00113925",
+  "collection_date": "2016",
+  "geo_loc_name": "JAPAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "TA61661"
+ },
+ {
+  "asm_acc": "GCA_035556915.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39334912",
+  "collection_date": "2023-12-29",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "2024CK-00035"
+ },
+ {
+  "asm_acc": "GCA_039623865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN32635504",
+  "collection_date": "2013-06-07",
+  "geo_loc_name": "POLAND",
+  "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIAL INFECTION",
+  "scientific_name": "Enterobacter asburiae",
+  "strain": "WUM-UW/843"
  }
 ]

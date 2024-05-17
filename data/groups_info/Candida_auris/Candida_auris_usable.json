@@ -1,14 +1,27 @@
 [
  {
-  "Candida_auris": "PDG000000067.148",
-  "date": "Thu Oct 19 21:09:01 2023"
+  "Candida_auris": "PDG000000067.247",
+  "date": "Wed May 15 22:21:30 2024"
+ },
+ {
+  "asm_acc": "GCA_002759435.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN05379624",
+  "collection_date": "2008",
+  "geo_loc_name": "PAKISTAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
+  "scientific_name": "[Candida] auris",
+  "strain": "B8441"
  },
  {
   "asm_acc": "GCA_008275145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05379621",
   "collection_date": "2012",
+  "geo_loc_name": "VENEZUELA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "[Candida] auris",
   "strain": "B11245"
  },
@@ -17,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05379608",
   "collection_date": "2009",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "[Candida] auris",
   "strain": "B11220"
  },
@@ -26,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12083544",
   "collection_date": "2016-04-06",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -35,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15723399",
   "collection_date": "2019-07-20",
+  "geo_loc_name": "ITALY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": "FG_GE1"
  },
@@ -44,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10139530",
   "collection_date": "2016-08-04",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDA INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -53,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13294127",
   "collection_date": "2014-04-07",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDA INFECTION OR COLONIZATION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -62,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13354598",
   "collection_date": "2004-01-15",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDA INFECTION OR COLONIZATION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -71,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05379594",
   "collection_date": null,
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "[Candida] auris",
   "strain": "B11205"
  },
@@ -80,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15834475",
   "collection_date": "2018-01-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDIASIS",
   "scientific_name": "[Candida] auris",
   "strain": "B17721"
  },
@@ -89,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10141991",
   "collection_date": "2017-03-17",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDA INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": "B12631"
  },
@@ -98,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13294188",
   "collection_date": "2012-10-18",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDA INFECTION OR COLONIZATION",
   "scientific_name": "[Candida] auris",
   "strain": "B12037"
  },
@@ -107,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13294125",
   "collection_date": "2017-09-11",
+  "geo_loc_name": "UNITED ARAB EMIRATES",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDEMIA",
   "scientific_name": "[Candida] auris",
   "strain": "B13916"
  },
@@ -116,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11570381",
   "collection_date": "2018-10",
+  "geo_loc_name": "IRAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "OTOMYCOSIS",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -125,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589312",
   "collection_date": "2021-02-15",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDEMIA",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -134,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589304",
   "collection_date": "2021-01-20",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -143,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589303",
   "collection_date": "2021-01-15",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -152,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589311",
   "collection_date": "2021-02-15",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDEMIA",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -161,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589310",
   "collection_date": "2021-01-21",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -170,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589309",
   "collection_date": "2021-02-11",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -179,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589302",
   "collection_date": "2021-01-14",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -188,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589298",
   "collection_date": "2021-01-02",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -197,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589308",
   "collection_date": "2021-02-05",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -206,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589305",
   "collection_date": "2021-01-25",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -215,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589307",
   "collection_date": "2021-02-06",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -224,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589296",
   "collection_date": "2020-12-18",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -233,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589306",
   "collection_date": "2021-01-28",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -242,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589297",
   "collection_date": "2020-12-19",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RASH",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -251,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589300",
   "collection_date": "2021-01-10",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -260,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589301",
   "collection_date": "2021-01-10",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDEMIA",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -269,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589294",
   "collection_date": "2020-12-11",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -278,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589284",
   "collection_date": "2020-12-07",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANDIDEMIA",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -287,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589293",
   "collection_date": "2020-12-12",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -296,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589291",
   "collection_date": "2020-10-29",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -305,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589299",
   "collection_date": "2021-01-15",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -314,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589295",
   "collection_date": "2021-01-07",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RASH",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -323,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589292",
   "collection_date": "2020-12-08",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -332,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589289",
   "collection_date": "2020-11-22",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -341,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589287",
   "collection_date": "2020-11-19",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "RESPIRATORY INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -350,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589288",
   "collection_date": "2020-11-27",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -359,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589285",
   "collection_date": "2020-12-08",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "COLONISATION",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
@@ -368,34 +459,42 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19589290",
   "collection_date": "2020-10-07",
+  "geo_loc_name": "LEBANON",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "[Candida] auris",
   "strain": null
  },
  {
-  "asm_acc": "GCA_031357565.1",
+  "asm_acc": "GCA_031357565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35371556",
   "collection_date": "2012",
+  "geo_loc_name": "SOUTH AFRICA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "[Candida] auris",
   "strain": "B11221"
  },
  {
-  "asm_acc": "GCA_031357835.1",
+  "asm_acc": "GCA_031357835.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35371586",
   "collection_date": "2012",
+  "geo_loc_name": "VENEZUELA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "[Candida] auris",
   "strain": "B11244"
  },
  {
-  "asm_acc": "GCA_031359945.1",
+  "asm_acc": "GCA_031359945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35359859",
   "collection_date": "2015",
+  "geo_loc_name": "PAKISTAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "[Candida] auris",
   "strain": "B11103"
  },
@@ -404,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36753179",
   "collection_date": "2022-07-04",
+  "geo_loc_name": "SINGAPORE",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "[Candida] auris",
   "strain": "F1580"
  },
@@ -413,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36753178",
   "collection_date": "2023-04-19",
+  "geo_loc_name": "SINGAPORE",
   "host": "HOMO SAPIENS",
+  "host_disease": "COLONIZATION",
   "scientific_name": "[Candida] auris",
   "strain": "F3485"
  }

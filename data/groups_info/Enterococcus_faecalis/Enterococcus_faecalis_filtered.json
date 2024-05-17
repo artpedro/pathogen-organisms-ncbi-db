@@ -1,7 +1,7 @@
 [
  {
-  "Enterococcus_faecalis": "PDG000000072.406",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Enterococcus_faecalis": "PDG000000072.493",
+  "date": "Wed May 15 22:37:51 2024"
  },
  {
   "Enterococcus_faecalis": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603765",
   "collection_date": "2001",
+  "geo_loc_name": "DENMARK",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis D32",
   "strain": "D32",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_000281195.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_000281195.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00808929",
   "collection_date": "1985",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis EnGen0107",
   "strain": "B594",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_000391485.2"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_000391485.2"
  },
  {
   "Enterococcus_faecalis": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081447",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis DENG1",
   "strain": "DENG1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_000550745.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_000550745.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04621616",
   "collection_date": "2015-02-26",
+  "geo_loc_name": "SWITZERLAND",
   "host": "MUS MUSCULUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "KB1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_001689055.2"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_001689055.2"
  },
  {
   "Enterococcus_faecalis": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06270347",
   "collection_date": "2017-01-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "CLB21560",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_001989555.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_001989555.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04859054",
   "collection_date": "2014-10-21",
+  "geo_loc_name": "USA",
   "host": "MUS MUSCULUS",
+  "host_disease": "LIVER DISEASE",
   "scientific_name": "Enterococcus faecalis",
   "strain": "sorialis",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_002163735.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_002163735.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173351",
   "collection_date": "2015-03-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CONTAMINANT",
   "scientific_name": "Enterococcus faecalis",
   "strain": "FDAARGOS_338",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_002208945.2"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_002208945.2"
  },
  {
   "Enterococcus_faecalis": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00056606",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "UNDARIA PINNATIFIDA",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "W11",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_002355755.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_002355755.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173337",
   "collection_date": "2015-01-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "DRAINAGE",
   "scientific_name": "Enterococcus faecalis",
   "strain": "FDAARGOS_324",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_003030425.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_003030425.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09640605",
   "collection_date": "2011-07",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "TY1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_003345275.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_003345275.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163222",
   "collection_date": "2016-02-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "FDAARGOS_528",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_003812665.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_003812665.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1046663",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "NCTC8745",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_900636775.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_900636775.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00113788",
   "collection_date": "2017-05-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "KUB3006",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_003966385.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_003966385.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00113789",
   "collection_date": "2017-05-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "KUB3007",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_003966405.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_003966405.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08689725",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "CVM N48037F",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_004332015.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_004332015.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08689724",
   "collection_date": "2014",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "CVM N60443F",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_004332035.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_004332035.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08803040",
   "collection_date": "2017-04-01",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "FC",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_005158025.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_005158025.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3614265",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE: NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "NCTC8732",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_901553725.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_901553725.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09428129",
   "collection_date": "2017-11",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Enterococcus faecalis",
   "strain": "C25",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_005979285.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_005979285.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09428130",
   "collection_date": "2017-11",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Enterococcus faecalis",
   "strain": "C54",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_005979305.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_005979305.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11959349",
   "collection_date": "2019-04-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "HA-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_006349345.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_006349345.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10346775",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ZYMOBIOMICS MICROBIAL COMMUNITY STANDARD STRAIN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "FDAARGOS_611",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_006364815.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_006364815.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11397621",
   "collection_date": "2004-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "VE14089",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_006494835.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_006494835.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11415942",
   "collection_date": "2015-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "VE18379",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_006494855.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_006494855.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11416928",
   "collection_date": "2016-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "VE18395",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_006494875.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_006494875.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12272102",
   "collection_date": "2013",
+  "geo_loc_name": "BRAZIL",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "L8",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_009498175.3"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_009498175.3"
  },
  {
   "Enterococcus_faecalis": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10962800",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis R712",
   "strain": "R712",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_009662495.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_009662495.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12990710",
   "collection_date": "2016-04-23",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "JY32",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_010103655.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_010103655.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14253864",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_011193375.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_011193375.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13536105",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "TH4125",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_012594215.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_012594215.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14408962",
   "collection_date": "2016",
+  "geo_loc_name": "CANADA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EGM183",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_014844235.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_014844235.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17615183",
   "collection_date": "2013",
+  "geo_loc_name": "BRAZIL",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "L11",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_016812095.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_016812095.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18062968",
   "collection_date": "2013",
+  "geo_loc_name": "BRAZIL",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "L13",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_017280035.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_017280035.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18063036",
   "collection_date": "2013",
+  "geo_loc_name": "BRAZIL",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "L18",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_017280235.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_017280235.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -418,22 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13219623",
   "collection_date": "2018-01-10",
+  "geo_loc_name": "BANGLADESH",
   "host": "TILAPIA (OREOCHROMIS NILOTICUS)",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BFF1B1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_017357805.1"
- },
- {
-  "Enterococcus_faecalis": null,
-  "date": null,
-  "asm_acc": "GCA_017639585.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN15871855",
-  "collection_date": "2001",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus faecalis",
-  "strain": "EF-2001",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_017639585.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_017357805.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -442,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6595200",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": null,
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_906464835.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_906464835.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -454,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6595202",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": null,
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_906464875.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_906464875.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -466,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6595199",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": null,
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_906464865.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_906464865.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -478,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6595197",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": null,
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_906464895.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_906464895.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -490,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6595201",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": null,
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_906464925.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_906464925.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -502,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988090",
   "collection_date": "2018-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "ENETEROCOCCUS FAECALIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "18-243",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_018517125.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_018517125.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -514,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19292310",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "POLAND",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CARRIAGE",
   "scientific_name": "Enterococcus faecalis",
   "strain": "1207/14",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_018986755.2"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_018986755.2"
  },
  {
   "Enterococcus_faecalis": null,
@@ -526,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19958212",
   "collection_date": "2019-06-10",
+  "geo_loc_name": "CHINA",
   "host": "GOAT",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "SY-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_019195415.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_019195415.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -538,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6595198",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": null,
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_906464915.2"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_906464915.2"
  },
  {
   "Enterococcus_faecalis": null,
@@ -550,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25117697",
   "collection_date": "2018-06-17",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "UK045",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_021610105.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_021610105.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -562,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249822",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "152",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212845.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212845.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -574,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249821",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "143-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212865.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212865.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -586,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249820",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "142-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212885.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212885.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -598,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249819",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "133-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212905.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212905.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -610,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249818",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "119-2",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212925.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212925.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -622,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249817",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "119-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212945.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212945.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -634,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249816",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "101-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212965.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212965.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -646,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249814",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "59",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022212985.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022212985.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -658,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249813",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "43-2",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022213005.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022213005.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -670,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25249812",
   "collection_date": "2015-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "2-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022213025.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022213025.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -682,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26281488",
   "collection_date": "2022",
+  "geo_loc_name": "CHINA",
   "host": "THE STATE KEY LABORATORY BREEDING BASE OF BASIC SCIENCE OF STOMATOLOGY",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "LJX 0909",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022557275.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022557275.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -694,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573781",
   "collection_date": "2019-04-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "UAMS_EL56",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022648285.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022648285.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -706,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573780",
   "collection_date": "2019-03-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "UAMS_EL54",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022648425.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022648425.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -718,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573779",
   "collection_date": "2019-03-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "UAMS_EL53",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022648595.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022648595.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -730,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26026625",
   "collection_date": "2004-04-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "UTI",
   "scientific_name": "Enterococcus faecalis",
   "strain": "VSE-WC032",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022691465.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022691465.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -742,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26026624",
   "collection_date": "2004-04-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "UTI",
   "scientific_name": "Enterococcus faecalis",
   "strain": "VRE-WC031",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022691485.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022691485.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -754,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754979",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "NY13321",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022699585.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022699585.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -766,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13336268",
   "collection_date": "2019-07-10",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "RHODNIUS PROLIXUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "RF_1_1_25_1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_022810805.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_022810805.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -778,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424485",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "S11-6",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375245.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375245.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -790,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424484",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "S39-4",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375265.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375265.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -802,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424737",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "661",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375465.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375465.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -814,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424736",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "732",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375485.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375485.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -826,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424735",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "249",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375505.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375505.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -838,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424734",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "705",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375525.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375525.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -850,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424733",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "1521",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023375545.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023375545.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -862,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13955257",
   "collection_date": "2012-10-24",
+  "geo_loc_name": "GERMANY",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "FMAMOB6",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023523795.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023523795.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -874,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20607820",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "UREMIA",
   "scientific_name": "Enterococcus faecalis",
   "strain": "M817",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023612035.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023612035.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -886,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28677694",
   "collection_date": "2021-10",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "QZ076",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023650735.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023650735.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -898,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28677770",
   "collection_date": "2021-03",
+  "geo_loc_name": "CHINA",
   "host": "GOOSE",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "CQ025",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_023702145.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_023702145.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -910,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30011706",
   "collection_date": "2020",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "JF3A-223",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_024579755.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_024579755.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -922,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30011847",
   "collection_date": "2020",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "JF3A-4253",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_024579795.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_024579795.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -934,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30551391",
   "collection_date": "2018-02-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BANGLADESH",
+  "host": "HUMAN",
+  "host_disease": "URINARY TRACT INFECTION (UTI)",
   "scientific_name": "Enterococcus faecalis",
   "strain": "SJ82",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_024927865.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_024927865.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -946,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342476",
   "collection_date": "2021-05-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE69",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025957925.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025957925.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -958,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342470",
   "collection_date": "2019-11-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE52",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958025.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958025.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -970,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342468",
   "collection_date": "2019-09-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE47",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958065.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958065.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -982,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342467",
   "collection_date": "2019-09-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE45",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958085.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958085.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -994,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342466",
   "collection_date": "2019-09-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE43",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958125.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958125.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1006,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342465",
   "collection_date": "2019-06-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE33",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958325.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958325.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1018,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342464",
   "collection_date": "2019-06-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE32",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958445.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958445.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1030,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342463",
   "collection_date": "2019-05-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE25",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958625.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958625.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1042,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342462",
   "collection_date": "2019-04-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE17",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958785.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958785.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1054,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342461",
   "collection_date": "2019-04-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE16",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958805.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958805.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1066,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342460",
   "collection_date": "2019-03-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE15",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958825.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958825.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1078,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342459",
   "collection_date": "2019-03-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE13",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958845.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958845.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1090,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342458",
   "collection_date": "2019-02-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE11",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958865.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958865.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1102,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342457",
   "collection_date": "2019-01-31",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE8",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958885.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958885.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1114,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342456",
   "collection_date": "2019-01-31",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE7",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958905.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958905.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1126,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31342455",
   "collection_date": "2019-01-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "BE5",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_025958925.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_025958925.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1138,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32023558",
   "collection_date": "2021-11-01",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "T30",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_026802365.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_026802365.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1150,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32023589",
   "collection_date": "2021-11-01",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "M61",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_026802385.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_026802385.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1162,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32638696",
   "collection_date": "2018-10",
+  "geo_loc_name": "CHINA",
   "host": "FAECES",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "ESC1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_027942035.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_027942035.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1174,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00520112",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "SVR2330",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028131645.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028131645.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1186,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424512",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K198-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335305.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335305.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1198,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424511",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K190-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335345.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335345.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1210,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424518",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K70-12a",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335425.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335425.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1222,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424516",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K137-1a",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335445.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335445.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1234,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424517",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K194-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335505.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335505.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1246,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424515",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K72-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335545.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335545.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1258,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424519",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K80-2b",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335665.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335665.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1270,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424514",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K188-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335685.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335685.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1282,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424510",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K205-3",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335705.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335705.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1294,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424513",
   "collection_date": "2021",
-  "host": "BOVINE",
+  "geo_loc_name": null,
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "K191-1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028335725.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028335725.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1306,10 +1508,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31723118",
   "collection_date": "2022-05-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "PAUCI-IMMUNE CRESCENTIC GLOMERULONEPHRITIS (PICGN)",
   "scientific_name": "Enterococcus faecalis",
   "strain": "SVJ-EF01",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028598965.2"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028598965.2"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1318,10 +1522,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33246475",
   "collection_date": "2021-08-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "B-537",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_028743535.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_028743535.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1330,10 +1536,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33275456",
   "collection_date": "2021-12-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "VSI48",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_029011255.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_029011255.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1342,10 +1550,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33617003",
   "collection_date": "2015-11-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "3143",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_029278545.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_029278545.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1354,10 +1564,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30932864",
   "collection_date": "2020",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INTERSTITIAL PNEUMONIA",
   "scientific_name": "Enterococcus faecalis",
   "strain": "NY13412",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_029866805.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_029866805.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1366,10 +1578,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30967739",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "RESPIRATORY DISTRESS SYNDROME",
   "scientific_name": "Enterococcus faecalis",
   "strain": "NY13410",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_029910175.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_029910175.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1378,10 +1592,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741222",
   "collection_date": "2017-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPNK7",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020155.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020155.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1390,10 +1606,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741216",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF15",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020175.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020175.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1402,10 +1620,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741215",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF13",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020195.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020195.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1414,10 +1634,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741214",
   "collection_date": "2018-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF5",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020215.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020215.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1426,10 +1648,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741213",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF2",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020235.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020235.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1438,10 +1662,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741212",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC130",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020255.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020255.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1450,10 +1676,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741217",
   "collection_date": "2018-08",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF20",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020425.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020425.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1462,10 +1690,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741210",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC123",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020455.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020455.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1474,10 +1704,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741209",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC116",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020475.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020475.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1486,10 +1718,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741208",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC109-2",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020495.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020495.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1498,10 +1732,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741207",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC108",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020515.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020515.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1510,10 +1746,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741206",
   "collection_date": "2019-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC94",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020535.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020535.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1522,10 +1760,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741205",
   "collection_date": "2019-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC85",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020555.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020555.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1534,10 +1774,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741203",
   "collection_date": "2019-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC61",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020575.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020575.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1546,10 +1788,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741202",
   "collection_date": "2018-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC49",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020595.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020595.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1558,10 +1802,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741200",
   "collection_date": "2018-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC33",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020615.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020615.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1570,10 +1816,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741197",
   "collection_date": "2018-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC20",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020645.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020645.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1582,10 +1830,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741196",
   "collection_date": "2018-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC17",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020665.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020665.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1594,10 +1844,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741194",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC12",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020685.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020685.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1606,10 +1858,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741193",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC11",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020705.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020705.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1618,10 +1872,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741192",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC9",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020725.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020725.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1630,10 +1886,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741191",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC8",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030020745.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030020745.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1642,10 +1900,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31253290",
   "collection_date": "2019-11-15",
+  "geo_loc_name": "CHINA",
   "host": "CAMEL",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "AFL-109F",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030064715.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030064715.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1654,10 +1914,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00521555",
   "collection_date": "2021-06-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "JARB-HU0796",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030295445.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030295445.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1666,10 +1928,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34473392",
   "collection_date": "2022-07-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "HL1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030512425.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030512425.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1678,10 +1942,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741221",
   "collection_date": "2019-02",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF36",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517125.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517125.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1690,10 +1956,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741220",
   "collection_date": "2018-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF27",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517355.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517355.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1702,10 +1970,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741218",
   "collection_date": "2018-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF23",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517385.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517385.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1714,10 +1984,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741211",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC129",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517415.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517415.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1726,10 +1998,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741201",
   "collection_date": "2018-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC43",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517445.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517445.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1738,10 +2012,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741199",
   "collection_date": "2018-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC29",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517475.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517475.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1750,10 +2026,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741198",
   "collection_date": "2018-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC23",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517505.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517505.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1762,10 +2040,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741219",
   "collection_date": "2019-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsPF24-2",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517535.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517535.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1774,10 +2054,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741190",
   "collection_date": "2018-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC1",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517565.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517565.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1786,10 +2068,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33741195",
   "collection_date": "2018-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CHRONIC CYSTITIS",
   "scientific_name": "Enterococcus faecalis",
   "strain": "EfsC13",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_030517625.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_030517625.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1798,10 +2082,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37158604",
   "collection_date": "2022-07-23",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "JF4A2234",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_031186115.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_031186115.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1810,10 +2096,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30050173",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "N775_PC7",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_031206965.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_031206965.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1822,10 +2110,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30050172",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "N775_PC2",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_031208705.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_031208705.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1834,10 +2124,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37639062",
   "collection_date": "2022-01-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOCCAL URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-1348",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032680925.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032680925.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1846,10 +2138,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37639060",
   "collection_date": "2021-07-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOCCAL URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-397",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032680945.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032680945.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1858,10 +2152,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37639061",
   "collection_date": "2021-12-31",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOCCAL URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-1276",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032680965.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032680965.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1870,10 +2166,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37639064",
   "collection_date": "2022-10-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOCCAL URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-2953",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032680985.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032680985.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1882,10 +2180,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37639065",
   "collection_date": "2022-11-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOCCAL URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-3222",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032681005.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032681005.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1894,10 +2194,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37639063",
   "collection_date": "2022-01-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "ENTEROCOCCAL URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecalis",
   "strain": "ES-1390",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032681025.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032681025.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1906,10 +2208,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37687441",
   "collection_date": "2020-12-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "JF4H-114",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032681065.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032681065.1"
  },
  {
   "Enterococcus_faecalis": null,
@@ -1918,9 +2222,375 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37686922",
   "collection_date": "2020-10-20",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecalis",
   "strain": "CF3A-2134",
-  "fasta": "data/groups_info/Enterococcus_faecalis/GCA_032760395.1"
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_032760395.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_034642355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38673182",
+  "collection_date": "2023-03-27",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "RECURRENT URINARY TRACT INFECTION",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "HRH55",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_034642355.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_034644395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38673172",
+  "collection_date": "2022-10-13",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "RECURRENT URINARY TRACT INFECTION",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "HRH40",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_034644395.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_035621375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38516303",
+  "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "EfaR372",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_035621375.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036263135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286519",
+  "collection_date": "2020-12-02",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF4H-224",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036263135.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036264895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286518",
+  "collection_date": "2020-11-30",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF4H-114",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036264895.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036266595.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286517",
+  "collection_date": "2020-09-14",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF3A-343",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036266595.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036268395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286516",
+  "collection_date": "2020-10-20",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF3A-253",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036268395.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036270335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286515",
+  "collection_date": "2020-11-17",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF4A-3113",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036270335.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036272135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286514",
+  "collection_date": "2020-07-07",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF2A-2143",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036272135.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036273895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286513",
+  "collection_date": "2020-12-02",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF4A-2234",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036273895.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036275755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38286512",
+  "collection_date": "2020-09-22",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF3A-4314",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036275755.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036277495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38411966",
+  "collection_date": "2021-12-14",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "KS3H-124",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036277495.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036279155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38411965",
+  "collection_date": "2021-10-19",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "KS2H-124",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036279155.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036280735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38411964",
+  "collection_date": "2020-03-25",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF1H-454",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036280735.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036281635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38411963",
+  "collection_date": "2020-03-25",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "JF1A-4353",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036281635.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036281655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38411962",
+  "collection_date": "2021-10-02",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "PIG",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "CF3A-1283",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036281655.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036352175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39634307",
+  "collection_date": "2005/2009",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "IDRL-7415",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036352175.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036352195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39634309",
+  "collection_date": "2005/2009",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "IDRL-7639",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036352195.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036352215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39634310",
+  "collection_date": "2005/2009",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "IDRL-9065",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036352215.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036352235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39634308",
+  "collection_date": "2005/2009",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "IDRL-7538",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036352235.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036542485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39462675",
+  "collection_date": "2020-07-01",
+  "geo_loc_name": "TUNISIA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "UO.H3019",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036542485.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036689605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39888444",
+  "collection_date": "2022-11-14",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "RECURRENT URINARY TRACT INFECTION",
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "HRH46",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036689605.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_036793375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39939912",
+  "collection_date": "2023",
+  "geo_loc_name": "SWITZERLAND",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "N23-3408",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_036793375.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_037198295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38231263",
+  "collection_date": "2023-05-20",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "B05",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_037198295.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_037238825.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40233026",
+  "collection_date": "2021-05-10",
+  "geo_loc_name": "CHINA",
+  "host": "NOT COLLECTED",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "EfaR132",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_037238825.1"
+ },
+ {
+  "Enterococcus_faecalis": null,
+  "date": null,
+  "asm_acc": "GCA_037482205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40375179",
+  "collection_date": "2022-06-05",
+  "geo_loc_name": "CHINA",
+  "host": "ANIMAL",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecalis",
+  "strain": "J-5",
+  "fasta": "data\\groups_info\\Enterococcus_faecalis\\GCA_037482205.1"
  }
 ]

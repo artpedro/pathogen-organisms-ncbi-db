@@ -1,17 +1,31 @@
 {
  "group": "Enterobacter_bugandensis",
- "count": 7,
+ "count": 8,
  "species": {
-  "Enterobacter bugandensis": 7
+  "Enterobacter bugandensis": 8
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterobacter bugandensis": 7
+  "Enterobacter bugandensis": 8
  },
  "strain": {},
+ "location": {
+  "TANZANIA": 1,
+  "FRANCE": 1,
+  "USA": 1,
+  "GERMANY": 2,
+  "CHINA": 1,
+  "UNITED KINGDOM": 2
+ },
  "hosts": {
-  "HOMO SAPIENS": 5,
+  "NOT PROVIDED": 1,
   "LARUS MICHAHELLIS": 1,
-  "NOT PROVIDED": 1
+  "HUMAN": 6
+ },
+ "hosts_diseases": {
+  "RESPIRATORY": 2,
+  "COLONIZED": 1,
+  "null": 4,
+  "BLOOD-STREAM INFECTION": 1
  }
 }

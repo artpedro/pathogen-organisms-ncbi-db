@@ -1,14 +1,16 @@
 [
  {
-  "Shewanella_algae": "PDG000000084.18",
-  "date": "Sat Oct  7 20:56:29 2023"
+  "Shewanella_algae": "PDG000000084.27",
+  "date": "Wed May 15 22:34:36 2024"
  },
  {
   "asm_acc": "GCA_009846595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13381879",
   "collection_date": "2018-07-01",
+  "geo_loc_name": "TANZANIA",
   "host": "POULTRY",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "18064-CSB-B-B"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08166472",
   "collection_date": "2015",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Shewanella algae",
   "strain": "VGH117"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11083189",
   "collection_date": "1990",
+  "geo_loc_name": "JAPAN",
   "host": "JANIA SP. (RED ALGA)",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "CECT-5071"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284628",
   "collection_date": null,
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM4442"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284637",
   "collection_date": "2014",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM17378"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284638",
   "collection_date": "2014",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM17379"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284639",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM17382"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284640",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM17383"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284641",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM17384"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00284642",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Shewanella algae",
   "strain": "TUM17386"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09988152",
   "collection_date": "2015",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Shewanella algae",
   "strain": "VGH117"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31456038",
   "collection_date": "2022-09-02",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Shewanella algae",
   "strain": "B2215466"
  }

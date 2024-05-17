@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_cloacae": "PDG000000028.935",
-  "date": "Thu Oct 19 21:09:15 2023"
+  "Enterobacter_cloacae": "PDG000000028.1040",
+  "date": "Wed May 15 22:22:40 2024"
  },
  {
   "asm_acc": "GCA_002303275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05831100",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "M12X01451"
  },
@@ -17,25 +19,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06448868",
   "collection_date": "2010",
+  "geo_loc_name": "VIET NAM",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Enterobacter cloacae",
   "strain": "PIMB10EC27"
- },
- {
-  "asm_acc": "GCA_004151605.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN10844942",
-  "collection_date": "2015-05",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterobacter cloacae",
-  "strain": "EN3600"
  },
  {
   "asm_acc": "GCA_009707405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13288306",
   "collection_date": "2017-03-29",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NONE",
   "scientific_name": "Enterobacter cloacae",
   "strain": "CBG15936"
  },
@@ -44,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999973",
   "collection_date": "2014",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "14240244101"
  },
@@ -53,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22169090",
   "collection_date": "2020-12-10",
+  "geo_loc_name": "SOUTH AFRICA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "ECl_1.VN"
  },
@@ -62,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8065834",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": null
  },
@@ -71,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14938331",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "MY490"
  },
@@ -80,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18311224",
   "collection_date": "2019-05",
+  "geo_loc_name": "CHINA",
   "host": "SWINE",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "GX1Z-1L"
  },
@@ -89,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379556",
   "collection_date": "2012-11",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae subsp. cloacae",
   "strain": "12961-yvys"
  },
@@ -98,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26686306",
   "collection_date": "2021-10",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "SD21"
  },
@@ -107,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26208495",
   "collection_date": "2019",
+  "geo_loc_name": "GHANA",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "Enterobacter cloacae",
   "strain": "EFN743"
  },
@@ -116,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174020",
   "collection_date": "2018-10-31",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter cloacae",
   "strain": "3143"
  },
@@ -125,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29981189",
   "collection_date": "2022-06-28",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "2022CK-00409"
  },
@@ -134,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35795218",
   "collection_date": "2018-01-31",
+  "geo_loc_name": "SENEGAL",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae subsp. cloacae",
   "strain": "Ecc8276_LB-HALD"
  },
@@ -143,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298531",
   "collection_date": "2018-10-30",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "99183042147"
  },
@@ -152,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529177",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "isolateF"
  },
@@ -161,8 +184,21 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37529173",
   "collection_date": "2017",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter cloacae",
   "strain": "isolateB"
+ },
+ {
+  "asm_acc": "GCA_033802605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38124868",
+  "collection_date": "2019-01",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterobacter cloacae",
+  "strain": "53EVA"
  }
 ]

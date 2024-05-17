@@ -1,14 +1,16 @@
 [
  {
-  "Staphylococcus_pseudintermedius": "PDG000000042.341",
-  "date": "Thu Oct 19 21:11:40 2023"
+  "Staphylococcus_pseudintermedius": "PDG000000042.381",
+  "date": "Wed May 15 22:35:36 2024"
  },
  {
   "asm_acc": "GCA_000185885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603958",
   "collection_date": null,
+  "geo_loc_name": "HONG KONG",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius HKU10-03",
   "strain": "HKU10-03"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05181828",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "CANINE",
+  "host_disease": "INFECTION",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "NA45"
  },
@@ -26,25 +30,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05181827",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "CANINE",
+  "host_disease": "PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "081661"
- },
- {
-  "asm_acc": "GCA_001685665.2",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN04886711",
-  "collection_date": "2006",
-  "host": "CANIS LUPUS FAMILIARIS",
-  "scientific_name": "Staphylococcus pseudintermedius",
-  "strain": "063228"
  },
  {
   "asm_acc": "GCA_002950775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02947195",
   "collection_date": "2009",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "5912"
  },
@@ -53,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10142584",
   "collection_date": "2018",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "G3C4"
  },
@@ -62,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3491697",
   "collection_date": "1980/1988",
+  "geo_loc_name": null,
   "host": "DOLPHIN",
+  "host_disease": null,
   "scientific_name": "Staphylococcus delphini",
   "strain": "NCTC12225"
  },
@@ -71,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378491",
   "collection_date": "2009-01-30",
+  "geo_loc_name": "THAILAND",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "AH18"
  },
@@ -80,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378493",
   "collection_date": "2009-01-30",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "VB88"
  },
@@ -89,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09519064",
   "collection_date": "2010-01-30",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "VB16"
  },
@@ -98,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378648",
   "collection_date": "2009-01-30",
+  "geo_loc_name": "THAILAND",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "AI14"
  },
@@ -107,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378519",
   "collection_date": "2009-01-30",
+  "geo_loc_name": "THAILAND",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "AK9"
  },
@@ -116,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09378520",
   "collection_date": "2009-01-30",
+  "geo_loc_name": "THAILAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "AP20"
  },
@@ -125,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999170",
   "collection_date": "2018-03",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "COMPANION DOG",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "KCTC 43134"
  },
@@ -134,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12999206",
   "collection_date": "2018-03",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "KCTC 43136"
  },
@@ -143,16 +162,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15897749",
   "collection_date": "2018-04-25",
+  "geo_loc_name": null,
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
-  "strain": "cdc 18-1182"
+  "strain": "Z0118SP0130"
  },
  {
   "asm_acc": "GCA_014490535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15950890",
   "collection_date": "2018-05-13",
+  "geo_loc_name": null,
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "Z0118SP0108"
  },
@@ -161,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039297",
   "collection_date": "2019-01-18",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CANINE PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "SP_11306-4A"
  },
@@ -170,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039295",
   "collection_date": "2019-01-18",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CANINE PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "SP_11304-3A"
  },
@@ -179,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039294",
   "collection_date": "2019-01-18",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CANINE PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "SP_11304-2A"
  },
@@ -188,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039296",
   "collection_date": "2019-01-18",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CANINE PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "SP_11306-1A"
  },
@@ -197,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039293",
   "collection_date": "2019-01-18",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CANINE PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "SP_11304-1A"
  },
@@ -206,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039292",
   "collection_date": "2018-12-11",
+  "geo_loc_name": "USA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "CANINE PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "SP_9261-1A"
  },
@@ -215,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102162",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP138"
  },
@@ -224,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102161",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP137"
  },
@@ -233,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102154",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP118"
  },
@@ -242,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102142",
   "collection_date": "2018-12",
+  "geo_loc_name": "ARGENTINA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DSP034"
  },
@@ -251,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102159",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP135"
  },
@@ -260,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102137",
   "collection_date": "2014-07",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DSP026"
  },
@@ -269,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102158",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP134"
  },
@@ -278,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102132",
   "collection_date": "2013-08",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DSP020"
  },
@@ -287,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102122",
   "collection_date": "2012",
+  "geo_loc_name": "ITALY",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DG072"
  },
@@ -296,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102118",
   "collection_date": "2017",
+  "geo_loc_name": "ITALY",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DG064"
  },
@@ -305,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102133",
   "collection_date": "2013-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DSP021"
  },
@@ -314,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102155",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP125"
  },
@@ -323,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102140",
   "collection_date": "2018-10",
+  "geo_loc_name": "ARGENTINA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DSP030"
  },
@@ -332,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102138",
   "collection_date": "2014-07",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SUPERFICIAL PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "DSP027"
  },
@@ -341,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102145",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP079"
  },
@@ -350,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17102146",
   "collection_date": "2019-05",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP080"
  },
@@ -359,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14548661",
   "collection_date": "2014-01",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "PYODERMA",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "6109"
  },
@@ -368,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249952",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP227"
  },
@@ -377,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249978",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP284"
  },
@@ -386,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249960",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP259"
  },
@@ -395,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249974",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP280"
  },
@@ -404,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249964",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP263"
  },
@@ -413,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249966",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP265"
  },
@@ -422,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249928",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP147"
  },
@@ -431,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249932",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP153"
  },
@@ -440,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249931",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP152"
  },
@@ -449,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249951",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP226"
  },
@@ -458,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249930",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP151"
  },
@@ -467,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249959",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP258"
  },
@@ -476,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249972",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP278"
  },
@@ -485,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249961",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP260"
  },
@@ -494,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249933",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP154"
  },
@@ -503,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249954",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP238"
  },
@@ -512,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249940",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP166"
  },
@@ -521,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249942",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP204"
  },
@@ -530,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249935",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP156"
  },
@@ -539,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249968",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP267"
  },
@@ -548,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249965",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP264"
  },
@@ -557,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249958",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP255"
  },
@@ -566,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249962",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP261"
  },
@@ -575,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249955",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP239"
  },
@@ -584,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249963",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP262"
  },
@@ -593,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249967",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP266"
  },
@@ -602,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249957",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP252"
  },
@@ -611,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249929",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP149"
  },
@@ -620,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249953",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP228"
  },
@@ -629,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249971",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP277"
  },
@@ -638,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249977",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP283"
  },
@@ -647,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249937",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP158"
  },
@@ -656,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249941",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP199"
  },
@@ -665,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249970",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP276"
  },
@@ -674,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249969",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP274"
  },
@@ -683,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249936",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP157"
  },
@@ -692,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249947",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP214"
  },
@@ -701,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249976",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP282"
  },
@@ -710,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249956",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP240"
  },
@@ -719,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249938",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP159"
  },
@@ -728,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249946",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP213"
  },
@@ -737,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249939",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP160"
  },
@@ -746,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249949",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP224"
  },
@@ -755,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249934",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP155"
  },
@@ -764,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249948",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP216"
  },
@@ -773,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249945",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP212"
  },
@@ -782,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249950",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP225"
  },
@@ -791,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249944",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP211"
  },
@@ -800,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249943",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP210"
  },
@@ -809,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568742",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP285"
  },
@@ -818,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568738",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP250"
  },
@@ -827,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568732",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP242"
  },
@@ -836,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568730",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP237"
  },
@@ -845,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568736",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP246"
  },
@@ -854,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568737",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP249"
  },
@@ -863,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568733",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP243"
  },
@@ -872,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568740",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP253"
  },
@@ -881,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568735",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP245"
  },
@@ -890,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568734",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP244"
  },
@@ -899,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568731",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP241"
  },
@@ -908,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568739",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP251"
  },
@@ -917,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568728",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP235"
  },
@@ -926,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568729",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP236"
  },
@@ -935,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568727",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP232"
  },
@@ -944,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20568743",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP286"
  },
@@ -953,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249973",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP279"
  },
@@ -962,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21249975",
   "collection_date": "2020-10",
+  "geo_loc_name": "SPAIN",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "HSP281"
  },
@@ -971,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923358",
   "collection_date": "2014",
+  "geo_loc_name": "KENYA",
   "host": "CAMEL",
+  "host_disease": null,
   "scientific_name": "Staphylococcus delphini",
   "strain": "IVB6245"
  },
@@ -980,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923356",
   "collection_date": "2014",
+  "geo_loc_name": "KENYA",
   "host": "CAMEL",
+  "host_disease": null,
   "scientific_name": "Staphylococcus delphini",
   "strain": "IVB6222"
  },
@@ -989,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923355",
   "collection_date": "2014",
+  "geo_loc_name": "KENYA",
   "host": "CAMEL",
+  "host_disease": null,
   "scientific_name": "Staphylococcus delphini",
   "strain": "IVB6220"
  },
@@ -998,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923354",
   "collection_date": "2014",
+  "geo_loc_name": "KENYA",
   "host": "CAMEL",
+  "host_disease": null,
   "scientific_name": "Staphylococcus delphini",
   "strain": "IVB6219"
  },
@@ -1007,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923353",
   "collection_date": "2013",
+  "geo_loc_name": "SOMALIA",
   "host": "CAMEL",
+  "host_disease": "INTRAMAMMARY INFECTION",
   "scientific_name": "Staphylococcus delphini",
   "strain": "IVB6190"
  },
@@ -1016,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26923357",
   "collection_date": "2014",
+  "geo_loc_name": "KENYA",
   "host": "CAMEL",
+  "host_disease": null,
   "scientific_name": "Staphylococcus delphini",
   "strain": "IVB6226"
  },
@@ -1025,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35621296",
   "collection_date": "2019-04-25",
+  "geo_loc_name": "SWITZERLAND",
   "host": "FELIS CATUS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "19KM0990"
  },
@@ -1034,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35555370",
   "collection_date": "2013",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "OTHER",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "10916-77753"
  },
@@ -1043,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35555368",
   "collection_date": "2016",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SKIN INFECTION",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "6127-64107"
  },
@@ -1052,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36270296",
   "collection_date": "2017-01-03",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "SKIN ABSCESS",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "R41-1"
  },
@@ -1061,7 +1284,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36270287",
   "collection_date": "2017-07-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "N13-1"
  },
@@ -1070,7 +1295,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36270286",
   "collection_date": "2017-07-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": "HEALTHY",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "N9-1"
  },
@@ -1079,8 +1306,241 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31222422",
   "collection_date": "2022-10-06",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "WOUND INFECTION",
   "scientific_name": "Staphylococcus pseudintermedius",
   "strain": "452964"
+ },
+ {
+  "asm_acc": "GCA_034015095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696766",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog021"
+ },
+ {
+  "asm_acc": "GCA_034015935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696763",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog018"
+ },
+ {
+  "asm_acc": "GCA_034016795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696758",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog012"
+ },
+ {
+  "asm_acc": "GCA_034016905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696756",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog010"
+ },
+ {
+  "asm_acc": "GCA_034017155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696753",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog008"
+ },
+ {
+  "asm_acc": "GCA_034018275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696751",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog004"
+ },
+ {
+  "asm_acc": "GCA_034019295.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696750",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog003"
+ },
+ {
+  "asm_acc": "GCA_034021935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696755",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog009_2"
+ },
+ {
+  "asm_acc": "GCA_034025355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696806",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog117_P"
+ },
+ {
+  "asm_acc": "GCA_034027235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696803",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog115"
+ },
+ {
+  "asm_acc": "GCA_034031975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696797",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog106"
+ },
+ {
+  "asm_acc": "GCA_034042035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696783",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog040"
+ },
+ {
+  "asm_acc": "GCA_034042615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696782",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog037"
+ },
+ {
+  "asm_acc": "GCA_034042775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696774",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog029_1"
+ },
+ {
+  "asm_acc": "GCA_034042855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696770",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog024_2"
+ },
+ {
+  "asm_acc": "GCA_034042895.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696839",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog167"
+ },
+ {
+  "asm_acc": "GCA_034042975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696835",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog159"
+ },
+ {
+  "asm_acc": "GCA_034043135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696827",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog143"
+ },
+ {
+  "asm_acc": "GCA_034043455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696809",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog121"
+ },
+ {
+  "asm_acc": "GCA_034043475.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696808",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog120"
+ },
+ {
+  "asm_acc": "GCA_034344885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33696816",
+  "collection_date": "2015-06-27",
+  "geo_loc_name": "KENYA",
+  "host": "CANIS LUPUS FAMILIARIS",
+  "host_disease": null,
+  "scientific_name": "Staphylococcus pseudintermedius",
+  "strain": "Dog129"
  }
 ]

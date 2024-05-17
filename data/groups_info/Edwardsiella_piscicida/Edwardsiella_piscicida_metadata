@@ -9,12 +9,21 @@
   "Edwardsiella piscicida": 16
  },
  "strain": {},
+ "location": {
+  "USA": 10,
+  "JAPAN": 1,
+  "SOUTH KOREA": 5
+ },
  "hosts": {
   "ICTALURUS PUNCTATUS": 8,
+  "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)": 2,
   "ANGUILLA JAPONICA": 1,
   "FISH": 3,
   "TILAPIA": 1,
-  "PARALICHTHYS OLIVACEUS": 1,
-  "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)": 2
+  "PARALICHTHYS OLIVACEUS": 1
+ },
+ "hosts_diseases": {
+  "null": 15,
+  "EDWARDSIELLOSIS": 1
  }
 }

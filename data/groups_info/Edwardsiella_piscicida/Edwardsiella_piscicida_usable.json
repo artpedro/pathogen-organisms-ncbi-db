@@ -1,14 +1,16 @@
 [
  {
-  "Edwardsiella_piscicida": "PDG000000080.25",
-  "date": "Thu Oct 19 21:09:09 2023"
+  "Edwardsiella_piscicida": "PDG000000080.27",
+  "date": "Wed May 15 22:22:19 2024"
  },
  {
   "asm_acc": "GCA_001729265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05240433",
   "collection_date": "2011",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "S11-285"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08938004",
   "collection_date": "1997",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "LADL97-168"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08938382",
   "collection_date": "1999",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "LADL99-462"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939785",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "S07-348"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939752",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "S07-275"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939456",
   "collection_date": "1997",
+  "geo_loc_name": "USA",
   "host": "TILAPIA",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "MA97-004"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939762",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "S07-346"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939553",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "S07-262"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939787",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS PUNCTATUS",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "S07-534"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10855903",
   "collection_date": "2018-08-20",
+  "geo_loc_name": "USA",
   "host": "CATFISH",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "MS-18-199"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13812492",
   "collection_date": "2011-04-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "CK41"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19803007",
   "collection_date": "1999",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "KE5"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19803008",
   "collection_date": "2012",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "SILURUS ASOTUS (CATFISH)",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "CZ12001"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19803006",
   "collection_date": "2018",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PARALICHTHTYS OLIVACEUS (OLIVE FLOUNDER)",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "18EpOKYJ"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31263796",
   "collection_date": "2021-06-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PARALICHTHYS OLIVACEUS",
+  "host_disease": "EDWARDSIELLOSIS",
   "scientific_name": "Edwardsiella piscicida",
   "strain": "Ep21-8"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36795961",
   "collection_date": "1962",
+  "geo_loc_name": "JAPAN",
   "host": "ANGUILLA JAPONICA",
+  "host_disease": null,
   "scientific_name": "Edwardsiella piscicida",
   "strain": "NBRC 12716"
  }

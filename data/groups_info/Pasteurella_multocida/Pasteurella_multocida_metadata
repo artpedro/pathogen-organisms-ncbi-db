@@ -1,39 +1,72 @@
 {
  "group": "Pasteurella_multocida",
- "count": 125,
+ "count": 138,
  "species": {
-  "Pasteurella multocida": 125
+  "Pasteurella multocida": 138
  },
  "subsp.": {
-  "Pasteurella multocida subsp. multocida": 5,
+  "Pasteurella multocida subsp. multocida": 6,
   "Pasteurella multocida subsp. gallicida": 1,
   "Pasteurella multocida subsp. septica": 2
  },
  "scientific_name": {
-  "Pasteurella multocida subsp. multocida str. 3480": 1,
-  "Pasteurella multocida subsp. gallicida": 1,
-  "Pasteurella multocida subsp. multocida": 3,
-  "Pasteurella multocida subsp. septica": 2,
   "Pasteurella multocida subsp. multocida str. HB03": 1,
-  "Pasteurella multocida": 117
+  "Pasteurella multocida subsp. gallicida": 1,
+  "Pasteurella multocida": 129,
+  "Pasteurella multocida subsp. multocida str. 3480": 1,
+  "Pasteurella multocida subsp. septica": 2,
+  "Pasteurella multocida subsp. multocida": 4
  },
- "strain": {},
+ "strain": {
+  "Pm3": 2
+ },
+ "location": {
+  "CANADA": 1,
+  "MYANMAR": 1,
+  "VIET NAM": 1,
+  "NETHERLANDS": 1,
+  "IRAN": 1,
+  "null": 18,
+  "AUSTRALIA": 10,
+  "SWITZERLAND": 1,
+  "USA": 37,
+  "FRANCE": 2,
+  "SOUTH KOREA": 1,
+  "GERMANY": 4,
+  "CHINA": 48,
+  "UNITED KINGDOM": 12
+ },
  "hosts": {
-  "RABBIT": 17,
-  "TURKEY": 4,
-  "GOOSE": 2,
-  "MAMORTA HIMALAYANA": 1,
-  "ENVIRONMENT": 7,
-  "ANATIDAE": 1,
-  "MARMOTA HIMALAYANA": 2,
-  "CAT": 1,
   "CAPRA HIRCUS": 1,
-  "CHICKEN": 32,
-  "ORYCTOLAGUS CUNICULUS": 3,
-  "HOMO SAPIENS": 7,
-  "SHEEP": 11,
-  "BOVINE": 29,
   "YAK": 2,
-  "PIG": 5
+  "FELIS CATUS": 2,
+  "CHICKEN": 32,
+  "MAMORTA HIMALAYANA": 1,
+  "MARMOTA HIMALAYANA": 2,
+  "SHEEP": 40,
+  "TURKEY": 4,
+  "HUMAN": 12,
+  "ORYCTOLAGUS CUNICULUS": 3,
+  "RABBIT": 20,
+  "PIG": 5,
+  "GOOSE": 2,
+  "ANATIDAE": 1,
+  "CAT": 1,
+  "ENVIRONMENT": 9,
+  "CYGNUS MELANCORYPHUS": 1
+ },
+ "hosts_diseases": {
+  "CELLULLITIS": 2,
+  "CHOLERA": 1,
+  "SEPSIS": 1,
+  "RESPIRATORY DISEASE": 2,
+  "PORCINE PNEUMONIA": 1,
+  "null": 105,
+  "BILATERAL PNEUMONIA": 1,
+  "DEAD": 2,
+  "SEPTICAEMIA DUE TO FOWL CHOLERA": 2,
+  "PNEUMONIA": 12,
+  "PASTEURELLOSIS": 4,
+  "HUMAN PASTEURELLOSIS": 5
  }
 }

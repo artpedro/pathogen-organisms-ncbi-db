@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_pneumoniae": "PDG000000074.221",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Streptococcus_pneumoniae": "PDG000000074.297",
+  "date": "Wed May 15 22:37:55 2024"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -10,22 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00002223",
   "collection_date": "missing",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NOT DETERMINED",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae TCH8431/19A",
   "strain": "TCH8431/19A",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000196595.1"
- },
- {
-  "Streptococcus_pneumoniae": null,
-  "date": null,
-  "asm_acc": "GCA_000146975.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN02603428",
-  "collection_date": "2003",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Streptococcus pneumoniae AP200",
-  "strain": "AP200",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000146975.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_000196595.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -34,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604071",
   "collection_date": "2001-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae ST556",
   "strain": "ST556",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000251085.2"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_000251085.2"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -46,22 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02299431",
   "collection_date": "missing",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NOT DETERMINED",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae gamPNI0373",
   "strain": "gamPNI0373",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000299015.1"
- },
- {
-  "Streptococcus_pneumoniae": null,
-  "date": null,
-  "asm_acc": "GCA_000348705.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN02436861",
-  "collection_date": null,
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Streptococcus pneumoniae PCS8235",
-  "strain": "PCS8235",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000348705.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_000299015.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -70,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02836939",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "DENMARK",
+  "host": "HUMAN",
+  "host_disease": "HEALTHY",
   "scientific_name": "Streptococcus mitis",
   "strain": "SK637",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_000722765.2"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_000722765.2"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -82,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA1463109",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PT8105",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001095405.3"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001095405.3"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -94,22 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03263069",
   "collection_date": "2005-03-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus mitis",
   "strain": "KCOM 1350 (= ChDC B183)",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001281025.1"
- },
- {
-  "Streptococcus_pneumoniae": null,
-  "date": null,
-  "asm_acc": "GCA_001560895.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN04461788",
-  "collection_date": "2011-12-14",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Streptococcus mitis",
-  "strain": "SVGS_061",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001560895.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001281025.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -118,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05981365",
   "collection_date": "2008-08-20",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "BACTERIAL PNEUMONIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SP49",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001896045.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001896045.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -130,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06009945",
   "collection_date": "2009-04-20",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "PLEURITIS",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SP61",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001896065.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001896065.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -142,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06009955",
   "collection_date": "2008-05-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SP64",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001896085.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001896085.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -154,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06109026",
   "collection_date": "2015-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SWU02",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001902455.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001902455.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -166,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06179980",
   "collection_date": "2001-10-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SPAIN",
+  "host": "HUMAN",
+  "host_disease": "INFECTIVE ENDOCARDITIS",
   "scientific_name": "Streptococcus oralis",
   "strain": "S.MIT/ORALIS-351",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_001983955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_001983955.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -178,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00078884",
   "collection_date": "2016-10-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis subsp. tigurinus",
   "strain": "osk_001",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002356415.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_002356415.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -190,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00073590",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "KK0981",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002357995.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_002357995.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -202,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312411",
   "collection_date": "2014-10-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ENDOCARDITITS",
   "scientific_name": "Streptococcus oralis",
   "strain": "FDAARGOS_367",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002386345.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_002386345.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -214,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08105887",
   "collection_date": "2017-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "BHN97x",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002813535.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_002813535.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -226,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06166933",
   "collection_date": "2012-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KOREA",
+  "host": "HUMAN",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "11A",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002813955.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_002813955.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -238,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08501023",
   "collection_date": "2005-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "endophthalmitis",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_002947575.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_002947575.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -250,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04093378",
   "collection_date": "1916",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "D39V",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003003495.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003003495.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -262,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042952",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4041STDY6836166",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900476505.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -274,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042953",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4041STDY6836167",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476445.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900476445.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -286,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042955",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4041STDY6836169",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476455.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900476455.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -298,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104042956",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4041STDY6836170",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476465.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900476465.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -310,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4469815",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4041STDY6583227",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900476475.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900476475.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -322,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3649044",
   "collection_date": "1900/2002",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NCTC13276",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900475515.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900475515.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -334,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3714884",
   "collection_date": "1900/1948",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NCTC7466",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900475305.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900475305.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -346,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3956100",
   "collection_date": "1900/1986",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NCTC11902",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900475805.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900475805.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -358,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704656",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "M23734",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351525.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003351525.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -370,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704646",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "M16808",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003351645.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -382,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704657",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "M26365",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351705.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003351705.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -394,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704658",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "M26368",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003351725.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003351725.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -406,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00096762",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "MDRSPN001",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003609935.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003609935.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -418,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3679170",
   "collection_date": "1900/1955",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NCTC12977",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900636585.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900636585.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -430,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3936797",
   "collection_date": "1968",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis ATCC 35037",
   "strain": "NCTC 11427",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900637025.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900637025.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -442,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137665",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "ATCC 49619",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003966485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003966485.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -454,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137664",
   "collection_date": "2014-07-14",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "HU-OH",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003966505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003966505.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -466,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137663",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NU83127",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003966525.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003966525.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -478,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00110695",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003967155.2"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003967155.2"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -490,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06233407",
   "collection_date": "2014-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "HKU1-14",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_003994915.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_003994915.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -502,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092020",
   "collection_date": "1988-06-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4496",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900618545.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -514,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092021",
   "collection_date": "1997-09-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "947",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618555.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900618555.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -526,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092023",
   "collection_date": "1989-07-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "180-2",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618575.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900618575.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -538,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092024",
   "collection_date": "1996-10-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "180-15",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900618585.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900618585.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -550,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10908922",
   "collection_date": "1983/2018",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "EF3030",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_004291255.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_004291255.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -562,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3431333",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "EGYPT",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "GPSC10",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900692935.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900692935.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -574,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3713867",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "GPSC47",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900693025.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900693025.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -586,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3714487",
   "collection_date": "1999",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "GPSC18",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900693055.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900693055.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -598,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3714520",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "GPSC13",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900693075.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900693075.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -610,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104035599",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ISRAEL",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "GPSC55",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900795205.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900795205.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -622,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5092022",
   "collection_date": "1988-11-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "4559",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_900622505.2"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_900622505.2"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -634,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10534501",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis subsp. dentisani",
   "strain": "F0392",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_007475365.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_007475365.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -646,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11338705",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SPAIN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "R6CIB17",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_008253725.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_008253725.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -658,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191652",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "AUSMDU00010538",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_009664475.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_009664475.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -670,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14380576",
   "collection_date": "2017-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PZ900701590",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_011694695.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_011694695.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -682,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14779717",
   "collection_date": "2002-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "NASOPHARYNGEAL COLONIZATION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "6A-10",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_013047165.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_013047165.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -694,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11382546",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus mitis",
   "strain": "S022-V3-A4",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_013305725.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_013305725.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -706,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321470",
   "collection_date": "2013-06-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "310",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015838875.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015838875.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -718,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321471",
   "collection_date": "2017-06-15",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "475",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839035.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015839035.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -730,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321472",
   "collection_date": "2008-02-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "521",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839235.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015839235.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -742,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321473",
   "collection_date": "2018-03-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "525",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839415.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015839415.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -754,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321474",
   "collection_date": "2019-03-31",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "566",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839575.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015839575.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -766,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321476",
   "collection_date": "2019-04-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "573",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839775.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015839775.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -778,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321477",
   "collection_date": "2019-04-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "574",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015839915.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015839915.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -790,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13321475",
   "collection_date": "2019-03-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "LEBANON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "563",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_015840115.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_015840115.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -802,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17082796",
   "collection_date": "1980-11-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ENDOCARDITIS",
   "scientific_name": "Streptococcus oralis",
   "strain": "SF100",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_016549395.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_016549395.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -814,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17258151",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus mitis",
   "strain": "S022-V7-A3",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_016658865.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_016658865.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -826,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07428910",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ENDOCARDITIS",
   "scientific_name": "Streptococcus oralis",
   "strain": "SF100",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_016888845.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_016888845.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -838,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17602804",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALAWI",
+  "host": "HUMAN",
+  "host_disease": "PNEUMONIA, MENINGITIS",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "BVJ1JL",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_017569245.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_017569245.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -850,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15858987",
   "collection_date": "1916",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "D39_P0",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_018336875.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_018336875.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -862,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20209571",
   "collection_date": "2021-01-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NOT COLLECTED",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis",
   "strain": "34",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_019334565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_019334565.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -874,10 +976,26 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982453",
   "collection_date": "2021-05-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "KAZAKHSTAN",
+  "host": "HUMAN",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SCAID PHRX1-2021",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_019915285.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_019915285.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_020177465.2",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN21467761",
+  "collection_date": "1996",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "EYE INFECTION",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "HAC 39-1996",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_020177465.2"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -886,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13440953",
   "collection_date": "2018-03-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis",
   "strain": "SOD",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_021497885.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_021497885.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -898,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13440952",
   "collection_date": "2018-03-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis",
   "strain": "SOT",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_021497945.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_021497945.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -910,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13440951",
   "collection_date": "2018-03-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus infantis",
   "strain": "SO",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_021497965.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_021497965.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -922,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734535",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NORWAY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_TIGR4",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068225.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068225.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -934,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734537",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_Taiwan19F-14",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068245.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068245.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -946,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734517",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901928",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068265.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068265.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -958,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734516",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901927",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068285.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068285.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -970,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734515",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901926",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068405.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068405.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -982,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734514",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901925",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068525.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068525.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -994,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734513",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901924",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068645.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1006,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734512",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901923",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068765.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068765.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1018,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734511",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901922",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022068885.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022068885.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1030,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734533",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901948",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069005.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1042,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734532",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901947",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069085.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069085.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1054,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734531",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901946",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069205.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069205.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1066,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734530",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901945",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069325.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069325.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1078,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734529",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901943",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069445.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069445.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1090,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734528",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901941",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069485.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1102,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734527",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901940",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069505.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1114,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734526",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901939",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069545.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1126,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734510",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901921",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069645.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1138,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734525",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901938",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069785.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069785.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1150,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734523",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901935",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022069905.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022069905.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1162,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734522",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901934",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070005.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070005.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1174,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734520",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901932",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070225.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070225.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1186,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734518",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901930",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070425.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070425.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1198,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734509",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901920",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070465.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070465.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1210,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734540",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1902277",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070485.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1222,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734536",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_D39",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070505.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1234,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734539",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1902276",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070545.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1246,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734538",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1902282",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022070565.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022070565.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1258,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734563",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901936",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022075545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022075545.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1270,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734565",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901944",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022075645.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022075645.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1282,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10734562",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "TVO_1901929",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022075745.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022075745.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1294,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647280",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "BR1268",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318385.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318385.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1306,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647361",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "CH2241",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318405.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318405.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1318,10 +1508,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647548",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "LE4448",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318425.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318425.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1330,10 +1522,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647626",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "MD5403",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318445.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318445.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1342,10 +1536,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647706",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "ND6401",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318465.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318465.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1354,10 +1550,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647831",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NP7513",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318485.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318485.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1366,10 +1564,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647838",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "NP7536",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318505.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1378,10 +1578,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647902",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PT8465",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318525.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318525.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1390,10 +1592,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08647378",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "ASYMPTOMATIC CONDITION",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "CH2439",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022318545.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022318545.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1402,10 +1606,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4657913",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "RMV7",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_930986525.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_930986525.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1414,10 +1620,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15783364",
   "collection_date": "2014-05",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": "OTITIS MEDIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PZ900700608",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022558605.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022558605.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1426,10 +1634,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06040933",
   "collection_date": "1999/2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis",
   "strain": "1648",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_022749195.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_022749195.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1438,10 +1648,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28592655",
   "collection_date": "2020-11-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis",
   "strain": "HP01",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_023611505.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_023611505.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1450,10 +1662,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24060681",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae TIGR4",
   "strain": "TIGR4",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_024089335.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_024089335.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1462,10 +1676,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24060680",
   "collection_date": "2017-02-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SN75752",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_024089355.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_024089355.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1474,10 +1690,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09081250",
   "collection_date": "2000-04-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus oralis",
   "strain": "CCUG 53468",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_024399415.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_024399415.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1486,10 +1704,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16580452",
   "collection_date": "1999",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "19A-ST320_99-176",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_025136435.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_025136435.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1498,10 +1718,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25149806",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "POLAND",
+  "host": "HUMAN",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "3238/09",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_025643295.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_025643295.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1510,10 +1732,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25149807",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "POLAND",
+  "host": "HUMAN",
+  "host_disease": "BACTERIAL SEPSIS",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "3641/15",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_025643315.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_025643315.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1522,10 +1746,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27647185",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "SP007",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027563115.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_027563115.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1534,10 +1760,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453553",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PZ900700617",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943765.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_027943765.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1546,10 +1774,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453554",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PZ900700792",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943785.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_027943785.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1558,10 +1788,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453556",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PZ900701057",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943805.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_027943805.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1570,10 +1802,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453558",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "Utah_35B-24",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943825.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_027943825.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1582,10 +1816,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00453552",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "PZ900700204",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_027943845.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_027943845.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1594,10 +1830,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35018717",
   "collection_date": "2020-10-21",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "RUSSIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus pneumoniae",
   "strain": "105_Kz",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_030028375.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_030028375.1"
  },
  {
   "Streptococcus_pneumoniae": null,
@@ -1606,9 +1844,641 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37162771",
   "collection_date": "2023-02-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus mitis",
   "strain": "LMG 14557",
-  "fasta": "data/groups_info/Streptococcus_pneumoniae/GCA_031191225.1"
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_031191225.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_032883655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN28929526",
+  "collection_date": "1993",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": "NONE",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "ATCC 700671",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_032883655.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033100055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37855267",
+  "collection_date": "2023-02-13",
+  "geo_loc_name": "ITALY",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "ST62",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033100055.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033142835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865679",
+  "collection_date": "2011-12-09",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "COMMUNITY ACQUIRED PNEUMONIA",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "21334",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033142835.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033144075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865677",
+  "collection_date": "2012-12-01",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "16H2092",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033144075.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033144835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865676",
+  "collection_date": "2012-10-20",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "16P4028",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033144835.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033145555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865682",
+  "collection_date": "2011-11-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE PNEUMOCOCCAL DISEASE",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "LYP",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033145555.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033146375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865675",
+  "collection_date": "2012-11-09",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "15H4024",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033146375.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033147055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865680",
+  "collection_date": "2013-01-23",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "16H3071-2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033147055.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033147875.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865681",
+  "collection_date": "2013-03-17",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "16P2012-2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033147875.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033148655.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865683",
+  "collection_date": "2010-10-14",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "20824-4",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033148655.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033149375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865670",
+  "collection_date": "2012-08-23",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "02H2025",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033149375.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033150235.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865672",
+  "collection_date": "2012-11-17",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "16H2041",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033150235.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033151055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865671",
+  "collection_date": "2011-03-03",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "COMMUNITY ACQUIRED PNEUMONIA",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "17023",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033151055.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033152035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865668",
+  "collection_date": "2012-09-24",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "15P3054",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033152035.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033152795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865667",
+  "collection_date": "2010-10-26",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "20614-6",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033152795.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033165855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865669",
+  "collection_date": "2010-12-15",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE PNEUMOCOCCAL DISEASE",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "ZGX",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033165855.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033166735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865678",
+  "collection_date": "2011-03-06",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE PNEUMOCOCCAL DISEASE",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "LM",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033166735.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033167795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865673",
+  "collection_date": "2010-10-18",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "11012",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033167795.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_033169215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37865674",
+  "collection_date": "2011-01-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE PNEUMOCOCCAL DISEASE",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "OXT",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_033169215.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_034422155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38608486",
+  "collection_date": "2011-02-16",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "COMMUNITY ACQUIRED PNEUMONIA",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "21011",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_034422155.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_034422215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38608497",
+  "collection_date": "2011-02-16",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "16H2017-2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_034422215.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_034422275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38608520",
+  "collection_date": "2011-02-16",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "05H0020-2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_034422275.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_034422335.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38608524",
+  "collection_date": "2011-02-16",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "HEALTH",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "15P2112",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_034422335.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036322915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602882",
+  "collection_date": "2011-04-24",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "PF1",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036322915.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036322935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602883",
+  "collection_date": "2009-11-24",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "PF2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036322935.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036322955.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602884",
+  "collection_date": "2018-05-19",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Pne2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036322955.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036322975.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602885",
+  "collection_date": "2018-08-28",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Pne3",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036322975.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036322995.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602886",
+  "collection_date": "2018-08-31",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Pne4",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036322995.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036323015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602887",
+  "collection_date": "2012-02-13",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Sep1",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036323015.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036323035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602888",
+  "collection_date": "2012-03-25",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Sep2",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036323035.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036323055.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602889",
+  "collection_date": "2012-04-06",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Sep3",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036323055.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036323075.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602890",
+  "collection_date": "2012-05-10",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Sep4",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036323075.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036323095.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602891",
+  "collection_date": "2012-11-29",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Sep5",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036323095.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036323375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00638583",
+  "collection_date": "2021-05-29",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": "BACTERAEMIA",
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "21P20",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036323375.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_036509575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00602892",
+  "collection_date": "2012-05-10",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "Sep6",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_036509575.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431325.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766248",
+  "collection_date": "2018",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2018N21-288",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431325.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766247",
+  "collection_date": "2018",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2018C08-270",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431465.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766246",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2016C10-332",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431575.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431685.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766245",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2016S11-245",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431685.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766244",
+  "collection_date": "2014",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2014S11-203",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431715.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766243",
+  "collection_date": "2014",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2014C08-275",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431725.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431755.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766242",
+  "collection_date": "2008",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2008C09-280",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431755.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766241",
+  "collection_date": "2008",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2008C09-276",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431765.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766240",
+  "collection_date": "2008",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2008C04-309",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431775.1"
+ },
+ {
+  "Streptococcus_pneumoniae": null,
+  "date": null,
+  "asm_acc": "GCA_038431785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766239",
+  "collection_date": "2006",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus pneumoniae",
+  "strain": "2006C08-243",
+  "fasta": "data\\groups_info\\Streptococcus_pneumoniae\\GCA_038431785.1"
  }
 ]

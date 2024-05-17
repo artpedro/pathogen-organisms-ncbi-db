@@ -1,14 +1,16 @@
 [
  {
-  "Yersinia_ruckeri": "PDG000000086.19",
-  "date": "Thu Oct 19 21:12:04 2023"
+  "Yersinia_ruckeri": "PDG000000086.22",
+  "date": "Wed May 15 22:37:48 2024"
  },
  {
   "asm_acc": "GCA_000964565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03421018",
   "collection_date": "1974",
+  "geo_loc_name": "USA",
   "host": "ONCORHYNCHUS TSHAWYTSCHA",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "Big Creek 74"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03287980",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "QMA0440"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07594326",
   "collection_date": "1987-02",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NHV_3758"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982389",
   "collection_date": "2017-06-06",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11050"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982385",
   "collection_date": "2015-10-30",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10587"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982383",
   "collection_date": "2014-08-12",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-9681"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22982378",
   "collection_date": "1987",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-492"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23150584",
   "collection_date": "2016-09-26",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": "DISEASED",
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10705"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879013",
   "collection_date": "2012",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-8524"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879012",
   "collection_date": "2011",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-8270"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879011",
   "collection_date": "1986",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-701"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879010",
   "collection_date": "2008",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-6614"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879009",
   "collection_date": "2004",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-5089"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879008",
   "collection_date": "2003",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-4840"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879007",
   "collection_date": "2002",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-4570"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879006",
   "collection_date": "2002",
+  "geo_loc_name": "NORWAY",
   "host": "ONCORHYNCHUS MYKISS",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-4479"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879005",
   "collection_date": "1987",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-1292"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879004",
   "collection_date": "1987",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-1176"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879003",
   "collection_date": "2018",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11294"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879002",
   "collection_date": "2018",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11267"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879001",
   "collection_date": "2017",
+  "geo_loc_name": "NORWAY",
   "host": "BIOFILM",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11073"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28879000",
   "collection_date": "2017",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-11065"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28878999",
   "collection_date": "2016",
+  "geo_loc_name": "NORWAY",
   "host": "SALMO SALAR",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "NVI-10571"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37120472",
   "collection_date": "2022-04-16",
+  "geo_loc_name": "USA",
   "host": "ICTALURUS FURCATUS",
+  "host_disease": null,
   "scientific_name": "Yersinia ruckeri",
   "strain": "Barren Creek"
  }

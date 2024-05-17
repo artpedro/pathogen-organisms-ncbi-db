@@ -1,14 +1,16 @@
 [
  {
-  "Legionella_pneumophila": "PDG000000026.242",
-  "date": "Thu Oct 19 21:10:17 2023"
+  "Legionella_pneumophila": "PDG000000026.297",
+  "date": "Wed May 15 22:28:49 2024"
  },
  {
   "asm_acc": "GCA_001592705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03839261",
   "collection_date": "2005",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LEGIONNAIRES' DISEASE",
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Toronto-20052"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03379010",
   "collection_date": "2010-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "LEGIONNAIRES' DISEASE",
   "scientific_name": "Legionella pneumophila",
   "strain": "L10-023"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4067783",
   "collection_date": "2000-05-01",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "Lpm7613"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535099",
   "collection_date": "1999-01-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "ST42"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535097",
   "collection_date": "1994-01-01",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "ST23"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535098",
   "collection_date": "2003-11-01",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "ST37"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4535100",
   "collection_date": "2004-10-01",
+  "geo_loc_name": "NOT PROVIDED",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "ST62"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988484",
   "collection_date": "1976",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LEGIONNAIRE'S",
   "scientific_name": "Legionella pneumophila",
   "strain": "Philadelphia-1"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4040028",
   "collection_date": "1968/1987",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NCTC11985"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4040027",
   "collection_date": "1968/1980",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NCTC11286"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928771",
   "collection_date": "2000",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D-4954"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928767",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "PROTOZOA",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NY24 (D-7706)"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928766",
   "collection_date": "2007",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NY23 (D-7705)"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928764",
   "collection_date": "1991",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "D-3137"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928762",
   "collection_date": "1998",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "D-5387"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928760",
   "collection_date": "1978",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "Los Angeles 1 (D-7696)"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928754",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Bellingham 1 (D-7473)"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928770",
   "collection_date": "1981",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "Lansing 3"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928769",
   "collection_date": "2008",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "D-5744"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928768",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D-7708"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928765",
   "collection_date": "1981",
+  "geo_loc_name": "USA",
   "host": "PROTOZOA",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pascullei",
   "strain": "U8W (D-7160)"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928759",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Knoxville 1 (D-7468)"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928757",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Burlington 1 (D-7841)"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928756",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Birmingham 1 (D-7470)"
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928773",
   "collection_date": "2002",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D-5265"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928763",
   "collection_date": "1994",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "D-4058"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928772",
   "collection_date": "1994",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D-4040"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928761",
   "collection_date": "2012",
+  "geo_loc_name": "USA",
   "host": "PROTOZOA",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. fraseri",
   "strain": "F-4198"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928758",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Flint 2 (D-7477)"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928755",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Allentown 1 (D-7475)"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928753",
   "collection_date": "1977",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pneumophila",
   "strain": "Albuquerque 1 (D-7474)"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06928774",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D-7787"
  },
@@ -296,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923592",
   "collection_date": "1968/1981",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NCTC11404"
  },
@@ -305,25 +371,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3111980",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NCTC12180"
- },
- {
-  "asm_acc": "GCA_900635825.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMEA3111979",
-  "collection_date": null,
-  "host": "NOT AVAILABLE",
-  "scientific_name": "Legionella pneumophila",
-  "strain": "NCTC12179"
  },
  {
   "asm_acc": "GCA_900636955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3923587",
   "collection_date": "1976/1977",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "NCTC11193"
  },
@@ -332,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA44537668",
   "collection_date": "1968/1989",
+  "geo_loc_name": null,
   "host": "ENVIRONMENTAL",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila subsp. pascullei",
   "strain": "NCTC12273"
  },
@@ -341,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4552886",
   "collection_date": "1978/1982",
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENTAL",
+  "host_disease": null,
   "scientific_name": "Legionella jordanis",
   "strain": "NCTC11533"
  },
@@ -350,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056494",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "NIST MIXED MICROBIAL RM STRAIN",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "FDAARGOS_779"
  },
@@ -359,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191634",
   "collection_date": "2016",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "AUSMDU00010536"
  },
@@ -368,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00393827",
   "collection_date": "1980",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "80-045"
  },
@@ -377,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25696377",
   "collection_date": "2018-05-11",
+  "geo_loc_name": "BELARUS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "11052018-5"
  },
@@ -386,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33057358",
   "collection_date": "2001",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D5241"
  },
@@ -395,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33057357",
   "collection_date": "2006",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D5573"
  },
@@ -404,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33057356",
   "collection_date": "2009",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Legionella pneumophila",
   "strain": "D5916"
  }

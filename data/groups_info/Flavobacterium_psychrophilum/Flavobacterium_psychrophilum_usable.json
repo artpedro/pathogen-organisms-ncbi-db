@@ -1,14 +1,16 @@
 [
  {
-  "Flavobacterium_psychrophilum": "PDG000000078.18",
-  "date": "Thu Oct 19 21:09:56 2023"
+  "Flavobacterium_psychrophilum": "PDG000000078.25",
+  "date": "Wed May 15 22:27:22 2024"
  },
  {
   "asm_acc": "GCA_000754365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290989",
   "collection_date": "2008",
+  "geo_loc_name": "CANADA",
   "host": "ONCORHYNCHUS MYKISS (RAINBOW TROUT)",
+  "host_disease": "KIDNEY SYSTEMIC DISEASE",
   "scientific_name": "Flavobacterium psychrophilum FPG101",
   "strain": "FPG101"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290988",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ONCORHYNCHUS KISUTCH (COHO SALMON)",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum FPG3",
   "strain": "FPG3"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13381501",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "ONCORHYNCHUS MYKISS",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum",
   "strain": "CN6"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11356335",
   "collection_date": "2017",
+  "geo_loc_name": "SWEDEN",
   "host": "RAINBOW TROUT",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum",
   "strain": "FPS-S6"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11356336",
   "collection_date": "2016",
+  "geo_loc_name": "DENMARK",
   "host": "RAINBOW TROUT",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum",
   "strain": "160401-1/5N"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15518435",
   "collection_date": "2017",
+  "geo_loc_name": "RUSSIA",
   "host": "RAINBOW TROUT",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum",
   "strain": "FPS-R7"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20804763",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "THYMALLUS THYMALLUS",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum",
   "strain": "CN46"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20804762",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "ONCORHYNCHUS MYKISS",
+  "host_disease": null,
   "scientific_name": "Flavobacterium psychrophilum",
   "strain": "CN38"
  }

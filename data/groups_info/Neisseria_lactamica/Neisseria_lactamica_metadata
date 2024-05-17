@@ -9,7 +9,16 @@
   "Neisseria lactamica": 3
  },
  "strain": {},
+ "location": {
+  "null": 1,
+  "UNITED KINGDOM": 1,
+  "USA": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 3
+  "HUMAN": 3
+ },
+ "hosts_diseases": {
+  "NOT COLLECTED": 1,
+  "null": 2
  }
 }

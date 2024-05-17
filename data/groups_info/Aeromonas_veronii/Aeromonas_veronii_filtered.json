@@ -1,7 +1,7 @@
 [
  {
-  "Aeromonas_veronii": "PDG000000076.60",
-  "date": "Thu Oct 19 21:32:30 2023"
+  "Aeromonas_veronii": "PDG000000076.81",
+  "date": "Wed May 15 22:37:49 2024"
  },
  {
   "Aeromonas_veronii": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02471703",
   "collection_date": "1996-04",
+  "geo_loc_name": "TURKEY",
   "host": "HIRUDO VERBANA",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii Hm21",
   "strain": "Hm21",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_000464515.2"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_000464515.2"
  },
  {
   "Aeromonas_veronii": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04012505",
   "collection_date": "2013-04-26",
+  "geo_loc_name": "CHINA",
   "host": "TACHYSURUS FULVIDRACO",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "TH0426",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_001593245.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_001593245.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042684",
   "collection_date": "2013",
+  "geo_loc_name": "CHINA",
   "host": "MEGALOBRAMA AMBLYCEPHALA",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "X12",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_002803945.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_002803945.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08281233",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "DIARRHEA",
   "scientific_name": "Aeromonas veronii",
   "strain": "FC951",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_002866885.2"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_002866885.2"
  },
  {
   "Aeromonas_veronii": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08731619",
   "collection_date": "2017",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "DISCUS",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "17ISAe",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_003491365.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_003491365.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056347",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "FDAARGOS_632",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_008693705.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_008693705.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11868773",
   "collection_date": "2018-11",
+  "geo_loc_name": "CHINA",
   "host": "ALLIGATOR",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "HX3",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_009755745.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_009755745.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10696333",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "ZfB1",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_011045495.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_011045495.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15395818",
   "collection_date": "2014-04",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": "SEPSIS",
   "scientific_name": "Aeromonas veronii",
   "strain": "JC529",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_013415825.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_013415825.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15184730",
   "collection_date": "2017",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CHOLANGIOLITHIASIS",
   "scientific_name": "Aeromonas veronii",
   "strain": "1708-29120",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_017310275.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_017310275.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168054",
   "collection_date": "2020-12-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CHOLECYSTITIS",
   "scientific_name": "Aeromonas veronii",
   "strain": "71506",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_020640955.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_020640955.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20667377",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "GASTROENTERITIS",
   "scientific_name": "Aeromonas veronii",
   "strain": "A29V",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_021586915.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_021586915.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27615187",
   "collection_date": "2021-07-25",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "AV040",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_023100745.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_023100745.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18498901",
   "collection_date": "2019",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "LEUKEMIA",
   "scientific_name": "Aeromonas veronii",
   "strain": "183026",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_023921405.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_023921405.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28748616",
   "collection_date": "2016-07-15T14:30:04Z",
+  "geo_loc_name": "CHINA",
   "host": "ODONTOBUTIS OBSCURA",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "jsyz553301",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_025665435.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_025665435.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31516430",
   "collection_date": "2010-08",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "C4",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_026016025.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_026016025.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24908263",
   "collection_date": "2019-01-15",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "b1-3",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029633935.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029633935.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901090",
   "collection_date": "2020-02-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 14430",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773065.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773065.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901093",
   "collection_date": "2020-11-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 16549",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773085.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773085.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901104",
   "collection_date": "2022-01-29",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 19953",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773225.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773225.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901085",
   "collection_date": "2020-08-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "LOID 15995",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773245.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773245.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901100",
   "collection_date": "2021-08-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 18661",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773265.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773265.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901103",
   "collection_date": "2021-10-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 19170",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773325.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773325.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901099",
   "collection_date": "2021-08-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 18644",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773345.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773345.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901094",
   "collection_date": "2020-11-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 16702",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773365.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773365.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901089",
   "collection_date": "2020-02-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 14386",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773385.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773385.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901091",
   "collection_date": "2020-05-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 15110",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773405.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773405.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901097",
   "collection_date": "2021-06-21",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 18263",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773425.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773425.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901098",
   "collection_date": "2021-07-14",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 18462",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773445.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773445.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901095",
   "collection_date": "2021-06-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 18196",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773465.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773465.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901092",
   "collection_date": "2020-09-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 15694",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773485.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773485.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901096",
   "collection_date": "2021-06-12",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 18197",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773505.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773505.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901088",
   "collection_date": "2019-12-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 14022",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773525.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773525.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901086",
   "collection_date": "2020-09-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "LOID 16013",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773545.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773545.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901087",
   "collection_date": "2019-12-14",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TAIWAN",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Aeromonas veronii",
   "strain": "ANYA 13997",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_029773565.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_029773565.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35453523",
   "collection_date": "2023-05-29",
+  "geo_loc_name": "CHINA",
   "host": "MICROPTERUS SALMOIDES",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "AV066",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_030178455.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_030178455.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32156161",
   "collection_date": "2021",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "CROHN'S DISEASE",
   "scientific_name": "Aeromonas veronii",
   "strain": "AS1",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_030609635.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_030609635.1"
  },
  {
   "Aeromonas_veronii": null,
@@ -454,9 +528,53 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37015374",
   "collection_date": "2017-09",
+  "geo_loc_name": "CHINA",
   "host": "CARASSIUS AURATUS",
+  "host_disease": null,
   "scientific_name": "Aeromonas veronii",
   "strain": "HS1906",
-  "fasta": "data/groups_info/Aeromonas_veronii/GCA_030908525.1"
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_030908525.1"
+ },
+ {
+  "Aeromonas_veronii": null,
+  "date": null,
+  "asm_acc": "GCA_034056135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38324581",
+  "collection_date": "2016",
+  "geo_loc_name": "CHINA",
+  "host": "FISH",
+  "host_disease": "BACTERIAL SEPTICEMIA",
+  "scientific_name": "Aeromonas veronii",
+  "strain": "FS12001",
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_034056135.1"
+ },
+ {
+  "Aeromonas_veronii": null,
+  "date": null,
+  "asm_acc": "GCA_037101215.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00580202",
+  "collection_date": "2020-03",
+  "geo_loc_name": "VIET NAM",
+  "host": "MASTACEMBELUS",
+  "host_disease": null,
+  "scientific_name": "Aeromonas veronii",
+  "strain": "VA7",
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_037101215.1"
+ },
+ {
+  "Aeromonas_veronii": null,
+  "date": null,
+  "asm_acc": "GCA_037101225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00580204",
+  "collection_date": "2020-03",
+  "geo_loc_name": "VIET NAM",
+  "host": "CHANNA STRIATA",
+  "host_disease": null,
+  "scientific_name": "Aeromonas veronii",
+  "strain": "VA60",
+  "fasta": "data\\groups_info\\Aeromonas_veronii\\GCA_037101225.1"
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
-  "Kluyvera_intermedia": "PDG000000040.73",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Kluyvera_intermedia": "PDG000000040.87",
+  "date": "Wed May 15 22:37:53 2024"
  },
  {
   "Kluyvera_intermedia": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2612496",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Kluyvera intermedia",
   "strain": "NCTC12125",
-  "fasta": "data/groups_info/Kluyvera_intermedia/GCA_900635475.1"
+  "fasta": "data\\groups_info\\Kluyvera_intermedia\\GCA_900635475.1"
  },
  {
   "Kluyvera_intermedia": null,
@@ -22,9 +24,11 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13135738",
   "collection_date": "2017-04",
+  "geo_loc_name": "CHINA",
   "host": "FLOWER",
+  "host_disease": "NOT APPLIED",
   "scientific_name": "Kluyvera intermedia",
   "strain": "N2-1",
-  "fasta": "data/groups_info/Kluyvera_intermedia/GCA_009649915.1"
+  "fasta": "data\\groups_info\\Kluyvera_intermedia\\GCA_009649915.1"
  }
 ]

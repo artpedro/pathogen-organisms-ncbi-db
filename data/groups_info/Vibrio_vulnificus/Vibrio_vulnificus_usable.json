@@ -1,14 +1,16 @@
 [
  {
-  "Vibrio_vulnificus": "PDG000000058.228",
-  "date": "Thu Oct 19 21:12:02 2023"
+  "Vibrio_vulnificus": "PDG000000058.262",
+  "date": "Wed May 15 22:37:39 2024"
  },
  {
   "asm_acc": "GCA_000746665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03009989",
   "collection_date": "2004",
+  "geo_loc_name": "TAIWAN",
   "host": "OREOCHROMIS",
+  "host_disease": null,
   "scientific_name": "Vibrio vulnificus",
   "strain": "93U204"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03174938",
   "collection_date": "2008",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GASTROENTERITIDIS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_009"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996334",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VIBRIO INFECTION",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FDAARGOS_119"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03764475",
   "collection_date": "2009-07-31",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS; SEX: MALE",
+  "host_disease": "UNKOWN",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_016"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03956906",
   "collection_date": "2014-09-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "RASH",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_017"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05196200",
   "collection_date": null,
+  "geo_loc_name": "SOUTH KOREA",
   "host": "MYA ARENARIA OONOGAI MAKIYAMA",
+  "host_disease": null,
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_037"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04457466",
   "collection_date": "1990",
+  "geo_loc_name": "SPAIN",
   "host": "ANGUILLA ANGUILLA",
+  "host_disease": null,
   "scientific_name": "Vibrio vulnificus",
   "strain": "CECT 4999"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06237111",
   "collection_date": "2014-07-17",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VIBRIO GASTROENTERITIS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV2014DJH"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08563567",
   "collection_date": "2017",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "FOOD POISONING",
   "scientific_name": "Vibrio vulnificus",
   "strain": "FORC_077"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056378",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Vibrio vulnificus",
   "strain": "FDAARGOS_663"
  },
@@ -98,16 +118,31 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12816916",
   "collection_date": "2018-08-06",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NECROTIZING FASCIITIS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "Vv180806"
+ },
+ {
+  "asm_acc": "GCA_015767675.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16880831",
+  "collection_date": "2020",
+  "geo_loc_name": "GERMANY",
+  "host": "HOMO SAPIENS",
+  "host_disease": "WOUND INFECTION",
+  "scientific_name": "Vibrio navarrensis",
+  "strain": "20-VB00237"
  },
  {
   "asm_acc": "GCA_025994915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00506751",
   "collection_date": "2020-02-03",
+  "geo_loc_name": "JAPAN",
   "host": "SHRIMP",
+  "host_disease": null,
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV20-8B-2"
  },
@@ -116,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35548064",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "HEPATITIS B VIRUS CIRRHOSIS",
   "scientific_name": "Vibrio vulnificus",
   "strain": "VV2018"
  },
@@ -125,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37345416",
   "collection_date": "2023-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "ANGUILLA BICOLOR",
+  "host_disease": null,
   "scientific_name": "Vibrio vulnificus",
   "strain": "GCU-01"
  }

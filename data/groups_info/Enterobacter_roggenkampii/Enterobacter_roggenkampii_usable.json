@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_roggenkampii": "PDG000000116.48",
-  "date": "Thu Oct 19 21:09:22 2023"
+  "Enterobacter_roggenkampii": "PDG000000116.94",
+  "date": "Wed May 15 22:23:05 2024"
  },
  {
   "asm_acc": "GCA_000807415.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03067419",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "35734"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05581750",
   "collection_date": null,
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "DSM 16690"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163217",
   "collection_date": "2015-12-28",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "FDAARGOS_523"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10188240",
   "collection_date": "2008-10-30",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "ECY546"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11283933",
   "collection_date": "2018",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "BP10374"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12995719",
   "collection_date": "2016-08",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "WCHER090065"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15329677",
   "collection_date": "2019-12-05",
+  "geo_loc_name": "CHINA",
   "host": "SUGARCANE",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "ED5"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15460797",
   "collection_date": "2017-08-30",
+  "geo_loc_name": "CHINA",
   "host": "MORUS ALBA VAR. ATROPURPUREA",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "KQ-01"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00235761",
   "collection_date": "2019",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "OIPH-N260"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19316169",
   "collection_date": "2019-05",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "120063"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379557",
   "collection_date": "2013-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "13840-yvys"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379549",
   "collection_date": "2012-09",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "12795-yvys"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363725",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HEALTHY CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "K475-2"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363726",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HEALTHY CAT",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "K666"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27363776",
   "collection_date": "2019",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT AVAILABLE",
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "Ek140"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24967284",
   "collection_date": "2021-07",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "GD21SC1505"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33770999",
   "collection_date": "2022",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "GASTROINTESTINAL SYSTEM DISEASE",
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "0-E"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34139910",
   "collection_date": "2018-05-17",
+  "geo_loc_name": "CHINA",
   "host": "OSTEOGLOSSUM BICIRRHOSUM",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "EOBSR_19"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35977203",
   "collection_date": "2021",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter roggenkampii",
   "strain": "WL374"
  }

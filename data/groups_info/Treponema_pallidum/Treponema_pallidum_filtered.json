@@ -1,7 +1,7 @@
 [
  {
-  "Treponema_pallidum": "PDG000000104.15",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Treponema_pallidum": "PDG000000104.21",
+  "date": "Wed May 15 22:37:56 2024"
  },
  {
   "Treponema_pallidum": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11812273",
   "collection_date": "2017-05-22",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "X-4",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_005885795.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_005885795.1"
  },
  {
   "Treponema_pallidum": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502673",
   "collection_date": "1912-06-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL8",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016345.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_023016345.1"
  },
  {
   "Treponema_pallidum": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502672",
   "collection_date": "1912-06-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL5",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016365.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_023016365.1"
  },
  {
   "Treponema_pallidum": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502668",
   "collection_date": "1912-06-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL1",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016385.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_023016385.1"
  },
  {
   "Treponema_pallidum": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502671",
   "collection_date": "1912-06-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL4",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016405.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_023016405.1"
  },
  {
   "Treponema_pallidum": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502670",
   "collection_date": "1912-06-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL3",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016425.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_023016425.1"
  },
  {
   "Treponema_pallidum": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27502669",
   "collection_date": "1912-06-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SYPHILIS",
   "scientific_name": "Treponema pallidum subsp. pallidum",
   "strain": "TpN-CL2",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_023016445.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_023016445.1"
  },
  {
   "Treponema_pallidum": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521568",
   "collection_date": "2015-08-28",
+  "geo_loc_name": "TANZANIA",
   "host": "PAPIO ANUBIS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "19LMF8280815",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866565.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_029866565.1"
  },
  {
   "Treponema_pallidum": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521550",
   "collection_date": "2016-07-09",
+  "geo_loc_name": "TANZANIA",
   "host": "CHLOROCEBUS PYGERYTHRUS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "6RUM2090716",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866585.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_029866585.1"
  },
  {
   "Treponema_pallidum": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521572",
   "collection_date": "2015-08-29",
+  "geo_loc_name": "TANZANIA",
   "host": "PAPIO ANUBIS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "22LMF5290815",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866705.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_029866705.1"
  },
  {
   "Treponema_pallidum": null,
@@ -130,9 +150,11 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26521574",
   "collection_date": "2015-11-15",
+  "geo_loc_name": "TANZANIA",
   "host": "PAPIO ANUBIS",
+  "host_disease": "ANOGENITAL LESION",
   "scientific_name": "Treponema pallidum subsp. pertenue",
   "strain": "24SNM5151115",
-  "fasta": "data/groups_info/Treponema_pallidum/GCA_029866725.1"
+  "fasta": "data\\groups_info\\Treponema_pallidum\\GCA_029866725.1"
  }
 ]

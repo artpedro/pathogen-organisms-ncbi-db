@@ -1,14 +1,16 @@
 [
  {
-  "Pasteurella_multocida": "PDG000000102.38",
-  "date": "Thu Oct 19 21:10:38 2023"
+  "Pasteurella_multocida": "PDG000000102.61",
+  "date": "Wed May 15 22:30:32 2024"
  },
  {
   "asm_acc": "GCA_000259545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603505",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida str. 3480",
   "strain": "3480"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02641508",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida str. HB03",
   "strain": "HB03"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04285688",
   "collection_date": "2014-10-14",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida",
   "strain": "HN141014"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04520874",
   "collection_date": "2013-09",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Pm-3"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05967336",
   "collection_date": "1936",
+  "geo_loc_name": "IRAN",
   "host": "BOVINE",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "Razi_Pm0001"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06140953",
   "collection_date": null,
+  "geo_loc_name": "FRANCE",
   "host": "ORYCTOLAGUS CUNICULUS",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida subsp. multocida",
   "strain": "CIRMBP-0884"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06140952",
   "collection_date": null,
+  "geo_loc_name": "FRANCE",
   "host": "ORYCTOLAGUS CUNICULUS",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida subsp. septica",
   "strain": "CIRMBP-0873"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875555",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": "SEPTICAEMIA DUE TO FOWL CHOLERA",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_218"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875553",
   "collection_date": "1958",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": "SEPTICAEMIA DUE TO FOWL CHOLERA",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_216"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4521464",
   "collection_date": "1900/1962",
+  "geo_loc_name": null,
   "host": "PORCINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "NCTC10322"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312428",
   "collection_date": "2015-05-19",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CELLULLITIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_384"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312429",
   "collection_date": "2015-05-19",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CELLULLITIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_385"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622941",
   "collection_date": "2013-10-16",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60494"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622935",
   "collection_date": "2013-09-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60215"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622946",
   "collection_date": "2013-10-02",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60717"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622933",
   "collection_date": "2013-09-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60213"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622931",
   "collection_date": "2013-09-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-59910"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622938",
   "collection_date": "2013-09-24",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60380"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622944",
   "collection_date": "2013-10-14",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60713"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622936",
   "collection_date": "2013-09-24",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60224"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622943",
   "collection_date": "2013-10-14",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60712"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622942",
   "collection_date": "2013-10-11",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60675"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622937",
   "collection_date": "2013-09-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60248"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622940",
   "collection_date": "2013-09-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60385"
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622932",
   "collection_date": "2013-09-24",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-59962"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622934",
   "collection_date": "2013-09-27",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60214"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622939",
   "collection_date": "2013-09-24",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60381"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622945",
   "collection_date": "2013-10-16",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60714"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03860035",
   "collection_date": "2013-05",
+  "geo_loc_name": "CHINA",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "CQ6"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03860038",
   "collection_date": "2013-05",
+  "geo_loc_name": "CHINA",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "CQ2"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08498425",
   "collection_date": "2016-12-14",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": "BILATERAL PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "161215033201-1"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2822166",
   "collection_date": "1964",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "NCTC10382"
  },
@@ -296,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09781073",
   "collection_date": "2015-10",
+  "geo_loc_name": "CHINA",
   "host": "SUS SCROFA",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM8-1"
  },
@@ -305,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3696435",
   "collection_date": "1900/1960",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. gallicida",
   "strain": "NCTC10204"
  },
@@ -314,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167231",
   "collection_date": "1900/1983",
+  "geo_loc_name": null,
   "host": "HUMAN (FEMALE)",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. septica",
   "strain": "NCTC11619"
  },
@@ -323,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104338374",
   "collection_date": "1900/1963",
+  "geo_loc_name": "MYANMAR",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "NCTC10323"
  },
@@ -332,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349271",
   "collection_date": "2004-06-05",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf15"
  },
@@ -341,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349311",
   "collection_date": "2013-09-18",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf71"
  },
@@ -350,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349313",
   "collection_date": "2009-10-27",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf45"
  },
@@ -359,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349649",
   "collection_date": "2015-02-03",
+  "geo_loc_name": "CHINA",
   "host": "GOOSE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf76"
  },
@@ -368,7 +448,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349653",
   "collection_date": "2015-12-28",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf83"
  },
@@ -377,7 +459,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11040711",
   "collection_date": "2017-11-11",
+  "geo_loc_name": "CHINA",
   "host": "CAPRA HIRCUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida",
   "strain": "HN01"
  },
@@ -386,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11964561",
   "collection_date": "2015-12-10",
+  "geo_loc_name": "CHINA",
   "host": "SUS SCROFA",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM 8-6"
  },
@@ -395,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056359",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_644"
  },
@@ -404,7 +492,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13069870",
   "collection_date": "2011-11-28",
+  "geo_loc_name": "USA",
   "host": "BEEF CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM22"
  },
@@ -413,7 +503,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10371982",
   "collection_date": "2010-07",
+  "geo_loc_name": "CHINA",
   "host": "ANATIDAE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Q"
  },
@@ -422,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10373508",
   "collection_date": "2013-04-24",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "CQ7"
  },
@@ -431,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13867109",
   "collection_date": "2018-09",
+  "geo_loc_name": "CANADA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "HS_Canada1"
  },
@@ -440,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260239",
   "collection_date": "2018-03-12",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "KVNON-213"
  },
@@ -449,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14001150",
   "collection_date": "1995-08-09",
+  "geo_loc_name": "VIET NAM",
   "host": "GALLUS GALLUS DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "VP161"
  },
@@ -458,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501685",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "A0419"
  },
@@ -467,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501684",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "A0757"
  },
@@ -476,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501683",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "X0120"
  },
@@ -485,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501682",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "X1053"
  },
@@ -494,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501681",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "618/90"
  },
@@ -503,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501680",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "619/90"
  },
@@ -512,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501679",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "671/90"
  },
@@ -521,7 +635,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15955129",
   "collection_date": "2017-05-10",
+  "geo_loc_name": "SWITZERLAND",
   "host": "BOS TAURUS LINNAEUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PS3536-1p"
  },
@@ -530,7 +646,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17080908",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "YAK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM-1"
  },
@@ -539,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18520938",
   "collection_date": "2018-12-11",
+  "geo_loc_name": "CHINA",
   "host": "YAK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Tibet-Pm1"
  },
@@ -548,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18753491",
   "collection_date": "2021-01",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "HuN001"
  },
@@ -557,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19771027",
   "collection_date": "2018-06",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": "CHOLERA",
   "scientific_name": "Pasteurella multocida",
   "strain": "PMWSG-4"
  },
@@ -566,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20842242",
   "collection_date": "2020-10-30",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Pm3"
  },
@@ -575,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20845833",
   "collection_date": "2020-10-30",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Pm64"
  },
@@ -584,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21014890",
   "collection_date": "2017",
+  "geo_loc_name": "AUSTRALIA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "17BRD-035"
  },
@@ -593,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24595887",
   "collection_date": "2019-11-20",
+  "geo_loc_name": "CHINA",
   "host": "ORYCTOLAGUS CUNICULUS",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "SD11"
  },
@@ -602,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19461146",
   "collection_date": "2020-06-01",
+  "geo_loc_name": "CHINA",
   "host": "MARMOTA HIMALAYANA",
+  "host_disease": "SEPSIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "GS2020-X2"
  },
@@ -611,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28548360",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "10159"
  },
@@ -620,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28548364",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "10185"
  },
@@ -629,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552806",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "11205"
  },
@@ -638,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552779",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "10957"
  },
@@ -647,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552780",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "11020"
  },
@@ -656,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552832",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "11245"
  },
@@ -665,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553018",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P1702"
  },
@@ -674,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552975",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "32985"
  },
@@ -683,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553023",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2192"
  },
@@ -692,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553020",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2095"
  },
@@ -701,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552996",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "33011"
  },
@@ -710,7 +866,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552999",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P1581"
  },
@@ -719,7 +877,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553054",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2723"
  },
@@ -728,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163571",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "38725"
  },
@@ -737,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163570",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "21317"
  },
@@ -746,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163569",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "35564"
  },
@@ -755,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163568",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "31971"
  },
@@ -764,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163560",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "41060"
  },
@@ -773,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163559",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "36502"
  },
@@ -782,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163552",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "21275"
  },
@@ -791,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163549",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "GOOSE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "28606"
  },
@@ -800,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163548",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "POULTRY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "34030"
  },
@@ -809,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163541",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "40540"
  },
@@ -818,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163539",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "29135"
  },
@@ -827,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163538",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "29792"
  },
@@ -836,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163529",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "POULTRY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "39639"
  },
@@ -845,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765270",
   "collection_date": "2021-08",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF12"
  },
@@ -854,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765282",
   "collection_date": "2021-12",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF14"
  },
@@ -863,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765310",
   "collection_date": "2021-09",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF16"
  },
@@ -872,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765475",
   "collection_date": "2021-10",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF19"
  },
@@ -881,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765425",
   "collection_date": "2021-05",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF18"
  },
@@ -890,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31736550",
   "collection_date": "2020-09",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF1"
  },
@@ -899,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765396",
   "collection_date": "2021-01",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF17"
  },
@@ -908,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765285",
   "collection_date": "2022-01",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF15"
  },
@@ -917,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599412",
   "collection_date": "2019-11-08",
+  "geo_loc_name": "GERMANY",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "IMT47951"
  },
@@ -926,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553350",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "AVIAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2237"
  },
@@ -935,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31560871",
   "collection_date": "2020-06-22",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P5041881"
  },
@@ -944,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31560870",
   "collection_date": "2020-06-22",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P504190"
  },
@@ -953,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31749861",
   "collection_date": "2021-03",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF5"
  },
@@ -962,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750065",
   "collection_date": "2022-02",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF6"
  },
@@ -971,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750135",
   "collection_date": "2021-12",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF7"
  },
@@ -980,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751329",
   "collection_date": "2020-12",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF9"
  },
@@ -989,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751361",
   "collection_date": "2021-10",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF10"
  },
@@ -998,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751474",
   "collection_date": "2022-03",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF11"
  },
@@ -1007,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750315",
   "collection_date": "2021-05",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF8"
  },
@@ -1016,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765281",
   "collection_date": "2021-07",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF13"
  },
@@ -1025,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33607990",
   "collection_date": "2022-03-20",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "LXSS001"
  },
@@ -1034,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29020738",
   "collection_date": "2019",
+  "geo_loc_name": "AUSTRALIA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "19BRD-057"
  },
@@ -1043,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35015592",
   "collection_date": "2022-02-04",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P030653/2"
  },
@@ -1052,7 +1284,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35015591",
   "collection_date": "2022-02-04",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P030653/1"
  },
@@ -1061,7 +1295,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36892110",
   "collection_date": "1970",
+  "geo_loc_name": "USA",
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P1933"
  },
@@ -1070,7 +1306,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37266154",
   "collection_date": "2022-10-25",
+  "geo_loc_name": "CHINA",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "sample-B"
  },
@@ -1079,7 +1317,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37223740",
   "collection_date": "2021-04",
+  "geo_loc_name": "CHINA",
   "host": "MARMOTA HIMALAYANA",
+  "host_disease": "DEAD",
   "scientific_name": "Pasteurella multocida",
   "strain": "AKS2021-HT3"
  },
@@ -1088,7 +1328,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37274988",
   "collection_date": "2022-05",
+  "geo_loc_name": "CHINA",
   "host": "MAMORTA HIMALAYANA",
+  "host_disease": "DEAD",
   "scientific_name": "Pasteurella multocida",
   "strain": "AKS2022-HT5"
  },
@@ -1097,7 +1339,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37474557",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "SUS SCROFA",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "102426"
  },
@@ -1106,7 +1350,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37474556",
   "collection_date": "2008",
+  "geo_loc_name": "GERMANY",
   "host": "SUS SCROFA",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "80176"
  },
@@ -1115,7 +1361,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15644334",
   "collection_date": "2018-06-24",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "RCAD0726"
  },
@@ -1124,8 +1372,153 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15644335",
   "collection_date": "2018-09-04",
+  "geo_loc_name": "CHINA",
   "host": "DUCK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "RCAD0730"
+ },
+ {
+  "asm_acc": "GCA_035220555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698667",
+  "collection_date": "2012-05-15",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "FELIS CATUS",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm1621"
+ },
+ {
+  "asm_acc": "GCA_035221255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698665",
+  "collection_date": "2012-05-14",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "FELIS CATUS",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm1618"
+ },
+ {
+  "asm_acc": "GCA_035222775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698658",
+  "collection_date": "2019-04-02",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past33"
+ },
+ {
+  "asm_acc": "GCA_035223645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698655",
+  "collection_date": "2019-02-06",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past29"
+ },
+ {
+  "asm_acc": "GCA_035224565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698644",
+  "collection_date": "2015-04-09",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past9"
+ },
+ {
+  "asm_acc": "GCA_035225465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698642",
+  "collection_date": "2008-07-23",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past6"
+ },
+ {
+  "asm_acc": "GCA_035226565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698639",
+  "collection_date": "2013-03-02",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past3"
+ },
+ {
+  "asm_acc": "GCA_036347715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39582826",
+  "collection_date": "2023-06-06",
+  "geo_loc_name": "CHINA",
+  "host": "CYGNUS MELANCORYPHUS",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf147"
+ },
+ {
+  "asm_acc": "GCA_036416355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39682081",
+  "collection_date": "2016-06-10",
+  "geo_loc_name": "CHINA",
+  "host": "RABBIT",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida subsp. multocida",
+  "strain": "LH06"
+ },
+ {
+  "asm_acc": "GCA_037021625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33329912",
+  "collection_date": "2011",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": "PORCINE PNEUMONIA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PM1463"
+ },
+ {
+  "asm_acc": "GCA_037113485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40258548",
+  "collection_date": "2021-09-20",
+  "geo_loc_name": "GERMANY",
+  "host": "SUS SCROFA",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "212516"
+ },
+ {
+  "asm_acc": "GCA_039514605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41107328",
+  "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
+  "host": "RABBIT",
+  "host_disease": "RESPIRATORY DISEASE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm6"
+ },
+ {
+  "asm_acc": "GCA_039519125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41107258",
+  "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
+  "host": "RABBIT",
+  "host_disease": "RESPIRATORY DISEASE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm3"
  }
 ]

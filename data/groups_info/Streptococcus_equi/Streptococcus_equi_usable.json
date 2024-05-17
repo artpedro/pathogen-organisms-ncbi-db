@@ -1,14 +1,16 @@
 [
  {
-  "Streptococcus_equi": "PDG000000103.14",
-  "date": "Sat Oct  7 20:56:58 2023"
+  "Streptococcus_equi": "PDG000000103.29",
+  "date": "Wed May 15 22:36:04 2024"
  },
  {
   "asm_acc": "GCA_000696505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02997653",
   "collection_date": "1998-10-23",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus CY",
   "strain": "CY"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542438",
   "collection_date": "1945",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "NCTC7022"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3542451",
   "collection_date": "1987",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "NCTC12090"
  },
@@ -35,34 +41,86 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597586",
   "collection_date": "1983",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "NCTC11606"
+ },
+ {
+  "asm_acc": "GCA_900475435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3662932",
+  "collection_date": "1980",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "NCTC11824"
  },
  {
   "asm_acc": "GCA_900475295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3696439",
   "collection_date": "1900/1941",
+  "geo_loc_name": null,
   "host": "MOUSE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "NCTC6176"
+ },
+ {
+  "asm_acc": "GCA_900636415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3572409",
+  "collection_date": "1987",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. equi",
+  "strain": "NCTC12091"
  },
  {
   "asm_acc": "GCA_900636805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3871788",
   "collection_date": "1900/1941",
+  "geo_loc_name": null,
   "host": "HORSE (MARE)",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "NCTC6180"
+ },
+ {
+  "asm_acc": "GCA_901472575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3307893",
+  "collection_date": "1914/1984",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "NCTC11854"
+ },
+ {
+  "asm_acc": "GCA_901542385.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMEA3572439",
+  "collection_date": "1935",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "BOVINE",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "NCTC4675"
  },
  {
   "asm_acc": "GCA_009676645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13257491",
   "collection_date": "2019-09",
+  "geo_loc_name": "USA",
   "host": "PORCINE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "OH-71905"
  },
@@ -71,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13257910",
   "collection_date": "2019-10",
+  "geo_loc_name": "USA",
   "host": "PORCINE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "TN-714097"
  },
@@ -80,16 +140,31 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13257493",
   "collection_date": "2019",
+  "geo_loc_name": "USA",
   "host": "PORCINE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "AZ-45470"
+ },
+ {
+  "asm_acc": "GCA_015767535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN16565174",
+  "collection_date": "2018-05",
+  "geo_loc_name": "USA",
+  "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "SEZ36"
  },
  {
   "asm_acc": "GCA_015767555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565175",
   "collection_date": "2018-04",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ46"
  },
@@ -98,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18752700",
   "collection_date": "2021",
+  "geo_loc_name": "USA",
   "host": "PORCINE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "IN-6992"
  },
@@ -107,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18051978",
   "collection_date": "2015-06-06",
+  "geo_loc_name": "SWEDEN",
   "host": "EQUUS CABALLUS",
+  "host_disease": "STRANGLES",
   "scientific_name": "Streptococcus equi subsp. equi",
   "strain": "489_004"
  },
@@ -116,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18051975",
   "collection_date": "2015-11-11",
+  "geo_loc_name": "SWEDEN",
   "host": "EQUUS CABALLUS",
+  "host_disease": "STRANGLES",
   "scientific_name": "Streptococcus equi subsp. equi",
   "strain": "470_008"
  },
@@ -125,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18051974",
   "collection_date": "2015-11-11",
+  "geo_loc_name": "SWEDEN",
   "host": "EQUUS CABALLUS",
+  "host_disease": "STRANGLES",
   "scientific_name": "Streptococcus equi subsp. equi",
   "strain": "470_007"
  },
@@ -134,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18051970",
   "collection_date": "2015-05-21",
+  "geo_loc_name": "SWEDEN",
   "host": "EQUUS CABALLUS",
+  "host_disease": "STRANGLES",
   "scientific_name": "Streptococcus equi subsp. equi",
   "strain": "470_001"
  },
@@ -143,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19647685",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "EQUINE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ_14-145"
  },
@@ -152,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19647690",
   "collection_date": "2018",
+  "geo_loc_name": "USA",
   "host": "EQUINE",
+  "host_disease": null,
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ_18-036"
  },
@@ -161,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565170",
   "collection_date": "2017-02",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ18"
  },
@@ -170,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565171",
   "collection_date": "2017-06",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ25"
  },
@@ -179,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565168",
   "collection_date": "2017-04",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ13"
  },
@@ -188,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565169",
   "collection_date": "2017-06",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ14"
  },
@@ -197,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565172",
   "collection_date": "2017-03",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ28"
  },
@@ -206,8 +305,87 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16565173",
   "collection_date": "2017-03",
+  "geo_loc_name": "USA",
   "host": "MARE",
+  "host_disease": "ENDOMETRITIS",
   "scientific_name": "Streptococcus equi subsp. zooepidemicus",
   "strain": "SEZ33"
+ },
+ {
+  "asm_acc": "GCA_033036375.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37235686",
+  "collection_date": "2019-12-19",
+  "geo_loc_name": "CHINA",
+  "host": "DONKEY",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. equi",
+  "strain": "HTP133"
+ },
+ {
+  "asm_acc": "GCA_033036395.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37235687",
+  "collection_date": "2019-12-19",
+  "geo_loc_name": "CHINA",
+  "host": "DONKEY",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. equi",
+  "strain": "HTP232"
+ },
+ {
+  "asm_acc": "GCA_033036835.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37235688",
+  "collection_date": "2019-12-19",
+  "geo_loc_name": "CHINA",
+  "host": "DONKEY",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. equi",
+  "strain": "HT1112"
+ },
+ {
+  "asm_acc": "GCA_033037175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37264171",
+  "collection_date": "2019",
+  "geo_loc_name": "CHINA",
+  "host": "EQUINE",
+  "host_disease": "STRANGLE",
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "ZHZ211"
+ },
+ {
+  "asm_acc": "GCA_033037495.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37264172",
+  "collection_date": "2019",
+  "geo_loc_name": "CHINA",
+  "host": "EQUINE",
+  "host_disease": "STRANGLE",
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "JMC111"
+ },
+ {
+  "asm_acc": "GCA_033037535.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37264173",
+  "collection_date": "2019",
+  "geo_loc_name": "CHINA",
+  "host": "DONKEY",
+  "host_disease": "STRANGLE",
+  "scientific_name": "Streptococcus equi subsp. zooepidemicus",
+  "strain": "HT321"
+ },
+ {
+  "asm_acc": "GCA_033037575.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37264176",
+  "collection_date": "2020",
+  "geo_loc_name": "CHINA",
+  "host": "EQUINE",
+  "host_disease": null,
+  "scientific_name": "Streptococcus equi subsp. equi",
+  "strain": "XJ5012"
  }
 ]

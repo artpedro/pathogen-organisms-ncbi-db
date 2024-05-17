@@ -1,18 +1,35 @@
 {
  "group": "Enterobacter_asburiae",
- "count": 22,
+ "count": 25,
  "species": {
-  "Enterobacter asburiae": 22
+  "Enterobacter asburiae": 25
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterobacter asburiae": 22
+  "Enterobacter asburiae": 25
  },
  "strain": {},
+ "location": {
+  "null": 1,
+  "USA": 6,
+  "FRANCE": 3,
+  "JAPAN": 5,
+  "SOUTH AFRICA": 1,
+  "CHINA": 8,
+  "POLAND": 1
+ },
  "hosts": {
-  "HOMO SAPIENS": 16,
+  "FELIS CATUS": 1,
   "RICE": 2,
   "LARUS MICHAHELLIS": 3,
-  "FELIS CATUS": 1
+  "HUMAN": 19
+ },
+ "hosts_diseases": {
+  "INFECTION": 1,
+  "null": 18,
+  "BRONCHIAL GRANULOMA": 1,
+  "BACTERIAL INFECTION": 2,
+  "PNEUMONIA": 2,
+  "BACTEREMIA": 1
  }
 }

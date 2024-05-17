@@ -1,14 +1,16 @@
 [
  {
-  "Enterococcus_faecium": "PDG000000071.454",
-  "date": "Thu Oct 19 21:09:29 2023"
+  "Enterococcus_faecium": "PDG000000071.552",
+  "date": "Wed May 15 22:24:14 2024"
  },
  {
   "asm_acc": "GCA_000174395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN00002237",
   "collection_date": "missing",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium DO",
   "strain": "DO"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04009964",
   "collection_date": "1992",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "64/3"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04418075",
   "collection_date": "2014",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "6E6"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03339922",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UW8175"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04045274",
   "collection_date": "2000-01-01",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "E745"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06019998",
   "collection_date": "2010-01-11",
+  "geo_loc_name": "SPAIN",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "E1"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06018903",
   "collection_date": "2013",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE001"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988631",
   "collection_date": "2011-05-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "ISMMS_VRE_12"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988627",
   "collection_date": "2011-05-19",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "ISMMS_VRE_9"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06186500",
   "collection_date": "2014-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NON-INSULIN-DEPENDENT DIABETS MELLITUS",
   "scientific_name": "Enterococcus faecium",
   "strain": "2014-VREF-41"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06463381",
   "collection_date": "2014-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CHRONIC KIDNEY DISEASE, STAGE5",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06472830",
   "collection_date": "2015-02-24",
+  "geo_loc_name": "KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "MALIGNANT NEOPLASM OF RECTOSIGMOID JUNCTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06472829",
   "collection_date": "2014-06-24",
+  "geo_loc_name": "KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "MALIGNANT NEOPLASM OF BRAIN STEM",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4067785",
   "collection_date": "2011",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988632",
   "collection_date": "2011-05-05",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "ISMMS_VRE_1"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988624",
   "collection_date": "2011-05-24",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "ISMMS_VRE_7"
  },
@@ -152,25 +184,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03988630",
   "collection_date": "2011-05-24",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "ISMMS_VRE_11"
- },
- {
-  "asm_acc": "GCA_002278015.2",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN04875571",
-  "collection_date": "2014-09-14",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "FDAARGOS_234"
  },
  {
   "asm_acc": "GCA_002334625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07638053",
   "collection_date": "2008",
+  "geo_loc_name": "NORWAY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "K60-39"
  },
@@ -179,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06006823",
   "collection_date": "2002-07-09",
+  "geo_loc_name": "NETHERLANDS",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "A_020709_82"
  },
@@ -188,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933399",
   "collection_date": "2013-05-09",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTERUS CANCER",
   "scientific_name": "Enterococcus faecium",
   "strain": "E240"
  },
@@ -197,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933400",
   "collection_date": "2013-05-28",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTERUS CANCER",
   "scientific_name": "Enterococcus faecium",
   "strain": "E243"
  },
@@ -206,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933398",
   "collection_date": "2013-04-14",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LOCALIZED ADIPOSITY",
   "scientific_name": "Enterococcus faecium",
   "strain": "E232"
  },
@@ -215,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08102921",
   "collection_date": "2017-03-08",
+  "geo_loc_name": "CHINA",
   "host": "MOSCHUS BEREZOVSKII",
+  "host_disease": "SEPTICEMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "LS170308"
  },
@@ -224,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679728",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER03933.3A"
  },
@@ -233,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679729",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER04120.3A"
  },
@@ -242,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679731",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER04484.3A"
  },
@@ -251,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679730",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER04462.3A"
  },
@@ -260,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679734",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER04619.3A"
  },
@@ -269,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679733",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER04526.5A"
  },
@@ -278,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07679732",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "Efaecium_ER04526.3A"
  },
@@ -287,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07211315",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "WEFA23"
  },
@@ -296,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08093650",
   "collection_date": "2015",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "RECTAL CARRIAGE",
   "scientific_name": "Enterococcus faecium",
   "strain": "15-307-1"
  },
@@ -305,7 +360,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173336",
   "collection_date": "2014-12-19",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "FDAARGOS_323"
  },
@@ -314,7 +371,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628413",
   "collection_date": "2015-11-25",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VRE",
   "scientific_name": "Enterococcus faecium",
   "strain": "AUSMDU00004167"
  },
@@ -323,7 +382,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628411",
   "collection_date": "2015-11-25",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VRE",
   "scientific_name": "Enterococcus faecium",
   "strain": "AUSMDU00004055"
  },
@@ -332,7 +393,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628410",
   "collection_date": "2015-11-25",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VRE",
   "scientific_name": "Enterococcus faecium",
   "strain": "AUSMDU00004028"
  },
@@ -341,7 +404,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628409",
   "collection_date": "2015-11-25",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VRE",
   "scientific_name": "Enterococcus faecium",
   "strain": "AUSMDU00004024"
  },
@@ -350,7 +415,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08628412",
   "collection_date": "2015-11-25",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "VRE",
   "scientific_name": "Enterococcus faecium",
   "strain": "AUSMDU00004142"
  },
@@ -359,7 +426,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06621458",
   "collection_date": "2014-10-18",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIURIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "CFSAN059070"
  },
@@ -368,7 +437,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06621457",
   "collection_date": "2014-12-05",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIURIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "CFSAN059071"
  },
@@ -377,25 +448,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10273305",
   "collection_date": "2016",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "RBWH1"
- },
- {
-  "asm_acc": "GCA_900636615.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMEA3679192",
-  "collection_date": "1900/1990",
-  "host": "PIG",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "NCTC12368"
  },
  {
   "asm_acc": "GCA_900637035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4557825",
   "collection_date": "1900/1946",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "NCTC7174"
  },
@@ -404,7 +470,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3614259",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "3012STDY6244127"
  },
@@ -413,7 +481,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08689723",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "COW",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "FSIS1608820"
  },
@@ -422,25 +492,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10697318",
   "collection_date": "2012",
+  "geo_loc_name": "EGYPT",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "NM213"
- },
- {
-  "asm_acc": "GCA_005517315.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN11490474",
-  "collection_date": "2019",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus faecium",
-  "strain": "VB3025"
  },
  {
   "asm_acc": "GCA_005576735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11633508",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ABSCESS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB3240"
  },
@@ -449,7 +514,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10863479",
   "collection_date": "2018-06-28",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UAMSEF_01"
  },
@@ -458,7 +525,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10863491",
   "collection_date": "2018-07-07",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UAMSEF_08"
  },
@@ -467,7 +536,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10863492",
   "collection_date": "2018-09-18",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UAMSEF_09"
  },
@@ -476,7 +547,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11848047",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "HOU503"
  },
@@ -485,7 +558,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11890391",
   "collection_date": "2018-12-03",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE1"
  },
@@ -494,7 +569,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11942429",
   "collection_date": "2018",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "F17E0263"
  },
@@ -503,7 +580,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11952093",
   "collection_date": "2019-04-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "DB-1"
  },
@@ -512,7 +591,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11960005",
   "collection_date": "2019-04-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "HB-1"
  },
@@ -521,7 +602,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11974796",
   "collection_date": "2019-04-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "FB-1"
  },
@@ -530,7 +613,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12141647",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENDOCARDITIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "515"
  },
@@ -539,7 +624,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12138936",
   "collection_date": "2014",
+  "geo_loc_name": "SWEDEN",
   "host": "HOMO SAPIENS",
+  "host_disease": "LIVER FAILURE",
   "scientific_name": "Enterococcus faecium",
   "strain": "VVEswe-R"
  },
@@ -548,25 +635,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12138986",
   "collection_date": "2014",
+  "geo_loc_name": "SWEDEN",
   "host": "HOMO SAPIENS",
+  "host_disease": "LIVER FAILURE",
   "scientific_name": "Enterococcus faecium",
   "strain": "VVEswe-S"
- },
- {
-  "asm_acc": "GCA_008000855.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN12530214",
-  "collection_date": "2019-05-17",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus faecium",
-  "strain": "FA3"
  },
  {
   "asm_acc": "GCA_008728455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12818007",
   "collection_date": "2017",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "V1836"
  },
@@ -575,7 +657,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12818041",
   "collection_date": "2018",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "V2937"
  },
@@ -584,7 +668,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12828129",
   "collection_date": "2015-07",
+  "geo_loc_name": "BRAZIL",
   "host": "OREOCHROMIS NILOTICUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "LAC7.2"
  },
@@ -593,7 +679,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13283502",
   "collection_date": "2017-08-11",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BSI",
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE"
  },
@@ -602,7 +690,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10867607",
   "collection_date": "2017-04-12",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CHOLEDOCHOLITHIASIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "SRR24"
  },
@@ -611,7 +701,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11269520",
   "collection_date": "2017-03-30",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CANCER OF ANUS",
   "scientific_name": "Enterococcus faecium",
   "strain": "ZY11"
  },
@@ -620,7 +712,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00202474",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "KUHS13"
  },
@@ -629,7 +723,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10867605",
   "collection_date": "2017-01-20",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "UREMIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "ZY2"
  },
@@ -638,7 +734,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12688234",
   "collection_date": "2017-02",
+  "geo_loc_name": "CHINA",
   "host": "BEEF CATTLE",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "DT1-1"
  },
@@ -647,7 +745,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675398",
   "collection_date": "2018",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "BA17124"
  },
@@ -656,7 +756,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675394",
   "collection_date": "2017",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "BP5067"
  },
@@ -665,7 +767,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675393",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "BP3378"
  },
@@ -674,7 +778,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675395",
   "collection_date": "2017",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "BP657"
  },
@@ -683,7 +789,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675388",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A7214"
  },
@@ -692,7 +800,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675386",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A6521"
  },
@@ -701,7 +811,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675385",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A4694"
  },
@@ -710,7 +822,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675384",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A3895"
  },
@@ -719,7 +833,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675381",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A11051"
  },
@@ -728,7 +844,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675383",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A15023"
  },
@@ -737,7 +855,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14675380",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "A10290"
  },
@@ -746,61 +866,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14969421",
   "collection_date": "2016-05-11",
+  "geo_loc_name": "RUSSIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "FS 86"
- },
- {
-  "asm_acc": "GCA_013391145.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN15223909",
-  "collection_date": "2012",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "13344"
- },
- {
-  "asm_acc": "GCA_013391165.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN15223908",
-  "collection_date": "2014",
-  "host": "ENVIRONMENTAL",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "13152"
- },
- {
-  "asm_acc": "GCA_013391185.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN15223907",
-  "collection_date": "2013",
-  "host": "MUS MUSCULUS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "13144"
- },
- {
-  "asm_acc": "GCA_013391205.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN15223906",
-  "collection_date": "2014",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "708"
- },
- {
-  "asm_acc": "GCA_014218175.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN12405821",
-  "collection_date": "2017-06-25",
-  "host": "PIG",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "HDC14-2"
  },
  {
   "asm_acc": "GCA_014490015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15643623",
   "collection_date": "2016-11",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "AML0157"
  },
@@ -809,7 +888,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287686",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB3338"
  },
@@ -818,7 +899,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566652",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE3370"
  },
@@ -827,7 +910,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566645",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE3363"
  },
@@ -836,7 +921,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566671",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE3389"
  },
@@ -845,7 +932,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566664",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE3382"
  },
@@ -854,7 +943,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17012772",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 1"
  },
@@ -863,7 +954,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038066",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 5"
  },
@@ -872,7 +965,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038086",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 91"
  },
@@ -881,7 +976,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038078",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 53_1"
  },
@@ -890,7 +987,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038079",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 55"
  },
@@ -899,7 +998,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038081",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 66"
  },
@@ -908,7 +1009,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038084",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 83"
  },
@@ -917,7 +1020,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038071",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 17_1"
  },
@@ -926,7 +1031,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038075",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 51_4"
  },
@@ -935,7 +1042,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038069",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 16_1"
  },
@@ -944,7 +1053,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038085",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 87_1"
  },
@@ -953,7 +1064,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038083",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 71_2"
  },
@@ -962,7 +1075,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038077",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 53_2"
  },
@@ -971,7 +1086,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038080",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 57"
  },
@@ -980,7 +1097,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038089",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 93_3"
  },
@@ -989,7 +1108,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038088",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 93_2"
  },
@@ -998,7 +1119,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038090",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 97_1"
  },
@@ -1007,7 +1130,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038093",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 103"
  },
@@ -1016,7 +1141,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038091",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 100_1"
  },
@@ -1025,7 +1152,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038094",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 107_1"
  },
@@ -1034,7 +1163,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038095",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 111"
  },
@@ -1043,7 +1174,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038100",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 124_3"
  },
@@ -1052,7 +1185,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038098",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 124_1"
  },
@@ -1061,7 +1196,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038103",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 144_1"
  },
@@ -1070,7 +1207,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038104",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 148"
  },
@@ -1079,7 +1218,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038102",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 137"
  },
@@ -1088,7 +1229,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038101",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 131_2"
  },
@@ -1097,7 +1240,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038111",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 163_1"
  },
@@ -1106,7 +1251,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038106",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 155"
  },
@@ -1115,7 +1262,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038105",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 154_1"
  },
@@ -1124,7 +1273,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17038107",
   "collection_date": "2015",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "Dallas 158"
  },
@@ -1133,7 +1284,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12930511",
   "collection_date": "2017-02-03",
+  "geo_loc_name": "NORWAY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTERIURIA",
   "scientific_name": "Enterococcus faecium",
   "strain": "WGS1811-4-7"
  },
@@ -1142,7 +1295,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15566637",
   "collection_date": "2014",
+  "geo_loc_name": "AUSTRALIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE3355"
  },
@@ -1151,7 +1306,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18353823",
   "collection_date": "2020",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB13828"
  },
@@ -1160,7 +1317,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533867",
   "collection_date": "2018",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB12993"
  },
@@ -1169,7 +1328,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533866",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB3895"
  },
@@ -1178,7 +1339,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533868",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB976"
  },
@@ -1187,7 +1350,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533763",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB6171"
  },
@@ -1196,7 +1361,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533757",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB6521"
  },
@@ -1205,7 +1372,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18533778",
   "collection_date": "2019",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEPSIS",
   "scientific_name": "Enterococcus faecium",
   "strain": "VB3378"
  },
@@ -1214,7 +1383,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16327791",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterococcus faecium",
   "strain": "PR05720-3"
  },
@@ -1223,7 +1394,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16327730",
   "collection_date": "2016",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Enterococcus faecium",
   "strain": "PR01996-12"
  },
@@ -1232,7 +1405,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659956",
   "collection_date": "2017",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1241,7 +1416,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659929",
   "collection_date": "2015",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1250,7 +1427,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659991",
   "collection_date": "2018",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1259,7 +1438,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8659977",
   "collection_date": "2018",
+  "geo_loc_name": "SWITZERLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1268,7 +1449,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988100",
   "collection_date": "2018-08",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "18-465"
  },
@@ -1277,7 +1460,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988099",
   "collection_date": "2018-05",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "18-276"
  },
@@ -1286,7 +1471,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988094",
   "collection_date": "2017-11",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "17-508"
  },
@@ -1295,7 +1482,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988093",
   "collection_date": "2017-06",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "17-318"
  },
@@ -1304,7 +1493,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988092",
   "collection_date": "2016-07",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "16-164"
  },
@@ -1313,7 +1504,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988091",
   "collection_date": "2016-02",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "16-021"
  },
@@ -1322,7 +1515,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16988095",
   "collection_date": "2018-01",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS FAECIUM",
   "scientific_name": "Enterococcus faecium",
   "strain": "18-042"
  },
@@ -1331,7 +1526,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20255402",
   "collection_date": "2018-11-07",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "7150"
  },
@@ -1340,7 +1537,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520472",
   "collection_date": "2012",
+  "geo_loc_name": "NEW ZEALAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AUS2001"
  },
@@ -1349,7 +1548,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8520473",
   "collection_date": "2012",
+  "geo_loc_name": "NEW ZEALAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AUS2002"
  },
@@ -1358,7 +1559,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00324535",
   "collection_date": "2014",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AA620"
  },
@@ -1367,7 +1570,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00324536",
   "collection_date": "2014",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AA622"
  },
@@ -1376,7 +1581,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21438094",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "HJP554"
  },
@@ -1385,7 +1592,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5367970",
   "collection_date": "2015",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1394,7 +1603,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5367917",
   "collection_date": "2015",
+  "geo_loc_name": "DENMARK",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1403,7 +1614,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21850488",
   "collection_date": "2020-09-25",
+  "geo_loc_name": "POLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": "WOUND INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "4995/20"
  },
@@ -1412,7 +1625,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22627481",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "SC1762"
  },
@@ -1421,7 +1636,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22627489",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "SC1762-D"
  },
@@ -1430,7 +1647,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23500290",
   "collection_date": "2021-01-05",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "V13-21-E11-012-001"
  },
@@ -1439,7 +1658,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23828484",
   "collection_date": "2021-02",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BACTEREMIA, INTRAABDOMINAL ABSCESS",
   "scientific_name": "Enterococcus faecium",
   "strain": "NMVRE-001"
  },
@@ -1448,7 +1669,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21240068",
   "collection_date": "2018-05",
+  "geo_loc_name": "CHINA",
   "host": "APIS MELLIFERA",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "H7"
  },
@@ -1457,7 +1680,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25039860",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "P47"
  },
@@ -1466,7 +1691,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25134383",
   "collection_date": "2018-06-17",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UK043"
  },
@@ -1475,7 +1702,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25260013",
   "collection_date": "2018-02-18",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UK040"
  },
@@ -1484,7 +1713,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573784",
   "collection_date": "2019-04-03",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UAMS_EF58"
  },
@@ -1493,7 +1724,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573783",
   "collection_date": "2019-04-02",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UAMS_EF57"
  },
@@ -1502,7 +1735,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573782",
   "collection_date": "2019-04-01",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "UAMS_EF55"
  },
@@ -1511,7 +1746,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26026626",
   "collection_date": "2004-04-20",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "UTI",
   "scientific_name": "Enterococcus faecium",
   "strain": "VRE-WC072"
  },
@@ -1520,7 +1757,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754680",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CHRONIC RENAL INSUFFICIENCY",
   "scientific_name": "Enterococcus faecium",
   "strain": "NY2032"
  },
@@ -1529,7 +1768,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754766",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "LUMBAR VERTEBRAE FRACTURE",
   "scientific_name": "Enterococcus faecium",
   "strain": "NY11067"
  },
@@ -1538,7 +1779,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26754719",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "POST OPERATION",
   "scientific_name": "Enterococcus faecium",
   "strain": "NY11066"
  },
@@ -1547,7 +1790,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26755017",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "NY13320"
  },
@@ -1556,7 +1801,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16442613",
   "collection_date": "2014-12-13",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-5-1-10"
  },
@@ -1565,7 +1812,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483167",
   "collection_date": "2014-07-15",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-2-2-11"
  },
@@ -1574,7 +1823,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483166",
   "collection_date": "2015-01-07",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-4-1-1"
  },
@@ -1583,7 +1834,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483165",
   "collection_date": "2019-03-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIOVASCULAR DISEASE",
   "scientific_name": "Enterococcus faecium",
   "strain": "ICU-1-2"
  },
@@ -1592,7 +1845,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483164",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-1-1-10"
  },
@@ -1601,7 +1856,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483163",
   "collection_date": "2019-03-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIOVASCULAR DISEASE",
   "scientific_name": "Enterococcus faecium",
   "strain": "ICU-3-1"
  },
@@ -1610,7 +1867,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483162",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-1-1-11"
  },
@@ -1619,7 +1878,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483161",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-1-1-12"
  },
@@ -1628,7 +1889,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483160",
   "collection_date": "2015-01-07",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-4-1-11"
  },
@@ -1637,7 +1900,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483159",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-2-1-1"
  },
@@ -1646,7 +1911,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483158",
   "collection_date": "2014-07-22",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-1-3-1"
  },
@@ -1655,7 +1922,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483157",
   "collection_date": "2015-02-03",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-3-2-1"
  },
@@ -1664,7 +1933,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483156",
   "collection_date": "2014-07-23",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-2-3-8"
  },
@@ -1673,7 +1944,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483155",
   "collection_date": "2014-07-08",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-2-1-3"
  },
@@ -1682,7 +1955,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483154",
   "collection_date": "2019-03-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIOVASCULAR DISEASE",
   "scientific_name": "Enterococcus faecium",
   "strain": "ICU-1-1"
  },
@@ -1691,7 +1966,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483153",
   "collection_date": "2015-01-07",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "BONE MARROW TRANSPLANT",
   "scientific_name": "Enterococcus faecium",
   "strain": "BMT-4-1-3"
  },
@@ -1700,7 +1977,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483152",
   "collection_date": "2019-03-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIOVASCULAR DISEASE",
   "scientific_name": "Enterococcus faecium",
   "strain": "ICU-4-1"
  },
@@ -1709,7 +1988,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483151",
   "collection_date": "2019-03-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIOVASCULAR DISEASE",
   "scientific_name": "Enterococcus faecium",
   "strain": "ICU-5-1"
  },
@@ -1718,7 +1999,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16483150",
   "collection_date": "2019-03-01",
+  "geo_loc_name": "GERMANY",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIOVASCULAR DISEASE",
   "scientific_name": "Enterococcus faecium",
   "strain": "ICU-2-1"
  },
@@ -1727,7 +2010,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27725314",
   "collection_date": "2019",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "UCH1"
  },
@@ -1736,7 +2021,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27728132",
   "collection_date": "2019",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ENTEROCOCCUS INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "UCH5"
  },
@@ -1745,7 +2032,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424489",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "S2-6b"
  },
@@ -1754,7 +2043,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424486",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "SUS SCROFA DOMESTICUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "S39-7a"
  },
@@ -1763,7 +2054,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424744",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "1818"
  },
@@ -1772,7 +2065,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424743",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "211b"
  },
@@ -1781,7 +2076,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424742",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "264a"
  },
@@ -1790,7 +2087,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424741",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "1525"
  },
@@ -1799,7 +2098,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424740",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "642"
  },
@@ -1808,52 +2109,20 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424739",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "237"
- },
- {
-  "asm_acc": "GCA_023373765.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN26687403",
-  "collection_date": "2019-10-30",
-  "host": "SWINE",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "GDIAS-5"
- },
- {
-  "asm_acc": "GCA_023375155.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN23424493",
-  "collection_date": "2021",
-  "host": "SUS SCROFA DOMESTICUS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "S2-7"
- },
- {
-  "asm_acc": "GCA_023375175.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN23424492",
-  "collection_date": "2021",
-  "host": "SUS SCROFA DOMESTICUS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "S46-3"
- },
- {
-  "asm_acc": "GCA_023375305.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN23424747",
-  "collection_date": "2021",
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus hirae",
-  "strain": "697"
  },
  {
   "asm_acc": "GCA_023658035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15486631",
   "collection_date": "2018-07-02",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "ef332"
  },
@@ -1862,7 +2131,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29862207",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "ENCfa-68"
  },
@@ -1871,7 +2142,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31247869",
   "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "ATF64"
  },
@@ -1880,7 +2153,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31247870",
   "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "BTF71-1"
  },
@@ -1889,7 +2164,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31247871",
   "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "IC25"
  },
@@ -1898,7 +2175,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466802",
   "collection_date": "2000",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1907,7 +2186,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466807",
   "collection_date": null,
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1916,16 +2197,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466808",
   "collection_date": "2010",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
-  "scientific_name": "Enterococcus faecium",
-  "strain": null
- },
- {
-  "asm_acc": "GCA_026073455.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMD00466809",
-  "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1934,7 +2208,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466815",
   "collection_date": "2014",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1943,7 +2219,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466816",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1952,7 +2230,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00466817",
   "collection_date": "2015",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -1961,7 +2241,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27545022",
   "collection_date": "2018-10",
+  "geo_loc_name": "CHINA",
   "host": "PIGLET",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AKSZ-47"
  },
@@ -1970,7 +2252,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27545023",
   "collection_date": "2018-10",
+  "geo_loc_name": "CHINA",
   "host": "NURSERY PIG",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AKSZ-142"
  },
@@ -1979,7 +2263,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31742645",
   "collection_date": "2019",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CLINICAL",
   "scientific_name": "Enterococcus faecium",
   "strain": "DVT1681"
  },
@@ -1988,7 +2274,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32302292",
   "collection_date": "2022",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "EF0656"
  },
@@ -1997,7 +2285,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424535",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K195-6b"
  },
@@ -2006,7 +2296,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424529",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K191-3"
  },
@@ -2015,7 +2307,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424534",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "R39-1"
  },
@@ -2024,7 +2318,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424533",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "R186-2"
  },
@@ -2033,7 +2329,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424532",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K69-1a"
  },
@@ -2042,7 +2340,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424531",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K188-5"
  },
@@ -2051,7 +2351,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424528",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K162-1"
  },
@@ -2060,7 +2362,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424527",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K75-1"
  },
@@ -2069,7 +2373,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424526",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K70-1a"
  },
@@ -2078,7 +2384,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424525",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K189-3"
  },
@@ -2087,7 +2395,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23424524",
   "collection_date": "2021",
+  "geo_loc_name": null,
   "host": "BOS TAURUS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "K80-15b"
  },
@@ -2096,7 +2406,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31265469",
   "collection_date": "2019-12-03",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "XJ78NG"
  },
@@ -2105,7 +2417,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35725530",
   "collection_date": "2019-02-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A2"
  },
@@ -2114,7 +2428,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35654454",
   "collection_date": "2023-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "FOOD",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "AK_C_05"
  },
@@ -2123,7 +2439,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718359",
   "collection_date": "2019-02-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0007"
  },
@@ -2132,7 +2450,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718851",
   "collection_date": "2019-05-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0014"
  },
@@ -2141,7 +2461,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718850",
   "collection_date": "2019-02-24",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0008"
  },
@@ -2150,7 +2472,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707033",
   "collection_date": "2019-08-07",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0021"
  },
@@ -2159,7 +2483,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706935",
   "collection_date": "2019-07-26",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0020"
  },
@@ -2168,7 +2494,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707092",
   "collection_date": "2019-08-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0022"
  },
@@ -2177,7 +2505,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707139",
   "collection_date": "2019-12-29",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0035"
  },
@@ -2186,7 +2516,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707497",
   "collection_date": "2019-01-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0006"
  },
@@ -2195,7 +2527,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707202",
   "collection_date": "2019-01-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0004"
  },
@@ -2204,7 +2538,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707533",
   "collection_date": "2019-04-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0014"
  },
@@ -2213,7 +2549,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707500",
   "collection_date": "2019-04-06",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0012"
  },
@@ -2222,7 +2560,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707534",
   "collection_date": "2019-04-19",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0015"
  },
@@ -2231,7 +2571,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707548",
   "collection_date": "2019-05-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0017"
  },
@@ -2240,7 +2582,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707724",
   "collection_date": "2019-05-16",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0019"
  },
@@ -2249,7 +2593,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707778",
   "collection_date": "2019-08-07",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0026"
  },
@@ -2258,7 +2604,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707781",
   "collection_date": "2019-09-05",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0030"
  },
@@ -2267,7 +2615,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707726",
   "collection_date": "2019-07-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0022"
  },
@@ -2276,7 +2626,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707779",
   "collection_date": "2019-08-25",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0028"
  },
@@ -2285,7 +2637,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707727",
   "collection_date": "2019-07-19",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0023"
  },
@@ -2294,7 +2648,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707789",
   "collection_date": "2019-09-30",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0032"
  },
@@ -2303,7 +2659,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707535",
   "collection_date": "2019-04-23",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0016"
  },
@@ -2312,7 +2670,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36717994",
   "collection_date": "2019-11-22",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0040"
  },
@@ -2321,7 +2681,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718889",
   "collection_date": "2019-05-29",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0016"
  },
@@ -2330,7 +2692,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706633",
   "collection_date": "2019-05-20",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0008"
  },
@@ -2339,7 +2703,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706933",
   "collection_date": "2019-06-19",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0010"
  },
@@ -2348,7 +2714,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36706555",
   "collection_date": "2019-05-17",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "A0019EM0007"
  },
@@ -2357,7 +2725,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36707809",
   "collection_date": "2019-10-16",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0034"
  },
@@ -2366,7 +2736,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12282898",
   "collection_date": "2019-05-15",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterococcus faecium",
   "strain": "CX2-6"
  },
@@ -2375,7 +2747,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36717978",
   "collection_date": "2019-11-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2384,7 +2758,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718214",
   "collection_date": "2019-12-23",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0045"
  },
@@ -2393,7 +2769,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718008",
   "collection_date": "2019-12-05",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "B0019EM0041"
  },
@@ -2402,7 +2780,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718216",
   "collection_date": "2019-01-14",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0002"
  },
@@ -2411,7 +2791,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718321",
   "collection_date": "2019-02-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0006"
  },
@@ -2420,7 +2802,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719344",
   "collection_date": "2019-12-30",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0037"
  },
@@ -2429,7 +2813,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719123",
   "collection_date": "2019-06-14",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0019"
  },
@@ -2438,7 +2824,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36718962",
   "collection_date": "2019-06-07",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0018"
  },
@@ -2447,7 +2835,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719180",
   "collection_date": "2019-09-14",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0029"
  },
@@ -2456,7 +2846,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719124",
   "collection_date": "2019-06-14",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0020"
  },
@@ -2465,7 +2857,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719288",
   "collection_date": "2019-10-06",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0030"
  },
@@ -2474,7 +2868,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719126",
   "collection_date": "2019-07-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0021"
  },
@@ -2483,7 +2879,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719128",
   "collection_date": "2019-09-14",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0028"
  },
@@ -2492,7 +2890,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719299",
   "collection_date": "2019-10-26",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0031"
  },
@@ -2501,7 +2901,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719345",
   "collection_date": "2019-01-29",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0001"
  },
@@ -2510,7 +2912,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719477",
   "collection_date": "2019-04-30",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0013"
  },
@@ -2519,7 +2923,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719463",
   "collection_date": "2019-04-12",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0009"
  },
@@ -2528,7 +2934,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719475",
   "collection_date": "2019-04-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0012"
  },
@@ -2537,7 +2945,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719331",
   "collection_date": "2019-11-05",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0033"
  },
@@ -2546,7 +2956,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719324",
   "collection_date": "2019-11-03",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0032"
  },
@@ -2555,7 +2967,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719392",
   "collection_date": "2019-04-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0008"
  },
@@ -2564,7 +2978,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719343",
   "collection_date": "2019-12-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "C0019EM0035"
  },
@@ -2573,7 +2989,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734991",
   "collection_date": "2019-01-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2582,7 +3000,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735063",
   "collection_date": "2019-01-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2591,7 +3011,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735064",
   "collection_date": "2019-01-16",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2600,7 +3022,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735231",
   "collection_date": "2019-04-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2609,7 +3033,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735165",
   "collection_date": "2019-02-09",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2618,7 +3044,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736016",
   "collection_date": "2019-09-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2627,7 +3055,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719514",
   "collection_date": "2019-10-19",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0023"
  },
@@ -2636,7 +3066,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719515",
   "collection_date": "2019-10-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0024"
  },
@@ -2645,7 +3077,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719516",
   "collection_date": "2019-11-19",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0026"
  },
@@ -2654,7 +3088,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719542",
   "collection_date": "2019-12-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0029"
  },
@@ -2663,7 +3099,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733584",
   "collection_date": "2019-01-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2672,7 +3110,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733603",
   "collection_date": "2019-01-15",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2681,7 +3121,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733911",
   "collection_date": "2019-02-11",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2690,7 +3132,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733916",
   "collection_date": "2019-03-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2699,7 +3143,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734007",
   "collection_date": "2019-04-28",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2708,7 +3154,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36733917",
   "collection_date": "2019-04-06",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2717,7 +3165,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734045",
   "collection_date": "2019-05-07",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2726,7 +3176,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734084",
   "collection_date": "2019-05-24",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2735,7 +3187,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734958",
   "collection_date": "2019-11-26",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2744,7 +3198,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734979",
   "collection_date": "2019-12-28",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2753,7 +3209,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734992",
   "collection_date": "2019-01-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2762,7 +3220,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734957",
   "collection_date": "2019-09-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2771,7 +3231,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734955",
   "collection_date": "2019-07-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2780,7 +3242,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734981",
   "collection_date": "2019-12-29",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2789,7 +3253,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734980",
   "collection_date": "2019-12-30",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2798,7 +3264,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734083",
   "collection_date": "2019-05-17",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2807,7 +3275,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734085",
   "collection_date": "2019-05-24",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2816,7 +3286,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734607",
   "collection_date": "2019-07-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2825,7 +3297,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36734082",
   "collection_date": "2019-05-12",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2834,7 +3308,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735062",
   "collection_date": "2019-01-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2843,7 +3319,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735061",
   "collection_date": "2019-01-06",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2852,7 +3330,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735493",
   "collection_date": "2019-05-28",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2861,7 +3341,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735490",
   "collection_date": "2019-05-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2870,7 +3352,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735492",
   "collection_date": "2019-05-17",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2879,7 +3363,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735668",
   "collection_date": "2019-06-05",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2888,7 +3374,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735720",
   "collection_date": "2019-06-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2897,7 +3385,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735736",
   "collection_date": "2019-07-04",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2906,7 +3396,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735723",
   "collection_date": "2019-06-29",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2915,7 +3407,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735739",
   "collection_date": "2019-07-25",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2924,7 +3418,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735770",
   "collection_date": "2019-08-07",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2933,7 +3429,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736014",
   "collection_date": "2019-08-19",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2942,7 +3440,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36735722",
   "collection_date": "2019-06-26",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2951,7 +3451,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736015",
   "collection_date": "2019-08-24",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2960,7 +3462,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736061",
   "collection_date": "2019-10-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2969,7 +3473,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736157",
   "collection_date": "2019-12-28",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "F0019EM0056"
  },
@@ -2978,7 +3484,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36736064",
   "collection_date": "2019-11-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": null
  },
@@ -2987,7 +3495,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759114",
   "collection_date": "2019-02-23",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0003"
  },
@@ -2996,7 +3506,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36719504",
   "collection_date": "2019-10-16",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "D0019EM0022"
  },
@@ -3005,7 +3517,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759130",
   "collection_date": "2019-04-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0011"
  },
@@ -3014,7 +3528,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759137",
   "collection_date": "2019-05-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0012"
  },
@@ -3023,7 +3539,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759202",
   "collection_date": "2019-08-28",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0023"
  },
@@ -3032,7 +3550,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759180",
   "collection_date": "2019-08-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0022"
  },
@@ -3041,7 +3561,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760078",
   "collection_date": "2019-04-20",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0007"
  },
@@ -3050,7 +3572,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760079",
   "collection_date": "2019-05-14",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0009"
  },
@@ -3059,7 +3583,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760034",
   "collection_date": "2019-03-16",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0003"
  },
@@ -3068,7 +3594,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759472",
   "collection_date": "2019-11-09",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0027"
  },
@@ -3077,7 +3605,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760037",
   "collection_date": "2019-04-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0006"
  },
@@ -3086,7 +3616,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760080",
   "collection_date": "2019-09-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0013"
  },
@@ -3095,7 +3627,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759106",
   "collection_date": "2019-01-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0001"
  },
@@ -3104,7 +3638,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759107",
   "collection_date": "2019-01-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0002"
  },
@@ -3113,7 +3649,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759127",
   "collection_date": "2019-04-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0008"
  },
@@ -3122,7 +3660,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759128",
   "collection_date": "2019-04-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0010"
  },
@@ -3131,7 +3671,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759157",
   "collection_date": "2019-08-05",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0019"
  },
@@ -3140,7 +3682,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759156",
   "collection_date": "2019-07-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0017"
  },
@@ -3149,7 +3693,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759117",
   "collection_date": "2019-03-21",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "HOMO SAPIENS",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0006"
  },
@@ -3158,7 +3704,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759150",
   "collection_date": "2019-05-13",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0013"
  },
@@ -3167,7 +3715,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759155",
   "collection_date": "2019-07-09",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0015"
  },
@@ -3176,7 +3726,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36759179",
   "collection_date": "2019-08-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "G0019EM0021"
  },
@@ -3185,7 +3737,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760081",
   "collection_date": "2019-11-18",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0021"
  },
@@ -3194,8 +3748,241 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36760082",
   "collection_date": "2019-12-20",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BLOODSTREAM INFECTION",
   "scientific_name": "Enterococcus faecium",
   "strain": "H0019EM0023"
+ },
+ {
+  "asm_acc": "GCA_033130085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMD00623430",
+  "collection_date": "2022-08-31",
+  "geo_loc_name": "JAPAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "8419"
+ },
+ {
+  "asm_acc": "GCA_033246985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37977521",
+  "collection_date": "2021",
+  "geo_loc_name": "CHINA",
+  "host": "CHICKEN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "C10-7"
+ },
+ {
+  "asm_acc": "GCA_033247905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37977522",
+  "collection_date": "2021",
+  "geo_loc_name": "CHINA",
+  "host": "DUCK",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "AD21B"
+ },
+ {
+  "asm_acc": "GCA_033249005.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37977554",
+  "collection_date": "2021",
+  "geo_loc_name": "CHINA",
+  "host": "CHICKEN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "C20-2A"
+ },
+ {
+  "asm_acc": "GCA_033249725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37977555",
+  "collection_date": "2021",
+  "geo_loc_name": "CHINA",
+  "host": "CHICKEN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "C4-1"
+ },
+ {
+  "asm_acc": "GCA_033260105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37977590",
+  "collection_date": "2021",
+  "geo_loc_name": "CHINA",
+  "host": "CHICKEN",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "HMC8C-1"
+ },
+ {
+  "asm_acc": "GCA_034644175.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38673174",
+  "collection_date": "2022-10-17",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "RECURRENT URINARY TRACT INFECTION",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "HRH41"
+ },
+ {
+  "asm_acc": "GCA_035928225.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39438757",
+  "collection_date": "2021-08-07",
+  "geo_loc_name": "CHINA",
+  "host": "BOVINE",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "BN83"
+ },
+ {
+  "asm_acc": "GCA_037013415.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37298046",
+  "collection_date": "2016-08-15",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "MULTIPLE MYELOMA",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "SRR12"
+ },
+ {
+  "asm_acc": "GCA_037019775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37287145",
+  "collection_date": "2016-08-15",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "MULTIPLE MYELOMA",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "SRR12-v1"
+ },
+ {
+  "asm_acc": "GCA_038436665.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766205",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016C10-291"
+ },
+ {
+  "asm_acc": "GCA_038437885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766204",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016N21-233"
+ },
+ {
+  "asm_acc": "GCA_038439085.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766203",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016C08-243"
+ },
+ {
+  "asm_acc": "GCA_038441015.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766202",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016N17-104"
+ },
+ {
+  "asm_acc": "GCA_038441105.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766201",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016C07-254"
+ },
+ {
+  "asm_acc": "GCA_038441115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766200",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016S09-053"
+ },
+ {
+  "asm_acc": "GCA_038441125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766199",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016S06-219"
+ },
+ {
+  "asm_acc": "GCA_038441135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766198",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016C01-052"
+ },
+ {
+  "asm_acc": "GCA_038441145.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766197",
+  "collection_date": "2016",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2016S01-202"
+ },
+ {
+  "asm_acc": "GCA_038441155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36766196",
+  "collection_date": "2010",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Enterococcus faecium",
+  "strain": "2010C10-174"
+ },
+ {
+  "asm_acc": "GCA_038665115.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41030363",
+  "collection_date": "2022-02",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": "HYPERTENSIVE DISEASE",
+  "scientific_name": "Enterococcus faecium",
+  "strain": "EF9953"
  }
 ]

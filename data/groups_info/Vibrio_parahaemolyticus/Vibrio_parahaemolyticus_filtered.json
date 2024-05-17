@@ -1,7 +1,7 @@
 [
  {
-  "Vibrio_parahaemolyticus": "PDG000000023.784",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Vibrio_parahaemolyticus": "PDG000000023.885",
+  "date": "Wed May 15 22:37:56 2024"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02179884",
   "collection_date": "2006-09-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus O1:K33 str. CDC_K4557",
   "strain": "CDC_K4557",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_000430425.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_000430425.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03255431",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FDAARGOS_51",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001188185.2"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001188185.2"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03159469",
   "collection_date": "2014-03-27",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "FINESPOTTED FLOUNDER",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FORC_008",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001244315.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001244315.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996250",
   "collection_date": "1951",
+  "geo_loc_name": "JAPAN",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "ATCC 17802",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001558495.2"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001558495.2"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03457164",
   "collection_date": "2015-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FORC_014",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001636035.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001636035.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05271497",
   "collection_date": "2005",
+  "geo_loc_name": "CHINA",
   "host": "EPINEPHELUS COIOIDES",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "ZJ-T",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001679745.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001679745.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03766034",
   "collection_date": "2011",
+  "geo_loc_name": null,
   "host": "N",
+  "host_disease": "GASTROENTERITIS",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "MAVP-Q",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001682175.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001682175.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03325855",
   "collection_date": "2011",
+  "geo_loc_name": "CHINA",
   "host": "SHRIMPS",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "CHN25",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001700835.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001700835.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03701448",
   "collection_date": "2014-10",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FORC_023",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_001758605.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_001758605.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875528",
   "collection_date": "1996",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "INDIA",
+  "host": "HUMAN",
+  "host_disease": "VIBRIO INFECTION",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FDAARGOS_191",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002073775.2"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002073775.2"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860636",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K01M1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002119505.2"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002119505.2"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860639",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K04M5",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002119545.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002119545.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860641",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K06K5",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002119565.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002119565.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860645",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K10K4",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002119585.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002119585.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860644",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K09K1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002149065.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002149065.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860642",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K08M3",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002149085.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002149085.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860638",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": null,
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002149105.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002149105.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05579852",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "MAVP-Q",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002209725.2"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002209725.2"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06042545",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "GASTROENTERITIS",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "MAVP-R",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002220985.3"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002220985.3"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996337",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "VIBRIO INFECTION",
   "scientific_name": "Vibrio diabolicus",
   "strain": "FDAARGOS_96",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002953335.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002953335.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996254",
   "collection_date": "1973",
+  "geo_loc_name": "SOUTH AFRICA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio diabolicus",
   "strain": "FDAARGOS_99",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002953355.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002953355.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996322",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JORDAN",
+  "host": "HUMAN",
+  "host_disease": "VIBRIO INFECTION",
   "scientific_name": "Vibrio diabolicus",
   "strain": "FDAARGOS_105",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002953395.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002953395.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996324",
   "collection_date": null,
+  "geo_loc_name": "PUERTO RICO",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "FDAARGOS_108",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002953515.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002953515.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996326",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "FDAARGOS_110",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002953535.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002953535.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996330",
   "collection_date": null,
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "FDAARGOS_114",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_002953975.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_002953975.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08744595",
   "collection_date": "2016",
+  "geo_loc_name": "PACIFIC OCEAN",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": null,
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_003076895.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_003076895.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06310878",
   "collection_date": "2013-06",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20130629002S01",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_003085735.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_003085735.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08774111",
   "collection_date": "2016",
+  "geo_loc_name": "PACIFIC OCEAN",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": null,
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_003119375.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_003119375.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860637",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K04M1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_003613035.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_003613035.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05860640",
   "collection_date": "2011-05",
+  "geo_loc_name": "GERMANY",
   "host": "SYNGNATHUS TYPHLE",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "K05K4",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_003613065.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_003613065.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09878947",
   "collection_date": "2016-08-13",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": "AHPND",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "160807",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_003691525.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_003691525.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10591529",
   "collection_date": "2015-08-08",
+  "geo_loc_name": "CHINA",
   "host": "NOT COLLECTED",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "D3112",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_004194515.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_004194515.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056382",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FDAARGOS_667",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_008693625.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_008693625.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056377",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FDAARGOS_662",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_008693745.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_008693745.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02952920",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus 10329",
   "strain": "10329",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009649015.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009649015.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13426200",
   "collection_date": "2019-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "19-021-D1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009734325.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009734325.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10436897",
   "collection_date": "2014-06-24",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20140624012-1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009883815.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009883815.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10436686",
   "collection_date": "2014-07-22",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20140722001-1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009883835.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009883835.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10436796",
   "collection_date": "2014-08-29",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20140829008-1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009883855.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009883855.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10436808",
   "collection_date": "2016-03-03",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20160303005-1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009883875.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009883875.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10436807",
   "collection_date": "2015-11-16",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20151116002-3",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_009883895.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_009883895.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15206675",
   "collection_date": "2020-03",
+  "geo_loc_name": "MALAYSIA",
   "host": "PENAEUS MONODON",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "GS_MYPK1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_013368735.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_013368735.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15755100",
   "collection_date": "2017-07-04",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "TJA114",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_014217295.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_014217295.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16954303",
   "collection_date": "2020-10",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "PENAEUS VANNAMEI (WHITELEG SHRIMP)",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "20-082A3",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_015779285.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_015779285.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18721142",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "FB-11",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_018135645.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_018135645.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18394829",
   "collection_date": "2018-12-25",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "64",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_019321785.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_019321785.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188316",
   "collection_date": "2017-04",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "LH24",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_021729965.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_021729965.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188276",
   "collection_date": "2017-04",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "LH80",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_021729985.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_021729985.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188302",
   "collection_date": "2016-07",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "TJ-20",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_021730005.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_021730005.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188309",
   "collection_date": "2017-04",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "TJ-187",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_021730025.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_021730025.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188298",
   "collection_date": "2015-07",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "VP120",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_021730065.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_021730065.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17188296",
   "collection_date": "2015-07",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "VP157",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_021730085.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_021730085.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18478493",
   "collection_date": "2017-01-10",
+  "geo_loc_name": "CHINA",
   "host": "LUTJANUS ERYTHROPTERUS",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "HY9901",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_023206775.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_023206775.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28690470",
   "collection_date": "2019-08",
+  "geo_loc_name": null,
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "E110",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_023650915.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_023650915.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28511831",
   "collection_date": "2022-01-05",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "GL-601",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_025917745.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_025917745.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29549217",
   "collection_date": "2020",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "AUSMDU00064140",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_026639315.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_026639315.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32156677",
   "collection_date": "2020-05-09",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "vp-HL-202005",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_026970915.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_026970915.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30158696",
   "collection_date": "2021-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "THAILAND",
+  "host": "HUMAN",
+  "host_disease": "ACUTE DIARRHEA",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "RMDVP1",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_028228685.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_028228685.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32966975",
   "collection_date": "2022-02-18",
+  "geo_loc_name": "CHINA",
   "host": "SHRIMP",
+  "host_disease": "ACUTE HEPATOPANCREATIC NECROSIS DISEASE",
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "VP220218",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_028551295.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_028551295.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -718,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33277152",
   "collection_date": "2022-04-13",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "20220413_2",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_028743695.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_028743695.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -730,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32339287",
   "collection_date": "2017-08-27",
+  "geo_loc_name": "CHINA",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "V208",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_029023705.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_029023705.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -742,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32136210",
   "collection_date": "2015-06",
+  "geo_loc_name": "PHILIPPINES",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "PH1339",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030064615.2"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030064615.2"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -754,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32136211",
   "collection_date": "2015-06",
+  "geo_loc_name": "PHILIPPINES",
   "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "PH1273",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030064635.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030064635.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -766,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34134605",
   "collection_date": "2009-06-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "HZ",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030552955.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030552955.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -778,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36780134",
   "collection_date": "2022-04-04",
+  "geo_loc_name": "MALAYSIA",
   "host": "PRAWN",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "RP0132",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030704285.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030704285.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -790,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333288",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "Isc14B",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030994145.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030994145.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -802,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333287",
   "collection_date": "2021-01",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "BM25",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030994165.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030994165.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -814,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333286",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "Isc7",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030994185.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030994185.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -826,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333284",
   "collection_date": "2021-01",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "BM24B",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030994225.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030994225.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -838,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333281",
   "collection_date": "2021-01",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "BM12B",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030994405.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030994405.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -850,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333280",
   "collection_date": "2021-01",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "BM26A",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030994565.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030994565.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -862,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333275",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "Isc15A",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030995125.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030995125.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -874,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333283",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio parahaemolyticus",
   "strain": "Isc4A",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030998145.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030998145.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -886,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333292",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "Isc1B",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030991365.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030991365.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -898,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29333291",
   "collection_date": "2021-10",
+  "geo_loc_name": "COLOMBIA",
   "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "Isc25B",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_030991385.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_030991385.1"
  },
  {
   "Vibrio_parahaemolyticus": null,
@@ -910,9 +1060,137 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37503413",
   "collection_date": "2021-12-25",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Vibrio alginolyticus",
   "strain": "S10",
-  "fasta": "data/groups_info/Vibrio_parahaemolyticus/GCA_032463505.1"
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_032463505.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_033441435.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37260050",
+  "collection_date": "2013",
+  "geo_loc_name": "MEXICO",
+  "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "M0904",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_033441435.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_033441455.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37260052",
+  "collection_date": "2013",
+  "geo_loc_name": "THAILAND",
+  "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "TW01",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_033441455.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_033573735.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33550830",
+  "collection_date": "2018-10-18",
+  "geo_loc_name": "CHINA",
+  "host": "SHRIMP",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "LC",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_033573735.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_036670155.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36359561",
+  "collection_date": "2021-01",
+  "geo_loc_name": "COLOMBIA",
+  "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "BM26A",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_036670155.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_038050815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40697391",
+  "collection_date": "2020-06-11",
+  "geo_loc_name": "CHINA",
+  "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "vp-HL-202006",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_038050815.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_038050985.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40697487",
+  "collection_date": "2020-08-05",
+  "geo_loc_name": "CHINA",
+  "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "vp-HL-202008",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_038050985.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_038070605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40697797",
+  "collection_date": "2022-11-29",
+  "geo_loc_name": "CHINA",
+  "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "vp-HL-202212",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_038070605.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_038253855.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36373822",
+  "collection_date": "2021-01",
+  "geo_loc_name": "COLOMBIA",
+  "host": "ANADARA TUBERCULOSA",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "I14B",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_038253855.1"
+ },
+ {
+  "Vibrio_parahaemolyticus": null,
+  "date": null,
+  "asm_acc": "GCA_038741195.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40695446",
+  "collection_date": "2019-10-24",
+  "geo_loc_name": "CHINA",
+  "host": "PENAEUS VANNAMEI",
+  "host_disease": null,
+  "scientific_name": "Vibrio parahaemolyticus",
+  "strain": "vp-HL-201910",
+  "fasta": "data\\groups_info\\Vibrio_parahaemolyticus\\GCA_038741195.1"
  }
 ]

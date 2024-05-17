@@ -1,14 +1,16 @@
 [
  {
-  "Clostridium_botulinum": "PDG000000059.137",
-  "date": "Sat Oct  7 20:53:10 2023"
+  "Clostridium_botulinum": "PDG000000059.150",
+  "date": "Wed May 15 22:22:08 2024"
  },
  {
   "asm_acc": "GCA_000827935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03284354",
   "collection_date": "1944",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": null
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03284339",
   "collection_date": "1952",
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "NCTC 8550"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00024166",
   "collection_date": "2014-12-01",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "111"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04262333",
   "collection_date": "missing",
+  "geo_loc_name": "NOT AVAILABLE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "CDC_69094"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03769220",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "CFSAN034200"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09062437",
   "collection_date": "2015-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "SWINE",
+  "host_disease": null,
   "scientific_name": "Clostridium novyi",
   "strain": "150557"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16288620",
   "collection_date": "1946",
+  "geo_loc_name": "SWEDEN",
   "host": "MINK",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "Stockholm"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17763437",
   "collection_date": "2010",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFANT BOTULISM",
   "scientific_name": "Clostridium botulinum",
   "strain": "IBCA10-7060"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16288618",
   "collection_date": "2007",
+  "geo_loc_name": "SWEDEN",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "BKT2873"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16288621",
   "collection_date": "2011",
+  "geo_loc_name": "ITALY",
   "host": "BOVINE",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "3859/11"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14278160",
   "collection_date": "2010",
+  "geo_loc_name": "FINLAND",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "ST7B"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21169058",
   "collection_date": "1995",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFANT BOTULISM",
   "scientific_name": "Clostridium botulinum",
   "strain": "FE9504ACG"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00396923",
   "collection_date": "2020",
+  "geo_loc_name": "JAPAN",
   "host": "HOMO SAPIENS",
+  "host_disease": "INFANT BOTULISM",
   "scientific_name": "Clostridium botulinum",
   "strain": "Osaka2020"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25937292",
   "collection_date": "1995-11-09",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BOTULISM",
   "scientific_name": "Clostridium botulinum",
   "strain": "FE9508BPD"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25937291",
   "collection_date": "1995-11-09",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": "BOTULISM",
   "scientific_name": "Clostridium botulinum",
   "strain": "FE9508BRB"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30265469",
   "collection_date": "2022-06-24",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Clostridium botulinum",
   "strain": "BT-22100019"
  }

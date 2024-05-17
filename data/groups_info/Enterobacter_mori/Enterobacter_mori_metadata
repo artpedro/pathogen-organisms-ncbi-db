@@ -9,9 +9,16 @@
   "Enterobacter mori": 3
  },
  "strain": {},
+ "location": {
+  "CHINA": 3
+ },
  "hosts": {
-  "HOMO SAPIENS": 1,
+  "KIWIFRUIT": 1,
   "PARIS POLYPHYLLA": 1,
-  "KIWIFRUIT": 1
+  "HUMAN": 1
+ },
+ "hosts_diseases": {
+  "NOT COLLECTED": 1,
+  "null": 2
  }
 }

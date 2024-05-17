@@ -9,8 +9,16 @@
   "Kluyvera intermedia": 2
  },
  "strain": {},
+ "location": {
+  "CHINA": 1,
+  "null": 1
+ },
  "hosts": {
-  "FLOWER": 1,
-  "NOT AVAILABLE": 1
+  "NOT AVAILABLE": 1,
+  "FLOWER": 1
+ },
+ "hosts_diseases": {
+  "NOT APPLIED": 1,
+  "null": 1
  }
 }

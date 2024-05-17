@@ -1,19 +1,33 @@
 {
  "group": "Enterobacter_ludwigii",
- "count": 12,
+ "count": 14,
  "species": {
-  "Enterobacter ludwigii": 12
+  "Enterobacter ludwigii": 14
  },
  "subsp.": {},
  "scientific_name": {
-  "Enterobacter ludwigii": 12
+  "Enterobacter ludwigii": 14
  },
  "strain": {},
+ "location": {
+  "CZECH REPUBLIC": 1,
+  "null": 1,
+  "SWITZERLAND": 1,
+  "USA": 3,
+  "FRANCE": 5,
+  "CHINA": 3
+ },
  "hosts": {
-  "TOBACCO": 1,
   "LARUS MICHAHELLIS": 3,
+  "STRAWBERRY": 1,
+  "TOBACCO": 1,
+  "HUMAN": 6,
   "ZEA MAYS": 1,
-  "HOMO SAPIENS": 6,
-  "STRAWBERRY": 1
+  "NICOTIANA TABACUM L YUNYAN 97": 1,
+  "DOG": 1
+ },
+ "hosts_diseases": {
+  "URINARY TRACT INFECTION": 1,
+  "null": 13
  }
 }

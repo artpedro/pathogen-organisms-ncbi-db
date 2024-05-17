@@ -8,13 +8,34 @@
   "Enterobacter cloacae subsp. cloacae": 2
  },
  "scientific_name": {
-  "Enterobacter cloacae subsp. cloacae": 2,
-  "Enterobacter cloacae": 16
+  "Enterobacter cloacae": 16,
+  "Enterobacter cloacae subsp. cloacae": 2
  },
  "strain": {},
+ "location": {
+  "SENEGAL": 1,
+  "SPAIN": 1,
+  "CANADA": 2,
+  "VIET NAM": 1,
+  "NETHERLANDS": 1,
+  "SINGAPORE": 1,
+  "null": 1,
+  "GHANA": 1,
+  "USA": 2,
+  "FRANCE": 1,
+  "SOUTH AFRICA": 1,
+  "CHINA": 5
+ },
  "hosts": {
-  "HOMO SAPIENS": 16,
+  "PIG": 1,
   "CHICKEN": 1,
-  "PIG": 1
+  "HUMAN": 16
+ },
+ "hosts_diseases": {
+  "URINARY TRACT INFECTION": 1,
+  "NONE": 1,
+  "null": 14,
+  "UTI": 1,
+  "BACTEREMIA": 1
  }
 }

@@ -1,14 +1,16 @@
 [
  {
-  "Photobacterium_damselae": "PDG000000065.56",
-  "date": "Sat Oct  7 20:55:16 2023"
+  "Photobacterium_damselae": "PDG000000065.67",
+  "date": "Wed May 15 22:30:34 2024"
  },
  {
   "asm_acc": "GCA_002142615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06909323",
   "collection_date": "2017-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "KC-Na-1"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00078763",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "MORONE CHRYSOPS X MORONE SAXATILIS",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. piscicida",
   "strain": "91-197"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06075355",
   "collection_date": "2015-11-05",
+  "geo_loc_name": "CHINA",
   "host": "TURBOT",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae",
   "strain": "Phdp Wu-1"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10797285",
   "collection_date": "2017-01",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "NEOPHOCAENA ASIAEORIENTALIS",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "KC-Na-NB1"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16091814",
   "collection_date": "2016",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. piscicida",
   "strain": "AS-16-0540-1"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16091815",
   "collection_date": "2016",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. piscicida",
   "strain": "AS-16-0555-7"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16393141",
   "collection_date": "2020-08",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "DELPHINAPTERUS LEUCAS (BELUGA WHALE)",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "KC-Dl-1"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287396",
   "collection_date": "2010",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "CSP DAM2"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287395",
   "collection_date": "2010",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "CSP DAM1"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16481684",
   "collection_date": "2016",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "AS-16-0963-3"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287401",
   "collection_date": "2016",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "AS-16-0963-1"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287400",
   "collection_date": "2015",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "AS-15-3942-9"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287399",
   "collection_date": "2015",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "AS-15-3942-8"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287398",
   "collection_date": "2015",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "AS-15-3942-7"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16287397",
   "collection_date": "2015",
+  "geo_loc_name": "AUSTRALIA",
   "host": "SERIOLA LALANDI",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae subsp. damselae",
   "strain": "AS-15-0759-2"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29203666",
   "collection_date": "2022-04",
+  "geo_loc_name": "CHINA",
   "host": "APOSTICHOPUS JAPONICUS",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae",
   "strain": "XP-11"
  },
@@ -152,8 +184,54 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19700963",
   "collection_date": "2020-08-11",
+  "geo_loc_name": "CHINA",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Photobacterium damselae",
   "strain": "Pdd2008"
+ },
+ {
+  "asm_acc": "GCA_037997135.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39457711",
+  "collection_date": "2020-09",
+  "geo_loc_name": "CHINA",
+  "host": "LATEOLABRAX MACULATUS",
+  "host_disease": null,
+  "scientific_name": "Photobacterium damselae subsp. piscicida",
+  "strain": "NH-LM2"
+ },
+ {
+  "asm_acc": "GCA_038086615.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40232838",
+  "collection_date": "2022",
+  "geo_loc_name": "JAPAN",
+  "host": "PENAEUS JAPONICUS",
+  "host_disease": null,
+  "scientific_name": "Photobacterium damselae subsp. damselae",
+  "strain": "WMD-P1"
+ },
+ {
+  "asm_acc": "GCA_038086725.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40232839",
+  "collection_date": "2022",
+  "geo_loc_name": "JAPAN",
+  "host": "PENAEUS JAPONICUS",
+  "host_disease": null,
+  "scientific_name": "Photobacterium damselae subsp. damselae",
+  "strain": "WMD-P2"
+ },
+ {
+  "asm_acc": "GCA_038086915.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40232840",
+  "collection_date": "2022",
+  "geo_loc_name": "JAPAN",
+  "host": "PENAEUS JAPONICUS",
+  "host_disease": null,
+  "scientific_name": "Photobacterium damselae subsp. damselae",
+  "strain": "WMD-P3"
  }
 ]

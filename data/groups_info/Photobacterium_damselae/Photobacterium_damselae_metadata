@@ -1,26 +1,58 @@
 {
  "group": "Photobacterium_damselae",
- "count": 17,
+ "count": 21,
  "species": {
-  "Photobacterium damselae": 17
+  "Photobacterium damselae": 21
  },
  "subsp.": {
-  "Photobacterium damselae subsp. piscicida": 3,
-  "Photobacterium damselae subsp. damselae": 11
+  "Photobacterium damselae subsp. piscicida": 4,
+  "Photobacterium damselae subsp. damselae": 14
  },
  "scientific_name": {
+  "Photobacterium damselae subsp. piscicida": 4,
   "Photobacterium damselae": 3,
-  "Photobacterium damselae subsp. piscicida": 3,
-  "Photobacterium damselae subsp. damselae": 11
+  "Photobacterium damselae subsp. damselae": 14
  },
  "strain": {},
+ "location": {
+  "USA": 1,
+  "JAPAN": 3,
+  "SOUTH KOREA": 3,
+  "CHINA": 4,
+  "AUSTRALIA": 10
+ },
  "hosts": {
   "MORONE CHRYSOPS X MORONE SAXATILIS": 1,
-  "APOSTICHOPUS JAPONICUS": 1,
-  "FISH": 1,
+  "LATEOLABRAX MACULATUS": 1,
+  "PENAEUS JAPONICUS": 3,
   "TURBOT": 1,
+  "APOSTICHOPUS JAPONICUS": 1,
+  "SERIOLA LALANDI": 10,
   "NEOPHOCAENA ASIAEORIENTALIS": 2,
-  "DELPHINAPTERUS LEUCAS (BELUGA WHALE)": 1,
-  "SERIOLA LALANDI": 10
+  "FISH": 1,
+  "DELPHINAPTERUS LEUCAS (BELUGA WHALE)": 1
+ },
+ "hosts_diseases": {
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1,
+  "NaN": 1
  }
 }

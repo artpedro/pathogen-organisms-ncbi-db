@@ -1,25 +1,50 @@
 {
  "group": "Morganella",
- "count": 33,
+ "count": 41,
  "species": {
-  "Morganella morganii": 33
+  "Morganella morganii": 41
  },
  "subsp.": {
   "Morganella morganii subsp. morganii": 13
  },
  "scientific_name": {
-  "Morganella morganii subsp. morganii KT": 1,
   "Morganella morganii subsp. morganii": 12,
-  "Morganella morganii": 20
+  "Morganella morganii subsp. morganii KT": 1,
+  "Morganella morganii": 28
  },
  "strain": {},
+ "location": {
+  "CANADA": 1,
+  "CZECH REPUBLIC": 3,
+  "null": 1,
+  "USA": 5,
+  "INDIA": 1,
+  "SOUTH KOREA": 1,
+  "CHINA": 21,
+  "TAIWAN": 7,
+  "NOT AVAILABLE": 1
+ },
  "hosts": {
-  "CROCODILE LIZARD": 1,
-  "PTYAS MUCOSA": 1,
-  "TURSIOPS TRUNCATUS": 1,
-  "HOMO SAPIENS": 27,
-  "BOVINE": 1,
   "MISGURNUS ANGUILLICAUDATUS": 1,
-  "PIG": 1
+  "CROCODILE LIZARD": 1,
+  "SHEEP": 1,
+  "PTYAS MUCOSA": 1,
+  "HUMAN": 35,
+  "PIG": 1,
+  "TURSIOPS TRUNCATUS": 1
+ },
+ "hosts_diseases": {
+  "SEVERE PANCREATITIS": 1,
+  "ACUTE RESPIRATORY FAILURE": 1,
+  "URINARY TRACT INFECTION": 1,
+  "CONTAMINANT": 1,
+  "ANOXIC BRAIN DAMAGE": 1,
+  "null": 30,
+  "BRONCHOPNEUMONIA": 1,
+  "LIVER DISEASE": 1,
+  "ABDOMINAL INCISION": 1,
+  "COLONIZATION": 1,
+  "HEPATITIS": 1,
+  "CARDIAC INSUFFICIENCY": 1
  }
 }

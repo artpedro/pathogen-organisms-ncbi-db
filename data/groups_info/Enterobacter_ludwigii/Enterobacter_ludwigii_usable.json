@@ -1,14 +1,16 @@
 [
  {
-  "Enterobacter_ludwigii": "PDG000000109.38",
-  "date": "Thu Oct 19 21:09:20 2023"
+  "Enterobacter_ludwigii": "PDG000000109.75",
+  "date": "Wed May 15 22:22:59 2024"
  },
  {
   "asm_acc": "GCA_001750725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05787341",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "EN-119"
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130962",
   "collection_date": "2012-12",
+  "geo_loc_name": "USA",
   "host": "ZEA MAYS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "AA4"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11415570",
   "collection_date": "2011-05-01",
+  "geo_loc_name": "CHINA",
   "host": "TOBACCO",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "JP6"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22567593",
   "collection_date": "2017",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "994590"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32745804",
   "collection_date": "2021-12",
+  "geo_loc_name": "CHINA",
   "host": "STRAWBERRY",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "CM-TZ4"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34152342",
   "collection_date": "2021",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "I9455333cz"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32978021",
   "collection_date": "2023-01-10",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "2023CK-00067"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298530",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "93A:C"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298528",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "09A:C"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298523",
   "collection_date": "2022-05-31",
+  "geo_loc_name": "FRANCE",
   "host": "LARUS MICHAHELLIS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "51A:C"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298533",
   "collection_date": "2020-09-08",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "99202522619"
  },
@@ -107,8 +129,32 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298532",
   "collection_date": "2020-09-08",
+  "geo_loc_name": "FRANCE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Enterobacter ludwigii",
   "strain": "99202523580"
+ },
+ {
+  "asm_acc": "GCA_033954935.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN35741682",
+  "collection_date": "2021-10-13",
+  "geo_loc_name": "SWITZERLAND",
+  "host": "DOG",
+  "host_disease": "URINARY TRACT INFECTION",
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "21KM2472"
+ },
+ {
+  "asm_acc": "GCA_036542125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39604747",
+  "collection_date": "2023-06-30",
+  "geo_loc_name": "CHINA",
+  "host": "NICOTIANA TABACUM L YUNYAN 97",
+  "host_disease": null,
+  "scientific_name": "Enterobacter ludwigii",
+  "strain": "T977"
  }
 ]

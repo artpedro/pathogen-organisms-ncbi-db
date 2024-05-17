@@ -1,7 +1,7 @@
 [
  {
-  "Neisseria_meningitidis": "PDG000000097.53",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Neisseria_meningitidis": "PDG000000097.131",
+  "date": "Wed May 15 22:37:53 2024"
  },
  {
   "Neisseria_meningitidis": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02709031",
   "collection_date": "2006-04-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "BACTERIAL MENINGITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": null,
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_000626595.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000626595.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03203069",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "NOT KNOWN",
   "scientific_name": "Neisseria meningitidis",
   "strain": "L91543",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_000787195.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000787195.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03020302",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "NM3686",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_000800235.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800235.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03020254",
   "collection_date": "2000-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SAUDI ARABIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis M7124",
   "strain": "M7124",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_000800275.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800275.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03020600",
   "collection_date": "1970",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "NM3682",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_000800315.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800315.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03022885",
   "collection_date": "1970",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "NM3683",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_000800355.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800355.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944749",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "DE8669",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697105.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697105.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944748",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "DE10444",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697125.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697125.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944750",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "DE8555",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697165.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697165.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944751",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GERMANY",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "WUE2121",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697205.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697205.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883376",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MAURITIUS",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": null,
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697305.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697305.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883372",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M12752",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697325.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697325.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883393",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BENIN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22819",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697345.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697345.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883391",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BENIN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22809",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697365.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697365.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883371",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M09293",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697385.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697385.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883374",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22189",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697405.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697405.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883361",
   "collection_date": "2000",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SAUDI ARABIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M07149",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697425.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697425.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883450",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25474",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697445.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697445.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883369",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M08001",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697465.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697465.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883381",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CENTRAL AFRICAN REPUBLIC",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22748",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697485.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697485.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883392",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NIGER",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22811",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697505.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697505.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883385",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SENEGAL",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22772",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697525.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697525.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883384",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NIGER",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22769",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697545.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697545.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883379",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22745",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697565.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697565.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883405",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M24730",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697585.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697585.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883389",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "DJIBOUTI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22801",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697605.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697605.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883390",
   "collection_date": "2005",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NIGER",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22804",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697625.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697625.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883437",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25438",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697645.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697645.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883396",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M23413",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697665.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697665.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883377",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "ALGERIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22722",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697685.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697685.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883408",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25070",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697705.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697705.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883370",
   "collection_date": "2002",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M09261",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697725.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697725.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883441",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25462",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697745.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697745.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883452",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M27559",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697765.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697765.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883448",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25472",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697785.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697785.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883382",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NIGER",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22759",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697805.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697805.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883421",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25087",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697825.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697825.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883386",
   "collection_date": "2003",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NIGER",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22783",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697845.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697845.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883395",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22828",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697865.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697865.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883440",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25459",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697885.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697885.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883373",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22160",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697905.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697905.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883364",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M07161",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697925.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697925.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883451",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25476",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697945.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697945.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883439",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25456",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697965.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697965.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883430",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH AFRICA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25419",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001697985.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697985.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883378",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CAMEROON",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22740",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001698005.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698005.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883394",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "TOGO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22822",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001698025.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698025.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883365",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M07162",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001698045.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698045.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883368",
   "collection_date": "2001",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M08000",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001698065.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698065.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883402",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BURKINA FASO",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M24705",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001698085.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698085.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883375",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "MALI",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22191",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001698105.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698105.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04023208",
   "collection_date": "2013-05-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "BACTERIAL MENINGITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "331401",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001750825.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001750825.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04321475",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "38277",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_001974965.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001974965.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875551",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "MENINGOCOCCAL INFECTION",
   "scientific_name": "Neisseria meningitidis",
   "strain": "FDAARGOS_214",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002073235.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073235.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875552",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "MENINGOCOCCAL INFECTION",
   "scientific_name": "Neisseria meningitidis",
   "strain": "FDAARGOS_215",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002073275.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073275.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875548",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "MENINGOCOCCAL INFECTION",
   "scientific_name": "Neisseria meningitidis",
   "strain": "FDAARGOS_211",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002073555.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073555.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875546",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "MENINGOCOCCAL MENINGITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "FDAARGOS_209",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002073575.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073575.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875547",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "FDAARGOS_210",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002073595.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073595.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875549",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "FDAARGOS_212",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002073675.2"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073675.2"
  },
  {
   "Neisseria_meningitidis": null,
@@ -718,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05560575",
   "collection_date": "2015",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "URETHRITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "COL-201504-11",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002075815.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002075815.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -730,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07615714",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "BACTERIAL MENINGITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M26417",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002556585.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002556585.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -742,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06144986",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M21273",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_002951575.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002951575.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -754,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704693",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22293",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355215.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355215.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -766,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704705",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M25964",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355235.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355235.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -778,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704687",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M21717",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355255.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355255.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -790,22 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704706",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M26263",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355275.1"
- },
- {
-  "Neisseria_meningitidis": null,
-  "date": null,
-  "asm_acc": "GCA_003355295.1",
-  "asm_level": "Complete Genome",
-  "biosample_acc": "SAMN09704698",
-  "collection_date": null,
-  "host": "HOMO SAPIENS",
-  "scientific_name": "Neisseria meningitidis",
-  "strain": "M22814",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355295.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355275.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -814,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704702",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M23347",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355315.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355315.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -826,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704682",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M21374",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355335.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355335.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -838,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704671",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M18755",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355375.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355375.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -850,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704694",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M22425",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355395.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355395.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -862,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704690",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M21955",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355415.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355415.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -874,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704670",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "NOT COLLECTED",
   "scientific_name": "Neisseria meningitidis",
   "strain": "M18727",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_003355435.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355435.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -886,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307683",
   "collection_date": "1900/1957",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "NCTC10025",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_900638555.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638555.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -898,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307687",
   "collection_date": "1931",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "NCTC3372",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_900638575.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638575.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -910,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307690",
   "collection_date": "1983",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "NCTC12163",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_900638595.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638595.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -922,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307689",
   "collection_date": "1900/1957",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "NCTC10026",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_900638605.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638605.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -934,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137416",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "14-563",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330745.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330745.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -946,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137412",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "12-176",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330765.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330765.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -958,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137411",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "11-14",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330785.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330785.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -970,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137410",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "11-7",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330805.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330805.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -982,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137409",
   "collection_date": "2009",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "09-292",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330825.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330825.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -994,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137408",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "06-178",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330845.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330845.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1006,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137407",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "98-182",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330865.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330865.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1018,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137406",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "95-134",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330885.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330885.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1030,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137414",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "12-330",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330905.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330905.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1042,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137415",
   "collection_date": "2013",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "13-600",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_008330925.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330925.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1054,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191641",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "AUSMDU00005726",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_009664675.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_009664675.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1066,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191640",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "AUSMDU00010537",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_009664695.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_009664695.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1078,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15813653",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "FRANCE",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Neisseria meningitidis",
   "strain": "LNP24198",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_014302495.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_014302495.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1090,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429014",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "16-579",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_015679665.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679665.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1102,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429012",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "16-92",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_015679735.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679735.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1114,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429005",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "14-627",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_015679865.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679865.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1126,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429003",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "12-208",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_015679905.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679905.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1138,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429002",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SWEDEN",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
   "scientific_name": "Neisseria meningitidis",
   "strain": "11-251",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_015679925.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679925.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1150,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19789151",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "S4",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_019048825.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_019048825.1"
  },
  {
   "Neisseria_meningitidis": null,
@@ -1162,9 +1340,67 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20308719",
   "collection_date": "1987",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Neisseria meningitidis",
   "strain": "C311",
-  "fasta": "data/groups_info/Neisseria_meningitidis/GCA_019356015.1"
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_019356015.1"
+ },
+ {
+  "Neisseria_meningitidis": null,
+  "date": null,
+  "asm_acc": "GCA_039555245.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37851227",
+  "collection_date": "2021",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENINGOCOCCAL DISEASE",
+  "scientific_name": "Neisseria meningitidis NMB",
+  "strain": "NMB",
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555245.1"
+ },
+ {
+  "Neisseria_meningitidis": null,
+  "date": null,
+  "asm_acc": "GCA_039555265.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37851750",
+  "collection_date": "2016-01",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENIGNOCOCCAL DISEASE",
+  "scientific_name": "Neisseria meningitidis",
+  "strain": "EXNM666",
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555265.1"
+ },
+ {
+  "Neisseria_meningitidis": null,
+  "date": null,
+  "asm_acc": "GCA_039555275.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37851751",
+  "collection_date": "2016-08",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENIGNOCOCCAL DISEASE",
+  "scientific_name": "Neisseria meningitidis",
+  "strain": "EXNM678",
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555275.1"
+ },
+ {
+  "Neisseria_meningitidis": null,
+  "date": null,
+  "asm_acc": "GCA_039555285.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN37851752",
+  "collection_date": "2017-07",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE MENIGNOCOCCAL DISEASE",
+  "scientific_name": "Neisseria meningitidis",
+  "strain": "EXNM741",
+  "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555285.1"
  }
 ]

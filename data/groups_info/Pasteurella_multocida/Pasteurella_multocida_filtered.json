@@ -1,7 +1,7 @@
 [
  {
-  "Pasteurella_multocida": "PDG000000102.38",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Pasteurella_multocida": "PDG000000102.61",
+  "date": "Wed May 15 22:37:54 2024"
  },
  {
   "Pasteurella_multocida": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603505",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida str. 3480",
   "strain": "3480",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_000259545.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_000259545.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02641508",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida str. HB03",
   "strain": "HB03",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_000512395.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_000512395.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04285688",
   "collection_date": "2014-10-14",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida",
   "strain": "HN141014",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_001670425.2"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_001670425.2"
  },
  {
   "Pasteurella_multocida": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04520874",
   "collection_date": "2013-09",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Pm-3",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_001721885.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_001721885.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05967336",
   "collection_date": "1936",
+  "geo_loc_name": "IRAN",
   "host": "SHEEP",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "Razi_Pm0001",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_001874445.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_001874445.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06140953",
   "collection_date": null,
+  "geo_loc_name": "FRANCE",
   "host": "ORYCTOLAGUS CUNICULUS",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida subsp. multocida",
   "strain": "CIRMBP-0884",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002059225.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002059225.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06140952",
   "collection_date": null,
+  "geo_loc_name": "FRANCE",
   "host": "ORYCTOLAGUS CUNICULUS",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida subsp. septica",
   "strain": "CIRMBP-0873",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002068175.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002068175.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875555",
   "collection_date": null,
+  "geo_loc_name": "USA",
   "host": "ENVIRONMENT",
+  "host_disease": "SEPTICAEMIA DUE TO FOWL CHOLERA",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_218",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002073255.2"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002073255.2"
  },
  {
   "Pasteurella_multocida": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875553",
   "collection_date": "1958",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": "SEPTICAEMIA DUE TO FOWL CHOLERA",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_216",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002073295.2"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002073295.2"
  },
  {
   "Pasteurella_multocida": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4521464",
   "collection_date": "1900/1962",
+  "geo_loc_name": null,
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "NCTC10322",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_900187275.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_900187275.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312428",
   "collection_date": "2015-05-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CELLULLITIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_384",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002393385.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002393385.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312429",
   "collection_date": "2015-05-19",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "CELLULLITIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_385",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002591295.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002591295.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622941",
   "collection_date": "2013-10-16",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60494",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859245.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859245.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622935",
   "collection_date": "2013-09-27",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60215",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859265.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859265.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622946",
   "collection_date": "2013-10-02",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60717",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859285.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859285.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622933",
   "collection_date": "2013-09-27",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60213",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859305.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859305.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622931",
   "collection_date": "2013-09-27",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-59910",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859325.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859325.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622938",
   "collection_date": "2013-09-24",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60380",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859345.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859345.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622944",
   "collection_date": "2013-10-14",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60713",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859365.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859365.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622936",
   "collection_date": "2013-09-24",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60224",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859385.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859385.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622943",
   "collection_date": "2013-10-14",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60712",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859405.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859405.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622942",
   "collection_date": "2013-10-11",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60675",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859425.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859425.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622937",
   "collection_date": "2013-09-27",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60248",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859445.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859445.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622940",
   "collection_date": "2013-09-27",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60385",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859465.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859465.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622932",
   "collection_date": "2013-09-24",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-59962",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859485.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859485.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622934",
   "collection_date": "2013-09-27",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60214",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859505.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859505.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622939",
   "collection_date": "2013-09-24",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60381",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859525.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859525.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04622945",
   "collection_date": "2013-10-16",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": "PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "USDA-ARS-USMARC-60714",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002859545.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002859545.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03860035",
   "collection_date": "2013-05",
+  "geo_loc_name": "CHINA",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "CQ6",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002891825.2"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002891825.2"
  },
  {
   "Pasteurella_multocida": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03860038",
   "collection_date": "2013-05",
+  "geo_loc_name": "CHINA",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "CQ2",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002891845.2"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002891845.2"
  },
  {
   "Pasteurella_multocida": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08498425",
   "collection_date": "2016-12-14",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "NETHERLANDS",
+  "host": "HUMAN",
+  "host_disease": "BILATERAL PNEUMONIA",
   "scientific_name": "Pasteurella multocida",
   "strain": "161215033201-1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_002948995.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_002948995.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2822166",
   "collection_date": "1964",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "NCTC10382",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_900478175.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_900478175.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09781073",
   "collection_date": "2015-10",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM8-1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_003402875.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_003402875.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3696435",
   "collection_date": "1900/1960",
-  "host": "BOVINE",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. gallicida",
   "strain": "NCTC10204",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_900636625.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_900636625.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104167231",
   "collection_date": "1900/1983",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. septica",
   "strain": "NCTC11619",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_900638315.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_900638315.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104338374",
   "collection_date": "1900/1963",
+  "geo_loc_name": "MYANMAR",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "NCTC10323",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_900638665.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_900638665.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349271",
   "collection_date": "2004-06-05",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf15",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792555.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_004792555.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349311",
   "collection_date": "2013-09-18",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf71",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792575.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_004792575.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349313",
   "collection_date": "2009-10-27",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf45",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792595.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_004792595.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349649",
   "collection_date": "2015-02-03",
+  "geo_loc_name": "CHINA",
   "host": "GOOSE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf76",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792615.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_004792615.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349653",
   "collection_date": "2015-12-28",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FCf83",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_004792635.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_004792635.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11040711",
   "collection_date": "2017-11-11",
+  "geo_loc_name": "CHINA",
   "host": "CAPRA HIRCUS",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida subsp. multocida",
   "strain": "HN01",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_006232125.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_006232125.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11964561",
   "collection_date": "2015-12-10",
+  "geo_loc_name": "CHINA",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM 8-6",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_006351865.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_006351865.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056359",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "FDAARGOS_644",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_008693845.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_008693845.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13069870",
   "collection_date": "2011-11-28",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM22",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_009646155.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_009646155.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10371982",
   "collection_date": "2010-07",
+  "geo_loc_name": "CHINA",
   "host": "ANATIDAE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Q",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_009739555.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_009739555.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10373508",
   "collection_date": "2013-04-24",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "CQ7",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_009739575.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_009739575.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13867109",
   "collection_date": "2018-09",
-  "host": "BOVINE",
+  "geo_loc_name": "CANADA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "HS_Canada1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_010443215.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_010443215.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260239",
   "collection_date": "2018-03-12",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "CAT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "KVNON-213",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_011149495.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_011149495.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14001150",
   "collection_date": "1995-08-09",
+  "geo_loc_name": "VIET NAM",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "VP161",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_011390865.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_011390865.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501685",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "A0419",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058465.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058465.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501684",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "A0757",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058485.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058485.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501683",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "X0120",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058585.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058585.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501682",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "X1053",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058605.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058605.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501681",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "618/90",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058625.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058625.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501680",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "619/90",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058645.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058645.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501679",
   "collection_date": "1990",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "671/90",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014058665.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014058665.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15955129",
   "collection_date": "2017-05-10",
-  "host": "BOVINE",
+  "geo_loc_name": "SWITZERLAND",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PS3536-1p",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_014495805.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_014495805.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17080908",
   "collection_date": "2020",
+  "geo_loc_name": "CHINA",
   "host": "YAK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PM-1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_016313205.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_016313205.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -718,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18520938",
   "collection_date": "2018-12-11",
+  "geo_loc_name": "CHINA",
   "host": "YAK",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Tibet-Pm1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_017815735.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_017815735.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -730,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18753491",
   "collection_date": "2021-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "HuN001",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_018139065.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_018139065.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -742,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19771027",
   "collection_date": "2018-06",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": "CHOLERA",
   "scientific_name": "Pasteurella multocida",
   "strain": "PMWSG-4",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_019134675.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_019134675.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -754,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20842242",
   "collection_date": "2020-10-30",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Pm3",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_019754255.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_019754255.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -766,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20845833",
   "collection_date": "2020-10-30",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "Pm64",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_019754275.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_019754275.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -778,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21014890",
   "collection_date": "2017",
-  "host": "BOVINE",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "17BRD-035",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_019916005.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_019916005.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -790,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24595887",
   "collection_date": "2019-11-20",
+  "geo_loc_name": "CHINA",
   "host": "ORYCTOLAGUS CUNICULUS",
+  "host_disease": "PASTEURELLOSIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "SD11",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_021474145.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_021474145.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -802,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19461146",
   "collection_date": "2020-06-01",
+  "geo_loc_name": "CHINA",
   "host": "MARMOTA HIMALAYANA",
+  "host_disease": "SEPSIS",
   "scientific_name": "Pasteurella multocida",
   "strain": "GS2020-X2",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_022637295.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_022637295.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -814,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28548360",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "10159",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572865.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023572865.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -826,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28548364",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "10185",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572885.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023572885.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -838,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552806",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "11205",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572905.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023572905.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -850,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552779",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "10957",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572925.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023572925.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -862,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552780",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "11020",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572945.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023572945.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -874,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552832",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "11245",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023572985.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023572985.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -886,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553018",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P1702",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573005.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573005.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -898,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552975",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "32985",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573025.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573025.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -910,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553023",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2192",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573045.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573045.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -922,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553020",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2095",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573065.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573065.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -934,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552996",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "33011",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573085.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573085.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -946,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28552999",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P1581",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573105.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573105.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -958,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553054",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2723",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023573125.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023573125.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -970,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163571",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "38725",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023586965.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023586965.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -982,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163570",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "21317",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587085.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587085.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -994,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163569",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "35564",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587205.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587205.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1006,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163568",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "31971",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587305.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587305.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1018,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163560",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "41060",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587465.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587465.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1030,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163559",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "36502",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587585.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587585.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1042,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163552",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "21275",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587605.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587605.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1054,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163549",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "GOOSE",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "28606",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587625.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587625.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1066,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163548",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "34030",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587645.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587645.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1078,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163541",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "40540",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587665.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587665.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1090,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163539",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "29135",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587685.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587685.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1102,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163538",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "TURKEY",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "29792",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587705.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587705.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1114,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27163529",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "39639",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_023587725.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_023587725.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1126,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765270",
   "collection_date": "2021-08",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF12",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409225.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409225.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1138,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765282",
   "collection_date": "2021-12",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF14",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409245.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409245.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1150,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765310",
   "collection_date": "2021-09",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF16",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409265.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409265.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1162,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765475",
   "collection_date": "2021-10",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF19",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409285.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409285.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1174,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765425",
   "collection_date": "2021-05",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF18",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409305.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409305.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1186,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31736550",
   "collection_date": "2020-09",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409325.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409325.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1198,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765396",
   "collection_date": "2021-01",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF17",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409345.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409345.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1210,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765285",
   "collection_date": "2022-01",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF15",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026409365.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026409365.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1222,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599412",
   "collection_date": "2019-11-08",
-  "host": "BOVINE",
+  "geo_loc_name": "GERMANY",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "IMT47951",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_020971725.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_020971725.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1234,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28553350",
   "collection_date": "2022",
+  "geo_loc_name": "USA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P2237",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_024055505.2"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_024055505.2"
  },
  {
   "Pasteurella_multocida": null,
@@ -1246,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31560871",
   "collection_date": "2020-06-22",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P5041881",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026153335.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026153335.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1258,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31560870",
   "collection_date": "2020-06-22",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "PIG",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P504190",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026153375.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026153375.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1270,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31749861",
   "collection_date": "2021-03",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF5",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315065.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026315065.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1282,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750065",
   "collection_date": "2022-02",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF6",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315085.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026315085.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1294,10 +1508,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750135",
   "collection_date": "2021-12",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF7",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315125.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026315125.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1306,10 +1522,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751329",
   "collection_date": "2020-12",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF9",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315145.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026315145.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1318,10 +1536,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751361",
   "collection_date": "2021-10",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF10",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315165.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026315165.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1330,10 +1550,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31751474",
   "collection_date": "2022-03",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF11",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026315225.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026315225.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1342,10 +1564,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31750315",
   "collection_date": "2021-05",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF8",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026636255.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026636255.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1354,10 +1578,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31765281",
   "collection_date": "2021-07",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "PF13",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_026723845.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_026723845.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1366,10 +1592,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33607990",
   "collection_date": "2022-03-20",
+  "geo_loc_name": "CHINA",
   "host": "RABBIT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "LXSS001",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_029224005.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_029224005.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1378,10 +1606,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29020738",
   "collection_date": "2019",
-  "host": "BOVINE",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "19BRD-057",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_029873295.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_029873295.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1390,10 +1620,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35015592",
   "collection_date": "2022-02-04",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P030653/2",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_030059805.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_030059805.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1402,10 +1634,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35015591",
   "collection_date": "2022-02-04",
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P030653/1",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_030122645.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_030122645.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1414,10 +1648,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36892110",
   "collection_date": "1970",
-  "host": "BOVINE",
+  "geo_loc_name": "USA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "P1933",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_030846735.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_030846735.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1426,10 +1662,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37266154",
   "collection_date": "2022-10-25",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "sample-B",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_031432935.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_031432935.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1438,10 +1676,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37223740",
   "collection_date": "2021-04",
+  "geo_loc_name": "CHINA",
   "host": "MARMOTA HIMALAYANA",
+  "host_disease": "DEAD",
   "scientific_name": "Pasteurella multocida",
   "strain": "AKS2021-HT3",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_031463095.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_031463095.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1450,10 +1690,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37274988",
   "collection_date": "2022-05",
+  "geo_loc_name": "CHINA",
   "host": "MAMORTA HIMALAYANA",
+  "host_disease": "DEAD",
   "scientific_name": "Pasteurella multocida",
   "strain": "AKS2022-HT5",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_031583005.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_031583005.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1462,10 +1704,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37474557",
   "collection_date": "2010",
+  "geo_loc_name": "GERMANY",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "102426",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_032259785.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_032259785.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1474,10 +1718,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37474556",
   "collection_date": "2008",
+  "geo_loc_name": "GERMANY",
   "host": "ENVIRONMENT",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "80176",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_032260685.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_032260685.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1486,10 +1732,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15644334",
   "collection_date": "2018-06-24",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "RCAD0726",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_032598635.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_032598635.1"
  },
  {
   "Pasteurella_multocida": null,
@@ -1498,9 +1746,193 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15644335",
   "collection_date": "2018-09-04",
+  "geo_loc_name": "CHINA",
   "host": "CHICKEN",
+  "host_disease": null,
   "scientific_name": "Pasteurella multocida",
   "strain": "RCAD0730",
-  "fasta": "data/groups_info/Pasteurella_multocida/GCA_032598655.1"
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_032598655.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035220555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698667",
+  "collection_date": "2012-05-15",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "FELIS CATUS",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm1621",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035220555.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035221255.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698665",
+  "collection_date": "2012-05-14",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "FELIS CATUS",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm1618",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035221255.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035222775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698658",
+  "collection_date": "2019-04-02",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past33",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035222775.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035223645.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698655",
+  "collection_date": "2019-02-06",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past29",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035223645.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035224565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698644",
+  "collection_date": "2015-04-09",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past9",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035224565.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035225465.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698642",
+  "collection_date": "2008-07-23",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past6",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035225465.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_035226565.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN36698639",
+  "collection_date": "2013-03-02",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "HUMAN",
+  "host_disease": "HUMAN PASTEURELLOSIS",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Past3",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_035226565.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_036347715.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39582826",
+  "collection_date": "2023-06-06",
+  "geo_loc_name": "CHINA",
+  "host": "CYGNUS MELANCORYPHUS",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "FCf147",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_036347715.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_036416355.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN39682081",
+  "collection_date": "2016-06-10",
+  "geo_loc_name": "CHINA",
+  "host": "RABBIT",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida subsp. multocida",
+  "strain": "LH06",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_036416355.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_037021625.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33329912",
+  "collection_date": "2011",
+  "geo_loc_name": "AUSTRALIA",
+  "host": "ENVIRONMENT",
+  "host_disease": "PORCINE PNEUMONIA",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "PM1463",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_037021625.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_037113485.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40258548",
+  "collection_date": "2021-09-20",
+  "geo_loc_name": "GERMANY",
+  "host": "ENVIRONMENT",
+  "host_disease": null,
+  "scientific_name": "Pasteurella multocida",
+  "strain": "212516",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_037113485.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_039514605.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41107328",
+  "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
+  "host": "RABBIT",
+  "host_disease": "RESPIRATORY DISEASE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm6",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_039514605.1"
+ },
+ {
+  "Pasteurella_multocida": null,
+  "date": null,
+  "asm_acc": "GCA_039519125.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN41107258",
+  "collection_date": "2020-10",
+  "geo_loc_name": "CHINA",
+  "host": "RABBIT",
+  "host_disease": "RESPIRATORY DISEASE",
+  "scientific_name": "Pasteurella multocida",
+  "strain": "Pm3",
+  "fasta": "data\\groups_info\\Pasteurella_multocida\\GCA_039519125.1"
  }
 ]

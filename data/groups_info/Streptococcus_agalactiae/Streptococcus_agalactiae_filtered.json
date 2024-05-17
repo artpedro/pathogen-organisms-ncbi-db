@@ -1,7 +1,7 @@
 [
  {
-  "Streptococcus_agalactiae": "PDG000000089.105",
-  "date": "Thu Oct 19 21:32:31 2023"
+  "Streptococcus_agalactiae": "PDG000000089.143",
+  "date": "Wed May 15 22:37:55 2024"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -10,10 +10,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02741687",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "GROUP B STREP DISEASE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NGBS061",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_000730215.2"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_000730215.2"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -22,10 +24,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02741688",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "GROUP B STREP DISEASE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NGBS572",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_000730255.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_000730255.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -34,10 +38,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03178022",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae CNCTC 10/84",
   "strain": "CNCTC 10/84",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_000782855.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_000782855.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -46,10 +52,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329971",
   "collection_date": "1992",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS1",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001026925.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001026925.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -58,10 +66,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02992126",
   "collection_date": "2011",
+  "geo_loc_name": "CHINA",
   "host": "TIAPIA",
+  "host_disease": "STREPTOCOCCOSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "HN016",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001190805.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001190805.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -70,10 +80,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02991570",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE NEONATAL DISEASE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "H002",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001190885.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001190885.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -82,10 +94,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03108598",
   "collection_date": "missing",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "BRAZIL",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS85147",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001266635.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001266635.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -94,10 +108,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04002524",
   "collection_date": "2015-06-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "SEPTICEMIA AND MENINGITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M1",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001275545.2"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001275545.2"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -106,10 +122,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04111187",
   "collection_date": "2015-08-15",
+  "geo_loc_name": "USA",
   "host": "DOG",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS ST-1",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001448985.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001448985.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -118,10 +136,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04007140",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NGBS128",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001552035.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001552035.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -130,10 +150,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03331945",
   "collection_date": "2008-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "TSST",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "CU_GBS_08",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001592385.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001592385.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -142,10 +164,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03331944",
   "collection_date": "1998-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "CU_GBS_98",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001592425.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001592425.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -154,10 +178,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05187216",
   "collection_date": "2014-11-28",
+  "geo_loc_name": "CHINA",
   "host": "HOPLOBATRACHUS RUGULOSUS",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "FWL1402",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001683515.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001683515.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -166,10 +192,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04007152",
   "collection_date": "2011",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NGBS357",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001712835.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001712835.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -178,10 +206,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05370985",
   "collection_date": "2015-06",
+  "geo_loc_name": "CHINA",
   "host": "TILAPIA",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "WC1535",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001729925.2"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001729925.2"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -190,10 +220,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3888151",
   "collection_date": "2013",
+  "geo_loc_name": "PORTUGAL",
   "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900078265.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900078265.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -202,10 +234,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04376007",
   "collection_date": "2014-04-07",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS-M002",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_001932715.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_001932715.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -214,10 +248,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06445344",
   "collection_date": "2014-05-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "Sag158",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002025005.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002025005.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -226,10 +262,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06329441",
   "collection_date": "2014-04-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "Sag37",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002025025.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002025025.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -238,10 +276,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875580",
   "collection_date": "2014-10-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INFECTION WITH STREPTOCOCCUS AGALACTIAE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "FDAARGOS_254",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002073695.2"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002073695.2"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -250,10 +290,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384056",
   "collection_date": "2008",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "HONG KONG",
+  "host": "HUMAN",
+  "host_disease": "ARTHRITIS, BACTERIAL",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "CUGBS591",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197205.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197205.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -262,10 +304,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384208",
   "collection_date": "2013-09-13",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS; BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M50",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197245.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197245.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -274,10 +318,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384089",
   "collection_date": "2015-03-31",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M158",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197265.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197265.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -286,10 +332,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384163",
   "collection_date": "2012-10-30",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "ARTHRITIS, BACTERIAL; CYSTITIS; BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M29",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197285.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197285.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -298,10 +346,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384059",
   "collection_date": "2012-04-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "SKIN DISEASES, BACTERIAL; SOFT TISSUE INFECTIONS; LIVER ABSCESS; BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M25",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197305.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197305.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -310,10 +360,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384054",
   "collection_date": "2011-04-11",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M8",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197325.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197325.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -322,10 +374,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384057",
   "collection_date": "2011-03-04",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M6",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197365.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197365.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -334,10 +388,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384060",
   "collection_date": "2011-02-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "SKIN DISEASES, BACTERIAL; SOFT TISSUE INFECTIONS; BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M4",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197385.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197385.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -346,10 +402,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05384092",
   "collection_date": "2015-04-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SINGAPORE",
+  "host": "HUMAN",
+  "host_disease": "ARTHRITIS, BACTERIAL; BACTEREMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SG-M163",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002197425.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002197425.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -358,10 +416,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02850626",
   "collection_date": "2013-05-01",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": "MASTITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "C001",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002214425.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002214425.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -370,10 +430,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07374522",
   "collection_date": "1992",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": "STREPTOCOCCAL INFECTIOUS DISEASE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "874391",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_002289205.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_002289205.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -382,10 +444,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3597587",
   "collection_date": "1978/1980",
+  "geo_loc_name": "DENMARK",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NCTC11930",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900474905.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900474905.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -394,10 +458,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3856681",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NCTC8187",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900475355.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900475355.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -406,10 +472,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07178061",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CARRIER",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "B509",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003287995.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003287995.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -418,10 +486,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07178060",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CARRIER",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "B508",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003288015.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003288015.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -430,10 +500,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07178057",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "NEONATAL SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "B105",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003288035.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003288035.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -442,10 +514,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07178059",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "CARRIER",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "B507",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003288055.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003288055.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -454,10 +528,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07178058",
   "collection_date": "2016",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "NEONATAL SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "B111",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003288075.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003288075.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -466,10 +542,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09606624",
   "collection_date": "2016-11",
+  "geo_loc_name": "BRAZIL",
   "host": "TILAPIA",
+  "host_disease": "STREPTOCOCCOSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "S73",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003319215.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003319215.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -478,10 +556,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09789228",
   "collection_date": "2018-01-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "Sag27",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003403115.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003403115.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -490,10 +570,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163206",
   "collection_date": "2016-01-23",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "FDAARGOS_512",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003812805.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003812805.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -502,10 +584,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09379579",
   "collection_date": "2009",
+  "geo_loc_name": "CHINA",
   "host": "OREOCHROMIS NILOTICUS",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "TFJ0901",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003939065.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003939065.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -514,10 +598,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3529271",
   "collection_date": null,
+  "geo_loc_name": "UNITED KINGDOM",
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NCTC8184",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900636375.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900636375.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -526,10 +612,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3881064",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus urinalis",
   "strain": "NCTC13766",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900636885.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900636885.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -538,10 +626,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104210798",
   "collection_date": "1900/2017",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NCTC13949",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900638415.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900638415.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -550,10 +640,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104224788",
   "collection_date": "1900/2017",
+  "geo_loc_name": null,
   "host": "NOT AVAILABLE",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NCTC13947",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_900638495.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_900638495.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -562,10 +654,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00137662",
   "collection_date": "2017-03-01",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "HU-GS5823",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_003966545.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_003966545.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -574,10 +668,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09229090",
   "collection_date": "2016-09",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "NEONATAL SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "32790-3A",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_006716245.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_006716245.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -586,10 +682,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09267180",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CANADA",
+  "host": "HUMAN",
+  "host_disease": "WOUND INFECTION",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "PLGBS13",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_006874565.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_006874565.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -598,10 +696,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056384",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "FDAARGOS_669",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_008693505.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_008693505.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -610,10 +710,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056385",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "FDAARGOS_670",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_008693585.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_008693585.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -622,10 +724,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08374174",
   "collection_date": "2016-05-31",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": "MASTITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "YZ1605",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_009930895.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_009930895.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -634,10 +738,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08374240",
   "collection_date": "2016-06-07",
-  "host": "BOVINE",
+  "geo_loc_name": "CHINA",
+  "host": "SHEEP",
+  "host_disease": "MASTITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NJ1606",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_009930915.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_009930915.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -646,10 +752,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14677105",
   "collection_date": "2001",
+  "geo_loc_name": "KUWAIT",
   "host": "SEABASS",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "01173",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_013000945.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_013000945.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -658,10 +766,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15246708",
   "collection_date": "2013-03",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "SOUTH KOREA",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "S9968",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_013414325.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_013414325.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -670,10 +780,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15580042",
   "collection_date": "2017-08-06",
+  "geo_loc_name": "CHINA",
   "host": "NEONATES",
+  "host_disease": "NEONATAL INVASIVE INFECTION",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BJ01",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_013786965.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_013786965.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -682,10 +794,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355362",
   "collection_date": "1987",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS7",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_014218075.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_014218075.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -694,10 +808,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355365",
   "collection_date": "1989",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS11",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_014218095.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_014218095.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -706,10 +822,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355372",
   "collection_date": "1993",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS19",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_014218115.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_014218115.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -718,10 +836,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355381",
   "collection_date": "1994",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS28",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_014218135.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_014218135.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -730,10 +850,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355383",
   "collection_date": "1995",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS30",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_014218155.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_014218155.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -742,10 +864,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16191206",
   "collection_date": "1990-07-18",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "BACTEREMIA WITHOUT FOCUS",
   "scientific_name": "Streptococcus agalactiae CJB111",
   "strain": "CJB111",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_015221735.2"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_015221735.2"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -754,10 +878,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329970",
   "collection_date": "1997",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS1168",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_019552345.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_019552345.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -766,10 +892,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10907844",
   "collection_date": "2017-12-28",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "Sag153",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_012222485.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_012222485.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -778,10 +906,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22108510",
   "collection_date": "2019-06-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "MIN-181",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021460175.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021460175.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -790,10 +920,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22108509",
   "collection_date": "2019-06-25",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "UNITED KINGDOM",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "MIN-180",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021460195.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021460195.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -802,10 +934,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329879",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS114",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496805.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496805.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -814,10 +948,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329869",
   "collection_date": "2006",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS102",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496825.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496825.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -826,10 +962,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329919",
   "collection_date": "1999",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS44",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496845.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496845.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -838,10 +976,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329918",
   "collection_date": "1998",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS43",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496865.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496865.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -850,10 +990,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355421",
   "collection_date": "1993",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GAMBIA",
+  "host": "HUMAN",
+  "host_disease": "COLONIZING",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS68",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496885.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496885.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -862,10 +1004,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355373",
   "collection_date": "1993",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS20",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496905.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496905.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -874,10 +1018,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03329878",
   "collection_date": "2007",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SS111",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496945.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496945.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -886,10 +1032,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12355400",
   "collection_date": "1993",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "GAMBIA",
+  "host": "HUMAN",
+  "host_disease": "COLONIZING",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBS47",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021496965.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021496965.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -898,10 +1046,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00173301",
   "collection_date": "2018",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GCMC97051",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_021655535.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_021655535.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -910,10 +1060,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31213618",
   "collection_date": "2022-06",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": "INFECTION",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "SA5087",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_025808195.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_025808195.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -922,10 +1074,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908792",
   "collection_date": "2006",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_947313835.2"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_947313835.2"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -934,10 +1088,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33275459",
   "collection_date": "2021-06-16",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "VSI63",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_029011195.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_029011195.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -946,10 +1102,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33275442",
   "collection_date": "2020-11-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "VSI15",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_029011635.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_029011635.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -958,10 +1116,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33275441",
   "collection_date": "2020-11-24",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "VSI14",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_029011675.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_029011675.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -970,10 +1130,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34339751",
   "collection_date": "2021-08-13",
+  "geo_loc_name": "CHINA",
   "host": "TILAPIA",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "CS2108",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_029917085.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_029917085.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -982,10 +1144,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908802",
   "collection_date": "1954",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949787155.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949787155.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -994,10 +1158,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908799",
   "collection_date": "2004",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949787715.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949787715.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1006,10 +1172,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908800",
   "collection_date": "2012",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788565.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788565.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1018,10 +1186,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908811",
   "collection_date": "1964",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788745.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788745.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1030,10 +1200,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908794",
   "collection_date": "2006",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788775.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788775.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1042,10 +1214,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908797",
   "collection_date": "2004",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788785.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788785.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1054,10 +1228,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908804",
   "collection_date": "1970",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788915.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788915.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1066,10 +1242,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908806",
   "collection_date": "2011",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788945.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788945.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1078,10 +1256,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908803",
   "collection_date": "2012",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788925.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788925.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1090,10 +1270,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908795",
   "collection_date": "2005",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949788935.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949788935.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1102,10 +1284,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908801",
   "collection_date": "1967",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949789875.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949789875.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1114,10 +1298,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908798",
   "collection_date": "2009",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949790125.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949790125.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1126,10 +1312,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908809",
   "collection_date": "2012",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949790945.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949790945.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1138,10 +1326,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908808",
   "collection_date": "1977",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949791205.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949791205.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1150,10 +1340,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908793",
   "collection_date": "2006",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949792585.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949792585.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1162,10 +1354,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908810",
   "collection_date": "2010",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949793775.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949793775.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1174,10 +1368,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908805",
   "collection_date": "1954",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_951392265.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_951392265.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1186,10 +1382,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33919071",
   "collection_date": "2022-10-26",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "JAPAN",
+  "host": "HUMAN",
+  "host_disease": "MENINGITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "GBSIR0001",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_030323365.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_030323365.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1198,10 +1396,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA8908796",
   "collection_date": "2005",
-  "host": "BOVINE",
+  "geo_loc_name": "SWEDEN",
+  "host": "SHEEP",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": null,
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_949787645.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_949787645.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1210,10 +1410,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35521427",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "INVASIVE DISEASE",
   "scientific_name": "Streptococcus agalactiae COH1",
   "strain": "COH1",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_030489705.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_030489705.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1222,10 +1424,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35521428",
   "collection_date": null,
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": null,
+  "host": "HUMAN",
+  "host_disease": "FATAL SEPTICAEMIA",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "NEM316",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_030489725.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_030489725.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1234,10 +1438,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29959624",
   "collection_date": "2018",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BCJB4361",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031202875.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031202875.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1246,10 +1452,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29959623",
   "collection_date": "2012",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BCJB3586",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031202895.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031202895.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1258,10 +1466,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29959622",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "OSTEOMYELITIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BCJB3344",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031203395.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031203395.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1270,10 +1480,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29959621",
   "collection_date": "2010",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BCJB3343",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031203445.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031203445.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1282,10 +1494,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29959620",
   "collection_date": "2004",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BCJB2983",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031203465.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031203465.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1294,10 +1508,12 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29959619",
   "collection_date": "2014",
-  "host": "HOMO SAPIENS",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": "SEPSIS",
   "scientific_name": "Streptococcus agalactiae",
   "strain": "BCJB1835",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031203715.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031203715.1"
  },
  {
   "Streptococcus_agalactiae": null,
@@ -1306,9 +1522,109 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37286898",
   "collection_date": "2020-03-14",
+  "geo_loc_name": "BANGLADESH",
   "host": "FISH",
+  "host_disease": null,
   "scientific_name": "Streptococcus agalactiae",
   "strain": "Alim_agalac_1000",
-  "fasta": "data/groups_info/Streptococcus_agalactiae/GCA_031584935.1"
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_031584935.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_033798845.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38156288",
+  "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "R31-snf2-MTase2",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_033798845.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_033798865.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38156297",
+  "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SagR92",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_033798865.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_033798885.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38156456",
+  "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SagR31",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_033798885.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_033798905.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38156594",
+  "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SagR40",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_033798905.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_033798925.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38157180",
+  "collection_date": "2021-02-08",
+  "geo_loc_name": "CHINA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "R31-snf2",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_033798925.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_037242635.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40233034",
+  "collection_date": "2021-05-10",
+  "geo_loc_name": "CHINA",
+  "host": "NOT COLLECTED",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SagR272_TC",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_037242635.1"
+ },
+ {
+  "Streptococcus_agalactiae": null,
+  "date": null,
+  "asm_acc": "GCA_037248035.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40233030",
+  "collection_date": "2021-05-10",
+  "geo_loc_name": "CHINA",
+  "host": "NOT COLLECTED",
+  "host_disease": null,
+  "scientific_name": "Streptococcus agalactiae",
+  "strain": "SagR266",
+  "fasta": "data\\groups_info\\Streptococcus_agalactiae\\GCA_037248035.1"
  }
 ]

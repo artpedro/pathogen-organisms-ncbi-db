@@ -1,14 +1,16 @@
 [
  {
-  "Morganella": "PDG000000020.272",
-  "date": "Thu Oct 19 21:10:25 2023"
+  "Morganella": "PDG000000020.326",
+  "date": "Wed May 15 22:29:45 2024"
  },
  {
   "asm_acc": "GCA_000286435.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603113",
   "collection_date": "2009-03-18",
+  "geo_loc_name": "TAIWAN",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii KT",
   "strain": null
  },
@@ -17,7 +19,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934512",
   "collection_date": "2013-10-11",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "ABDOMINAL INCISION",
   "scientific_name": "Morganella morganii",
   "strain": "FDAARGOS_63"
  },
@@ -26,7 +30,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996316",
   "collection_date": "2014-06-25",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CONTAMINANT",
   "scientific_name": "Morganella morganii",
   "strain": "FDAARGOS_172"
  },
@@ -35,7 +41,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312409",
   "collection_date": "2014-07-21",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": "COLONIZATION",
   "scientific_name": "Morganella morganii",
   "strain": "FDAARGOS_365"
  },
@@ -44,7 +52,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08335225",
   "collection_date": "2017-02",
+  "geo_loc_name": "SOUTH KOREA",
   "host": "TURSIOPS TRUNCATUS",
+  "host_disease": "BRONCHOPNEUMONIA",
   "scientific_name": "Morganella morganii",
   "strain": "KC-Tt-01"
  },
@@ -53,7 +63,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2709025",
   "collection_date": null,
+  "geo_loc_name": null,
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "NCTC12028"
  },
@@ -62,7 +74,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10031395",
   "collection_date": "2018-04-28",
+  "geo_loc_name": "CHINA",
   "host": "CROCODILE LIZARD",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "DG56-16"
  },
@@ -71,7 +85,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10218950",
   "collection_date": "2016-01-26",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "HEPATITIS",
   "scientific_name": "Morganella morganii",
   "strain": "L241"
  },
@@ -80,7 +96,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13936254",
   "collection_date": "2018",
+  "geo_loc_name": "CANADA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "N18-00103"
  },
@@ -89,7 +107,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12769847",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "SEVERE PANCREATITIS",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "229813"
  },
@@ -98,7 +118,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11401652",
   "collection_date": "2016-08-06",
+  "geo_loc_name": "CHINA",
   "host": "MISGURNUS ANGUILLICAUDATUS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "Jiangxi"
  },
@@ -107,7 +129,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16619592",
   "collection_date": "2018",
+  "geo_loc_name": "INDIA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "SMM01"
  },
@@ -116,7 +140,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933265",
   "collection_date": "2018-10-10",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "ANOXIC BRAIN DAMAGE",
   "scientific_name": "Morganella morganii",
   "strain": "MM46903"
  },
@@ -125,7 +151,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933275",
   "collection_date": "2019-01-21",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "LIVER DISEASE",
   "scientific_name": "Morganella morganii",
   "strain": "MM48659"
  },
@@ -134,7 +162,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933284",
   "collection_date": "2019-05-15",
+  "geo_loc_name": "CZECH REPUBLIC",
   "host": "HOMO SAPIENS",
+  "host_disease": "ACUTE RESPIRATORY FAILURE",
   "scientific_name": "Morganella morganii",
   "strain": "MM50821"
  },
@@ -143,7 +173,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15719828",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "11759"
  },
@@ -152,7 +184,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16622915",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "516602"
  },
@@ -161,7 +195,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623190",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "GN28"
  },
@@ -170,7 +206,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623065",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJG944"
  },
@@ -179,7 +217,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623061",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJG812"
  },
@@ -188,7 +228,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623066",
   "collection_date": "2015",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJD581"
  },
@@ -197,7 +239,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623064",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "ZJC25"
  },
@@ -206,7 +250,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623062",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "81703"
  },
@@ -215,7 +261,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623059",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "715394"
  },
@@ -224,7 +272,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623063",
   "collection_date": "2016",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "621164"
  },
@@ -233,7 +283,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16623060",
   "collection_date": "2013",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "12304"
  },
@@ -242,7 +294,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22814155",
   "collection_date": "2018-12-08",
+  "geo_loc_name": "CHINA",
   "host": "SWINE",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "MMAS2018"
  },
@@ -251,7 +305,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19659029",
   "collection_date": "missing",
+  "geo_loc_name": "NOT AVAILABLE",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "CTX51T"
  },
@@ -260,7 +316,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30502440",
   "collection_date": "2017",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "CARDIAC INSUFFICIENCY",
   "scientific_name": "Morganella morganii",
   "strain": "K266"
  },
@@ -269,7 +327,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35004663",
   "collection_date": "2020-12-30",
+  "geo_loc_name": "CHINA",
   "host": "PTYAS MUCOSA",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "Sample-M-2023"
  },
@@ -278,7 +338,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35741046",
   "collection_date": "2023-01-19",
+  "geo_loc_name": "CHINA",
   "host": "HOMO SAPIENS",
+  "host_disease": "URINARY TRACT INFECTION",
   "scientific_name": "Morganella morganii subsp. morganii",
   "strain": "QLYYMMQL588"
  },
@@ -287,7 +349,9 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27992994",
   "collection_date": "2022-04-19",
+  "geo_loc_name": "USA",
   "host": "HOMO SAPIENS",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "2022CK-00284"
  },
@@ -296,8 +360,98 @@
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37356954",
   "collection_date": "2018",
+  "geo_loc_name": "CHINA",
   "host": "CATTLE",
+  "host_disease": null,
   "scientific_name": "Morganella morganii",
   "strain": "SDTA-1"
+ },
+ {
+  "asm_acc": "GCA_028546535.3",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN33190968",
+  "collection_date": "2022",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "2022JQ-00674"
+ },
+ {
+  "asm_acc": "GCA_034258555.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN38306392",
+  "collection_date": "2020",
+  "geo_loc_name": "CHINA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "2387"
+ },
+ {
+  "asm_acc": "GCA_038024765.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40573507",
+  "collection_date": "1990-10-30",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "RB04"
+ },
+ {
+  "asm_acc": "GCA_038024775.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40573534",
+  "collection_date": "1990-10-30",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "RB07"
+ },
+ {
+  "asm_acc": "GCA_038024785.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40573509",
+  "collection_date": "1990-10-30",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "RB11"
+ },
+ {
+  "asm_acc": "GCA_038024795.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40573508",
+  "collection_date": "1990-10-30",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "RB05"
+ },
+ {
+  "asm_acc": "GCA_038024805.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40573506",
+  "collection_date": "1990-10-30",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "RB03"
+ },
+ {
+  "asm_acc": "GCA_038024815.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40573478",
+  "collection_date": "1990-10-30",
+  "geo_loc_name": "TAIWAN",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Morganella morganii",
+  "strain": "RB02"
  }
 ]

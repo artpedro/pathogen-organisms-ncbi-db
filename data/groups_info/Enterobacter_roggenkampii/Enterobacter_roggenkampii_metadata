@@ -9,12 +9,27 @@
   "Enterobacter roggenkampii": 19
  },
  "strain": {},
+ "location": {
+  "CANADA": 1,
+  "null": 1,
+  "USA": 1,
+  "INDIA": 1,
+  "JAPAN": 1,
+  "GERMANY": 1,
+  "CHINA": 13
+ },
  "hosts": {
   "OSTEOGLOSSUM BICIRRHOSUM": 1,
+  "HUMAN": 13,
+  "SUGARCANE": 1,
   "HEALTHY CAT": 2,
-  "ENVIRONMENT": 1,
   "MORUS ALBA VAR. ATROPURPUREA": 1,
-  "HOMO SAPIENS": 13,
-  "SUGARCANE": 1
+  "ENVIRONMENT": 1
+ },
+ "hosts_diseases": {
+  "GASTROINTESTINAL SYSTEM DISEASE": 1,
+  "null": 16,
+  "NOT AVAILABLE": 1,
+  "BACTEREMIA": 1
  }
 }

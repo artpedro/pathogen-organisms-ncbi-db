@@ -11,9 +11,20 @@
  "strain": {
   "VGH117": 2
  },
+ "location": {
+  "GERMANY": 1,
+  "TANZANIA": 1,
+  "TAIWAN": 2,
+  "JAPAN": 8
+ },
  "hosts": {
-  "HOMO SAPIENS": 10,
+  "JANIA SP. (RED ALGA)": 1,
   "CHICKEN": 1,
-  "JANIA SP. (RED ALGA)": 1
+  "HUMAN": 10
+ },
+ "hosts_diseases": {
+  "SEPSIS": 1,
+  "INFECTION": 2,
+  "null": 9
  }
 }

@@ -48,7 +48,7 @@ def download_url(url, file):
 
 # classe principal para extração e manipulação dos grupos patogênicos presentes no banco de dados pathogen
 class Group():
-    def __init__(self,name):
+    def __init__(self,name,from_log=True):
         # nome do grupo
         self.name = name
         
@@ -82,20 +82,21 @@ class Group():
         
         # procurando se já existem informações filtradas ou semi-filtradas
         # e armazenado-as
-        if os.path.exists(self.filtered_json_path):
-            with open(self.filtered_json_path,'r') as log:
-                self.filtered_json = js.load(log)
+        if from_log:    
+            if os.path.exists(self.filtered_json_path):
+                with open(self.filtered_json_path,'r') as log:
+                    self.filtered_json = js.load(log)
 
-                # informações filtradas em dataframe
-                self.filtered_df = pd.DataFrame(self.filtered_json)
-        
-        if os.path.exists(self.usable_json_path):
-            with open(self.usable_json_path,'r') as log:
-                self.usable_json = js.load(log)
+                    # informações filtradas em dataframe
+                    self.filtered_df = pd.DataFrame(self.filtered_json)
+            
+            if os.path.exists(self.usable_json_path):
+                with open(self.usable_json_path,'r') as log:
+                    self.usable_json = js.load(log)
 
-                # informações brutas em dataframe
-                self.usable_df = pd.DataFrame(self.usable_json)
-                
+                    # informações brutas em dataframe
+                    self.usable_df = pd.DataFrame(self.usable_json)
+                    
 
         # url para extrair as informações tabulares do banco pathogen
         self.table_url = f'https://ftp.ncbi.nlm.nih.gov/pathogen/Results/{self.name}/latest_kmer/Metadata/{self.pat_id}'+'.metadata.tsv'
@@ -213,11 +214,9 @@ class Group():
             self.getPatData()
 
         # campos importantes no tsv
-        fields = ['scientific_name','strain','host','asm_level','asm_acc','biosample_acc','collection_date']
-        
+        fields = ['scientific_name','strain','host','host_disease','asm_level','asm_acc','biosample_acc','collection_date','geo_loc_name']
         # lendo arquivo .tsv em um dataframe
         df = pd.read_csv(self.tsv_file,sep='\t',usecols=fields)
-
 
         # filtrando as linhas dispensáveis do dataframe
 
@@ -242,8 +241,9 @@ class Group():
 
         # padronizando a coluna host
         self.usable_df['host'] = self.usable_df['host'].apply(lambda x:x.upper())
-        
-    
+        self.usable_df['host_disease'] = self.usable_df['host_disease'].apply(lambda x:x.upper() if isinstance(x,str) else x)
+        self.usable_df['geo_loc_name'] = self.usable_df['geo_loc_name'].apply(lambda x:x.upper().split(sep=':')[0] if isinstance(x,str) else x)
+            
         # armazenando o dataframe com os registros disponíveis e uma tag indicando o grupo e o pat-id
 
         with open(self.usable_json_path,'w') as file:
@@ -321,6 +321,8 @@ class Group():
         
         # padronizando a coluna host
         self.filtered_df['host'] = self.filtered_df['host'].apply(lambda x:x.upper())
+        self.filtered_df['host_disease'] = self.filtered_df['host_disease'].apply(lambda x:x.upper() if isinstance(x,str) else x)
+        self.filtered_df['geo_loc_name'] = self.filtered_df['geo_loc_name'].apply(lambda x:x.upper().split(sep=':')[0] if isinstance(x,str) else x)
 
         # FILTRAGEM HOST
         
@@ -340,8 +342,6 @@ class Group():
             self.filtered_json = self.filtered_df.to_json(orient="records",indent=1)
             self.filtered_json = js.loads(self.filtered_json)
             for entry in self.filtered_json:
-                del entry[f'{self.name}']
-                del entry['date']
                 entry['fasta'] = os.path.normpath(f"data/groups_info/{self.name}/{entry['asm_acc']}")
 
             # tag para com a data de atualização e o pat_id
@@ -373,13 +373,20 @@ class Group():
         self.species = df['scientific_name'].tolist()
         self.hosts = df['host'].tolist()
         self.strains = df['strain'].tolist()
+        if not df['host_disease'].empty:
+            self.host_diseases = df['host_disease'].tolist()
+        else:
+            self.host_diseases = []
+        self.geo = df['geo_loc_name'].tolist()
         self.count = df.shape[0]
 
         # salvando contagem dos dados
         self.hosts_dic = {k:self.hosts.count(k) for k in set(self.hosts)}
         self.species_dic = {k:self.species.count(k) for k in set(self.species)}
         self.strains_dic = {k:self.strains.count(k) for k in set(self.strains) if self.strains.count(k) > 1}
-        
+        self.host_diseases_dic = {k:self.host_diseases.count(k) for k in set(self.host_diseases)}
+        self.geo_dic = {k:self.geo.count(k) for k in set(self.geo)}
+
         # filtragem inicial dos nomes de espécie
         self.species_fdic = {k:[" ".join(j) for j in [i.split()[:2] for i in self.species]].count(k) for k in set([" ".join(j) for j in [i.split()[:2] for i in self.species]])}     
         self.subsp_dic = {" ".join(k.split()[:4]):[j for j in [i.split()[3] for i in self.species if ((len(i.split())>3) and (i.split()[2] == "subsp."))]].count(k.split()[3]) for k in [i for i in self.species_dic if ((len(i.split())>3) and (i.split()[2] == "subsp."))]}
@@ -388,7 +395,7 @@ class Group():
         '''
         Reune informações do readFilteredTsv() e armazena em um arquivo para posterior representação gráfica
         '''
-        metadata = {'group':self.name,'count':self.count,'species':self.species_fdic,'subsp.':self.subsp_dic,'scientific_name':self.species_dic,'strain':self.strains_dic, 'hosts':self.hosts_dic}
+        metadata = {'group':self.name,'count':self.count,'species':self.species_fdic,'subsp.':self.subsp_dic,'scientific_name':self.species_dic,'strain':self.strains_dic,'location':self.geo_dic, 'hosts':self.hosts_dic, 'hosts_diseases':self.host_diseases_dic}
         
         with open(os.path.normpath(self.info_path + f'/{self.name}_metadata'),'w') as log:
             content = js.dumps(metadata,indent=1)
@@ -429,6 +436,26 @@ def updateExample(name="Edwardsiella_tarda"):
         print("Informações atualizadas")
     else:
         print("As informações do registro não precisam ser atualizadas")
+
+def resetExample(name="Edwardsiella_tarda"):
+    '''
+    Reseta somente um grupo
+    '''
+    obj = Group(name,from_log=False)
+    obj.getPatData()
+    obj.getUsableTsv()
+    obj.filterTsv()
+    print("Informações atualizadas")
+def resetData():
+    '''
+    Reconstroi o banco
+    '''
+    groups = readGroupsNames()
+    for group in groups:
+        obj = Group(group,from_log=False)
+        obj.getPatData()
+        obj.getUsableTsv()
+        obj.filterTsv()
 
 def updateData():
     '''
@@ -474,7 +501,7 @@ def generalMetadata():
     Gera um arquivo metadata com informações de todas os registros com metadata
     '''
     groups = readGroupsNames()
-    metadata = {'count':0,'species':{},'hosts':{},'subsp.':{}}
+    metadata = {'count':0,'species':{},'hosts':{},'subsp.':{},'location':{},'hosts_diseases':{}}
     for group in groups:
         print(group)
         if os.path.exists(os.path.normpath(f'data/groups_info/{group}/{group}_metadata')):
@@ -491,6 +518,17 @@ def generalMetadata():
                         metadata['hosts'][host] += data['hosts'][host]
                     else:
                         metadata['hosts'][host] = data['hosts'][host]
+                for disease in data['hosts_diseases']:
+                    if disease in metadata['hosts_diseases']:
+                        metadata['hosts_diseases'][disease] += data['hosts_diseases'][disease]
+                    else:
+                        metadata['hosts_diseases'][disease] = data['hosts_diseases'][disease]
+                
+                for loc in data['location']:
+                    if loc in metadata['location']:
+                        metadata['location'][loc] += data['location'][loc]
+                    else:
+                        metadata['location'][loc] = data['location'][loc]
     with open('data/metadata.json','w') as file:
         info = js.dumps(metadata,indent=1)
         file.write(info)
@@ -498,16 +536,14 @@ def generalMetadata():
 # PRECISA-SE ARRUMAR O FORMATO DO JSON FILTERED
 
 if __name__ == "__main__":
-    
     print("Refreshing data...")
     start = time.time()
     refresh()
-    updateData()
+    resetData()
     end = time.time()
     minutos = int((end - start) // 60)
     segundos = (end - start) % 60
-    #print(f'mount runtime: {minutos}:{segundos}')
-
+    print(f'mount runtime: {minutos}:{segundos}')
     print("Reading data...")
     start = time.time()
     readAllData()
@@ -525,4 +561,3 @@ if __name__ == "__main__":
     minutos = int((end - start) // 60)
     segundos = int((end - start) % 60)
     #print(f'generalmetadata runtime: {minutos}:{segundos}')
-    
