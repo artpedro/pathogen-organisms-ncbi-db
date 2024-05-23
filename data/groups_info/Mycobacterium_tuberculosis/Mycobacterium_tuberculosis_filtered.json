@@ -1,11 +1,9 @@
 [
  {
   "Mycobacterium_tuberculosis": "PDG000000034.345",
-  "date": "Wed May 15 22:37:53 2024"
+  "date": "Fri May 17 17:48:50 2024"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000195835.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA20450668",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000195835.3"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000154585.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03081422",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000154585.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000270365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603011",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000270365.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000698475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02803802",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000698475.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000706665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02767600",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000706665.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000738445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02943514",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000738445.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000738475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02943515",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000738475.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000756525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02887314",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000756525.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000756545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02874015",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000756545.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000828995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00000334",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000828995.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000934325.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03288261",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000934325.3"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_000975265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03481272",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_000975265.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001043255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02864173",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001043255.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001078615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761171",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001078615.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001275565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03921880",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001275565.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001580385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04517448",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001580385.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001597645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04492771",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001597645.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001702435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05447655",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001702435.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001708265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05447658",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001708265.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001750865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03301665",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001750865.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001855255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04293604",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001855255.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001870145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05933692",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001870145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001895765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010135",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895765.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001895785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010493",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895785.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001895805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010122",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895805.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001895825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010171",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895825.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001895845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010490",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895845.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001895865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06010343",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001895865.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001922485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06141171",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001922485.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_001938725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05414673",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_001938725.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002072775.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06622696",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002072775.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002116755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833360",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116755.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002116775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833361",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116775.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002116795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833362",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116795.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002116815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833364",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116815.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002116835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833363",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116835.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002116855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05833359",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002116855.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002208235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06622697",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002208235.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002356015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00065354",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002356015.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002356255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076259",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002356255.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002357935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076256",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002357935.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002357955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076257",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002357955.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002357975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00076258",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002357975.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664823",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446875.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664824",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446895.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664825",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446915.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664826",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446935.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664827",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446955.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664828",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446975.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002446995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664829",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002446995.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664830",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447015.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664831",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447035.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664832",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447055.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664833",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447075.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664834",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447095.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664835",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447115.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664836",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447135.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664837",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447155.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664838",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447175.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664839",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447195.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664840",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447215.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664841",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447235.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664842",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447255.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664843",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447275.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664844",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447295.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664845",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447315.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664846",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447335.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664847",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447355.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664848",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447375.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664849",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447395.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664850",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447415.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664851",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447435.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664852",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447455.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664853",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447475.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664854",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447495.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664855",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447515.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664856",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447535.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664857",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447555.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664858",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447575.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664859",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447595.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664860",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447615.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664861",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447635.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664862",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447655.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664863",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447675.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664864",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447695.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664865",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447715.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664866",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447735.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664867",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447755.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664868",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447775.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664869",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447795.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664870",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447815.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664871",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447835.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664872",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447855.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664873",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447875.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664874",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447895.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664875",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447915.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664876",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447935.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664877",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447955.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664878",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447975.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002447995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664879",
@@ -1404,8 +1204,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002447995.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664880",
@@ -1418,8 +1216,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448015.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664881",
@@ -1432,8 +1228,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448035.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664882",
@@ -1446,8 +1240,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448055.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664883",
@@ -1460,8 +1252,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448075.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664884",
@@ -1474,8 +1264,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448095.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664885",
@@ -1488,8 +1276,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448115.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664886",
@@ -1502,8 +1288,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448135.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664887",
@@ -1516,8 +1300,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448155.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664888",
@@ -1530,8 +1312,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448175.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664889",
@@ -1544,8 +1324,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448195.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002448215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07664890",
@@ -1558,8 +1336,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002448215.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199254",
@@ -1572,8 +1348,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199260",
@@ -1586,8 +1360,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886165.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199302",
@@ -1600,8 +1372,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886195.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199305",
@@ -1614,8 +1384,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886335.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199301",
@@ -1628,8 +1396,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886405.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199277",
@@ -1642,8 +1408,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886505.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199266",
@@ -1656,8 +1420,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886585.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199347",
@@ -1670,8 +1432,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886685.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199271",
@@ -1684,8 +1444,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886775.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199268",
@@ -1698,8 +1456,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886865.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199265",
@@ -1712,8 +1468,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886945.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002887065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199267",
@@ -1726,8 +1480,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887065.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002887145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199303",
@@ -1740,8 +1492,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002887255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199306",
@@ -1754,8 +1504,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887255.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002887335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199348",
@@ -1768,8 +1516,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002887335.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002886225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08199276",
@@ -1782,8 +1528,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002886225.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_002975475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08321034",
@@ -1796,8 +1540,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_002975475.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003006115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07414820",
@@ -1810,8 +1552,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003006115.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003006135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07414819",
@@ -1824,8 +1564,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003006135.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003253775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09104579",
@@ -1838,8 +1576,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003253775.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003265005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09453176",
@@ -1852,8 +1588,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003265005.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003287125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292592",
@@ -1866,8 +1600,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287125.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003287145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292590",
@@ -1880,8 +1612,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003287165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292065",
@@ -1894,8 +1624,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287165.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003287185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06292067",
@@ -1908,8 +1636,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003287185.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_003293655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08973501",
@@ -1922,8 +1648,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_003293655.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_900520315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104027311",
@@ -1936,8 +1660,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_900520315.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_007833935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12126281",
@@ -1950,8 +1672,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_007833935.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_008761675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12816907",
@@ -1964,8 +1684,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_008761675.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_009664875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191639",
@@ -1978,8 +1696,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_009664875.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_902459825.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5803801",
@@ -1992,8 +1708,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_902459825.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_009762675.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10417149",
@@ -2006,8 +1720,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_009762675.2"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_012923765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13736268",
@@ -2020,8 +1732,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_012923765.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_013010385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14598146",
@@ -2034,8 +1744,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_013010385.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_013267635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056472",
@@ -2048,8 +1756,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_013267635.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014884625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325246",
@@ -2062,8 +1768,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014884625.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014884645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325211",
@@ -2076,8 +1780,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014884645.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014884665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325208",
@@ -2090,8 +1792,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014884665.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325280",
@@ -2104,8 +1804,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899205.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325279",
@@ -2118,8 +1816,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899225.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325278",
@@ -2132,8 +1828,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899245.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325276",
@@ -2146,8 +1840,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899265.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325277",
@@ -2160,8 +1852,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899285.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325275",
@@ -2174,8 +1864,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899305.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325274",
@@ -2188,8 +1876,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899325.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325273",
@@ -2202,8 +1888,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899345.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325272",
@@ -2216,8 +1900,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899365.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325271",
@@ -2230,8 +1912,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899385.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325270",
@@ -2244,8 +1924,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899405.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325269",
@@ -2258,8 +1936,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899425.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325268",
@@ -2272,8 +1948,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899445.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325267",
@@ -2286,8 +1960,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899465.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325266",
@@ -2300,8 +1972,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899485.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325265",
@@ -2314,8 +1984,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899505.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325264",
@@ -2328,8 +1996,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899525.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325263",
@@ -2342,8 +2008,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899545.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325262",
@@ -2356,8 +2020,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899565.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325261",
@@ -2370,8 +2032,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899585.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325260",
@@ -2384,8 +2044,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899605.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325259",
@@ -2398,8 +2056,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899625.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325258",
@@ -2412,8 +2068,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899645.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325257",
@@ -2426,8 +2080,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899665.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325256",
@@ -2440,8 +2092,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899685.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325255",
@@ -2454,8 +2104,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899705.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325254",
@@ -2468,8 +2116,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899725.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325253",
@@ -2482,8 +2128,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899745.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325252",
@@ -2496,8 +2140,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899765.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325251",
@@ -2510,8 +2152,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899785.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325250",
@@ -2524,8 +2164,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899805.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325249",
@@ -2538,8 +2176,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899825.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325248",
@@ -2552,8 +2188,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899845.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325247",
@@ -2566,8 +2200,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899865.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325245",
@@ -2580,8 +2212,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899885.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325244",
@@ -2594,8 +2224,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899905.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325243",
@@ -2608,8 +2236,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899925.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325242",
@@ -2622,8 +2248,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899945.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325241",
@@ -2636,8 +2260,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899965.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014899985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325240",
@@ -2650,8 +2272,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014899985.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325239",
@@ -2664,8 +2284,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900005.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325238",
@@ -2678,8 +2296,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900055.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325237",
@@ -2692,8 +2308,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900075.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325236",
@@ -2706,8 +2320,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900095.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325235",
@@ -2720,8 +2332,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900115.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325234",
@@ -2734,8 +2344,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900135.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325233",
@@ -2748,8 +2356,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900155.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325232",
@@ -2762,8 +2368,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900175.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325231",
@@ -2776,8 +2380,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900195.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325230",
@@ -2790,8 +2392,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900215.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325229",
@@ -2804,8 +2404,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900235.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325228",
@@ -2818,8 +2416,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900255.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325227",
@@ -2832,8 +2428,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900275.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325226",
@@ -2846,8 +2440,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900295.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325225",
@@ -2860,8 +2452,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900315.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325224",
@@ -2874,8 +2464,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900335.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325223",
@@ -2888,8 +2476,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900355.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325222",
@@ -2902,8 +2488,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900375.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325221",
@@ -2916,8 +2500,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900395.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325220",
@@ -2930,8 +2512,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900415.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325219",
@@ -2944,8 +2524,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900435.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325218",
@@ -2958,8 +2536,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900455.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325217",
@@ -2972,8 +2548,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900475.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325216",
@@ -2986,8 +2560,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900495.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325215",
@@ -3000,8 +2572,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900515.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325214",
@@ -3014,8 +2584,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900555.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325213",
@@ -3028,8 +2596,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900595.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325212",
@@ -3042,8 +2608,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900615.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325210",
@@ -3056,8 +2620,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900635.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325209",
@@ -3070,8 +2632,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900655.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325207",
@@ -3084,8 +2644,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900675.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325206",
@@ -3098,8 +2656,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900695.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325205",
@@ -3112,8 +2668,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900715.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325204",
@@ -3126,8 +2680,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900735.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325203",
@@ -3140,8 +2692,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900755.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325202",
@@ -3154,8 +2704,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900775.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325201",
@@ -3168,8 +2716,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900795.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325200",
@@ -3182,8 +2728,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900815.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325199",
@@ -3196,8 +2740,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900835.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325198",
@@ -3210,8 +2752,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900855.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325197",
@@ -3224,8 +2764,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900895.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014900965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325196",
@@ -3238,8 +2776,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014900965.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325195",
@@ -3252,8 +2788,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901035.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325194",
@@ -3266,8 +2800,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901055.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325193",
@@ -3280,8 +2812,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901075.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325192",
@@ -3294,8 +2824,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901095.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325191",
@@ -3308,8 +2836,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901115.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325190",
@@ -3322,8 +2848,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901135.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_014901155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12325189",
@@ -3336,8 +2860,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_014901155.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_904810345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336317",
@@ -3350,8 +2872,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810345.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_904810325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336314",
@@ -3364,8 +2884,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810325.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_904810335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336315",
@@ -3378,8 +2896,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810335.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_904810355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336318",
@@ -3392,8 +2908,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810355.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_904810365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7336316",
@@ -3406,8 +2920,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_904810365.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_016917775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17832565",
@@ -3420,8 +2932,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_016917775.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_017164035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18056856",
@@ -3434,8 +2944,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_017164035.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_017164055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18056929",
@@ -3448,8 +2956,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_017164055.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_017901115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18576178",
@@ -3462,8 +2968,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_017901115.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_021559895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15348336",
@@ -3476,8 +2980,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_021559895.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022023995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18614372",
@@ -3490,8 +2992,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022023995.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_932530315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188689",
@@ -3504,8 +3004,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932530315.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_932527465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188685",
@@ -3518,8 +3016,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932527465.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_932530395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188715",
@@ -3532,8 +3028,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932530395.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_932527315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188688",
@@ -3546,8 +3040,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932527315.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_932527325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA13188731",
@@ -3560,8 +3052,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_932527325.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406479",
@@ -3574,8 +3064,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870125.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406478",
@@ -3588,8 +3076,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406477",
@@ -3602,8 +3088,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870165.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406476",
@@ -3616,8 +3100,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870185.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406475",
@@ -3630,8 +3112,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870205.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406474",
@@ -3644,8 +3124,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870225.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406473",
@@ -3658,8 +3136,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870245.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406472",
@@ -3672,8 +3148,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870265.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406471",
@@ -3686,8 +3160,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870285.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406470",
@@ -3700,8 +3172,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870305.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406469",
@@ -3714,8 +3184,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870325.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406468",
@@ -3728,8 +3196,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870345.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406467",
@@ -3742,8 +3208,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870365.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406466",
@@ -3756,8 +3220,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870385.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406464",
@@ -3770,8 +3232,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870405.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406463",
@@ -3784,8 +3244,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870425.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022870445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16406462",
@@ -3798,8 +3256,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022870445.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022871085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028218",
@@ -3812,8 +3268,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871085.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022871105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028219",
@@ -3826,8 +3280,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871105.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022871125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028220",
@@ -3840,8 +3292,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871125.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_022871145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27028221",
@@ -3854,8 +3304,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_022871145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_026167585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31644110",
@@ -3868,8 +3316,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_026167585.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_026727575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31746122",
@@ -3882,8 +3328,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_026727575.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_026727615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31746260",
@@ -3896,8 +3340,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_026727615.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_027912555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32350377",
@@ -3910,8 +3352,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_027912555.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865562",
@@ -3924,8 +3364,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583125.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865564",
@@ -3938,8 +3376,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865566",
@@ -3952,8 +3388,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583165.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865559",
@@ -3966,8 +3400,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583185.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865563",
@@ -3980,8 +3412,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583205.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865558",
@@ -3994,8 +3424,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583245.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865561",
@@ -4008,8 +3436,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583265.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865565",
@@ -4022,8 +3448,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583285.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028583305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27865567",
@@ -4036,8 +3460,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028583305.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_028768425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33010680",
@@ -4050,8 +3472,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_028768425.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24038646",
@@ -4064,8 +3484,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867045.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039411",
@@ -4078,8 +3496,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867065.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039456",
@@ -4092,8 +3508,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867085.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039564",
@@ -4106,8 +3520,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867105.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039598",
@@ -4120,8 +3532,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867125.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24039640",
@@ -4134,8 +3544,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040382",
@@ -4148,8 +3556,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867165.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040385",
@@ -4162,8 +3568,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867185.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040410",
@@ -4176,8 +3580,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867205.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24040618",
@@ -4190,8 +3592,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867225.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24042982",
@@ -4204,8 +3604,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867245.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_029867265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24042990",
@@ -4218,8 +3616,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_029867265.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030053035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32238502",
@@ -4232,8 +3628,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030053035.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030285685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655918",
@@ -4246,8 +3640,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285685.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030285705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35654954",
@@ -4260,8 +3652,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285705.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030285725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655917",
@@ -4274,8 +3664,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285725.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030285745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655919",
@@ -4288,8 +3676,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285745.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030285765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35655980",
@@ -4302,8 +3688,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030285765.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030566105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419413",
@@ -4316,8 +3700,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030566105.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030566675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419410",
@@ -4330,8 +3712,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030566675.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030567435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419404",
@@ -4344,8 +3724,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030567435.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030568235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419398",
@@ -4358,8 +3736,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030568235.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030571635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419378",
@@ -4372,8 +3748,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030571635.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030574935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419360",
@@ -4386,8 +3760,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030574935.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030576595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36419351",
@@ -4400,8 +3772,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030576595.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030866945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998973",
@@ -4414,8 +3784,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030866945.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030866965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998974",
@@ -4428,8 +3796,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030866965.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030866985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998975",
@@ -4442,8 +3808,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030866985.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030867005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998976",
@@ -4456,8 +3820,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030867005.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_030867025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36998977",
@@ -4470,8 +3832,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_030867025.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_033124145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28021336",
@@ -4484,8 +3844,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033124145.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_033124885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28021337",
@@ -4498,8 +3856,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033124885.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_033125685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28021338",
@@ -4512,8 +3868,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033125685.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_033126485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28021339",
@@ -4526,8 +3880,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_033126485.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_035581225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27305103",
@@ -4540,8 +3892,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_035581225.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00089643",
@@ -4554,8 +3904,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076265.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00089644",
@@ -4568,8 +3916,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076275.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269948",
@@ -4582,8 +3928,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076285.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269949",
@@ -4596,8 +3940,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076295.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269950",
@@ -4610,8 +3952,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076305.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269951",
@@ -4624,8 +3964,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076315.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269952",
@@ -4638,8 +3976,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076325.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037076335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269954",
@@ -4652,8 +3988,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037076335.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037101195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00269953",
@@ -4666,8 +4000,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037101195.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037942495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40504538",
@@ -4680,8 +4012,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037942495.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_037942805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40504549",
@@ -4694,8 +4024,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_037942805.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_038096075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40622784",
@@ -4708,8 +4036,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_038096075.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_039555355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN41141372",
@@ -4722,8 +4048,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_039555355.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_039555365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN41141464",
@@ -4736,8 +4060,6 @@
   "fasta": "data\\groups_info\\Mycobacterium_tuberculosis\\GCA_039555365.1"
  },
  {
-  "Mycobacterium_tuberculosis": null,
-  "date": null,
   "asm_acc": "GCA_039555375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN41141444",

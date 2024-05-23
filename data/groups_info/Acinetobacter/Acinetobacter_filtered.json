@@ -1,11 +1,9 @@
 [
  {
-  "Acinetobacter": "PDG000000010.1260",
-  "date": "Wed May 15 22:37:48 2024"
+  "Acinetobacter": "PDG000000010.1262",
+  "date": "Fri May 17 17:32:07 2024"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000186665.4",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603576",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000186665.4"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000695855.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02714232",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000695855.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000746605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02940901",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000746605.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000746645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02940899",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000746645.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000786735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02709859",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000786735.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000794125.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03105183",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000794125.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000814165.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03263968",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000814165.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000814345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03263969",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000814345.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000828935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00020223",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000828935.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000830055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03248539",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000830055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_000963815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02894434",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_000963815.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001026965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03290686",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001026965.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001077555.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03770534",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001077555.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001077655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03817045",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001077655.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001077675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03817043",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001077675.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001077965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03771402",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001077965.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001399655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04029125",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001399655.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001514375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03941550",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001514375.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001543995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04448797",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001543995.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001573065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890258",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001573065.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001573085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890257",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001573085.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001573105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890255",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001573105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001573125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890253",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001573125.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001578145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890256",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001578145.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001577285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04495667",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001577285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001593425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04273153",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001593425.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001617545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04576523",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001617545.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001636235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04485290",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001636235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_900088705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2439285",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_900088705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001668465.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05238697",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001668465.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001669145.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05238672",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001669145.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001674475.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05238628",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001674475.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001674505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05238571",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001674505.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001721705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04018777",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001721705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601665",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806345.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601667",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806365.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601668",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601669",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806405.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601670",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806425.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601671",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806445.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601672",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001806485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05601673",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001806485.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001887305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06046790",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001887305.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001895985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06077192",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001895985.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001896005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06077191",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001896005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001902375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06109232",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001902375.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001922205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04096368",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001922205.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001922225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04096369",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001922225.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001922245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04096370",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001922245.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_001941765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04273154",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_001941765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002012285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05827444",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002012285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_900093475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3310339",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_900093475.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650260",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082625.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650245",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082645.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650244",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650243",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650264",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650241",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082725.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650242",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082745.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650239",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082785.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650238",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650240",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082825.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650262",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650263",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002082885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06650261",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002082885.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002116925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04621185",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002116925.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002158945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07160582",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002158945.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002210065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07125723",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002210065.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002504145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06099024",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002504145.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002741415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07736509",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002741415.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002753915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07945345",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002753915.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002761575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07445112",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002761575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002762095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07943355",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002762095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002762115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07943353",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002762115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002762155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07943354",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002762155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002843665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08054861",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002843665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002863745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06187701",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002863745.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002902805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08382337",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002902805.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002950495.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08364585",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002950495.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002951295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996318",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002951295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002999115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08031286",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002999115.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002999195.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08364584",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002999195.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_002999215.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08031302",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_002999215.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003051965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08364583",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003051965.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003143895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09197281",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003143895.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003181015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09241862",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003181015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_900478145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3146530",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_900478145.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003264295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06219545",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003264295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003288775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09389171",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003288775.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003296225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09460321",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003296225.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003345235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07559626",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003345235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003431385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07289440",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003431385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003516005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07284119",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003516005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003522665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07520236",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003522665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003522705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07520237",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003522705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003522785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07520233",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003522785.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003522845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07520232",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003522845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003522885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07520231",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003522885.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003591615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07580891",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003591615.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003812385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163228",
@@ -1404,8 +1204,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003812385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003812485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10411605",
@@ -1418,8 +1216,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003812485.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003931755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258640",
@@ -1432,8 +1228,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003931755.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003931775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258642",
@@ -1446,8 +1240,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003931775.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003948085.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10261613",
@@ -1460,8 +1252,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003948085.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003948455.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10261589",
@@ -1474,8 +1264,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003948455.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003948535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10261584",
@@ -1488,8 +1276,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003948535.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003949115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10261535",
@@ -1502,8 +1288,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003949115.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003949595.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10261544",
@@ -1516,8 +1300,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003949595.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_003949725.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10261537",
@@ -1530,8 +1312,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_003949725.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004028375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10441121",
@@ -1544,8 +1324,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004028375.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004101685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258672",
@@ -1558,8 +1336,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004101685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004101705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258689",
@@ -1572,8 +1348,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004101705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004101725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258647",
@@ -1586,8 +1360,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004101725.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004101745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258645",
@@ -1600,8 +1372,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004101745.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004136355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09769497",
@@ -1614,8 +1384,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004136355.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004194555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08513260",
@@ -1628,8 +1396,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004194555.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004295305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10928940",
@@ -1642,8 +1408,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004295305.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004564115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10386508",
@@ -1656,8 +1420,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004564115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004758865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11298775",
@@ -1670,8 +1432,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004758865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004768705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11311113",
@@ -1684,8 +1444,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004768705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_004792395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11295118",
@@ -1698,8 +1456,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_004792395.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005280435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11557458",
@@ -1712,8 +1468,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005280435.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005280675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11571814",
@@ -1726,8 +1480,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005280675.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005280695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11571816",
@@ -1740,8 +1492,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005280695.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005280715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11571817",
@@ -1754,8 +1504,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005280715.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005281455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02471153",
@@ -1768,8 +1516,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005281455.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005518095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11621520",
@@ -1782,8 +1528,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005518095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005519135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09302593",
@@ -1796,8 +1540,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005519135.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_005671375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11660471",
@@ -1810,8 +1552,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_005671375.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_006385075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12015779",
@@ -1824,8 +1564,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_006385075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_007107525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12158047",
@@ -1838,8 +1576,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_007107525.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_007221455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12045486",
@@ -1852,8 +1588,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_007221455.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_007647215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06211572",
@@ -1866,8 +1600,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_007647215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_007954485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12289369",
@@ -1880,8 +1612,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_007954485.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008033255.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12399660",
@@ -1894,8 +1624,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008033255.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008121475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12612836",
@@ -1908,8 +1636,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008121475.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008244865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258648",
@@ -1922,8 +1648,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008244865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008244885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258679",
@@ -1936,8 +1660,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008244885.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008244905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07258673",
@@ -1950,8 +1672,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008244905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008630895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04273155",
@@ -1964,8 +1684,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008630895.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008694085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10448663",
@@ -1978,8 +1696,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008694085.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_008807055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10135127",
@@ -1992,8 +1708,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_008807055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_009035845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12389466",
@@ -2006,8 +1720,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_009035845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_009455505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09244200",
@@ -2020,8 +1732,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_009455505.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_009497995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07520235",
@@ -2034,8 +1744,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_009497995.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_009498335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12569102",
@@ -2048,8 +1756,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_009498335.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_009588945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13066419",
@@ -2062,8 +1768,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_009588945.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_009759685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13045090",
@@ -2076,8 +1780,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_009759685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_011067065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14217790",
@@ -2090,8 +1792,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_011067065.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_011996285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14278654",
@@ -2104,8 +1804,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_011996285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012272715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14308892",
@@ -2118,8 +1816,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012272715.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012272735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14308866",
@@ -2132,8 +1828,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012272735.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012272755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14308864",
@@ -2146,8 +1840,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012272755.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012272775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14308853",
@@ -2160,8 +1852,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012272775.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012272795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14308849",
@@ -2174,8 +1864,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012272795.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012931605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14667518",
@@ -2188,8 +1876,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012931605.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012931625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14667516",
@@ -2202,8 +1888,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012931625.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012931645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14667515",
@@ -2216,8 +1900,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012931645.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012931665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14667517",
@@ -2230,8 +1912,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012931665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012934905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14409516",
@@ -2244,8 +1924,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012934905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012934925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14409628",
@@ -2258,8 +1936,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012934925.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012934945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14409813",
@@ -2272,8 +1948,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012934945.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012934965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14410107",
@@ -2286,8 +1960,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012934965.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012934985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14410138",
@@ -2300,8 +1972,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012934985.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14414761",
@@ -2314,8 +1984,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14415334",
@@ -2328,8 +1996,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935025.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14420246",
@@ -2342,8 +2008,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935045.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14420253",
@@ -2356,8 +2020,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935065.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14420254",
@@ -2370,8 +2032,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935085.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14420255",
@@ -2384,8 +2044,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14422682",
@@ -2398,8 +2056,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935125.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14410111",
@@ -2412,8 +2068,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935145.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14414747",
@@ -2426,8 +2080,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935165.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012935185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14414778",
@@ -2440,8 +2092,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012935185.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012974585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14072279",
@@ -2454,8 +2104,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012974585.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_012974845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12057668",
@@ -2468,8 +2116,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_012974845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013305465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14859482",
@@ -2482,8 +2128,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013305465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013372085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14779651",
@@ -2496,8 +2140,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013372085.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013376855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15344688",
@@ -2510,8 +2152,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013376855.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013377175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13565236",
@@ -2524,8 +2164,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013377175.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013394265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12860376",
@@ -2538,8 +2176,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013394265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013394285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12859885",
@@ -2552,8 +2188,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013394285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013416255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14833494",
@@ -2566,8 +2200,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013416255.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013416275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14833556",
@@ -2580,8 +2212,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013416275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_013787185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15541804",
@@ -2594,8 +2224,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_013787185.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014322245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13884837",
@@ -2608,8 +2236,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014322245.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014672735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15507634",
@@ -2622,8 +2248,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014672735.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014705805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12391854",
@@ -2636,8 +2260,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014705805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014705845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12391535",
@@ -2650,8 +2272,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014705845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014705865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12391534",
@@ -2664,8 +2284,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014705865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014705885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12391536",
@@ -2678,8 +2296,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014705885.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014717515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092246",
@@ -2692,8 +2308,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014717515.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014717695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092247",
@@ -2706,8 +2320,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014717695.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014717935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092244",
@@ -2720,8 +2332,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014717935.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014718155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092245",
@@ -2734,8 +2344,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014718155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014718355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092243",
@@ -2748,8 +2356,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014718355.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014718755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092241",
@@ -2762,8 +2368,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014718755.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014718955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092240",
@@ -2776,8 +2380,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014718955.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014719215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092239",
@@ -2790,8 +2392,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014719215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014719435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092238",
@@ -2804,8 +2404,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014719435.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014719655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092237",
@@ -2818,8 +2416,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014719655.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014719835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092236",
@@ -2832,8 +2428,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014719835.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014720075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092235",
@@ -2846,8 +2440,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014720075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014720295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092234",
@@ -2860,8 +2452,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014720295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014720495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092232",
@@ -2874,8 +2464,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014720495.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014720855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092230",
@@ -2888,8 +2476,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014720855.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014721075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092229",
@@ -2902,8 +2488,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014721075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014721215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092228",
@@ -2916,8 +2500,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014721215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014721415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092227",
@@ -2930,8 +2512,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014721415.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014721575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092225",
@@ -2944,8 +2524,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014721575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014721815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092224",
@@ -2958,8 +2536,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014721815.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014722015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092223",
@@ -2972,8 +2548,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014722015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014722275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092222",
@@ -2986,8 +2560,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014722275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014722535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092221",
@@ -3000,8 +2572,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014722535.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014722775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092220",
@@ -3014,8 +2584,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014722775.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092219",
@@ -3028,8 +2596,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723035.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092218",
@@ -3042,8 +2608,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092217",
@@ -3056,8 +2620,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092215",
@@ -3070,8 +2632,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092216",
@@ -3084,8 +2644,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092214",
@@ -3098,8 +2656,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092213",
@@ -3112,8 +2668,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014723195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092211",
@@ -3126,8 +2680,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014723195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014788525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16092226",
@@ -3140,8 +2692,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014788525.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014874575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15574350",
@@ -3154,8 +2704,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014874575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014880215.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16351204",
@@ -3168,8 +2716,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014880215.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014881055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16351130",
@@ -3182,8 +2728,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014881055.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_014882805.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16351083",
@@ -3196,8 +2740,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_014882805.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_015571935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16304032",
@@ -3210,8 +2752,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_015571935.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_015602685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15522027",
@@ -3224,8 +2764,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_015602685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_015732435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15778733",
@@ -3238,8 +2776,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_015732435.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_015870765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15735522",
@@ -3252,8 +2788,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_015870765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_015870965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15738014",
@@ -3266,8 +2800,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_015870965.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_015910475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08687991",
@@ -3280,8 +2812,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_015910475.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016350005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17073618",
@@ -3294,8 +2824,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016350005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016350065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17073617",
@@ -3308,8 +2836,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016350065.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016350085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17073615",
@@ -3322,8 +2848,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016350085.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016350105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17073616",
@@ -3336,8 +2860,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016350105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016864295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501054",
@@ -3350,8 +2872,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016864295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016864315.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501056",
@@ -3364,8 +2884,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016864315.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016864915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501316",
@@ -3378,8 +2896,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016864915.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016865465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00169927",
@@ -3392,8 +2908,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016865465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016919505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17898087",
@@ -3406,8 +2920,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016919505.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_016919525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17898088",
@@ -3420,8 +2932,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_016919525.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017096325.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538706",
@@ -3434,8 +2944,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017096325.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017096345.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538703",
@@ -3448,8 +2956,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017096345.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017096365.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538704",
@@ -3462,8 +2968,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017096365.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017096385.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538701",
@@ -3476,8 +2980,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017096385.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017096405.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538705",
@@ -3490,8 +2992,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017096405.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017096425.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538702",
@@ -3504,8 +3004,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017096425.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017098185.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538699",
@@ -3518,8 +3016,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017098185.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017098205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538700",
@@ -3532,8 +3028,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017098205.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017098225.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538698",
@@ -3546,8 +3040,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017098225.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017098245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538697",
@@ -3560,8 +3052,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017098245.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017098265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15538696",
@@ -3574,8 +3064,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017098265.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017639875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18396008",
@@ -3588,8 +3076,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017639875.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017723975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452234",
@@ -3602,8 +3088,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017723975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017724115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452334",
@@ -3616,8 +3100,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017724115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017724155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452342",
@@ -3630,8 +3112,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017724155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017724195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452659",
@@ -3644,8 +3124,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017724195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017724215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452698",
@@ -3658,8 +3136,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017724215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017726495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452699",
@@ -3672,8 +3148,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017726495.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017726555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452712",
@@ -3686,8 +3160,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017726555.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017726575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18452713",
@@ -3700,8 +3172,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017726575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_017742855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18451305",
@@ -3714,8 +3184,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_017742855.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_018135585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18498587",
@@ -3728,8 +3196,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_018135585.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_018454385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19073634",
@@ -3742,8 +3208,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_018454385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_018604365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18202092",
@@ -3756,8 +3220,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_018604365.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_018808925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13874777",
@@ -3770,8 +3232,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_018808925.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_018831125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13874778",
@@ -3784,8 +3244,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_018831125.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019076685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15929419",
@@ -3798,8 +3256,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019076685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019331655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15099408",
@@ -3812,8 +3268,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019331655.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019356075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20295790",
@@ -3826,8 +3280,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019356075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019356215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20326334",
@@ -3840,8 +3292,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019356215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019457715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19911946",
@@ -3854,8 +3304,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019457715.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019458485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19955388",
@@ -3868,8 +3316,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019458485.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019703265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00330122",
@@ -3882,8 +3328,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019703265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019703285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00330123",
@@ -3896,8 +3340,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019703285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_019997865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21028540",
@@ -3910,8 +3352,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_019997865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020132105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21240079",
@@ -3924,8 +3364,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020132105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020520325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22202742",
@@ -3938,8 +3376,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020520325.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020520345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22202743",
@@ -3952,8 +3388,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020520345.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020520365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22202744",
@@ -3966,8 +3400,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020520365.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020520385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22202745",
@@ -3980,8 +3412,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020520385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020520405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22202746",
@@ -3994,8 +3424,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020520405.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020906565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23041240",
@@ -4008,8 +3436,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020906565.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_020991105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23335262",
@@ -4022,8 +3448,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_020991105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021387855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19523479",
@@ -4036,8 +3460,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021387855.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021387885.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19523478",
@@ -4050,8 +3472,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021387885.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021398135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24425237",
@@ -4064,8 +3484,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021398135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021484905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23416908",
@@ -4078,8 +3496,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021484905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021559695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15097904",
@@ -4092,8 +3508,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021559695.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021609965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23416895",
@@ -4106,8 +3520,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021609965.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021725415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25185246",
@@ -4120,8 +3532,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021725415.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021729465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15182649",
@@ -4134,8 +3544,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021729465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021730415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22170067",
@@ -4148,8 +3556,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021730415.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021764725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25236223",
@@ -4162,8 +3568,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021764725.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_021899715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25263435",
@@ -4176,8 +3580,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_021899715.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022429585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26082895",
@@ -4190,8 +3592,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022429585.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131651",
@@ -4204,8 +3604,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131650",
@@ -4218,8 +3616,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131649",
@@ -4232,8 +3628,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131648",
@@ -4246,8 +3640,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459115.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131647",
@@ -4260,8 +3652,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131646",
@@ -4274,8 +3664,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131645",
@@ -4288,8 +3676,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459175.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131644",
@@ -4302,8 +3688,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131643",
@@ -4316,8 +3700,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459415.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131642",
@@ -4330,8 +3712,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459595.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459755.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131641",
@@ -4344,8 +3724,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459755.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022459875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131640",
@@ -4358,8 +3736,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022459875.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131639",
@@ -4372,8 +3748,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460155.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131638",
@@ -4386,8 +3760,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460155.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131637",
@@ -4400,8 +3772,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460435.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131636",
@@ -4414,8 +3784,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460435.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131635",
@@ -4428,8 +3796,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460745.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131634",
@@ -4442,8 +3808,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460745.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022460875.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131633",
@@ -4456,8 +3820,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022460875.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022461025.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131632",
@@ -4470,8 +3832,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022461025.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022466975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131676",
@@ -4484,8 +3844,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022466975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131675",
@@ -4498,8 +3856,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131674",
@@ -4512,8 +3868,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467255.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467375.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131673",
@@ -4526,8 +3880,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467375.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131672",
@@ -4540,8 +3892,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467435.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131671",
@@ -4554,8 +3904,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467535.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131670",
@@ -4568,8 +3916,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467655.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131669",
@@ -4582,8 +3928,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467735.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131668",
@@ -4596,8 +3940,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131667",
@@ -4610,8 +3952,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022467975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131666",
@@ -4624,8 +3964,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022467975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131665",
@@ -4638,8 +3976,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131664",
@@ -4652,8 +3988,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131663",
@@ -4666,8 +4000,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131662",
@@ -4680,8 +4012,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468355.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131661",
@@ -4694,8 +4024,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468455.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131660",
@@ -4708,8 +4036,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468565.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131659",
@@ -4722,8 +4048,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468645.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131658",
@@ -4736,8 +4060,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468755.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131657",
@@ -4750,8 +4072,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468795.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468835.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131656",
@@ -4764,8 +4084,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468835.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131655",
@@ -4778,8 +4096,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468855.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022468985.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131654",
@@ -4792,8 +4108,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022468985.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022469075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131653",
@@ -4806,8 +4120,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022469075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022548575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25131652",
@@ -4820,8 +4132,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022548575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022605145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25087978",
@@ -4834,8 +4144,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022605145.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022759565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26814682",
@@ -4848,8 +4156,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022759565.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022811905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16714580",
@@ -4862,8 +4168,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022811905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022921035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27303889",
@@ -4876,8 +4180,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022921035.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023221535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27770840",
@@ -4890,8 +4192,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023221535.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023273785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27925156",
@@ -4904,8 +4204,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023273785.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023360975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114688",
@@ -4918,8 +4216,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023360975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023360995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114687",
@@ -4932,8 +4228,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023360995.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114686",
@@ -4946,8 +4240,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114685",
@@ -4960,8 +4252,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361035.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114684",
@@ -4974,8 +4264,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114683",
@@ -4988,8 +4276,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114679",
@@ -5002,8 +4288,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114680",
@@ -5016,8 +4300,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114678",
@@ -5030,8 +4312,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114677",
@@ -5044,8 +4324,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114676",
@@ -5058,8 +4336,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361175.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114675",
@@ -5072,8 +4348,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114674",
@@ -5086,8 +4360,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114673",
@@ -5100,8 +4372,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114672",
@@ -5114,8 +4384,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361255.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114671",
@@ -5128,8 +4396,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114670",
@@ -5142,8 +4408,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361815.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114669",
@@ -5156,8 +4420,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361835.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114668",
@@ -5170,8 +4432,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361855.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114667",
@@ -5184,8 +4444,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361875.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114666",
@@ -5198,8 +4456,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361895.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114665",
@@ -5212,8 +4468,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361915.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114664",
@@ -5226,8 +4480,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361935.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114663",
@@ -5240,8 +4492,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361955.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114662",
@@ -5254,8 +4504,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023361995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114661",
@@ -5268,8 +4516,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023361995.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114660",
@@ -5282,8 +4528,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114658",
@@ -5296,8 +4540,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362035.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114657",
@@ -5310,8 +4552,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114656",
@@ -5324,8 +4564,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114655",
@@ -5338,8 +4576,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114654",
@@ -5352,8 +4588,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114652",
@@ -5366,8 +4600,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114651",
@@ -5380,8 +4612,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114649",
@@ -5394,8 +4624,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362175.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114648",
@@ -5408,8 +4636,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114647",
@@ -5422,8 +4648,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114646",
@@ -5436,8 +4660,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114645",
@@ -5450,8 +4672,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362255.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023362275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24114644",
@@ -5464,8 +4684,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023362275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023517215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19774606",
@@ -5478,8 +4696,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023517215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023517235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19774628",
@@ -5492,8 +4708,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023517235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023517695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19774653",
@@ -5506,8 +4720,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023517695.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023517735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19774588",
@@ -5520,8 +4732,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023517735.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023669645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28658286",
@@ -5534,8 +4744,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023669645.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023809625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28980502",
@@ -5548,8 +4756,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023809625.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023809705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28981486",
@@ -5562,8 +4768,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023809705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023922005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08683320",
@@ -5576,8 +4780,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023922005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023981045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13150932",
@@ -5590,8 +4792,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023981045.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024083765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27485236",
@@ -5604,8 +4804,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024083765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024134625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29176533",
@@ -5618,8 +4816,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024134625.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024134645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29176535",
@@ -5632,8 +4828,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024134645.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024134665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29176536",
@@ -5646,8 +4840,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024134665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024134685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29176534",
@@ -5660,8 +4852,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024134685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024138105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29386244",
@@ -5674,8 +4864,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024138105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024138435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356554",
@@ -5688,8 +4876,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024138435.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024139015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356540",
@@ -5702,8 +4888,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024139015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024139035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356535",
@@ -5716,8 +4900,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024139035.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024139055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356533",
@@ -5730,8 +4912,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024139055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024139075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356530",
@@ -5744,8 +4924,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024139075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024139095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356522",
@@ -5758,8 +4936,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024139095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024172225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29388303",
@@ -5772,8 +4948,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024172225.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024181765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08968574",
@@ -5786,8 +4960,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024181765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024205265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23553143",
@@ -5800,8 +4972,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024205265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024205285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23553142",
@@ -5814,8 +4984,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024205285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024271825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19356555",
@@ -5828,8 +4996,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024271825.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024426665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28871714",
@@ -5842,8 +5008,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024426665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024730805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30308647",
@@ -5856,8 +5020,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024730805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024732425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09244924",
@@ -5870,8 +5032,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024732425.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078461",
@@ -5884,8 +5044,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078453",
@@ -5898,8 +5056,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749405.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078455",
@@ -5912,8 +5068,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749425.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078463",
@@ -5926,8 +5080,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749445.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078460",
@@ -5940,8 +5092,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078458",
@@ -5954,8 +5104,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749485.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078462",
@@ -5968,8 +5116,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749505.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078459",
@@ -5982,8 +5128,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749525.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078457",
@@ -5996,8 +5140,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749545.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078452",
@@ -6010,8 +5152,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749605.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078451",
@@ -6024,8 +5164,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749625.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078450",
@@ -6038,8 +5176,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749645.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078449",
@@ -6052,8 +5188,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749665.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078448",
@@ -6066,8 +5200,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078445",
@@ -6080,8 +5212,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749745.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024749765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23078444",
@@ -6094,8 +5224,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024749765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024800505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30472217",
@@ -6108,8 +5236,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024800505.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025258705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21924070",
@@ -6122,8 +5248,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025258705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025258745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21924071",
@@ -6136,8 +5260,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025258745.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025258765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493827",
@@ -6150,8 +5272,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025258765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025258785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493859",
@@ -6164,8 +5284,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025258785.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025258805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493860",
@@ -6178,8 +5296,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025258805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025258845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21493862",
@@ -6192,8 +5308,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025258845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025264005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30068511",
@@ -6206,8 +5320,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025264005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025369955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21924069",
@@ -6220,8 +5332,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025369955.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025402915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11997569",
@@ -6234,8 +5344,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025402915.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025722955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31100588",
@@ -6248,8 +5356,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025722955.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025853895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898311",
@@ -6262,8 +5368,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025853895.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025853915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898312",
@@ -6276,8 +5380,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025853915.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025853935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898313",
@@ -6290,8 +5392,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025853935.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025853955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898314",
@@ -6304,8 +5404,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025853955.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025853975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898315",
@@ -6318,8 +5416,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025853975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025853995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898316",
@@ -6332,8 +5428,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025853995.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898321",
@@ -6346,8 +5440,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898322",
@@ -6360,8 +5452,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854035.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898323",
@@ -6374,8 +5464,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854055.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898324",
@@ -6388,8 +5476,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898325",
@@ -6402,8 +5488,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898326",
@@ -6416,8 +5500,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30898327",
@@ -6430,8 +5512,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854135.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025854315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31265944",
@@ -6444,8 +5524,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025854315.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_025916215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31277299",
@@ -6458,8 +5536,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_025916215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_026062515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31494247",
@@ -6472,8 +5548,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_026062515.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_027239755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30248452",
@@ -6486,8 +5560,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_027239755.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_027558855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10411726",
@@ -6500,8 +5572,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_027558855.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023615745.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28788566",
@@ -6514,8 +5584,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023615745.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022916135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27182098",
@@ -6528,8 +5596,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022916135.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022107375.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25755497",
@@ -6542,8 +5608,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022107375.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023615345.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28788543",
@@ -6556,8 +5620,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023615345.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024106315.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29151496",
@@ -6570,8 +5632,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024106315.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023054035.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27591179",
@@ -6584,8 +5644,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023054035.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_024922185.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30655645",
@@ -6598,8 +5656,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_024922185.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023615705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28788563",
@@ -6612,8 +5668,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023615705.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_022916555.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27182072",
@@ -6626,8 +5680,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_022916555.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_023093135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27739163",
@@ -6640,8 +5692,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_023093135.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_027943685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00258369",
@@ -6654,8 +5704,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_027943685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028201495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32770956",
@@ -6668,8 +5716,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028201495.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028370175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32805326",
@@ -6682,8 +5728,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028370175.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028583465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31681935",
@@ -6696,8 +5740,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028583465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028583505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31681936",
@@ -6710,8 +5752,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028583505.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028622695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32733979",
@@ -6724,8 +5764,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028622695.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028622715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32734006",
@@ -6738,8 +5776,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028622715.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028622775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32733960",
@@ -6752,8 +5788,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028622775.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028622915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32734002",
@@ -6766,8 +5800,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028622915.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028751705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20255403",
@@ -6780,8 +5812,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028751705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028752815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20255406",
@@ -6794,8 +5824,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028752815.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028753295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30174926",
@@ -6808,8 +5836,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028753295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029223565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30697644",
@@ -6822,8 +5848,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029223565.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029582015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31681934",
@@ -6836,8 +5860,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029582015.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029674685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33498121",
@@ -6850,8 +5872,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029674685.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30697790",
@@ -6864,8 +5884,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16560994",
@@ -6878,8 +5896,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16560993",
@@ -6892,8 +5908,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16560992",
@@ -6906,8 +5920,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19690115",
@@ -6920,8 +5932,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774315.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19690116",
@@ -6934,8 +5944,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774335.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029774355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19690117",
@@ -6948,8 +5956,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029774355.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029814975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16560991",
@@ -6962,8 +5968,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029814975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029873195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31210261",
@@ -6976,8 +5980,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029873195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029906465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34258005",
@@ -6990,8 +5992,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029906465.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029931545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34247094",
@@ -7004,8 +6004,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029931545.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029987435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31055411",
@@ -7018,8 +6016,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029987435.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010278",
@@ -7032,8 +6028,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713745.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010269",
@@ -7046,8 +6040,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713765.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010289",
@@ -7060,8 +6052,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713785.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010291",
@@ -7074,8 +6064,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010238",
@@ -7088,8 +6076,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010277",
@@ -7102,8 +6088,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010270",
@@ -7116,8 +6100,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713925.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010231",
@@ -7130,8 +6112,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713945.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029713965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010258",
@@ -7144,8 +6124,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029713965.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029714005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010219",
@@ -7158,8 +6136,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029714005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029714045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010226",
@@ -7172,8 +6148,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029714045.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029714085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010253",
@@ -7186,8 +6160,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029714085.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029714105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010284",
@@ -7200,8 +6172,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029714105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029714145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010192",
@@ -7214,8 +6184,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029714145.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029714165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010256",
@@ -7228,8 +6196,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029714165.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029748815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27010271",
@@ -7242,8 +6208,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029748815.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030027985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34376193",
@@ -7256,8 +6220,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030027985.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030028005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34376192",
@@ -7270,8 +6232,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030028005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030168245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27957725",
@@ -7284,8 +6244,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030168245.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030168265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27918892",
@@ -7298,8 +6256,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030168265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030168285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27988045",
@@ -7312,8 +6268,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030168285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030322945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27553639",
@@ -7326,8 +6280,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030322945.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030413705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36085765",
@@ -7340,8 +6292,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030413705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12287008",
@@ -7354,8 +6304,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585225.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12287006",
@@ -7368,8 +6316,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585245.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12287004",
@@ -7382,8 +6328,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12287002",
@@ -7396,8 +6340,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12286998",
@@ -7410,8 +6352,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585325.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13480523",
@@ -7424,8 +6364,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585345.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13480522",
@@ -7438,8 +6376,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585365.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13480520",
@@ -7452,8 +6388,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030585405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13480521",
@@ -7466,8 +6400,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030585405.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030704325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36514286",
@@ -7480,8 +6412,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030704325.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028634015.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33288250",
@@ -7494,8 +6424,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028634015.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_029767905.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34191879",
@@ -7508,8 +6436,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_029767905.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_030718975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25755500",
@@ -7522,8 +6448,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_030718975.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_033181005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36429575",
@@ -7536,8 +6460,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_033181005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_033181805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36429572",
@@ -7550,8 +6472,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_033181805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_033612615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38047912",
@@ -7564,8 +6484,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_033612615.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028051765.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32801357",
@@ -7578,8 +6496,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028051765.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_028051805.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32801359",
@@ -7592,8 +6508,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_028051805.3"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034063485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315730",
@@ -7606,8 +6520,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034063485.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034064985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315713",
@@ -7620,8 +6532,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034064985.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034066105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315711",
@@ -7634,8 +6544,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034066105.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034066905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315710",
@@ -7648,8 +6556,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034066905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034067285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315703",
@@ -7662,8 +6568,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034067285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034068265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315709",
@@ -7676,8 +6580,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034068265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034068865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315712",
@@ -7690,8 +6592,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034068865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034069865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315708",
@@ -7704,8 +6604,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034069865.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034070325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315702",
@@ -7718,8 +6616,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034070325.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034071365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315706",
@@ -7732,8 +6628,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034071365.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034071845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315707",
@@ -7746,8 +6640,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034071845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034072545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315705",
@@ -7760,8 +6652,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034072545.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034073245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38315704",
@@ -7774,8 +6664,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034073245.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034081005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38345631",
@@ -7788,8 +6676,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034081005.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034083075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38345664",
@@ -7802,8 +6688,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034083075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034422775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38635275",
@@ -7816,8 +6700,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034422775.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034422815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38635811",
@@ -7830,8 +6712,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034422815.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034494405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36514289",
@@ -7844,8 +6724,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034494405.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_035753605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39326139",
@@ -7858,8 +6736,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_035753605.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_035754475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39326237",
@@ -7872,8 +6748,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_035754475.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_035937495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38865782",
@@ -7886,8 +6760,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_035937495.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034424115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38610277",
@@ -7900,8 +6772,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034424115.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036287255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39326197",
@@ -7914,8 +6784,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036287255.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036287275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39326236",
@@ -7928,8 +6796,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036287275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036320505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37485474",
@@ -7942,8 +6808,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036320505.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036320525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37485473",
@@ -7956,8 +6820,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036320525.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034126645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38646042",
@@ -7970,8 +6832,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034126645.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034126905.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38646043",
@@ -7984,8 +6844,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034126905.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_034331205.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38788845",
@@ -7998,8 +6856,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_034331205.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036601155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39855183",
@@ -8012,8 +6868,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036601155.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036602705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39855236",
@@ -8026,8 +6880,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036602705.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036870965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39325909",
@@ -8040,8 +6892,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036870965.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_037215885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40374610",
@@ -8054,8 +6904,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_037215885.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_037939845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40558820",
@@ -8068,8 +6916,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_037939845.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_037008665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40254323",
@@ -8082,8 +6928,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_037008665.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_036718155.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39998251",
@@ -8096,8 +6940,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_036718155.2"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766195",
@@ -8110,8 +6952,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441165.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766194",
@@ -8124,8 +6964,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441175.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766193",
@@ -8138,8 +6976,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441185.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766192",
@@ -8152,8 +6988,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441195.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766191",
@@ -8166,8 +7000,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441205.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766190",
@@ -8180,8 +7012,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441215.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766189",
@@ -8194,8 +7024,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441225.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766188",
@@ -8208,8 +7036,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766187",
@@ -8222,8 +7048,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441245.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36766186",
@@ -8236,8 +7060,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441255.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038441325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37223190",
@@ -8250,8 +7072,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038441325.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37223189",
@@ -8264,8 +7084,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442095.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37223188",
@@ -8278,8 +7096,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442125.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971052",
@@ -8292,8 +7108,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442225.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971051",
@@ -8306,8 +7120,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442235.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971050",
@@ -8320,8 +7132,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442265.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971049",
@@ -8334,8 +7144,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442275.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971048",
@@ -8348,8 +7156,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442285.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971047",
@@ -8362,8 +7168,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442295.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971046",
@@ -8376,8 +7180,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442305.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971045",
@@ -8390,8 +7192,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442375.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971044",
@@ -8404,8 +7204,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442385.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971043",
@@ -8418,8 +7216,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442395.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971042",
@@ -8432,8 +7228,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442405.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971041",
@@ -8446,8 +7240,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442415.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971040",
@@ -8460,8 +7252,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442425.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971039",
@@ -8474,8 +7264,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442555.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971038",
@@ -8488,8 +7276,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442565.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971037",
@@ -8502,8 +7288,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442575.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971036",
@@ -8516,8 +7300,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442585.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038442635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40971035",
@@ -8530,8 +7312,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038442635.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038983805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374863",
@@ -8544,8 +7324,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038983805.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038985835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374876",
@@ -8558,8 +7336,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038985835.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038987955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374880",
@@ -8572,8 +7348,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038987955.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038990075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374885",
@@ -8586,8 +7360,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038990075.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038992355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374913",
@@ -8600,8 +7372,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038992355.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038993615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374916",
@@ -8614,8 +7384,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038993615.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038995905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374919",
@@ -8628,8 +7396,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038995905.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_038998165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36374922",
@@ -8642,8 +7408,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_038998165.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_039545565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN41107056",
@@ -8656,8 +7420,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_039545565.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_039566025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29784748",
@@ -8670,8 +7432,6 @@
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_039566025.1"
  },
  {
-  "Acinetobacter": null,
-  "date": null,
   "asm_acc": "GCA_039614705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN41102864",
@@ -8682,5 +7442,17 @@
   "scientific_name": "Acinetobacter nosocomialis",
   "strain": "Ab25",
   "fasta": "data\\groups_info\\Acinetobacter\\GCA_039614705.1"
+ },
+ {
+  "asm_acc": "GCA_039654205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40443483",
+  "collection_date": "2024-02-20",
+  "geo_loc_name": "USA",
+  "host": "HUMAN",
+  "host_disease": null,
+  "scientific_name": "Acinetobacter baumannii",
+  "strain": "2024CK-00247",
+  "fasta": "data\\groups_info\\Acinetobacter\\GCA_039654205.1"
  }
 ]

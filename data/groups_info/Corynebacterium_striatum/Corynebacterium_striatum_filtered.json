@@ -1,11 +1,9 @@
 [
  {
   "Corynebacterium_striatum": "PDG000000064.71",
-  "date": "Wed May 15 22:37:50 2024"
+  "date": "Fri May 17 17:35:27 2024"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_000833575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03177398",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_000833575.1"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_002156805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07109493",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_002156805.1"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_002803965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05374476",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_002803965.1"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_002804085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05178544",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_002804085.1"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_900478045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4030732",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_900478045.1"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_900637065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA4017705",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Corynebacterium_striatum\\GCA_900637065.1"
  },
  {
-  "Corynebacterium_striatum": null,
-  "date": null,
   "asm_acc": "GCA_030408555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13404510",

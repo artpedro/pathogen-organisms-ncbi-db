@@ -1,11 +1,9 @@
 [
  {
   "Enterobacter_cancerogenus": "PDG000000107.13",
-  "date": "Wed May 15 22:37:51 2024"
+  "date": "Fri May 17 17:35:43 2024"
  },
  {
-  "Enterobacter_cancerogenus": null,
-  "date": null,
   "asm_acc": "GCA_002850575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08107552",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Enterobacter_cancerogenus\\GCA_002850575.1"
  },
  {
-  "Enterobacter_cancerogenus": null,
-  "date": null,
   "asm_acc": "GCA_019880465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16176831",

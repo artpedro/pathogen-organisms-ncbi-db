@@ -1,11 +1,9 @@
 [
  {
   "Cronobacter": "PDG000000043.251",
-  "date": "Wed May 15 22:37:50 2024"
+  "date": "Fri May 17 17:35:29 2024"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_000982825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03371468",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_000982825.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_003516105.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07540306",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_003516105.2"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_003955925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08928172",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_003955925.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_003516125.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07540307",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_003516125.3"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_013425995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15493123",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_013425995.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_018884085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14112905",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_018884085.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_018884145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14112904",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_018884145.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_022648965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26420280",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_022648965.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_025200595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30466962",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_025200595.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_031213335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34121859",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Cronobacter\\GCA_031213335.1"
  },
  {
-  "Cronobacter": null,
-  "date": null,
   "asm_acc": "GCA_035658535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39048406",

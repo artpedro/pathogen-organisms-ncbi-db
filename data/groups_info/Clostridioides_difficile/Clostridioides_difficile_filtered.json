@@ -1,11 +1,9 @@
 [
  {
   "Clostridioides_difficile": "PDG000000045.623",
-  "date": "Wed May 15 22:37:49 2024"
+  "date": "Fri May 17 17:35:20 2024"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_000932055.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03344097",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_000932055.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_001577795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03332454",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_001577795.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002007885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06286529",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002007885.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002080065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05285388",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002080065.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002234355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07339707",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002234355.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002812585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104991",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812585.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002812605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104990",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812605.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002812625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104989",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812625.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002812645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08104988",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002812645.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002945415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08442145",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945415.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002945515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08442093",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945515.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002945665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443809",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945665.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002945755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443811",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945755.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002945855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443813",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945855.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002945945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443812",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002945945.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002946035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443877",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002946035.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002946135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443881",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002946135.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_002946195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08443921",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_002946195.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_001077535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03486969",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_001077535.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003313545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495888",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003313545.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003313565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495889",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003313565.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003313585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03495890",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003313585.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003456975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06619921",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003456975.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003457015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06619923",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003457015.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003457035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06368405",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003457035.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003481905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200625",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003481905.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003481965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188775",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003481965.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487125",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482035.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487129",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482065.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487133",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482125.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487137",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482165.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487134",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482225.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188752",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482255.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188758",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482305.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188782",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482325.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200826",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482345.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003482365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05200827",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003482365.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003490105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03487131",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003490105.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003697205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274208",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003697205.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003697225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274224",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003697225.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_003697245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10274251",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_003697245.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_008151785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10976983",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_008151785.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_008245165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12370807",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_008245165.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_009362915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12500617",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_009362915.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_009730495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056438",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_009730495.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_009867095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09039199",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_009867095.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_014236775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08744682",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_014236775.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015351935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029149",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015351935.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015351965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029170",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015351965.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015352015.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029171",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352015.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015352045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029169",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352045.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015352115.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029177",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352115.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015352155.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13029148",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015352155.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015732535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06298620",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015732535.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_015732555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09205946",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_015732555.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_016694795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17178901",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_016694795.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_016766955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16927931",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_016766955.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_017592625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18395883",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_017592625.2"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018255775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18882462",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018255775.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018603395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317496",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018603395.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018603455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317495",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018603455.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018603475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19317498",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018603475.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021927",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884605.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021921",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884665.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021916",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884705.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021915",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884725.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021914",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884745.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021912",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884765.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021910",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884825.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021909",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884845.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021908",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884865.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021907",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884885.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021906",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884905.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021905",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884925.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021903",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884945.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018884965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021904",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018884965.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018885045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11021899",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885045.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018885065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491760",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885065.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018885085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491759",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885085.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_018885105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19491761",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_018885105.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_019095765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7490727",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_019095765.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_019434215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20409632",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_019434215.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_022695655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24220739",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_022695655.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_022845595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00389847",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_022845595.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_022984115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27029209",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_022984115.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_024972115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598405",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972115.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_024972275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598404",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972275.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_024972415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598403",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972415.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_024972555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20598402",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_024972555.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_025148965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20222675",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_025148965.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_027625435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32411337",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_027625435.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_028743315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33244141",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_028743315.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_951803555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA113563167",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_951803555.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_963426535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA114332805",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_963426535.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_031359815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33402601",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_031359815.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_034273595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36815486",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_034273595.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_034274435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36815483",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_034274435.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_036630125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39127314",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_036630125.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037056195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359746",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037056195.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037056405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359745",
@@ -1404,8 +1204,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037056405.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037056955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359744",
@@ -1418,8 +1216,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037056955.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037057165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359743",
@@ -1432,8 +1228,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037057165.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037057455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359741",
@@ -1446,8 +1240,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037057455.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037914975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440859",
@@ -1460,8 +1252,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037914975.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037914985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440858",
@@ -1474,8 +1264,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037914985.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037914995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440857",
@@ -1488,8 +1276,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037914995.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037915025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440856",
@@ -1502,8 +1288,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915025.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037915205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440855",
@@ -1516,8 +1300,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915205.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037915445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440854",
@@ -1530,8 +1312,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915445.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037915725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440853",
@@ -1544,8 +1324,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037915725.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037916535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440852",
@@ -1558,8 +1336,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037916535.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037917245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440851",
@@ -1572,8 +1348,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037917245.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037917495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440849",
@@ -1586,8 +1360,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037917495.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037917855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440848",
@@ -1600,8 +1372,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037917855.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037918115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440847",
@@ -1614,8 +1384,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918115.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037918385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440846",
@@ -1628,8 +1396,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918385.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037918655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440845",
@@ -1642,8 +1408,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918655.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037918925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440844",
@@ -1656,8 +1420,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037918925.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037919185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440843",
@@ -1670,8 +1432,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037919185.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037919485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440842",
@@ -1684,8 +1444,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037919485.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037919795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440841",
@@ -1698,8 +1456,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037919795.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037920055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440840",
@@ -1712,8 +1468,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920055.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037920325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440839",
@@ -1726,8 +1480,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920325.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037920665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440838",
@@ -1740,8 +1492,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920665.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037920935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440837",
@@ -1754,8 +1504,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037920935.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037921315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440836",
@@ -1768,8 +1516,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037921315.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037921675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440835",
@@ -1782,8 +1528,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037921675.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037921775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440834",
@@ -1796,8 +1540,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037921775.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037922005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440833",
@@ -1810,8 +1552,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037922005.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037922655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440832",
@@ -1824,8 +1564,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037922655.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037923265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440831",
@@ -1838,8 +1576,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037923265.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037923795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440830",
@@ -1852,8 +1588,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037923795.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037924525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440829",
@@ -1866,8 +1600,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037924525.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037925435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440828",
@@ -1880,8 +1612,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037925435.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037926405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440827",
@@ -1894,8 +1624,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037926405.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037927465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440826",
@@ -1908,8 +1636,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037927465.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037928795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440825",
@@ -1922,8 +1648,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037928795.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037929155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440824",
@@ -1936,8 +1660,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037929155.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037929465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440823",
@@ -1950,8 +1672,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037929465.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037929775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440822",
@@ -1964,8 +1684,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037929775.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037930055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440821",
@@ -1978,8 +1696,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037930055.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037930425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440820",
@@ -1992,8 +1708,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037930425.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037931105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440819",
@@ -2006,8 +1720,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037931105.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037931695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440818",
@@ -2020,8 +1732,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037931695.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037932125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440817",
@@ -2034,8 +1744,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037932125.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037932505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440816",
@@ -2048,8 +1756,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037932505.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037932795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440815",
@@ -2062,8 +1768,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037932795.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037933165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440814",
@@ -2076,8 +1780,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037933165.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037933585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440813",
@@ -2090,8 +1792,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037933585.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037934445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440812",
@@ -2104,8 +1804,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037934445.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037935125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440810",
@@ -2118,8 +1816,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037935125.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037941005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440811",
@@ -2132,8 +1828,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941005.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037941305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440809",
@@ -2146,8 +1840,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941305.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037941545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440808",
@@ -2160,8 +1852,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941545.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037941895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440807",
@@ -2174,8 +1864,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037941895.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037942165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440806",
@@ -2188,8 +1876,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037942165.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_037943445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40440850",
@@ -2202,8 +1888,6 @@
   "fasta": "data\\groups_info\\Clostridioides_difficile\\GCA_037943445.1"
  },
  {
-  "Clostridioides_difficile": null,
-  "date": null,
   "asm_acc": "GCA_038442675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40972729",

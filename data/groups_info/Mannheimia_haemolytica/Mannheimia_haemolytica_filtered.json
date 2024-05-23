@@ -1,11 +1,9 @@
 [
  {
   "Mannheimia_haemolytica": "PDG000000101.38",
-  "date": "Wed May 15 22:37:53 2024"
+  "date": "Fri May 17 17:48:37 2024"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000349785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02048830",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000349785.2"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000349765.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02048829",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000349765.2"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000439735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02262084",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000439735.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000422145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02056285",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000422145.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000427275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02056363",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000427275.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000422095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02056364",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000422095.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000819525.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03275447",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000819525.2"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000963635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03435925",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000963635.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_000963675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03435924",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_000963675.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_002285575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537192",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_002285575.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_002285595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537191",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_002285595.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_002285615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537190",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_002285615.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_002285815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07537193",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_002285815.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007963885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717118",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007963885.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007964065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717128",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007964065.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007964225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717133",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007964225.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007964465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717151",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007964465.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007964685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717121",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007964685.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007964805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717098",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007964805.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007964925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717132",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007964925.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007965105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717083",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007965105.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007965355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717120",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007965355.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007965585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717142",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007965585.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007965745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717129",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007965745.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007965905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717125",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007965905.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007966105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717147",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007966105.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007973265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717112",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007973265.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007973365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717111",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007973365.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007973645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717092",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007973645.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007973825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717091",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007973825.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717090",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974025.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717110",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974045.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717089",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974065.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717138",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974085.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717109",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974105.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717108",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974125.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717107",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974145.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717088",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974165.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717097",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974375.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717087",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974525.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717117",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974745.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007974925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717116",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007974925.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007975085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717102",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007975085.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007975225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717137",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007975225.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007975365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717101",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007975365.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007975575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717115",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007975575.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007975765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717124",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007975765.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007976025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717145",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007976025.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007976245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717141",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007976245.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007976445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717106",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007976445.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007976625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717105",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007976625.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007976765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717114",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007976765.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007976905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717096",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007976905.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007977085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717095",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007977085.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007977225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717094",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007977225.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007977495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717093",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007977495.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007977645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717113",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007977645.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007977825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717086",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007977825.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007978045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717100",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007978045.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007978185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717104",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007978185.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007978365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717103",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007978365.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007978505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717150",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007978505.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007978725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717131",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007978725.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007978905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717134",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007978905.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007979065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717085",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007979065.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007979225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717146",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007979225.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007979365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717135",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007979365.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007979525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717099",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007979525.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007979665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717084",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007979665.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007979905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717130",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007979905.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717119",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980045.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717140",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980145.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717139",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980285.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717144",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980445.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717123",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980645.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717136",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980785.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717127",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980905.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717149",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980965.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007980985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717122",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007980985.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007981005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717148",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007981005.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007981025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717126",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007981025.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_007981045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05717143",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_007981045.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535276",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404875.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535275",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404895.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535274",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404915.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535272",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404955.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535271",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404975.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535270",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404995.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022405015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535269",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022405015.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022405035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535268",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022405035.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102264",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_023516255.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102263",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_023516275.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102261",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_023516315.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102259",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_023516355.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102258",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_023516375.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_023516395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28102257",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_023516395.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_020971705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22599413",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_020971705.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_022404935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15535273",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_022404935.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_029916885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34340262",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_029916885.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798096",
@@ -1404,8 +1204,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370055.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798094",
@@ -1418,8 +1216,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370095.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798093",
@@ -1432,8 +1228,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370115.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798092",
@@ -1446,8 +1240,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370135.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798091",
@@ -1460,8 +1252,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370155.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798090",
@@ -1474,8 +1264,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370175.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798089",
@@ -1488,8 +1276,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370195.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798088",
@@ -1502,8 +1288,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370215.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798087",
@@ -1516,8 +1300,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370235.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798086",
@@ -1530,8 +1312,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370255.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798085",
@@ -1544,8 +1324,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370275.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798084",
@@ -1558,8 +1336,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370295.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798083",
@@ -1572,8 +1348,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370315.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798082",
@@ -1586,8 +1360,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370335.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798081",
@@ -1600,8 +1372,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370355.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798080",
@@ -1614,8 +1384,6 @@
   "fasta": "data\\groups_info\\Mannheimia_haemolytica\\GCA_030370375.1"
  },
  {
-  "Mannheimia_haemolytica": null,
-  "date": null,
   "asm_acc": "GCA_030370395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35798079",

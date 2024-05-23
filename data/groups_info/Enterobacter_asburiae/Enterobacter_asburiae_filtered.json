@@ -1,11 +1,9 @@
 [
  {
-  "Enterobacter_asburiae": "PDG000000106.110",
-  "date": "Wed May 15 22:37:50 2024"
+  "Enterobacter_asburiae": "PDG000000106.111",
+  "date": "Fri May 17 17:35:38 2024"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_001022095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03733641",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_001022095.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_001521715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03742638",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_001521715.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_007035645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00166948",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_007035645.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_011396735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00197875",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_011396735.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_015168595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16515958",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_015168595.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_017347425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00282211",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_017347425.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_019973695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00268104",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_019973695.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_022570715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26527994",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_022570715.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023023045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379558",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_023023045.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023023145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379553",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_023023145.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023023265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379552",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_023023265.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_023101705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21379551",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_023101705.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_024599655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29928038",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_024599655.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_024917675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28174002",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_024917675.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_027595525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16387623",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_027595525.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_028622135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32733969",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_028622135.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_030179805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974111",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_030179805.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_030406145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35981008",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_030406145.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_031851415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298529",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_031851415.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_031851475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298526",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_031851475.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_031851495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298525",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_031851495.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_032301015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37542530",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_032301015.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_033130105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00113925",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_033130105.1"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_035556915.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39334912",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Enterobacter_asburiae\\GCA_035556915.2"
  },
  {
-  "Enterobacter_asburiae": null,
-  "date": null,
   "asm_acc": "GCA_039623865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32635504",

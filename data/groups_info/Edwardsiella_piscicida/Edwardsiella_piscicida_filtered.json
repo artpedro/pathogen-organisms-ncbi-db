@@ -1,11 +1,9 @@
 [
  {
   "Edwardsiella_piscicida": "PDG000000080.27",
-  "date": "Wed May 15 22:37:50 2024"
+  "date": "Fri May 17 17:35:32 2024"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_001729265.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05240433",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_001729265.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003112395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08938004",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003112395.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003112995.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08938382",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003112995.3"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003113095.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939785",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003113095.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003074715.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939752",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003074715.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003074735.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939456",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003074735.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003074755.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939762",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003074755.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003074775.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939553",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003074775.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_003074855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939787",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_003074855.2"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_004153325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10855903",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_004153325.1"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_010061665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13812492",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_010061665.1"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_021733105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19803007",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_021733105.1"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_021733125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19803008",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_021733125.1"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_021733145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19803006",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_021733145.1"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_030272215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31263796",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_piscicida\\GCA_030272215.1"
  },
  {
-  "Edwardsiella_piscicida": null,
-  "date": null,
   "asm_acc": "GCA_030704515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36795961",

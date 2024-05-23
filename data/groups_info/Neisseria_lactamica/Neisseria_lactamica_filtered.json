@@ -1,11 +1,9 @@
 [
  {
   "Neisseria_lactamica": "PDG000000095.17",
-  "date": "Wed May 15 22:37:53 2024"
+  "date": "Fri May 17 17:49:17 2024"
  },
  {
-  "Neisseria_lactamica": null,
-  "date": null,
   "asm_acc": "GCA_002022745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05437355",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Neisseria_lactamica\\GCA_002022745.1"
  },
  {
-  "Neisseria_lactamica": null,
-  "date": null,
   "asm_acc": "GCA_003351565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704838",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Neisseria_lactamica\\GCA_003351565.1"
  },
  {
-  "Neisseria_lactamica": null,
-  "date": null,
   "asm_acc": "GCA_901482445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3867448",

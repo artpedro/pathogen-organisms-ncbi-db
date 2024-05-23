@@ -1,7 +1,7 @@
 [
  {
-  "Acinetobacter": "PDG000000010.1260",
-  "date": "Wed May 15 22:18:52 2024"
+  "Acinetobacter": "PDG000000010.1262",
+  "date": "Fri May 17 17:32:07 2024"
  },
  {
   "asm_acc": "GCA_000186665.4",
@@ -6822,5 +6822,16 @@
   "host_disease": "PNEUMONIA",
   "scientific_name": "Acinetobacter nosocomialis",
   "strain": "Ab25"
+ },
+ {
+  "asm_acc": "GCA_039654205.1",
+  "asm_level": "Complete Genome",
+  "biosample_acc": "SAMN40443483",
+  "collection_date": "2024-02-20",
+  "geo_loc_name": "USA",
+  "host": "HOMO SAPIENS",
+  "host_disease": null,
+  "scientific_name": "Acinetobacter baumannii",
+  "strain": "2024CK-00247"
  }
 ]

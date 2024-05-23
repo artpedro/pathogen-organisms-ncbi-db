@@ -1,11 +1,9 @@
 [
  {
   "Neisseria_meningitidis": "PDG000000097.131",
-  "date": "Wed May 15 22:37:53 2024"
+  "date": "Fri May 17 17:49:26 2024"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_000626595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02709031",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000626595.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_000787195.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03203069",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000787195.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_000800235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03020302",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800235.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_000800275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03020254",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800275.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_000800315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03020600",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800315.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_000800355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03022885",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_000800355.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944749",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697105.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944748",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697125.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944750",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697165.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03944751",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697205.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883376",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697305.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883372",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697325.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883393",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697345.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883391",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697365.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883371",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697385.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883374",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697405.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883361",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697425.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883450",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697445.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883369",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697465.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883381",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697485.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883392",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697505.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883385",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697525.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883384",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697545.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883379",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697565.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883405",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697585.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883389",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697605.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883390",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697625.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883437",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697645.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883396",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697665.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883377",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697685.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883408",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697705.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883370",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697725.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883441",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697745.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883452",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697765.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883448",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697785.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883382",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697805.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883421",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697825.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883386",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697845.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883395",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697865.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883440",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697885.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883373",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697905.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883364",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697925.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883451",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697945.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883439",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697965.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001697985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883430",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001697985.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001698005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883378",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698005.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001698025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883394",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698025.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001698045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883365",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698045.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001698065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883368",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698065.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001698085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883402",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698085.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001698105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04883375",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001698105.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001750825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04023208",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001750825.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_001974965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04321475",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_001974965.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002073235.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875551",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073235.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002073275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875552",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073275.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002073555.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875548",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073555.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002073575.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875546",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073575.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002073595.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875547",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073595.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002073675.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875549",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002073675.2"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002075815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05560575",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002075815.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002556585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07615714",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002556585.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_002951575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06144986",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_002951575.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704693",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355215.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704705",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355235.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704687",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355255.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704706",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355275.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704702",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355315.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704682",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355335.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704671",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355375.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704694",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355395.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704690",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355415.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_003355435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09704670",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_003355435.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_900638555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307683",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638555.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_900638575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307687",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638575.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_900638595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307690",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638595.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_900638605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104307689",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_900638605.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137416",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330745.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137412",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330765.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137411",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330785.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137410",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330805.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137409",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330825.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137408",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330845.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137407",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330865.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137406",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330885.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137414",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330905.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_008330925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07137415",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_008330925.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_009664675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191641",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_009664675.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_009664695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191640",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_009664695.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_014302495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15813653",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_014302495.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_015679665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429014",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679665.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_015679735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429012",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679735.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_015679865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429005",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679865.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_015679905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429003",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679905.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_015679925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09429002",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_015679925.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_019048825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19789151",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_019048825.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_019356015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20308719",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_019356015.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_039555245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37851227",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555245.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_039555265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37851750",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555265.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_039555275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37851751",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Neisseria_meningitidis\\GCA_039555275.1"
  },
  {
-  "Neisseria_meningitidis": null,
-  "date": null,
   "asm_acc": "GCA_039555285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37851752",

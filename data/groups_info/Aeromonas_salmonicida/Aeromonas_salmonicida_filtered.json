@@ -1,11 +1,9 @@
 [
  {
-  "Aeromonas_salmonicida": "PDG000000077.60",
-  "date": "Wed May 15 22:37:49 2024"
+  "Aeromonas_salmonicida": "PDG000000077.61",
+  "date": "Fri May 17 17:32:12 2024"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_001643275.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04449844",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_001643275.2"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002214245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276469",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_002214245.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002214265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276873",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_002214265.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002214305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07276874",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_002214305.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002313065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05735119",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_002313065.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_002764135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07410266",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_002764135.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_008370735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11172869",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_008370735.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_009858115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13518349",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_009858115.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_009858135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13518350",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_009858135.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_014872735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14260301",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_014872735.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_019443805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14325646",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_019443805.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_019443825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14351711",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_019443825.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_027947655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781197",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_027947655.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_027947675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32781198",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_027947675.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028355815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541907",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_028355815.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028355995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541906",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_028355995.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028356175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541905",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_028356175.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028356375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541903",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_028356375.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_028358575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31541904",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_028358575.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_029541925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25210568",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_029541925.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_029854275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34178809",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Aeromonas_salmonicida\\GCA_029854275.1"
  },
  {
-  "Aeromonas_salmonicida": null,
-  "date": null,
   "asm_acc": "GCA_031233635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30009789",

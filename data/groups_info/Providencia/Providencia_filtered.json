@@ -1,11 +1,9 @@
 [
  {
-  "Providencia": "PDG000000021.727",
-  "date": "Wed May 15 22:37:54 2024"
+  "Providencia": "PDG000000021.729",
+  "date": "Fri May 17 17:49:44 2024"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_000259175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604304",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_000259175.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_000783575.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934536",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_000783575.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_000783595.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934535",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_000783595.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_000783875.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934516",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_000783875.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_000784015.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02934509",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_000784015.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_001281545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03968924",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_001281545.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_001281565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03968923",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_001281565.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_001558855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03996292",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_001558855.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_001640985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04849770",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_001640985.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_001874625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05734415",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_001874625.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_001888205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05629093",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_001888205.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002310875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05715221",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002310875.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002310895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05715220",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002310895.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002393505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312452",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002393505.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002944495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08450188",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002944495.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002945235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08463802",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002945235.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002983665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173304",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002983665.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_002984195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173343",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_002984195.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_900635965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3222067",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_900635965.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_005155965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11523820",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_005155965.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_008041895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12566310",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_008041895.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_008195605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12636071",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_008195605.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_008693805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056360",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_008693805.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_008705195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12770272",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_008705195.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_009429045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13082492",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_009429045.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_009684665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11567705",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_009684665.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_009806715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13509247",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_009806715.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010318885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00185877",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010318885.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010319105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00185878",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010319105.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010319405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00185881",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010319405.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010320145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00185879",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010320145.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010320365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00185880",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010320365.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010442675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13936255",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010442675.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_010692865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074148",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_010692865.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_011149675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12995602",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_011149675.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_011383025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14331295",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_011383025.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_011383045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14331403",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_011383045.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_012516515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14558572",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_012516515.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013255915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15002271",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013255915.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013255765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15002270",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013255765.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013256075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15002272",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013256075.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013343255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13037561",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013343255.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14909661",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357465.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14909848",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357485.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14910118",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357505.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14916645",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357525.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14930506",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357545.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14930855",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357565.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013357585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14937971",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013357585.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013358795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13254340",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013358795.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013423885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15501686",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013423885.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013694385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15576635",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013694385.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_013702025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15576908",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_013702025.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_014394705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15897916",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_014394705.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_015169015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16521237",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_015169015.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_015693865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16816155",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_015693865.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_015693965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16816126",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_015693965.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_015693985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16816180",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_015693985.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_015694005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16816163",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_015694005.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_015694025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16816162",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_015694025.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_016939715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933295",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_016939715.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_016939735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16933297",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_016939735.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_017161055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13254342",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_017161055.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_017901195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18593959",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_017901195.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_018128385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17736026",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_018128385.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_018771265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19471671",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_018771265.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_018861215.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573044",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_018861215.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_018861235.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19571474",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_018861235.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_018861255.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19573043",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_018861255.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_018972025.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16824307",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_018972025.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_019192645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19608370",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_019192645.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915401715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835637",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915401715.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915401705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835636",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915401705.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915401735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835631",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915401735.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915401765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835632",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915401765.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915401745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835630",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915401745.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915402005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835633",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915402005.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915402015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835635",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915402015.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_915403165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA9835634",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_915403165.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_020683065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14226984",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_020683065.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_022453625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26106932",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_022453625.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023093855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27177301",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023093855.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023184555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24180573",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023184555.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023205015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27737498",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023205015.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023242175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27518677",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023242175.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023242195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27518675",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023242195.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023520575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28204728",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023520575.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023547145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27484493",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023547145.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023650895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25186315",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023650895.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023702555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28745298",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023702555.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023702575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28745299",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023702575.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023702595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28745301",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023702595.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_025264285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09908145",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_025264285.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_025490355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30912358",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_025490355.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_025583505.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30724597",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_025583505.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_025916175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29990039",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_025916175.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_026167565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31634663",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_026167565.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_027286025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17039451",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_027286025.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_027286045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20674993",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_027286045.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_027286065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20960141",
@@ -1404,8 +1204,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_027286065.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_028768505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33299137",
@@ -1418,8 +1216,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_028768505.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_029201285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33575657",
@@ -1432,8 +1228,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_029201285.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_029277825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33687286",
@@ -1446,8 +1240,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_029277825.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_029277985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33687285",
@@ -1460,8 +1252,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_029277985.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_029278185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33687284",
@@ -1474,8 +1264,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_029278185.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_029962585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32951864",
@@ -1488,8 +1276,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_029962585.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_029962305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34510058",
@@ -1502,8 +1288,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_029962305.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_030062245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29990040",
@@ -1516,8 +1300,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_030062245.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_030179155.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30974106",
@@ -1530,8 +1312,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_030179155.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_030323005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27918893",
@@ -1544,8 +1324,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_030323005.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_023203255.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27992998",
@@ -1558,8 +1336,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_023203255.3"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_032761195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37729294",
@@ -1572,8 +1348,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_032761195.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935180",
@@ -1586,8 +1360,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170405.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935183",
@@ -1600,8 +1372,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170425.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935185",
@@ -1614,8 +1384,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170445.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170465.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935292",
@@ -1628,8 +1396,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170465.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935302",
@@ -1642,8 +1408,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170485.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935306",
@@ -1656,8 +1420,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170505.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935461",
@@ -1670,8 +1432,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170525.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935508",
@@ -1684,8 +1444,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170545.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935521",
@@ -1698,8 +1456,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170575.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033170595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37936112",
@@ -1712,8 +1468,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033170595.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033214275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37919047",
@@ -1726,8 +1480,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033214275.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033215415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37919048",
@@ -1740,8 +1492,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033215415.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033439945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935197",
@@ -1754,8 +1504,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033439945.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_033802725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37935422",
@@ -1768,8 +1516,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_033802725.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_963855485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA114785911",
@@ -1782,8 +1528,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_963855485.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_963855525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA114785910",
@@ -1796,8 +1540,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_963855525.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_035747985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33902913",
@@ -1810,8 +1552,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_035747985.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_034330845.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38788851",
@@ -1824,8 +1564,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_034330845.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_035919645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38736073",
@@ -1838,8 +1576,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_035919645.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_035972075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38739307",
@@ -1852,8 +1588,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_035972075.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_034330965.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38788856",
@@ -1866,8 +1600,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_034330965.2"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_036604195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39861440",
@@ -1880,8 +1612,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_036604195.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_036871035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39972476",
@@ -1894,8 +1624,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_036871035.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_037113445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40126636",
@@ -1908,8 +1636,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_037113445.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_037902785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35709919",
@@ -1922,8 +1648,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_037902785.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_037903545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35709918",
@@ -1936,8 +1660,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_037903545.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038070545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689403",
@@ -1950,8 +1672,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038070545.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038070575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689402",
@@ -1964,8 +1684,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038070575.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038070585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689398",
@@ -1978,8 +1696,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038070585.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038070595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689395",
@@ -1992,8 +1708,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038070595.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038401985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689401",
@@ -2006,8 +1720,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038401985.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038403595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689396",
@@ -2020,8 +1732,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038403595.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038442735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38368905",
@@ -2034,8 +1744,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038442735.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038449115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40981053",
@@ -2048,8 +1756,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038449115.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_038796785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40257061",
@@ -2062,8 +1768,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_038796785.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_039566975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689400",
@@ -2076,8 +1780,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_039566975.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_039566985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689399",
@@ -2090,8 +1792,6 @@
   "fasta": "data\\groups_info\\Providencia\\GCA_039566985.1"
  },
  {
-  "Providencia": null,
-  "date": null,
   "asm_acc": "GCA_039566995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37689394",

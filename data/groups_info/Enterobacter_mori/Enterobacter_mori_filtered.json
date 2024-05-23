@@ -1,11 +1,9 @@
 [
  {
   "Enterobacter_mori": "PDG000000110.24",
-  "date": "Wed May 15 22:37:51 2024"
+  "date": "Fri May 17 17:36:19 2024"
  },
  {
-  "Enterobacter_mori": null,
-  "date": null,
   "asm_acc": "GCA_018638795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18011300",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Enterobacter_mori\\GCA_018638795.1"
  },
  {
-  "Enterobacter_mori": null,
-  "date": null,
   "asm_acc": "GCA_019203945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15184663",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Enterobacter_mori\\GCA_019203945.1"
  },
  {
-  "Enterobacter_mori": null,
-  "date": null,
   "asm_acc": "GCA_030544955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33277635",

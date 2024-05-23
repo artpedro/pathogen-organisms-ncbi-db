@@ -1,11 +1,9 @@
 [
  {
   "Burkholderia_cepacia_complex": "PDG000000094.99",
-  "date": "Wed May 15 22:37:49 2024"
+  "date": "Fri May 17 17:32:31 2024"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001411495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04167160",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001411495.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001484665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03323790",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001484665.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001606115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04570263",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001606115.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001606135.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04574071",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001606135.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001718755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03449401",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001718755.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001718775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03449402",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001718775.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001718795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03449404",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001718795.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001742165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05367054",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001742165.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001999785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05001925",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001999785.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001999825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05001933",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001999825.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_001999885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05001912",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_001999885.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_002007585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05756084",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_002007585.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_002209085.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173358",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_002209085.2"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_002407525.3",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07312432",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_002407525.3"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003019945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05004748",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003019945.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003019965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05004755",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003019965.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003076415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06842015",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003076415.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003711145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08042342",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003711145.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003812365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163240",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003812365.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003812585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163241",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003812585.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003813045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163186",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003813045.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_003966315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10081159",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_003966315.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_008693485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056338",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_008693485.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_008693525.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056337",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_008693525.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_009730035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056434",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_009730035.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_009730175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056441",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_009730175.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_009730195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056437",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_009730195.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_014357995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14693155",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_014357995.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_014854795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08724754",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_014854795.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017815595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18497774",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017815595.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017815615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18497773",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017815615.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_018223765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839524",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_018223765.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_018223785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839523",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_018223785.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_018223805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839526",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_018223805.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_018228625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18839525",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_018228625.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_019915365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20982457",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_019915365.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_022213445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056436",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_022213445.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_022809715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26934490",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_022809715.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876244",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165175.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876243",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165195.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876242",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165475.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876240",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165495.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876238",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165515.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876237",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165535.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_017165555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13876236",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_017165555.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023053515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27545478",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023053515.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023373625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348567",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023373625.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023373645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348566",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023373645.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023373665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348565",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023373665.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023373685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348562",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023373685.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023373725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348560",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023373725.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348620",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374315.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348617",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374335.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374355.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348615",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374355.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348614",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374375.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348612",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374395.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348609",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374415.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348608",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374435.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348607",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374455.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348603",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374475.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348601",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374495.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348600",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374515.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348598",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374535.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348594",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374575.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374595.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348593",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374595.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348592",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374615.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348591",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374635.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348590",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374655.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348582",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374675.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348581",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374695.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348580",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374715.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348578",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374735.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348577",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374755.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348576",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374775.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348575",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374795.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348574",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374815.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348572",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374835.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348570",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374855.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348569",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374875.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_023374895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20348568",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_023374895.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_025643495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271629",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_025643495.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_025643515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271628",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_025643515.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_025643555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271626",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_025643555.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_025643575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29271625",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_025643575.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_026683835.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31539757",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_026683835.2"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_026683855.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31539755",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_026683855.2"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_029590335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33824436",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_029590335.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_029633645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24289056",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_029633645.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_029633825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24289055",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_029633825.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_029962485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18838426",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_029962485.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_030078435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33830059",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_030078435.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_030374675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31055413",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_030374675.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_030848725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36815367",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_030848725.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_033675325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08724755",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_033675325.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_036352035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38122035",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_036352035.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_036362805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39644999",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_036362805.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_038723655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31305798",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Burkholderia_cepacia_complex\\GCA_038723655.1"
  },
  {
-  "Burkholderia_cepacia_complex": null,
-  "date": null,
   "asm_acc": "GCA_038782865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN41003259",

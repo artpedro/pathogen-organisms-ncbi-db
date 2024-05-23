@@ -1,11 +1,9 @@
 [
  {
   "Edwardsiella_ictaluri": "PDG000000079.18",
-  "date": "Wed May 15 22:37:50 2024"
+  "date": "Fri May 17 17:35:30 2024"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_002076875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06637964",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_002076875.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_003054425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08906337",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_003054425.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_003058405.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930763",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_003058405.2"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_003074995.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08930813",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_003074995.2"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_025665375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN30966624",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_025665375.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611014",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297415.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611015",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297435.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611016",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297455.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611017",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297475.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611018",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297495.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030297515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611019",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030297515.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_030347235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11664858",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Edwardsiella_ictaluri\\GCA_030347235.1"
  },
  {
-  "Edwardsiella_ictaluri": null,
-  "date": null,
   "asm_acc": "GCA_036508615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00611020",

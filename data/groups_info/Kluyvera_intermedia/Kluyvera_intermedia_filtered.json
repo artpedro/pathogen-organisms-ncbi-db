@@ -1,11 +1,9 @@
 [
  {
   "Kluyvera_intermedia": "PDG000000040.87",
-  "date": "Wed May 15 22:37:53 2024"
+  "date": "Fri May 17 17:47:12 2024"
  },
  {
-  "Kluyvera_intermedia": null,
-  "date": null,
   "asm_acc": "GCA_900635475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA2612496",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Kluyvera_intermedia\\GCA_900635475.1"
  },
  {
-  "Kluyvera_intermedia": null,
-  "date": null,
   "asm_acc": "GCA_009649915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13135738",

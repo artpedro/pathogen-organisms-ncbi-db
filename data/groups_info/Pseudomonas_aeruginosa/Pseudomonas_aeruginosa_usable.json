@@ -1,7 +1,7 @@
 [
  {
-  "Pseudomonas_aeruginosa": "PDG000000036.1128",
-  "date": "Wed May 15 22:31:20 2024"
+  "Pseudomonas_aeruginosa": "PDG000000036.1130",
+  "date": "Fri May 17 17:50:31 2024"
  },
  {
   "asm_acc": "GCA_000359505.1",
@@ -6714,7 +6714,7 @@
   "strain": "ZYPA192"
  },
  {
-  "asm_acc": "GCA_030866925.1",
+  "asm_acc": "GCA_030866925.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36795972",
   "collection_date": "2022-08-02",

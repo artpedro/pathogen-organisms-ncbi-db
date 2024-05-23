@@ -1,11 +1,9 @@
 [
  {
   "Enterobacter_ludwigii": "PDG000000109.75",
-  "date": "Wed May 15 22:37:51 2024"
+  "date": "Fri May 17 17:36:18 2024"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_001750725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05787341",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_001750725.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_002025685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130962",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_002025685.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_005518115.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11415570",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_005518115.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_020783215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN22567593",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_020783215.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_028198205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32745804",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_028198205.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_029834565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34152342",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_029834565.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_030706805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32978021",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_030706805.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_031851395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298530",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_031851395.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_031851435.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298528",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_031851435.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_031851515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298523",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_031851515.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_031851585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298533",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_031851585.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_031851605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298532",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_031851605.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_033954935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35741682",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Enterobacter_ludwigii\\GCA_033954935.1"
  },
  {
-  "Enterobacter_ludwigii": null,
-  "date": null,
   "asm_acc": "GCA_036542125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39604747",

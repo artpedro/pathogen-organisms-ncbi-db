@@ -1,11 +1,9 @@
 [
  {
-  "Bacillus_cereus_group": "PDG000000088.334",
-  "date": "Wed May 15 22:37:49 2024"
+  "Bacillus_cereus_group": "PDG000000088.335",
+  "date": "Fri May 17 17:32:28 2024"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000021205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604059",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000021205.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000258885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02603474",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000258885.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000295695.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02469407",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000295695.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000534935.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00002586",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000534935.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000833065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03201418",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000833065.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000833085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03223175",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000833085.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_000875715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02999504",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_000875715.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001017635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03457230",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001017635.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001455345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04278951",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001455345.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001543225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04442145",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001543225.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001640965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04628222",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001640965.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001685565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890259",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001685565.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001936375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06186720",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001936375.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001990245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06270326",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001990245.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_002073415.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04875572",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_002073415.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_001721165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04513593",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_001721165.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_002208785.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06173354",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_002208785.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_002277915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07498358",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_002277915.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_003013315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08455831",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_003013315.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_003445395.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04288432",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_003445395.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_003546665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07981265",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_003546665.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_003568565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07515795",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_003568565.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_004006495.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09652006",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_004006495.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_006088855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09041402",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_006088855.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_006349715.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11959879",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_006349715.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_006349735.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11960211",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_006349735.2"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_008807735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10058771",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_008807735.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_009739925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10819077",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_009739925.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_009739945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10819129",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_009739945.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_009739965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10819049",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_009739965.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_009739985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10743320",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_009739985.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_009740005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10739311",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_009740005.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_013112375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14832921",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_013112375.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_013394245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN12769617",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_013394245.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_016774555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17369856",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_016774555.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_016917795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17864500",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_016917795.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_018141025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13705136",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_018141025.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_018141085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14440804",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_018141085.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_021595545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17818117",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_021595545.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022014755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25416578",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022014755.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022014795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN25419190",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022014795.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022170805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN20890002",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022170805.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164746",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220505.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164732",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220545.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13640833",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220685.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164741",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220925.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164734",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220945.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164740",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220965.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022220985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164747",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022220985.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13164726",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221045.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02469407",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221085.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241473",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221105.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241472",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221125.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241471",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221145.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241470",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221165.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241469",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221185.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241468",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221205.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241467",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221225.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241466",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221245.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221265.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241465",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221265.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241464",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221285.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241463",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221305.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241462",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221325.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022221345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18241461",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022221345.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022699365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26688063",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022699365.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022700995.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16562415",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022700995.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022810705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04513597",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022810705.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_022810725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03890260",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_022810725.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_024134505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29358476",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_024134505.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_025677725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31013773",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_025677725.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_027626015.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32338359",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_027626015.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029024805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33336515",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029024805.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029027925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28980187",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029027925.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029282725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33463191",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029282725.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029590375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33826275",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029590375.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029636405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32614585",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029636405.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029636605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32614595",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029636605.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_029636705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32614574",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_029636705.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_030166675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35323095",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_030166675.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_030166975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34374906",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_030166975.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_030406205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35772075",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_030406205.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_030440255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11959608",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_030440255.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_030718705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36848257",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_030718705.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_031169915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105265",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_031169915.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_031170655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105266",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_031170655.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_031171585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37105267",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_031171585.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_031216075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24582794",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_031216075.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_032145515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36942558",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_032145515.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_033452345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38028109",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Bacillus_cereus_group\\GCA_033452345.1"
  },
  {
-  "Bacillus_cereus_group": null,
-  "date": null,
   "asm_acc": "GCA_038561975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40464742",

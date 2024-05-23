@@ -1,11 +1,9 @@
 [
  {
   "Aeromonas": "PDG000000068.153",
-  "date": "Wed May 15 22:37:49 2024"
+  "date": "Fri May 17 17:32:09 2024"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_000963645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03421355",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_000963645.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001455365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04266592",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_001455365.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001518775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04404355",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_001518775.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001683535.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05188441",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_001683535.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_001687125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03294822",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_001687125.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_003491225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05590109",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_003491225.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_003491245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05589911",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_003491245.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_009791455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13567714",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_009791455.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_011602425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14351661",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_011602425.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_016592295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00261012",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_016592295.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_017310195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13353934",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_017310195.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_017310215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13545457",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_017310215.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_017310235.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN15184665",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_017310235.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168048",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_020405365.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168046",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_020405385.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168051",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_020405305.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_020405345.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21168049",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_020405345.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022557195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26244239",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022557195.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022631175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26377314",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022631175.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022631195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26377313",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022631195.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022700815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13041436",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022700815.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022700835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13041437",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022700835.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022700855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13104751",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022700855.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022703095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13030278",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022703095.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_022982835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27350375",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_022982835.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_023823085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN21893820",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_023823085.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_023920205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN24968113",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_023920205.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_028621795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33179879",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_028621795.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_028994095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33408175",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_028994095.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029025785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33453547",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029025785.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029320915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33550237",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029320915.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901113",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029773045.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901112",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029773005.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901111",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029773105.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773285.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901109",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029773285.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029773305.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33901110",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029773305.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_029962325.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34441011",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_029962325.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_033096545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00613431",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_033096545.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_034143565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37176155",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_034143565.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_035319865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38937125",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_035319865.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_035658375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39246591",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_035658375.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_036347635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN39596696",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_036347635.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_037076385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00580203",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_037076385.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_037076415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00580205",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_037076415.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_037101205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMD00580201",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Aeromonas\\GCA_037101205.1"
  },
  {
-  "Aeromonas": null,
-  "date": null,
   "asm_acc": "GCA_037765365.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40424197",

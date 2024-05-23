@@ -1,11 +1,9 @@
 [
  {
   "Pseudomonas_putida": "PDG000000075.135",
-  "date": "Wed May 15 22:37:54 2024"
+  "date": "Fri May 17 17:50:33 2024"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_000325725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02604102",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_000325725.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_001636055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03765648",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_001636055.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_001886975.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05715224",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_001886975.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_002025705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06130965",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_002025705.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_003228315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09229081",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_003228315.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_900636645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA3711446",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_900636645.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_005080685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11380143",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_005080685.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_009883635.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08376583",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_009883635.2"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_013305625.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13107355",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_013305625.2"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_016406145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17103323",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_016406145.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_024125675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29335958",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_024125675.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_025905425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31266696",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_025905425.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_025905485.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31269035",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_025905485.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_026898135.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32091923",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_026898135.2"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_027595085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28016848",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_027595085.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_029590515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33792085",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_029590515.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_030717425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN36811527",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_030717425.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_031844645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37319580",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Pseudomonas_putida\\GCA_031844645.1"
  },
  {
-  "Pseudomonas_putida": null,
-  "date": null,
   "asm_acc": "GCA_039634515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38150179",

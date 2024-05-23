@@ -1,11 +1,9 @@
 [
  {
   "Listeria_innocua": "PDG000000091.108",
-  "date": "Wed May 15 22:37:53 2024"
+  "date": "Fri May 17 17:48:35 2024"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_017363615.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10869157",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Listeria_innocua\\GCA_017363615.2"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_004636665.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761682",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Listeria_innocua\\GCA_004636665.2"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_004636605.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03761736",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Listeria_innocua\\GCA_004636605.2"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_024721545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941775",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Listeria_innocua\\GCA_024721545.1"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_024721565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13941777",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Listeria_innocua\\GCA_024721565.1"
  },
  {
-  "Listeria_innocua": null,
-  "date": null,
   "asm_acc": "GCA_037055925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359751",

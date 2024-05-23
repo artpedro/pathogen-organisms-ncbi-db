@@ -1,11 +1,9 @@
 [
  {
-  "Enterobacter_bugandensis": "PDG000000111.57",
-  "date": "Wed May 15 22:37:50 2024"
+  "Enterobacter_bugandensis": "PDG000000111.58",
+  "date": "Fri May 17 17:35:41 2024"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_900324475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104711314",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_900324475.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_004804375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349924",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_004804375.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_004804395.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11349925",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_004804395.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_023374275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27966081",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_023374275.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_031216605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31713467",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_031216605.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_031218175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31713468",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_031218175.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_031851455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN37298527",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Enterobacter_bugandensis\\GCA_031851455.1"
  },
  {
-  "Enterobacter_bugandensis": null,
-  "date": null,
   "asm_acc": "GCA_037008945.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN40254320",

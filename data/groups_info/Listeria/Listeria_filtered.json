@@ -1,11 +1,9 @@
 [
  {
-  "Listeria": "PDG000000001.3693",
-  "date": "Wed May 15 22:37:53 2024"
+  "Listeria": "PDG000000001.3697",
+  "date": "Fri May 17 17:48:33 2024"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000195395.6",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN01816124",
@@ -18,8 +16,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000195395.6"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000438645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02203124",
@@ -32,8 +28,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000438645.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000438705.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02203125",
@@ -46,8 +40,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000438705.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000746625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03003922",
@@ -60,8 +52,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000746625.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000800335.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03177401",
@@ -74,8 +64,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000800335.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000950775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03372633",
@@ -88,8 +76,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000950775.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001027065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713647",
@@ -102,8 +88,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001027065.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001027085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02712416",
@@ -116,8 +100,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001027085.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001027125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713648",
@@ -130,8 +112,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001027125.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001027165.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713668",
@@ -144,8 +124,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001027165.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001027205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713644",
@@ -158,8 +136,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001027205.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001027245.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713641",
@@ -172,8 +148,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001027245.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001188025.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03255438",
@@ -186,8 +160,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001188025.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001188045.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN03255437",
@@ -200,8 +172,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001188045.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001188655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02997429",
@@ -214,8 +184,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001188655.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001454845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04286628",
@@ -228,8 +196,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001454845.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001454865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04286629",
@@ -242,8 +208,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001454865.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001454905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04286631",
@@ -256,8 +220,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001454905.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001483405.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04348333",
@@ -270,8 +232,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001483405.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001483425.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04348332",
@@ -284,8 +244,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001483425.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001483445.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04348334",
@@ -298,8 +256,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001483445.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001513695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04387840",
@@ -312,8 +268,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001513695.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001551855.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04452088",
@@ -326,8 +280,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001551855.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001596775.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04452089",
@@ -340,8 +292,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001596775.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000513635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05771121",
@@ -354,8 +304,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000513635.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000513675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05771119",
@@ -368,8 +316,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000513675.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_000513695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05771118",
@@ -382,8 +328,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_000513695.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001889645.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05291441",
@@ -396,8 +340,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001889645.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_001952795.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04277002",
@@ -410,8 +352,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_001952795.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002043045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN04884549",
@@ -424,8 +364,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002043045.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002101275.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN06681248",
@@ -438,8 +376,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002101275.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002103235.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN05452976",
@@ -452,8 +388,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002103235.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002105655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02769705",
@@ -466,8 +400,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002105655.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002116675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02730097",
@@ -480,8 +412,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002116675.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02944848",
@@ -494,8 +424,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213505.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124746",
@@ -508,8 +436,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213545.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124747",
@@ -522,8 +448,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213565.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213585.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124748",
@@ -536,8 +460,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213585.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213605.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124749",
@@ -550,8 +472,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213605.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213625.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124750",
@@ -564,8 +484,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213625.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124751",
@@ -578,8 +496,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213645.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124752",
@@ -592,8 +508,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213665.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124743",
@@ -606,8 +520,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213685.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213705.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124744",
@@ -620,8 +532,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213705.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124745",
@@ -634,8 +544,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213725.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124753",
@@ -648,8 +556,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213745.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124754",
@@ -662,8 +568,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213765.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124755",
@@ -676,8 +580,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213785.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124735",
@@ -690,8 +592,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213805.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213825.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124736",
@@ -704,8 +604,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213825.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124737",
@@ -718,8 +616,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213845.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213865.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124738",
@@ -732,8 +628,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213865.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124739",
@@ -746,8 +640,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213885.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213925.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124740",
@@ -760,8 +652,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213925.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124741",
@@ -774,8 +664,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213945.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213965.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124742",
@@ -788,8 +676,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213965.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002213985.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713777",
@@ -802,8 +688,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002213985.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002214005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN02713778",
@@ -816,8 +700,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002214005.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002214065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124730",
@@ -830,8 +712,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002214065.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002214085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124731",
@@ -844,8 +724,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002214085.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002214105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124732",
@@ -858,8 +736,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002214105.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002214125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124733",
@@ -872,8 +748,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002214125.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_002214145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07124734",
@@ -886,8 +760,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_002214145.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_900187225.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA44515918",
@@ -900,8 +772,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_900187225.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003144075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09197734",
@@ -914,8 +784,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003144075.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003390475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN09760372",
@@ -928,8 +796,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003390475.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003409075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08177723",
@@ -942,8 +808,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003409075.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003433415.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN07612368",
@@ -956,8 +820,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003433415.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003722375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10391004",
@@ -970,8 +832,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003722375.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003812545.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163248",
@@ -984,8 +844,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003812545.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_003812565.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10163247",
@@ -998,8 +856,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_003812565.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_900637775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA26404168",
@@ -1012,8 +868,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_900637775.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_900637785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA26403418",
@@ -1026,8 +880,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_900637785.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_004101665.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10745353",
@@ -1040,8 +892,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_004101665.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_004768685.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11311853",
@@ -1054,8 +904,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_004768685.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_004771175.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939835",
@@ -1068,8 +916,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_004771175.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_004771195.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN08939842",
@@ -1082,8 +928,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_004771195.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_006364035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10346771",
@@ -1096,8 +940,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_006364035.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_006364655.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN11056493",
@@ -1110,8 +952,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_006364655.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_008807875.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148454",
@@ -1124,8 +964,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_008807875.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_008807895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148451",
@@ -1138,8 +976,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_008807895.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_008807915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148434",
@@ -1152,8 +988,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_008807915.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_008807935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148433",
@@ -1166,8 +1000,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_008807935.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_008807955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN10148429",
@@ -1180,8 +1012,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_008807955.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_009664735.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191637",
@@ -1194,8 +1024,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_009664735.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_009664755.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191636",
@@ -1208,8 +1036,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_009664755.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_009664775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13191635",
@@ -1222,8 +1048,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_009664775.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_009730615.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13341854",
@@ -1236,8 +1060,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_009730615.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_009730635.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13341946",
@@ -1250,8 +1072,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_009730635.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_010442835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13973245",
@@ -1264,8 +1084,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_010442835.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_010443035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13973456",
@@ -1278,8 +1096,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_010443035.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014304675.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074482",
@@ -1292,8 +1108,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014304675.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014304695.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074483",
@@ -1306,8 +1120,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014304695.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014304775.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN14074485",
@@ -1320,8 +1132,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014304775.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014843315.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16231353",
@@ -1334,8 +1144,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014843315.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014983505.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104485140",
@@ -1348,8 +1156,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014983505.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014983645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA5041142",
@@ -1362,8 +1168,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014983645.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014983945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104485072",
@@ -1376,8 +1180,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014983945.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_014987905.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7376280",
@@ -1390,8 +1192,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_014987905.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_015583955.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA6798783",
@@ -1404,8 +1204,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_015583955.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_015689035.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16822871",
@@ -1418,8 +1216,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_015689035.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_016757715.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320318",
@@ -1432,8 +1228,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_016757715.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_016767835.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17036357",
@@ -1446,8 +1240,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_016767835.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_016775725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320315",
@@ -1460,8 +1252,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_016775725.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_016775745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320316",
@@ -1474,8 +1264,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_016775745.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_016775765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN17320319",
@@ -1488,8 +1276,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_016775765.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_016802645.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN13397725",
@@ -1502,8 +1288,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_016802645.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_905219375.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7887386",
@@ -1516,8 +1300,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_905219375.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_905219385.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA7887387",
@@ -1530,8 +1312,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_905219385.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018310555.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18537091",
@@ -1544,8 +1324,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018310555.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018735785.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19267647",
@@ -1558,8 +1336,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018735785.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018735945.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19292164",
@@ -1572,8 +1348,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018735945.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018736025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19267648",
@@ -1586,8 +1360,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018736025.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018966765.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19267651",
@@ -1600,8 +1372,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018966765.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018966805.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19669079",
@@ -1614,8 +1384,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018966805.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_018968745.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN19696832",
@@ -1628,8 +1396,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_018968745.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_019332005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18537090",
@@ -1642,8 +1408,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_019332005.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_021378215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN16205177",
@@ -1656,8 +1420,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_021378215.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_021391475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23386453",
@@ -1670,8 +1432,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_021391475.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_022682045.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26535716",
@@ -1684,8 +1444,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_022682045.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_023515845.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN23176672",
@@ -1698,8 +1456,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_023515845.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_024399455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN29673611",
@@ -1712,8 +1468,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_024399455.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_026975895.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027905",
@@ -1726,8 +1480,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_026975895.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_026976075.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027906",
@@ -1740,8 +1492,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_026976075.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_026976255.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027907",
@@ -1754,8 +1504,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_026976255.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_026976295.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN32027908",
@@ -1768,8 +1516,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_026976295.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_027503885.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888656",
@@ -1782,8 +1528,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_027503885.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_027504005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888655",
@@ -1796,8 +1540,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_027504005.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_027504065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888654",
@@ -1810,8 +1552,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_027504065.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_027504085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888653",
@@ -1824,8 +1564,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_027504085.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_027504105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31888652",
@@ -1838,8 +1576,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_027504105.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_028673515.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA104485064",
@@ -1852,8 +1588,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_028673515.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_028673815.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112128949",
@@ -1866,8 +1600,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_028673815.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_028673915.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112128947",
@@ -1880,8 +1612,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_028673915.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_028674005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMEA112128948",
@@ -1894,8 +1624,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_028674005.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_028674095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31954760",
@@ -1908,8 +1636,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_028674095.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_028743575.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN33246663",
@@ -1922,8 +1648,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_028743575.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_029872215.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26020314",
@@ -1936,8 +1660,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_029872215.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_029872245.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26020315",
@@ -1950,8 +1672,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_029872245.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_029872295.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN26020313",
@@ -1964,8 +1684,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_029872295.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_029891435.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28536927",
@@ -1978,8 +1696,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_029891435.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_029891535.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN28536926",
@@ -1992,8 +1708,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_029891535.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_029891565.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN31656547",
@@ -2006,8 +1720,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_029891565.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168025.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620983",
@@ -2020,8 +1732,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168025.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168065.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620981",
@@ -2034,8 +1744,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168065.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168085.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620980",
@@ -2048,8 +1756,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168085.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168105.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620979",
@@ -2062,8 +1768,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168105.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620978",
@@ -2076,8 +1780,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168125.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168145.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620977",
@@ -2090,8 +1792,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168145.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168185.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620975",
@@ -2104,8 +1804,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168185.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030168205.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN27620974",
@@ -2118,8 +1816,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030168205.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_030252595.2",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN35619110",
@@ -2132,8 +1828,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_030252595.2"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_034119725.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN38410759",
@@ -2146,8 +1840,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_034119725.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_037055935.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359750",
@@ -2160,8 +1852,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_037055935.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_037056005.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359749",
@@ -2174,8 +1864,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_037056005.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_037056125.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359747",
@@ -2188,8 +1876,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_037056125.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_037062095.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359756",
@@ -2202,8 +1888,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_037062095.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_037063215.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359754",
@@ -2216,8 +1900,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_037063215.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_037064455.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN34359752",
@@ -2230,8 +1912,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_037064455.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_038653055.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18524556",
@@ -2244,8 +1924,6 @@
   "fasta": "data\\groups_info\\Listeria\\GCA_038653055.1"
  },
  {
-  "Listeria": null,
-  "date": null,
   "asm_acc": "GCA_038655475.1",
   "asm_level": "Complete Genome",
   "biosample_acc": "SAMN18524557",
